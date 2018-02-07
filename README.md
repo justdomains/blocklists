@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2018-02-07 01:51:00
+**Last Updated:** 2018-02-07 02:54:09
 
 - [Details](#details)
 - [Usage](#usage)
@@ -10,6 +10,7 @@
   - [EasyPrivacy](#easyprivacy-domains-only) (Domains-only)
   - [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) (Domains-only)
   - [NoCoin Filter List](#nocoin-filter-list-domains-only) (Domains-only)
+- [License](#license)
 - [Reporting Conversion Issues](#reporting-conversion-issues)
 
 &nbsp;
@@ -38,12 +39,12 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 # The Lists:
 
-| Converted List | Domains | Raw Domain List Link | Last Updated |
-:- | - | - | - |
-| [EasyList](#easylist-domains-only) | 10524 | [easylist-justdomains.txt](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt) | 07 Feb 2018 00:24 UTC |
-| [EasyPrivacy](#easyprivacy-domains-only) | 5447 | [easyprivacy-justdomains.txt](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt) | 07 Feb 2018 01:47 UTC |
-| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | 17319 | [adguarddns-justdomains.txt](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt) | 2018-02-06 10:00:43 |
-| [NoCoin Filter List](#nocoin-filter-list-domains-only) | 124 | [nocoin-justdomains.txt](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt) | 04 Feb 2018 |
+| Converted List | Domains | Domain List Link | Last Updated | License |
+:- | - | :-: | - | - |
+| [EasyList](#easylist-domains-only) | 10525 | [Download](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt) | 07 Feb 2018 01:47 UTC | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) |
+| [EasyPrivacy](#easyprivacy-domains-only) | 5447 | [Download](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt) | 07 Feb 2018 01:47 UTC | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) |
+| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | 17319 | [Download](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt) | 2018-02-06 10:00:43 | [GPL3](https://github.com/AdguardTeam/AdguardDNS/blob/master/LICENSE) |
+| [NoCoin Filter List](#nocoin-filter-list-domains-only) | 124 | [Download](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt) | 04 Feb 2018 | [MIT](https://mit-license.org/) |
 
 &nbsp;
 
@@ -55,19 +56,19 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 **Source:** [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 201802070024
-- Last Modified: 07 Feb 2018 00:24 UTC
+- Version: 201802070147
+- Last Modified: 07 Feb 2018 01:47 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 65802
+Total Lines Processed: 65803
 Comment Lines: 379
 Empty Lines: 0
 Non-Domain-only Rules Excluded: 53357
 Domain-only Rules Excluded (unsupported options): 1274
 Domain-only Rules Excluded (exception conflict): 268
-Domain-only Rules Output: 10524
+Domain-only Rules Output: 10525
 ```
 
 &nbsp;
@@ -147,12 +148,17 @@ Hosts Output: 124
 
 &nbsp;
 
+# License:
+Each converted / modified list file is licensed under the same license as the original list.
+For more details, see the [LICENSE](LICENSE) file.
+
+&nbsp;
+
 # Reporting Conversion Issues:
 If you find an issue in the output of the conversion process (i.e. comparing to the original upstream list), please report it over on: https://github.com/justdomains/ci/issues
 
 **NOTE: We do not manage the upstream lists themselves, and will not be able to add any new blocks to the lists.**
 
-##### Disclaimer:
 <sup>These files are provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, arising from, out of or in connection with the files or the use of the files.</sup>
 
 <sub>Any and all trademarks are the property of their respective owners.</sub>
