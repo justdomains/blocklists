@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2018-02-07 01:02:19
+**Last Updated:** 2018-02-07 01:15:57
 
 - [Details](#details)
 - [Usage](#usage)
@@ -13,14 +13,17 @@
   - [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) (Domains-only)
   - [NoCoin Filter List](#nocoin-filter-list-domains-only) (Domains-only)
 
+&nbsp;
+
 # Details:
 These are "DOMAIN-ONLY" **converted** versions of various popular original filter / blocking lists.
 They have been modified from their original versions by scripts at: https://github.com/justdomains/ci
 
 The scripts output **only** the full-domain-blocking entries from the original lists, while attempting to filter any domains that conflict with an exception rule on the original list.
 
-## Note:
 **Because these are automated, converted _subsets_ of the original lists, please do not report omissions from these converted files to the list originator.**
+
+&nbsp;
 
 # Usage:
 These converted files can be used with various DNS and domain-blocking tools:
@@ -32,16 +35,21 @@ These converted files can be used with various DNS and domain-blocking tools:
 ## Using with other tools:
 The converted lists are provided in a "Raw Domain List" format that contains only domains, one per line. Many other tools / scripts can ingest this format to add them to your blocklist.
 
+&nbsp;
+
 # Reporting Conversion Issues:
 If you find an issue in the output of the conversion process (i.e. comparing to the original upstream list), please report it over on: https://github.com/justdomains/ci/issues
 
-> ### **PLEASE NOTE:**
-> **We do not manage the upstream lists themselves, and will not be able to add any new blocks to the lists.**
+> **NOTE: We do not manage the upstream lists themselves, and will not be able to add any new blocks to the lists.**
 
-### Disclaimer:
-<sub>These files are provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, arising from, out of or in connection with the files or the use of the files.</sub>
+> #### Disclaimer:
+> <sub>These files are provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, arising from, out of or in connection with the files or the use of the files.</sub>
+
+&nbsp;
 
 # The Lists:
+
+&nbsp;
 
 ## EasyList (Domains-only)
 | Format | Raw Download Link |
@@ -66,6 +74,8 @@ Domain-only Rules Excluded (exception conflict): 268
 Domain-only Rules Output: 10524
 ```
 
+&nbsp;
+
 ## EasyPrivacy (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
@@ -88,6 +98,8 @@ Domain-only Rules Excluded (unsupported options): 125
 Domain-only Rules Excluded (exception conflict): 149
 Domain-only Rules Output: 5447
 ```
+
+&nbsp;
 
 ## AdGuard Simplified Domain Names Filter (Domains-only)
 | Format | Raw Download Link |
@@ -112,6 +124,8 @@ Domain-only Rules Excluded (exception conflict): 9
 Domain-only Rules Output: 17319
 ```
 
+&nbsp;
+
 ## NoCoin Filter List (Domains-only)
 | Format | Raw Download Link |
 | --- | --- |
@@ -134,5 +148,7 @@ Invalid Hosts (Ignored): 0
 Duplicate Hosts (Ignored): 0
 Hosts Output: 124
 ```
+
+&nbsp;
 
 <sub>Any and all trademarks are the property of their respective owners.</sub>
