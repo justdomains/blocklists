@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2018-02-07 03:22:26
+**Last Updated:** 2018-02-07 03:33:53
 
 - [Details](#details)
 - [Usage](#usage)
