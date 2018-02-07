@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2018-02-07 03:10:25
+**Last Updated:** 2018-02-07 03:22:26
 
 - [Details](#details)
 - [Usage](#usage)
@@ -39,12 +39,12 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 # The Lists:
 
-| Converted List | Domains | Domain List | Last Updated | License |
-:- | - | :-: | - | - |
-| [EasyList](#easylist-domains-only) | 10525 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt) | 07 Feb 2018 01:47 UTC | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) |
-| [EasyPrivacy](#easyprivacy-domains-only) | 5447 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt) | 07 Feb 2018 01:47 UTC | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) |
-| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | 17319 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt) | 2018-02-06 10:00:43 | [GPL3](https://github.com/AdguardTeam/AdguardDNS/blob/master/LICENSE) |
-| [NoCoin Filter List](#nocoin-filter-list-domains-only) | 124 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt) | 04 Feb 2018 | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) |
+| Converted List | License | Domains | Domain List | Last Updated |
+:- | - | - | :-: | - |
+| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 10525 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt) | 07 Feb 2018 01:47 UTC |
+| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 5447 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt) | 07 Feb 2018 01:47 UTC |
+| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardDNS/blob/master/LICENSE) | 17319 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns-justdomains.txt) | 2018-02-06 10:00:43 |
+| [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 124 | [**Download**](https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt) | 04 Feb 2018 |
 
 &nbsp;
 
@@ -151,7 +151,7 @@ Hosts Output: 124
 # License:
 Each converted / modified list file is licensed under the same license as the original list.
 
-For more details, see the [LICENSE](LICENSE) file.
+For more details, see the [LICENSES](LICENSES) file.
 
 &nbsp;
 
