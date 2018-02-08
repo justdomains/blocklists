@@ -2201,6 +2201,7 @@ deepc.cc
 devphp.org.ua
 dle-news.pw
 dovinate.top
+easyhash.io
 etnhashpool.tk
 evengparme.com
 fastcast.nz
@@ -2270,6 +2271,7 @@ monerominer.rocks
 moneroocean.stream
 morningdigit.com
 mutuza.win
+nablabee.com
 nahnoji.cz
 nathetsof.com
 nfwebminer.com
