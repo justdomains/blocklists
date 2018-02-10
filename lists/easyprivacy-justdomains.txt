@@ -4660,7 +4660,6 @@ diamond.transfermarkt.de
 diet.rodale.com
 dmtracking2.alibaba.com
 dw.cnet.com
-e.reddit.com
 ec2-prod-tracker.babelgum.com
 edw.edmunds.com
 emarketing.rmauctions.com
@@ -4674,6 +4673,7 @@ event-reporting-dot-webylytics.appspot.com
 eventlog.jackpot.de
 eventlogger.soundcloud.com
 events.privy.com
+events.reddit.com
 events.redditmedia.com
 events.turbosquid.com
 eventtracker.elitedaily.com
