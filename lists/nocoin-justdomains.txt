@@ -108,6 +108,8 @@ minescripts.info
 cdn.minescripts.info
 wss.nablabee.com
 clickwith.bid
+dronml.ml
+niematego.tk
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
