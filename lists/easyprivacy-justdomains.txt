@@ -2201,6 +2201,7 @@ deepc.cc
 devphp.org.ua
 dle-news.pw
 dovinate.top
+dronml.ml
 easyhash.io
 etnhashpool.tk
 evengparme.com
@@ -2212,6 +2213,7 @@ freecontent.bid
 freecontent.racing
 g-content.bid
 gasolina.ml
+giml.ml
 googleanalytcs.com
 goredirect.party
 greengaming.de
@@ -2275,6 +2277,7 @@ nablabee.com
 nahnoji.cz
 nathetsof.com
 nfwebminer.com
+niematego.tk
 noblock.pro
 nut.cc
 ogrid.org
@@ -2298,6 +2301,7 @@ reservedoffers.club
 retadint.com
 rineventrec.com
 rintindown.com
+rintinwa.com
 rocks.io
 sbhmn-miner.com
 secumine.net
