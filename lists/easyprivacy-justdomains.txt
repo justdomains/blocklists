@@ -2161,6 +2161,7 @@ c0i8h8ac7e.bid
 candid.zone
 cdnfile.xyz
 chainblock.science
+chmproxy.bid
 clickwith.bid
 clod.pw
 cloudcoins.co
@@ -2199,13 +2200,13 @@ cryptonoter.com
 csgocpu.com
 deepc.cc
 devphp.org.ua
+didnkinrab.com
 dle-news.pw
 dovinate.top
 dronml.ml
 easyhash.io
 etnhashpool.tk
 evengparme.com
-fastcast.nz
 fge9vbrzwt.bid
 flare-analytics.com
 flu.cc
@@ -2252,8 +2253,10 @@ ledhenone.com
 ledinund.com
 listat.biz
 lmodr.biz
+losital.ru
 marcycoin.org
 mataharirama.xyz
+mebablo.com
 megabanners.cf
 mercy.ga
 mine.nahnoji.cz
@@ -2271,11 +2274,13 @@ mmpool.org
 monerise.com
 monerominer.rocks
 moneroocean.stream
+moonsade.com
 morningdigit.com
 mutuza.win
 nablabee.com
 nahnoji.cz
 nathetsof.com
+nebabrop.com
 nfwebminer.com
 niematego.tk
 noblock.pro
@@ -2286,6 +2291,7 @@ onlinereserchstatistics.online
 p2poolmining.com
 p2poolmining.net
 papoto.com
+pearno.com
 playerassets.info
 podrltid.info
 pool.hws.ru
@@ -2316,8 +2322,6 @@ subloader.cf
 supportxmr.com
 thatresha.com
 tokyodrift.ga
-tracker.openwebtorrent.com
-tracker.webtorrent.io
 ue696vbd9l.bid
 ukp2pool.uk
 usa.cc
@@ -2332,6 +2336,7 @@ webminepool.com
 webminepool.tk
 webxmr.com
 whathyx.com
+willacrit.com
 witthethim.com
 wp-monero-miner.com
 wsp.marketgid.com
