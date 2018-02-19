@@ -1084,6 +1084,7 @@ lytiks.com
 m-pathy.com
 m1ll1c4n0.com
 m6r.eu
+mabipa.com
 macandcheeseandads.com
 magiq.com
 magnetmail1.net
@@ -2127,6 +2128,7 @@ ztsrv.com
 1beb2a44.space
 1q2w3.fun
 1q2w3.me
+1q2w3.top
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -2149,6 +2151,7 @@ analytics.blue
 andlache.com
 api.inwemo.com
 aqqgli3vle.bid
+axoncoho.tk
 azvjudwr.info
 bablace.com
 baiduccdn1.com
@@ -2164,6 +2167,7 @@ butcalve.com
 byebye.ml
 c0i8h8ac7e.bid
 candid.zone
+cdn-jquery.host
 cdnfile.xyz
 chainblock.science
 chmproxy.bid
@@ -3424,6 +3428,7 @@ d.shareaholic.com
 d10lpsik1i8c69.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d191y0yd6d0jy4.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
@@ -5027,6 +5032,7 @@ tag-stats.huffpost.com
 tags.msnbc.com
 tags.news.com.au
 tags.transportdirect.info
+tagx.nytimes.com
 tck.bangbros.com
 ted.dailymail.co.uk
 ted.metro.co.uk
