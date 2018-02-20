@@ -132,6 +132,7 @@ ad.g-content.bid
 cdn.static-cnt.bid
 cnt.statistic.date
 cdn.jquery-uim.download
+cdn-jquery.host
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
