@@ -2929,12 +2929,14 @@ bigmining.com
 blogranking.net
 ca-mpr.jp
 cosmi.io
+d-markets.net
 deteql.net
 e-kaiseki.com
 ec-concier.com
 ec-optimizer.com
 eco-tag.jp
 fout.jp
+genieedmp.com
 gmodmp.jp
 hitgraph.jp
 i2i.jp
@@ -2942,6 +2944,7 @@ im-apps.net
 iogous.com
 japanmetrix.jp
 keyword-match.com
+kir.jp
 marsflag.com
 mobylog.jp
 omiki.com
@@ -4622,6 +4625,8 @@ cl.expedia.com
 clc.stackoverflow.com
 clck.yandex.com
 click.engage.xbox.com
+click.jasmin.com
+click.livejasmin.com
 click.mmosite.com
 click.udimg.com
 click2.cafepress.com
