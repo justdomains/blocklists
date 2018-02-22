@@ -896,6 +896,7 @@ illumenix.com
 ilogbox.com
 imanginatium.com
 immanalytics.com
+impactradius-event.com
 impcounter.com
 imrtrack.com
 inboxtag.com
@@ -2666,6 +2667,7 @@ trkme.net
 universaltrackingcontainer.com
 up-rank.com
 urstats.de
+usemaxserver.de
 verypopularwebsite.com
 viewar.org
 vinsight.de
@@ -2715,6 +2717,7 @@ deliv.lexpress.fr
 do09.net
 edt02.net
 emailretargeting.com
+ew3.io
 ezakus.net
 ferank.fr
 fogl1onf.com
@@ -2763,6 +2766,7 @@ cctvgb.com.cn
 clicki.cn
 cnzz.net
 cr-nielsen.com
+ctags.cn
 datamaster.com.cn
 emarbox.com
 eyeota.net
@@ -3018,6 +3022,7 @@ zontera.com
 24log.ru
 24smi.info
 2ip.ua
+3wnp9.ru
 a-counter.com.ua
 a-counter.kiev.ua
 adx.com.ru
@@ -3085,6 +3090,7 @@ r24-tech.com
 retag.xyz
 rnet.plus
 ru.net
+rutarget.ru
 sarov.ws
 sas.com
 sensor.org.ua
@@ -4012,6 +4018,7 @@ track.sprinklecontent.com
 track.strife.com
 track.tcppu.com
 track.td3x.com
+track.uniqodo.com
 track.untd.com
 track.vscash.com
 track.written.com
@@ -4301,6 +4308,7 @@ css.aliyun.com
 d17m68fovwmgxj.cloudfront.net
 da.netease.com
 dw.cbsi.com.cn
+g.yccdn.com
 haostat.qihoo.com
 idigger.qtmojo.com
 imp.ad-plus.cn
@@ -5194,6 +5202,7 @@ dpm.bluray-disc.de
 dw-eu.com.com
 event.dkb.de
 extszm.web.de
+fc.vodafone.de
 fls-eu.amazon.de
 g.silicon.de
 gets.faz.net
@@ -5245,6 +5254,7 @@ tracksrv.zdf.de
 ts.faz.net
 ts.otto.de
 ts.rtl.de
+vfd2dyn.vodafone.de
 wdm.map24.com
 web-track.telekom-dienste.de
 webts.adac.de
@@ -5262,6 +5272,7 @@ ea.jeuxvideopc.com
 ea.lexpress.fr
 ea.monsieurmanuel.com
 ea.rueducommerce.fr
+elr.sfr.fr
 eultech.fnac.com
 fls-eu.amazon.fr
 g.itespresso.fr
@@ -5290,6 +5301,7 @@ analytics.zhihu.com
 atm.youku.com
 bc.qunar.com
 bdwblog.eastmoney.com
+bglog.bitauto.com
 btrace.qq.com
 cast.ra.icast.cn
 click.suning.cn
@@ -5315,6 +5327,7 @@ hk.ndx.nextmedia.com
 jcm.jd.com
 l.qq.com
 log.51cto.com
+log.bitauto.com
 log.flight.qunar.com
 log.kuwo.cn
 log.ynet.com
@@ -5329,6 +5342,8 @@ p-log.ykimg.com
 pb.i.sogou.com
 pingback.sogou.com
 pv.ltn.com.tw
+pv.xcar.com.cn
+pvx.xcar.com.cn
 ranking.ynet.com
 rcgi.video.qq.com
 report.qq.com
