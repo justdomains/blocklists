@@ -1017,6 +1017,7 @@ kontagent.net
 kopsil.com
 kqzyfj.com
 ksyrium0014.com
+ktxtr.com
 landingpg.com
 lansrv030.com
 lasagneandands.com
@@ -1210,6 +1211,7 @@ navilytics.com
 naytev.com
 ndf81.com
 ndg.io
+neads.delivery
 neatstats.com
 nedstat.com
 nedstat.net
@@ -1294,6 +1296,7 @@ openstat.net
 opentracker.net
 openvenue.com
 openxtracker.com
+opinary.com
 oproi.com
 optify.net
 optimahub.com
@@ -2654,6 +2657,7 @@ t4ft.de
 tamedia.ch
 tausch-link.de
 tda.io
+technical-service.net
 teriotracker.de
 tisoomi-services.com
 tophits4u.de
@@ -4232,6 +4236,7 @@ stats.urban-media.com
 stats2.algo.at
 t.nativendo.de
 t.quisma.com
+tap.idg.de
 track2.dulingo.com
 track2.mycliplister.com
 tracker.euroweb.net

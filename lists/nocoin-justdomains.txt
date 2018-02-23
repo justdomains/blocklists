@@ -133,6 +133,7 @@ cdn.static-cnt.bid
 cnt.statistic.date
 cdn.jquery-uim.download
 cdn-jquery.host
+p1.interestingz.pw
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
