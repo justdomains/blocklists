@@ -926,6 +926,7 @@ insigit.com
 insitemetrics.com
 inspectlet.com
 instadia.net
+instana.io
 instore.biz
 integritystat.com
 intelevance.com
@@ -1065,6 +1066,7 @@ logmatic.io
 lognormal.net
 logrocket.com
 lookery.com
+loop11.com
 loopfuse.net
 lopley.com
 losstrack.com
@@ -2251,6 +2253,7 @@ igg.biz
 igrid.org
 ingorob.com
 insdrbot.com
+interestingz.pw
 investhash.com
 jquery-uim.download
 jroqvbvw.info
@@ -2415,6 +2418,7 @@ adc-serv.net
 adclear.net
 adcrowd.com
 addcontrol.net
+admeira.ch
 adrank24.de
 adtraxx.de
 adzoe.de
@@ -4198,6 +4202,7 @@ geo.mtvnn.com
 geo.xcel.io
 gocp.stroeermediabrands.de
 hbx.df-srv.de
+healte.de
 im.aol.de
 info.elba.at
 insights.blogfoster.com
@@ -4245,6 +4250,7 @@ tracker.winload.de
 tracking-rce.veeseo.com
 tracking.base.de
 tracking.ddd.de
+tracking.emsmobile.de
 tracking.gameforge.de
 tracking.hannoversche.de
 tracking.hi-pi.com
@@ -4276,6 +4282,7 @@ bbtrack.net
 btstats.devtribu.fr
 calotag.com
 cdn-analytics.ladmedia.fr
+collecte.audience.acpm.fr
 compteur.websiteout.net
 e.funnymel.com
 email-reflex.com
@@ -4289,6 +4296,7 @@ stats-dc1.frz.io
 stats.buzzea.com
 stats.ipmgroup.be
 t.planvip.fr
+tag.audience.acpm.fr
 tag.leadplace.fr
 tmgr.ccmbg.com
 tra.pmdstatic.net
@@ -5189,6 +5197,7 @@ ac.express.de
 ac.mz-web.de
 acl.stayfriends.de
 analytics.industriemagazin.net
+analytics.moviepilot.de
 analytics.proxer.me
 analytics.solidbau.at
 as.base.de
@@ -5241,6 +5250,7 @@ stats.bmw.de
 stats.daserste.de
 stats01.20min.ch
 subpixel.4players.de
+tdf.ringier.ch
 tp.deawm.com
 tr.werkenntwen.de
 track.cinestar.de
