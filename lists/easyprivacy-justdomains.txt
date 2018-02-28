@@ -1319,7 +1319,6 @@ outbid.io
 outboundlink.me
 overstat.com
 owlanalytics.io
-ownpage.fr
 oxidy.com
 p-td.com
 p.l1v.ly
@@ -2544,6 +2543,7 @@ gratis-counter-gratis.de
 gratisbacklink.de
 greatviews.de
 grfz.de
+healte.de
 hiddencounter.de
 hitmaster.de
 hot-count.com
@@ -2944,6 +2944,7 @@ wstatslive.com
 zt-dst.com
 admatrix.jp
 aid-ad.jp
+amoad.com
 analyticsip.net
 bb-analytics.jp
 beanscattering.jp
@@ -2973,9 +2974,11 @@ omiki.com
 owldata.com
 pagoda56.com
 polymorphicads.jp
+r-ad.ne.jp
 research-artisan.com
 rtoaster.jp
 sibulla.com
+smartnews-ads.com
 socdm.com
 tgknt.com
 trackfeed.com
@@ -3276,6 +3279,7 @@ analytics.orenshmu.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
+analytics.prezly.com
 analytics.prod.aws.ecnext.net
 analytics.r17.com
 analytics.radiatemedia.com
@@ -4705,6 +4709,7 @@ ct.buzzfeed.com
 da.virginmedia.com
 data.mic.com
 data.ryanair.com
+data.tradingview.com
 data.younow.com
 datacollector.coin.scribol.com
 dcs.mattel.com
@@ -5073,6 +5078,7 @@ tck.bangbros.com
 ted.dailymail.co.uk
 ted.metro.co.uk
 ted1.metro.co.uk
+telemetry.tradingview.com
 timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
@@ -5443,6 +5449,7 @@ mtc.nhk.or.jp
 sy.amebame.com
 sy.ameblo.jp
 visit.geocities.jp
+yjtag.yahoo.co.jp
 count.munhwa.com
 gather.hankyung.com
 hits.zdnet.co.kr
