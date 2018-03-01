@@ -586,6 +586,7 @@ dwin2.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
+e-goi.com
 e-pagerank.net
 e-referrer.com
 e-webtrack.net
@@ -1038,6 +1039,7 @@ leadmanagerfx.com
 leadsius.com
 leadsmonitor.io
 leadsrx.com
+leanplum.com
 legolas-media.com
 les-experts.com
 letterboxtrail.com
@@ -1170,6 +1172,7 @@ mouseflow.com
 mousestats.com
 mousetrace.com
 movable-ink-6710.com
+mparticle.com
 mplxtms.com
 mpstat.us
 msgapp.com
@@ -1200,6 +1203,7 @@ myusersonline.com
 myvisualiq.net
 mywebstats.com.au
 mywebstats.org
+n74s9.com
 naayna.com
 naj.sk
 nakanohito.jp
@@ -1928,6 +1932,7 @@ uciservice.com
 ugdturner.com
 uhygtf1.com
 ukrre-tea.info
+ultratokensx.com
 umbel.com
 unicaondemand.com
 unknowntray.com
@@ -3866,6 +3871,7 @@ snaps.vidiemi.com
 spacedust.netmediaeurope.com
 speedtrap.shopdirect.com
 spoods.rce.veeseo.com
+st.cdnco.us
 stat.boredomtherapy.com
 stat.easydate.biz
 stat.ed.cupidplc.com
@@ -4292,6 +4298,7 @@ abs.proxistore.com
 affiliation.planethoster.info
 analytics.freespee.com
 analytics.grupogodo.com
+audience.acpm.fr
 bbtrack.net
 btstats.devtribu.fr
 calotag.com
@@ -4709,7 +4716,6 @@ ct.buzzfeed.com
 da.virginmedia.com
 data.mic.com
 data.ryanair.com
-data.tradingview.com
 data.younow.com
 datacollector.coin.scribol.com
 dcs.mattel.com
