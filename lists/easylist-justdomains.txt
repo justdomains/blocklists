@@ -1012,6 +1012,7 @@ bitcoinadvertisers.com
 bitcoset.com
 bitfalcon.tv
 bitonclick.com
+bitraffic.com
 bittads.com
 bitx.tv
 bizfo.co.uk
@@ -1124,6 +1125,7 @@ buyorselltnhomes.com
 buyt.in
 buzzadnetwork.com
 buzzcity.net
+buzzonclick.com
 buzzparadise.com
 bwinpartypartners.com
 bwknu1lo.top
@@ -1183,6 +1185,7 @@ cdnquality.com
 cdnrl.com
 cdnservr.com
 cdntrip.com
+celeritascdn.com
 centralnervous.net
 cerotop.com
 cfasync.cf
@@ -2179,6 +2182,7 @@ intextual.net
 intgr.net
 intimlife.net
 intopicmedia.com
+intrev.co
 inttrax.com
 intuneads.com
 inuvo.com
@@ -3466,6 +3470,7 @@ sev4ifmxa.com
 sevenads.net
 sevendaystart.com
 sexmoney.com
+seyfert.space
 shakamech.com
 shallowschool.com
 share-server.com
@@ -3818,6 +3823,7 @@ tracking101.com
 tracking11.com
 trackingoffer.info
 trackingoffer.net
+tracklab.club
 trackpath.biz
 trackpromotion.net
 trackstarsengland.net
@@ -3834,6 +3840,7 @@ traffads.su
 traffboost.net
 traffic-media.co
 traffic-supremacy.com
+traffic2bitcoin.com
 trafficbarads.com
 trafficbee.com
 trafficbroker.com
@@ -4094,6 +4101,7 @@ wateristian.com
 waveview.info
 waycash.net
 waymp.com
+wbpal.com
 wbptqzmv.com
 wcmcs.net
 wcpanalytics.com
@@ -5678,6 +5686,7 @@ aeghie6dien.info
 aew9eigieng.info
 ahn2phee3oh.info
 booj7tho.com
+casterist.com
 chohye2t.com
 ci3ixee8.com
 dah0ooy4doe.info
@@ -5690,6 +5699,7 @@ nich1eox.com
 no1chie7poh.info
 ohs1upuwi8b.info
 ohv1tie2.com
+provalist.info
 qued9yae1ai.info
 sahraex7vah.info
 terraadstools.com
@@ -10369,6 +10379,7 @@ pitatagata.com
 pompazilla.com
 poratav.com
 prikolizdesa.com
+qaquzakalaka.com
 qawiman.com
 quavomi.com
 rapizoda.com
@@ -11723,6 +11734,7 @@ gfaf-banners.s3.amazonaws.com
 gfxa.sheetmusicplus.com
 giantsavings-a.akamaihd.net
 hdvid-codecs.com
+hitfox-jobboard.c66.me
 homad-global-configs.schneevonmorgen.com
 hosting.conduit.com
 hotlinking.dosmil.imap.cc
