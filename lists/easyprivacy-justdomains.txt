@@ -199,6 +199,7 @@ arrowpushengine.com
 arsdev.net
 artefact.is
 arturtrack.com
+ascend.ai
 assoctrac.com
 astro-way.com
 atatus.com
@@ -2441,6 +2442,7 @@ admeira.ch
 adrank24.de
 adtraxx.de
 adzoe.de
+amunx.de
 analytics.rechtslupe.org
 andyhoppe.com
 anormal-tracker.de
@@ -2785,6 +2787,7 @@ tyxo.bg
 99click.com
 acs86.com
 ad7.com
+adop.cc
 adskom.com
 adxvip.com
 appier.net
@@ -2801,11 +2804,13 @@ emarbox.com
 eyeota.net
 fraudmetrix.cn
 ggxt.net
+gm99.com
 gostats.cn
 gridsum.com
 gridsumdissector.com
 growingio.com
 gtags.net
+he2d.com
 hotrank.com.tw
 i-mobile.co.jp
 ipinyou.com
@@ -2818,6 +2823,7 @@ oadz.com
 p0y.cn
 phpstat.com
 pixanalytics.com
+pp8.com
 pvmax.net
 reachmax.cn
 sagetrc.com
@@ -2837,6 +2843,7 @@ vm5apis.com
 webdissector.com
 xtgreat.com
 yigao.com
+youle55.com
 zampda.net
 ztcadx.com
 dotmetrics.net
@@ -2973,6 +2980,7 @@ fout.jp
 genieedmp.com
 gmodmp.jp
 hitgraph.jp
+i2ad.jp
 i2i.jp
 im-apps.net
 iogous.com
@@ -2996,6 +3004,7 @@ trackfeed.com
 ukw.jp
 wonder-ma.com
 ziyu.net
+contentsfeed.com
 logger.co.kr
 cms.lv
 erotop.lv
@@ -4357,6 +4366,7 @@ imp.ad-plus.cn
 imp.go.sohu.com
 imp.optaim.com
 log.hiiir.com
+log.tagtic.cn
 log.v.iask.com
 look.urs.tw
 msg.71.am
@@ -5355,6 +5365,8 @@ bdwblog.eastmoney.com
 bglog.bitauto.com
 btrace.qq.com
 cast.ra.icast.cn
+click.ali213.net
+click.gamersky.com
 click.suning.cn
 clkstat.qihoo.com
 cmstool.youku.com
