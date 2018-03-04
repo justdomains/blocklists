@@ -161,7 +161,6 @@ analoganalytics.com
 analysistools.net
 analytics-egain.com
 analytics-engine.net
-analytics.blue
 analyticschecker.com
 analyticswizard.com
 analytk.com
@@ -2121,6 +2120,7 @@ yieldbot.com
 yieldify.com
 yieldsoftware.com
 yjtag.jp
+ymetrica1.com
 youmetrix.co.uk
 your-counter.be
 youramigo.com
@@ -2168,6 +2168,7 @@ analytics.blue
 andlache.com
 api.inwemo.com
 aqqgli3vle.bid
+authedmine.eu
 averoconnector.com
 axoncoho.tk
 azvjudwr.info
@@ -2176,6 +2177,7 @@ baiduccdn1.com
 befirstcdn.com
 bewaslac.com
 bewhoyouare.gq
+bhzejltg.info
 biberukalap.com
 bitclub.network
 bitclubnetwork.com
@@ -2219,7 +2221,6 @@ crypto-coins.com
 crypto-coins.info
 crypto-loot.com
 crypto-webminer.com
-crypto.csgocpu.com
 cryptobara.com
 cryptoloot.pro
 cryptomine.pro
@@ -2230,10 +2231,13 @@ depttake.ga
 devphp.org.ua
 didnkinrab.com
 dle-news.pw
+dogrose18.com
 dovinate.top
 dronml.ml
+dzizsih.ru
 easyhash.io
 etnhashpool.tk
+etzbnfuigipwvs.ru
 evengparme.com
 ewtuyytdf45.com
 fge9vbrzwt.bid
@@ -2307,6 +2311,7 @@ minr.pw
 mmpool.org
 monerise.com
 monerominer.rocks
+moneromining.online
 moneroocean.stream
 moonsade.com
 morningdigit.com
@@ -2314,6 +2319,7 @@ mutuza.win
 nablabee.com
 nahnoji.cz
 nathetsof.com
+nddmcconmqsy.ru
 nebabrop.com
 nfwebminer.com
 niematego.tk
@@ -2332,8 +2338,11 @@ pool.hws.ru
 poolmining.eu
 poolmining.net
 ppoi.org
+pr0gram.org
 presjots.ga
 projectpoi.com
+pzoifaum.info
+realnetwrk.com
 reasedoper.pw
 refunevent.com
 rencohep.com
@@ -2346,6 +2355,7 @@ rintinwa.com
 rocks.io
 sbhmn-miner.com
 secumine.net
+silimbompom.com
 siteverification.online
 siteverification.site
 smectapop12.pl
@@ -2356,10 +2366,14 @@ staticsfs.host
 statistic.date
 subloader.cf
 supportxmr.com
+synconnector.com
+terethat.ru
 thatresha.com
 tokyodrift.ga
+tulip18.com
 ue696vbd9l.bid
 ukp2pool.uk
+unrummaged.com
 usa.cc
 vcfs6ip5h6.bid
 veerebbs.ml
@@ -2375,7 +2389,6 @@ webxmr.com
 whathyx.com
 willacrit.com
 witthethim.com
-wp-monero-miner.com
 wsp.marketgid.com
 wty46.com
 xbasfbno.info
@@ -3424,6 +3437,7 @@ collect.rewardstyle.com
 collection.acromas.com
 collector.air.tv
 collector.apester.com
+collector.automote.co.nz
 collector.contentexchange.me
 collector.leaddyno.com
 collector.nextguide.tv
@@ -4320,7 +4334,6 @@ bbtrack.net
 btstats.devtribu.fr
 calotag.com
 cdn-analytics.ladmedia.fr
-collecte.audience.acpm.fr
 compteur.websiteout.net
 e.funnymel.com
 email-reflex.com
@@ -4334,7 +4347,6 @@ stats-dc1.frz.io
 stats.buzzea.com
 stats.ipmgroup.be
 t.planvip.fr
-tag.audience.acpm.fr
 tag.leadplace.fr
 tmgr.ccmbg.com
 tra.pmdstatic.net
@@ -5235,7 +5247,6 @@ ynuf.alibaba.com
 cryweb.github.io
 crywebber.github.io
 hive.tubetitties.com
-miner.nablabee.com
 piti.bplaced.net
 abakus.freenet.de
 ac.berlinonline.de
