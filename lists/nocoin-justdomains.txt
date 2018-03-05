@@ -36,6 +36,8 @@ static.sparechange.io
 miner.nablabee.com
 m.anyfiles.ovh
 www.freecontent.bid
+www.freecontent.loan
+www.freecontent.win
 www.cryptonoter.com
 www.mutuza.win
 cryweb.github.io
@@ -141,6 +143,7 @@ depttake.ga
 flophous.cf
 pr0gram.org
 authedmine.eu
+www.monero-miner.com
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info

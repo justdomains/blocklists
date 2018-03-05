@@ -2245,7 +2245,9 @@ flare-analytics.com
 flophous.cf
 flu.cc
 freecontent.bid
+freecontent.loan
 freecontent.racing
+freecontent.win
 g-content.bid
 gasolina.ml
 giml.ml
@@ -4464,6 +4466,7 @@ tracking.conversionlab.it
 tracks.arubamediamarketing.it
 tracy.sadv.dadapro.com
 ts.blogo.it
+vppst.iltrovatore.it
 analysis.shinobi.jp
 analyzer51.fc2.com
 clickanalyzer.jp
