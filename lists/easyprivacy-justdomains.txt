@@ -4038,6 +4038,7 @@ tower.moviepilot.com
 tr-metrics.loomia.com
 tr.advance.net
 tr.cloud-media.fr
+tr.connatix.com
 tr.interlake.net
 tr.webantenna.info
 tr1.mailperformance.com
@@ -4643,6 +4644,7 @@ analytics.spankbang.com
 analytics.teespring.com
 analytics.thenest.com
 analytics.thenewslens.com
+analytics.thetab.com
 analytics.thevideo.me
 analytics.upworthy.com
 analytics.us.archive.org
@@ -4774,6 +4776,7 @@ es.puritan.com
 et.nytimes.com
 etui.fs.ml.com
 eulerian.sarenza.com
+ev.kck.st
 event-reporting-dot-webylytics.appspot.com
 eventlog.jackpot.de
 eventlogger.soundcloud.com
