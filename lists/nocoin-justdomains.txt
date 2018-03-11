@@ -144,6 +144,8 @@ flophous.cf
 pr0gram.org
 authedmine.eu
 www.monero-miner.com
+www.datasecu.download
+www.jquery-cdn.download
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
