@@ -2190,6 +2190,8 @@ c0i8h8ac7e.bid
 candid.zone
 cdn-jquery.host
 cdnfile.xyz
+cfcdist.loan
+cfcnet.top
 chainblock.science
 chmproxy.bid
 clickwith.bid
@@ -2227,6 +2229,7 @@ cryptoloot.pro
 cryptomine.pro
 cryptonoter.com
 csgocpu.com
+datasecu.download
 deepc.cc
 depttake.ga
 devphp.org.ua
@@ -2279,6 +2282,7 @@ ingorob.com
 insdrbot.com
 interestingz.pw
 investhash.com
+jquery-cdn.download
 jquery-uim.download
 jroqvbvw.info
 jsccnn.com
@@ -4872,6 +4876,7 @@ log.snapdeal.com
 log.thevideo.me
 log.vdn.apps.cntv.cn
 log.wat.tv
+log.webnovel.com
 log1.24liveplus.com
 logdev.openload.co
 logger.dailymotion.com
