@@ -4443,6 +4443,7 @@ click.kataweb.it
 contatore-di-visite.campusanuncios.com
 counter.ksm.it
 counter2.condenast.it
+d32hwlnfiv2gyn.cloudfront.net
 encoderfarmced-stats-ns.servicebus.windows.net
 evnt.iol.it
 fb_servpub-a.akamaihd.net
