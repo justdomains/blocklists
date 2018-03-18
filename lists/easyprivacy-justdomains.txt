@@ -507,6 +507,7 @@ cxt.ms
 cya2.net
 cybermonitor.com
 cytoclause.com
+d-1.co
 d41.co
 dable.io
 dacounter.com
@@ -1057,6 +1058,7 @@ linkpulse.com
 linksynergy.com
 linkxchanger.com
 listrakbi.com
+litix.io
 livecount.fr
 livehit.net
 livesegmentservice.com
@@ -3683,7 +3685,6 @@ i-stats.ieurop.net
 ib.adnxs.com
 icu.getstorybox.com
 ihstats.cloudapp.net
-img.litix.io
 imp.affiliator.com
 imp.clickability.com
 imp.constantcontact.com
