@@ -589,7 +589,6 @@ dwin2.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
-e-goi.com
 e-pagerank.net
 e-referrer.com
 e-webtrack.net

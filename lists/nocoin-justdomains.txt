@@ -57,6 +57,7 @@ coinpirate.cf
 d.cpufan.club
 krb.devphp.org.ua
 nfwebminer.com
+cfcdist.gdn
 node.cfcdist.gdn
 webxmr.com
 xmr.mining.best
@@ -169,6 +170,9 @@ adzjzewsma.cf
 ffinwwfpqi.gq
 ininmacerad.pro
 mhiobjnirs.gq
+open-hive-server-1.pp.ua
+pool.hws.ru
+pool.etn.spacepools.org
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
