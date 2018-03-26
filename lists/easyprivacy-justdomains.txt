@@ -1956,6 +1956,7 @@ usabilitytools.com
 usabilla.com
 user-api.com
 user-clicks.com
+user-red.com
 userchecker.info
 usercycle.com
 userdmp.com
@@ -2175,6 +2176,7 @@ api.inwemo.com
 appelamule.com
 appsha5.space
 aqqgli3vle.bid
+assetscdn.stream
 authedmine.eu
 averoconnector.com
 axoncoho.tk
@@ -2813,6 +2815,7 @@ semiocast.com
 sk1n.fr
 sk8t.fr
 stats.fr
+tget.me
 titag.com
 tnsinternet.be
 toc.io
