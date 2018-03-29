@@ -86,6 +86,7 @@ adelixir.com
 adfox.ru
 adgreed.com
 adheart.de
+adhslx.com
 adinsight.co.kr
 adinsight.com
 adinsight.eu
@@ -518,7 +519,6 @@ dashboard.io
 data-analytics.jp
 databrain.com
 datacaciques.com
-datadome.co
 datafeedfile.com
 datam.com
 datamind.ru
@@ -2152,6 +2152,7 @@ ztsrv.com
 1q2w3.fun
 1q2w3.me
 1q2w3.top
+1q2w3.website
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -4216,7 +4217,6 @@ txn.grabnetworks.com
 ucounter.ucoz.net
 upt.graphiq.com
 urc.taboolasyndication.com
-usage.trackjs.com
 userlog.synapseip.tv
 vertical-stats.huffpost.com
 video-ad-stats.googlesyndication.com
@@ -4896,6 +4896,7 @@ localads-statistics.maps.me
 log.data.disney.com
 log.deutschegrammophon.com
 log.go.com
+log.mappy.net
 log.newsvine.com
 log.optimizely.com
 log.snapdeal.com
