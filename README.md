@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2018-03-29 05:21:39
+**Last Updated:** 2018-03-30 05:21:41
 
 - [Details](#details)
 - [Usage](#usage)
@@ -41,10 +41,10 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 | Converted List | License | Domains | Domain List | Last Updated |
 :- | - | - | :-: | - |
-| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 13713 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 29 Mar 2018 03:06 UTC |
-| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 5607 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 29 Mar 2018 03:06 UTC |
+| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 13621 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 30 Mar 2018 05:06 UTC |
+| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 5607 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 30 Mar 2018 05:06 UTC |
 | [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardDNS/blob/master/LICENSE) | 18270 | [**Download**](https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt) | 2018-03-28 14:33:15 |
-| [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 218 | [**Download**](https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt) | 28 Mar 2018 |
+| [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 219 | [**Download**](https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt) | 29 Mar 2018 |
 
 &nbsp;
 
@@ -56,19 +56,19 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 **Source:** [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 201803290306
-- Last Modified: 29 Mar 2018 03:06 UTC
+- Version: 201803300506
+- Last Modified: 30 Mar 2018 05:06 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 69400
-Comment Lines: 384
+Total Lines Processed: 69307
+Comment Lines: 383
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 53336
-Domain-only Rules Excluded (unsupported options): 1704
+Non-Domain-only Rules Excluded: 53337
+Domain-only Rules Excluded (unsupported options): 1703
 Domain-only Rules Excluded (exception conflict): 263
-Domain-only Rules Output: 13713
+Domain-only Rules Output: 13621
 ```
 
 &nbsp;
@@ -81,16 +81,16 @@ Domain-only Rules Output: 13713
 
 **Source:** [https://easylist.to/easylist/easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt)
 - Title: EasyPrivacy
-- Version: 201803290306
-- Last Modified: 29 Mar 2018 03:06 UTC
+- Version: 201803300506
+- Last Modified: 30 Mar 2018 05:06 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 14499
+Total Lines Processed: 14501
 Comment Lines: 186
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 8425
+Non-Domain-only Rules Excluded: 8427
 Domain-only Rules Excluded (unsupported options): 130
 Domain-only Rules Excluded (exception conflict): 151
 Domain-only Rules Output: 5607
@@ -130,12 +130,12 @@ Domain-only Rules Output: 18270
 | Pi-Hole | [nocoin-justdomains.txt](https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt) |
 
 **Source:** [https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt)
-- Last Modified: 28 Mar 2018
+- Last Modified: 29 Mar 2018
 - Homepage: [https://github.com/hoshsadiq/adblock-nocoin-list/](https://github.com/hoshsadiq/adblock-nocoin-list/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 234
+Total Lines Processed: 235
 Comment Lines: 12
 Empty Lines: 3
 Invalid Lines: 0
@@ -143,7 +143,7 @@ Non-Loopback Lines (Ignored): 0
 Local Hosts (Ignored): 0
 Invalid Hosts (Ignored): 0
 Duplicate Hosts (Ignored): 1
-Hosts Output: 218
+Hosts Output: 219
 ```
 
 &nbsp;
