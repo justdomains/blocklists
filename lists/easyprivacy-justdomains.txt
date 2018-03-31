@@ -304,6 +304,7 @@ boomerang.com.au
 boomtrain.com
 botman.ninja
 botsvisit.com
+bouncepilot.com
 bouncex.com
 bpmonline.com
 brat-online.ro
@@ -1877,7 +1878,6 @@ trackmyweb.net
 trackset.com
 tracksy.com
 tracktrk.net
-trackuity.com
 trackvoluum.com
 trackword.biz
 trackyourstats.com
@@ -2236,12 +2236,15 @@ crypto-coins.club
 crypto-coins.com
 crypto-coins.info
 crypto-loot.com
+crypto-pool.fr
 crypto-webminer.com
 cryptobara.com
 cryptoloot.pro
 cryptomine.pro
 cryptonoter.com
 csgocpu.com
+darking05.tk
+darking07.tk
 datasecu.download
 deepc.cc
 depttake.ga
@@ -2281,6 +2284,7 @@ hashcoin.co
 hashforcash.us
 hashing.win
 hashnest.com
+hashvault.pro
 hashzone.io
 hatcalter.com
 hegrinhar.com
@@ -2299,6 +2303,7 @@ insdrbot.com
 intactoffers.club
 interestingz.pw
 investhash.com
+jqcdn.download
 jquery-cdn.download
 jquery-uim.download
 jroqvbvw.info
@@ -2315,6 +2320,7 @@ l33tsite.info
 ledhenone.com
 ledinund.com
 leon08.tk
+lindon-pool.win
 listat.biz
 lmodr.biz
 losital.ru
@@ -2396,6 +2402,7 @@ static-cnt.bid
 staticsfs.host
 statistic.date
 subloader.cf
+sumokoin.com
 supportxmr.com
 synconnector.com
 terethat.ru
@@ -2424,6 +2431,7 @@ witthethim.com
 wsp.marketgid.com
 wty46.com
 xbasfbno.info
+xmrpool.net
 yuebofa.cc
 ywtjdckysve.com
 zlx.com.br
@@ -2464,6 +2472,7 @@ separatesilver.com
 shallowschool.com
 sharppatch.com
 shelterstraw.com
+shermore.info
 spottysense.com
 spurioussteam.com
 storesurprise.com
