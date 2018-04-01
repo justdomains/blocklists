@@ -520,6 +520,8 @@ dashboard.io
 data-analytics.jp
 databrain.com
 datacaciques.com
+datacoral.com
+datacoral.io
 datafeedfile.com
 datam.com
 datamind.ru
@@ -1310,7 +1312,6 @@ openstat.net
 opentracker.net
 openvenue.com
 openxtracker.com
-opinary.com
 oproi.com
 optify.net
 optimahub.com
