@@ -2432,6 +2432,7 @@ witthethim.com
 wsp.marketgid.com
 wty46.com
 xbasfbno.info
+xfast.host
 xmrpool.net
 yuebofa.cc
 ywtjdckysve.com
@@ -3130,6 +3131,7 @@ audsp.com
 audtd.com
 bid.run
 bidderrtb.com
+botdetector.ru
 botscanner.com
 bumlam.com
 cityua.net
@@ -5294,9 +5296,6 @@ wzus1.ask.com
 wzus1.reference.com
 wzus1.thesaurus.com
 ynuf.alibaba.com
-cryweb.github.io
-crywebber.github.io
-hive.tubetitties.com
 piti.bplaced.net
 worker.salon.com
 abakus.freenet.de

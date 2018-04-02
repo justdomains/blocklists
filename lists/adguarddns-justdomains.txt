@@ -4380,6 +4380,24 @@ banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 coinhive.com
 coin-hive.com
+behacdn.ksmobile.net
+cmdts.ksmobile.com
+p-behacdn.ksmobile.net
+m.yap.yahoo.com
+crosspromotion.weplayer.cc
+ad.weplayer.cc
+mobile-campaigns.avast.com
+advs2sonline.goforandroid.com
+adpush.goforandroid.com
+advonline.goforandroid.com
+dzpu6za66svjl.cloudfront.net
+ad.api.kaffnet.com
+ad.flipboard.com
+adserver.shadow.snapads.com
+ads-chunks.prod.ihrhls.com
+api.ads.watchabc.go.com
+ad.prismamediadigital.com
+ad2play.ftv-publicite.fr
 mblapi.ssl2.duapps.com
 api.mobula.ds.duapps.com
 noxagile.duapp.com
@@ -4401,6 +4419,8 @@ c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
 hqsjc.com
+abroad-ad.kingsoft-office-service.com
+cdn.adbert.info
 agent.tamedia.com.tw
 www.adbert.com.tw
 tw.api.vpon.com
@@ -5191,6 +5211,7 @@ weboohost.com
 5clickcashsoftware.com
 5gl1x9qc.com
 600z.com
+6198399e4910e66-ovc.com
 62b70ac32d4614b.com
 67s6gxv28kin.com
 72b8869dfc34690.com
@@ -5201,6 +5222,7 @@ weboohost.com
 7pud.com
 7search.com
 7u8a8i88.com
+7v8rya73sj.com
 82d914.se
 888media.net
 888medianetwork.com
@@ -5209,6 +5231,7 @@ weboohost.com
 8s8.eu
 8yxupue8.com
 97d73lsi.com
+9ads.mobi
 9d63c80da.pw
 9ts3tpia.com
 a-ads.com
@@ -6353,6 +6376,7 @@ clmbtech.com
 clnk.me
 closeveri.com
 closeveri.info
+clothiquet.info
 cloudflare.solutions
 cloudiiv.com
 cloudioo.net
@@ -6385,6 +6409,7 @@ com-wkejf32ljd23409system.net
 combotag.com
 comclick.com
 comeadvertisewithus.com
+comegarage.com
 commission-junction.com
 commission.bz
 commissionfactory.com.au
@@ -7181,6 +7206,7 @@ info4.a7.org
 information-sale.com
 infra-ad.com
 ingame.ad
+injuredcandy.com
 inktad.com
 innity.com
 insightexpress.com
@@ -7549,6 +7575,7 @@ mercuras.com
 messagespaceads.com
 metavertizer.com
 metogo.work
+metricfast.com
 metrics.io
 meviodisplayads.com
 meya41w7.com
@@ -7898,6 +7925,7 @@ pakbanners.com
 panachetech.com
 pantherads.com
 paperg.com
+parabled.info
 paradocs.ru
 pardous.com
 parkingcrew.net
@@ -8429,6 +8457,7 @@ sevendaystart.com
 sexmoney.com
 seyfert.space
 shakamech.com
+shalleda.com
 shallowschool.com
 share-server.com
 sharecash.org
@@ -8514,6 +8543,7 @@ softwares2015.com
 sokitosa.com
 solapoka.com
 solarmosa.com
+solihullah.info
 solutionzip.info
 sonnerie.net
 soosooka.com
@@ -8558,6 +8588,7 @@ springserve.com
 sprintrade.com
 sproose.com
 sq2trk2.com
+squartedo.info
 squarterun.com
 srtk.net
 srv.yavli.com
@@ -8811,6 +8842,7 @@ trapasol.com
 traveladvertising.com
 travelscream.com
 travidia.com
+traviously.pro
 tredirect.com
 treksol.net
 trenpyle.com
@@ -9056,6 +9088,7 @@ wfnetwork.com
 wgreatdream.com
 wh5kb0u4.com
 where.com
+whistorica.info
 whiteboardnez.com
 whoads.net
 whtsrv9.com
@@ -9083,6 +9116,7 @@ wmmediacorp.com
 wonclick.com
 wootmedia.net
 wordbankads.com
+workablyr.info
 worlddatinghere.com
 worldsearchpro.com
 worldwidemailer.com
@@ -9137,6 +9171,7 @@ yb0t.com
 ycasmd.info
 yceml.net
 yellads.com
+yellorun.com
 yellowacorn.net
 yellowmango.eu
 yepoints.net
@@ -10482,6 +10517,7 @@ ashwlrtiazee.com
 asqamasz.com
 ataufekxogxr.com
 atcyboopajyp.com
+aubmolods.com
 autkmgrbdlbj.com
 avdfcctzwfdk.com
 avfymwmwpky.com
@@ -11280,6 +11316,7 @@ hljiofrtqenc.com
 hlotiwnz.com
 hmcczsoimnjxzi.com
 hmcjupvbxxyx.com
+hmjtutipevtmg.com
 hndesrzcgjmprqbbropdulvkfroonnrlbpqxhvprsavhwrfxtv.com
 hnivikwwypcv.com
 hnkbivnten.com
@@ -11516,6 +11553,7 @@ jiruygrsl.com
 jiyairvjgfqk.com
 jiycfyytg.com
 jjdrwkistgfh.com
+jjekiezbshyo.com
 jjpnveujkk.com
 jjpoxurorlsb.com
 jjrzlqho.com
@@ -12063,6 +12101,8 @@ nrectoqhwdhi.com
 nrgpugas.com
 nryvxfosuiju.com
 nsazelqlavtc.com
+nsnfokcikwf.com
+ntbftkhrsrh.com
 ntndubuzxyfz.com
 ntnlawgchgds.com
 nuayfpthqlkq.com
@@ -12220,6 +12260,7 @@ pbnnsras.com
 pcebrrqydcox.com
 pceqybrdyncq.com
 pdbaewqjyvux.com
+pdgpekso.com
 pdippmqmrkvn.com
 pdrvdmqcdd.com
 pdwyzrmrnddley.com
@@ -12827,6 +12868,7 @@ ujyyciaedxqr.com
 ukbxppjxfgna.com
 ukffjaqtxhor.com
 ukjzdydnveuc.com
+ukngpcuyc.com
 uknlxuxflvlw.com
 ukolwxqopahb.com
 ukxeudykhgdi.com
@@ -13160,6 +13202,7 @@ xegvnhpwytev.com
 xewzazxkmzpc.com
 xfgqvqoyzeiu.com
 xgaethsnmbzi.com
+xgspfcpxt.com
 xgzybmbwfmjd.com
 xhdzcofomosh.com
 xhojlvfznietogsusdiflwvxpkfhixbgdxcnsdshxwdlnhtlih.com
@@ -14227,6 +14270,7 @@ trafficlayer.de
 traffictrack.de
 trocado.at
 turboads.de
+twiago.com
 txtads.de
 uabp.tk
 uclo.net
@@ -17779,6 +17823,10 @@ wtsdc.uhc.com
 xtag.autotrader.com
 xtag.kbb.com
 zdlogs.sphereup.com
+adeventtracker.spotify.com
+do-not-tracker.org
+eviltracker.net
+trackersimulator.org
 analytics.any.do
 data.mistat.intl.xiaomi.com
 zeus.ad.intl.xiaomi.com
@@ -18242,7 +18290,6 @@ show.g.mediav.com
 ad.doganburda.com
 ads.linksrequest.com
 ads.yenimedya.com.tr
-adeventtracker.spotify.com
 ads.bluelithium.com
 hghit.com
 hgbnr.com
