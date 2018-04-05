@@ -4756,6 +4756,7 @@ click.udimg.com
 click2.cafepress.com
 clicks.hurriyet.com.tr
 clicks.traffictrader.net
+client-event-reporter.twitch.tv
 clientlog.portal.office.com
 clk.about.com
 clkstat.china.cn
@@ -4948,6 +4949,7 @@ metrics.ted.com
 metrics.washingtonpost.com
 mint.boingboing.net
 mms.al.com
+mms.cbslocal.com
 mms.cleveland.com
 mms.cnn.com
 mms.deadspin.com
