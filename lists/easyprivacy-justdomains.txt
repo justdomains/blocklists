@@ -76,6 +76,7 @@ actnx.com
 acxiom-online.com
 acxiomapac.com
 ad-score.com
+adabra.com
 adalyser.com
 adblade.com
 adchemix.com
@@ -410,6 +411,7 @@ clickigniter.io
 clickinc.com
 clickmanage.com
 clickmeter.com
+clickonometrics.pl
 clickpathmedia.com
 clickprotector.com
 clickreport.com
@@ -3105,7 +3107,6 @@ webgozar.com
 webgozar.ir
 adstat.4u.pl
 clickmatic.pl
-clickonometrics.pl
 gostats.pl
 hub.com.pl
 inaudium.com
