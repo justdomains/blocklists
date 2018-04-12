@@ -2888,6 +2888,7 @@ i-mobile.co.jp
 ipinyou.com
 irs09.com
 jiankongbao.com
+lndata.com
 mediav.com
 miaozhen.com
 mmstat.com
@@ -2953,8 +2954,10 @@ istats.nl
 metriweb.be
 mtrack.nl
 mystats.nl
+r42tag.com
 stealth.nl
 svtrd.com
+synovite-scripts.com
 traffic4u.nl
 counter.ok.ee
 mediaindex.ee
