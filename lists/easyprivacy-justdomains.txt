@@ -1084,7 +1084,6 @@ logmatic.io
 lognormal.net
 logrocket.com
 lookery.com
-loop11.com
 loopfuse.net
 lopley.com
 losstrack.com
@@ -2889,6 +2888,7 @@ ipinyou.com
 irs09.com
 jiankongbao.com
 lndata.com
+logly.co.jp
 mediav.com
 miaozhen.com
 mmstat.com
@@ -2954,7 +2954,6 @@ istats.nl
 metriweb.be
 mtrack.nl
 mystats.nl
-r42tag.com
 stealth.nl
 svtrd.com
 synovite-scripts.com
@@ -5485,10 +5484,12 @@ p-log.ykimg.com
 pb.i.sogou.com
 pingback.sogou.com
 pv.ltn.com.tw
+pv.udn.com
 pv.xcar.com.cn
 pvx.xcar.com.cn
 ranking.ynet.com
 rcgi.video.qq.com
+rec.udn.com
 report.qq.com
 s.360.cn
 s.qhupdate.com
