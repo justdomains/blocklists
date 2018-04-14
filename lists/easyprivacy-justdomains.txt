@@ -4848,8 +4848,6 @@ expdb2.msn.com
 f.staticlp.com
 fast.forbes.com
 felitb.rightinthebox.com
-fls-eu.amazon.co.uk
-fls-na.amazon.ca
 fresh.techdirt.com
 frog.wix.com
 funn.graphiq.com
@@ -5342,7 +5340,6 @@ dw-eu.com.com
 event.dkb.de
 extszm.web.de
 fc.vodafone.de
-fls-eu.amazon.de
 g.silicon.de
 gets.faz.net
 go.bluewin.ch
@@ -5414,7 +5411,6 @@ ea.monsieurmanuel.com
 ea.rueducommerce.fr
 elr.sfr.fr
 eultech.fnac.com
-fls-eu.amazon.fr
 g.itespresso.fr
 hit.leboncoin.fr
 logs-qos.tf1.fr
@@ -5464,7 +5460,6 @@ dmtrack.xiu.com
 dmtracking.1688.com
 dwtracking.sdo.com
 eclick.baidu.com
-fls-cn.amazon.cn
 hk.ndx.nextmedia.com
 jcm.jd.com
 l.qq.com
@@ -5545,7 +5540,6 @@ stats.mako.co.il
 analytics.tio.ch
 click.tv.repubblica.it
 emng.libero.it
-fls-eu.amazon.it
 g.techweekeurope.it
 livestats.la7.tv
 siteinfo.libero.it
@@ -5556,7 +5550,6 @@ trk.m.libero.it
 analytics.cocolog-nifty.com
 analyzer.fc2.com
 analyzer2.fc2.com
-fls-fe.amazon.co.jp
 ln.ameba.jp
 mtc.nhk.or.jp
 sy.amebame.com
@@ -5619,7 +5612,6 @@ audiencies.ccma.cat
 coletor.terra.com
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
-fls-eu.amazon.es
 g.siliconweek.es
 hits.antena3.com
 stats.milenio.com
