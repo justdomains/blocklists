@@ -1939,6 +1939,7 @@ geoipads.com
 geophrenia.com
 geopromos.com
 geovisite.com
+germarked.info
 gestionpub.com
 getfuneta.info
 getgamers.eu
@@ -2998,6 +2999,7 @@ paperclipservice.com
 paperg.com
 parabled.info
 paradocs.ru
+parding.info
 pardous.com
 parkingcrew.net
 partner-ads.com
@@ -3463,6 +3465,7 @@ roirocket.com
 rolinda.work
 romance-net.com
 rometroit.com
+rosemand.pro
 rotaban.ru
 rotatingad.com
 rotorads.com
@@ -3683,6 +3686,7 @@ spinbox.net
 splinky.com
 splut.com
 spmxs.com
+spondenced.com
 spondenced.info
 spongecell.com
 sponsoredby.me
@@ -6733,12 +6737,14 @@ etyeltdqg.bid
 etytypmuykf.bid
 euarbohjj.com
 eueukpcxjtxt.bid
+euhewiruckv.com
 eunysqxppf.bid
 eupwogkcjczz.com
 eurifsiooyof.bid
 eutklhuazxlt.com
 euxisszoyader.com
 evfzqbbdif.bid
+evgdkvrzn.com
 evhvoeqfrlsb.com
 evimfftxa.com
 evlvaulglzpu.com
@@ -7260,6 +7266,7 @@ hbchwmrqb.bid
 hbdosljhhpov.bid
 hbedvoyluzmq.com
 hbfnmcncnasfb.bid
+hbguvcwi.com
 hbhcndcpohpwib.com
 hbkcelqibvx.bid
 hbrbtmjyvdsy.com
@@ -7950,6 +7957,7 @@ jzigsobgsmxdmr.bid
 jzlzdnvvktcf.com
 jzqharwtwqei.com
 jzthapvjlq.bid
+jzurzhjqrp.com
 jzvuglclkdnb.bid
 jzxlkhaugzuaqm.bid
 kadjwdpzxdxd.com
@@ -8386,6 +8394,7 @@ ltcvpgyouvxya.bid
 ltedbswmryh.com
 ltendtxpnss.bid
 ltffxzmjazabn.bid
+ltfroezjyyhv.com
 ltmdqbrxjaqn.bid
 ltnjtphbbvigi.bid
 ltsdzcgcystyak.bid
@@ -8857,6 +8866,7 @@ nrectoqhwdhi.com
 nrepcbiqaasqih.bid
 nrfltkshqgzowk.bid
 nrgpugas.com
+nrgqdsjqu.com
 nrifyiemem.bid
 nrszmiiwfifwlq.bid
 nrwofsfancse.bid
@@ -10191,6 +10201,7 @@ tnkrspdmhdmrfn.bid
 tnllizzqv.bid
 tnmzfygctupqr.bid
 tnpbbdrvwwip.com
+tntqrmqfst.com
 tnyomnyezzz.bid
 tocotlkfjo.bid
 toflvbkpwxcr.com
@@ -10649,6 +10660,7 @@ vmebrrdrtmiaan.bid
 vmfvmwqdkfdfh.bid
 vmhadwuuj.com
 vmkjxdahnfywwi.bid
+vmmmofwusn.com
 vmojhghwpsuy.com
 vmqbifesgqs.com
 vmtaqxsf.bid
@@ -10906,6 +10918,7 @@ wpjljadiq.com
 wpkbwrkejd.com
 wpktjtwsidcz.com
 wpsyjttctdnt.com
+wpvpcuwp.com
 wpvvlwprfbtm.com
 wpwddinnvncto.com
 wpwysmvy.com
@@ -10953,6 +10966,7 @@ wuekfshqhydg.bid
 wufpseev.bid
 wuldwvzqvqet.com
 wulstqpsevmtj.com
+wunccmpzjqvxe.com
 wupjqzzpurw.bid
 wuqdebjfhjas.bid
 wuqdejnjxj.bid
@@ -11251,6 +11265,7 @@ ydgjaoes.bid
 ydoexgadghunl.bid
 ydqcdaqbmfedv.bid
 ydujmccmydwu.bid
+ydxzdniz.com
 ydzbxtld.bid
 yeboexwt.bid
 yecviqwkapujp.bid
@@ -12994,6 +13009,7 @@ appnext-a.akamaihd.net
 ard.ihookup.com
 as.devbridge.com
 athena-ads.wikia.com
+automate-prod.s3.amazonaws.com
 awadhtimes.com
 award.sitekeuring.net
 b.babylon.com
