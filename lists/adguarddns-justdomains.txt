@@ -1,3 +1,4 @@
+glowpok.rawr.gold
 med-rul.ru
 avpris.ru
 zdrawnews.ru
@@ -3118,6 +3119,9 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+fapmeth.com
+popmode.net
+goadservices.com
 megappu.com
 dramatical.online
 sistacked.com
@@ -14667,6 +14671,15 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+track.omgpl.com
+tracker.twenga.pl
+analytics.ceneo.pl
+track.buybox.click
+edrone.me
+plugin.management
+back.marketing
+nextclick.pl
+nsaudience.pl
 adx.com.ru
 dct.mango-office.ru
 cc.calltracking.ru

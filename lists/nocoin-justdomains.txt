@@ -211,6 +211,9 @@ eucsoft.com
 traviilo.com
 wasm24.ru
 xmr.cool
+api.netflare.info
+cdnjs.cloudflane.com
+www.cloudflane.com
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info

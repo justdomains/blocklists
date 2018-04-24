@@ -356,6 +356,7 @@ caphyon-analytics.com
 captify.co.uk
 captivate.ai
 captora.com
+capturemedia.network
 capturly.com
 cashburners.com
 cashcount.com
@@ -4809,6 +4810,7 @@ collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
 collector.xhamster.com
+collector1.xhamster.com
 comms-web-tracking.uswitchinternal.com
 confirm-referer.glrsales.com
 contadores.bolsamania.com
@@ -5218,6 +5220,7 @@ stat.dealtime.com
 stat.kbs.co.kr
 stat.ruvr.ru
 stat.torrentbar.com
+stat.xhamsterpremium.com
 statistics.crowdynews.com
 stats.aplus.com
 stats.articlesbase.com
