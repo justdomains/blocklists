@@ -1,3 +1,4 @@
+videoblock.co.il
 glowpok.rawr.gold
 med-rul.ru
 avpris.ru
@@ -3035,6 +3036,7 @@ zqvix.xyz
 zxrtn.com
 zycvyudt.com
 cpm.wargaming.net
+rekl.seasonvar.ru
 js.rutor.net.pl
 s.avforums.ru
 banshop.gruntovik.ru
@@ -3119,6 +3121,8 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+filternal.space
+interedy.info
 fapmeth.com
 popmode.net
 goadservices.com
@@ -4095,6 +4099,7 @@ zaperplop.info
 zedo.com
 zeti.com
 zptncsir.com
+d1qc76gneygidm.cloudfront.net
 d9tnvwv7i2n85.cloudfront.net
 d35r45qhjmgs3g.cloudfront.net
 sam.msn.com
@@ -4483,6 +4488,7 @@ c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
 hqsjc.com
+valshara.com
 ads.jianchiapp.com
 abroad-ad.kingsoft-office-service.com
 cdn.adbert.info
@@ -10504,6 +10510,7 @@ adtikimdtfbb.com
 adudzlhdjgof.com
 aduobooydxr.com
 aefqdgklyu.com
+aeuiazspafmbu.com
 afbfoxmwzlqa.com
 afdyfxfrwbfy.com
 afedispdljgb.com
@@ -10976,6 +10983,7 @@ dxfsbkmaydtt.com
 dxiamgtxb.com
 dxigubtmyllj.com
 dxiixnrumvni.com
+dxnglrimuuucmr.com
 dxtveuux.com
 dxurtngzawwe.com
 dyazeqpeoykf.com
@@ -11581,6 +11589,7 @@ iqmjedevvojm.com
 iqpfextjfphjnn.com
 iqrqmhrfkyuu.com
 iqsqqyoqry.com
+iqwczlbxvtcnh.com
 irbkobqlrbtt.com
 irjaeupzarkvwmxonaeslgicvjvgdruvdywmdvuaoyfsjgdzhk.com
 irrttzthsxot.com
@@ -13339,6 +13348,7 @@ wllxevmlsutfpx.com
 wlqpzcbme.com
 wluzajogsxoy.com
 wlzohrpjbuq.com
+wmgtkgravimge.com
 wmhksxycucxb.com
 wmjdnluokizo.com
 wmvcxgpdgdkz.com
@@ -13402,6 +13412,7 @@ wyueivwashc.com
 wzadmmddcmml.com
 wzjbvbxldfrn.com
 wzueqhwf.com
+xaftihkjg.com
 xakmsoaozjgm.com
 xaqbpvojgi.com
 xbbcwbsadlrn.com
@@ -14348,6 +14359,7 @@ as997.de
 asnetworks.de
 aurora-media.org
 auxmoney-partnerprogramm.de
+bacontent.de
 banner.server-t4.de
 banner.t-online.de
 bannerchange.net
@@ -14671,6 +14683,7 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+tracking.retailrocket.net
 track.omgpl.com
 tracker.twenga.pl
 analytics.ceneo.pl
@@ -18405,6 +18418,9 @@ ymtracking.com
 upoll.umengcloud.com
 utop.umengcloud.com
 analy.qq.com
+webminerpool.com
+autologica.ga
+mepirtedic.com
 aster18cdn.nl
 nerohut.com
 gnrdomimplementation.com

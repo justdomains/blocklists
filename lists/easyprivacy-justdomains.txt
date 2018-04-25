@@ -2172,6 +2172,7 @@ ztsrv.com
 1q2w3.me
 1q2w3.top
 1q2w3.website
+2giga.download
 300ca0d0.space
 310ca263.space
 320ca3f6.space
@@ -2185,11 +2186,13 @@ abc.pema.cl
 ad-miner.com
 adless.io
 adminer.com
+adplusplus.fr
 adzjzewsma.cf
 afminer.com
 ajplugins.com
 aleinvest.xyz
 alemoney.xyz
+altavista.ovh
 altpool.pro
 analytics.blue
 andlache.com
@@ -2278,6 +2281,7 @@ dovinate.top
 dronml.ml
 dzizsih.ru
 easyhash.io
+encoding.ovh
 etnhashpool.tk
 etzbnfuigipwvs.ru
 eucsoft.com
@@ -2298,6 +2302,7 @@ gasolina.ml
 giml.ml
 googleanalytcs.com
 goredirect.party
+graftpool.ovh
 greengaming.de
 gridiogrid.com
 gus.host
@@ -2312,6 +2317,7 @@ hashzone.io
 hatcalter.com
 hegrinhar.com
 hemnes.win
+hide.ovh
 hodlers.party
 hodling.faith
 hodling.party
@@ -2359,6 +2365,7 @@ mine.torrent.pw
 minecrunch.co
 minemytraffic.com
 miner.pr0gramm.com
+minercry.pt
 minero.cc
 minero.pw
 minescripts.info
@@ -2378,6 +2385,8 @@ nahnoji.cz
 nathetsof.com
 nddmcconmqsy.ru
 nebabrop.com
+never.ovh
+nexttime.ovh
 nfwebminer.com
 niematego.tk
 noblock.pro
@@ -2413,6 +2422,7 @@ rintindown.com
 rintinwa.com
 rocks.io
 sbhmn-miner.com
+scaleway.ovh
 secumine.net
 silimbompom.com
 siteverification.online
@@ -2449,6 +2459,7 @@ webmine.cz
 webmine.pro
 webminepool.com
 webminepool.tk
+webminerpool.com
 webxmr.com
 whathyx.com
 willacrit.com
@@ -3385,6 +3396,7 @@ analytics.newscred.com
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
@@ -4962,7 +4974,6 @@ marketing.kalahari.net
 marketing.nodesource.com
 merlin.abc.go.com
 meter-svc.nytimes.com
-metric.gstatic.com
 metric.inetcore.com
 metrics.apartments.com
 metrics.aws.sitepoint.com
@@ -5281,7 +5292,6 @@ statstracker.celebrity-gossip.net
 stattrack.0catch.com
 stbt.coupons.com
 stcollection.moneysupermarket.com
-stg.nytimes.com
 streamstats1.blinkx.com
 sugar.gameforge.com
 surveys.cnet.com
@@ -5434,6 +5444,7 @@ wzus1.reference.com
 wzus1.thesaurus.com
 ynuf.alibaba.com
 piti.bplaced.net
+support.2giga.link
 video.videos.vidto.me
 worker.salon.com
 abakus.freenet.de
