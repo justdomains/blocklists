@@ -10365,6 +10365,7 @@ yx7xgi4d.site
 z82uo22wrzqwy.com
 1el-1el-fie.com
 1elllwrite.com
+2delllwrite.com
 2el-2el-fie.com
 bandelcot.com
 belwrite.com
@@ -10417,6 +10418,7 @@ tic-tic-toc.com
 tin-tin-win.com
 tlootas.org
 tok-dan-host.com
+toodlepork.com
 tororango.com
 torpsol.com
 totifiquo.com
@@ -10426,6 +10428,7 @@ uelllwrite.com
 unoblotto.net
 vacwrite.com
 vip-vip-vup.com
+wel-wel-fie.com
 wrierville.com
 xelllwrite.com
 xmas-xmas-wow.com
@@ -10433,6 +10436,7 @@ zel-zel-fie.com
 zelllwrite.com
 zim-zim-zam.com
 zip-zip-swan.com
+zorango.com
 adiquity.com
 adzmob.com
 buxx.mobi
@@ -10944,6 +10948,7 @@ dhvaigzy.com
 difyt-m-tlb.co
 disbkzufvqhk.com
 ditouyldfqgt.com
+diuiyzhao.com
 diysqcbfyuru.com
 djbnmqdawodm.com
 djntmaplqzbi.com
@@ -11387,6 +11392,7 @@ gsfvzgnu.com
 gsiqerorqkxu.com
 gsqwxrtcabdftt.com
 gsueoeigaq.com
+gsxewjrbrbtldy.com
 gtaouarrwypu.com
 gtbfhyprjhqz.com
 gtcpsbvtwaqw.com
@@ -11502,6 +11508,7 @@ hpltfwbm.com
 hpmgdwvvqulp.com
 hpxxzfzdocinivvulcujuhypyrniicjfauortalmjerubjgaja.com
 hqaajpaedpux.com
+hqkoismxnocd.com
 hqnyahlpmehp.com
 hqsxomhxwhpq.com
 hqtrxzcjjjj.com
@@ -11855,6 +11862,7 @@ kceikbfhsnet.com
 kdaskxrcgxhp.com
 kdhndryipp.com
 kdiunbsaw.com
+kdkzvfzmgvm.com
 kdtictjmofbl.com
 kdtstmiptmvk.com
 kdvcvkwwtbwn.com
@@ -12185,6 +12193,7 @@ mmvcmovwegkz.com
 mmygcnboxlam.com
 mnanijqnse.com
 mnjgoxmx.com
+mnnanyddolwf.com
 mnusvlgl.com
 mnvjibhehv.com
 mnyavixcddgx.com
@@ -12832,6 +12841,7 @@ rulgltvmpzig.com
 ruovcruc.com
 ruoypiedfpov.com
 ruzttiecdedv.com
+ruzwwrkgthfobd.com
 rvcruqbk.com
 rvoxndszxwmo.com
 rvzudtgpvwxz.com
@@ -13336,6 +13346,7 @@ vwbnexnwpmangv.com
 vwgffbknpgxe.com
 vwugfpktabed.com
 vwxskpufgwww.com
+vxbphudphg.com
 vxbtrsqjnjpq.com
 vxlpefsjnmws.com
 vxncdkrggd.com
@@ -13368,6 +13379,7 @@ wbvsgqtwyvjb.com
 wcabsbogwfxv.com
 wcgquaaknuha.com
 wcoloqvrhhcf.com
+wcqlebpges.com
 wdbddckjoguz.com
 wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com
 wddtrsuqmqhw.com
@@ -13854,6 +13866,7 @@ zyfuywrjbxyf.com
 zyleqnzmvupg.com
 zylokfmgrtzv.com
 zyqlfplqdgxu.com
+zyxaituruuod.com
 zzdnkvjaikjth.com
 zzgqqdmnrhhals.com
 zzhgpbovlhinj.com
@@ -18293,6 +18306,8 @@ adeventtracker.spotify.com
 do-not-tracker.org
 eviltracker.net
 trackersimulator.org
+tracking.intl.miui.com
+storeconfig.mistat.intl.xiaomi.com
 urbanairship.com
 ploy.batmobi.net
 an.batmobi.net
@@ -18434,7 +18449,6 @@ data.sec.miui.com
 ep.xone.com
 etl.xlmc.sandai.net
 events.lbesecapi.com
-fcanr.tracking.miui.com
 geoip.fotoable.net
 google-analytics.com
 iam-agof-app.irquest.com
