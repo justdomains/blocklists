@@ -106,6 +106,7 @@ adprotraffic.com
 adrizer.com
 adrta.com
 adsensedetective.com
+adservicemedia.dk
 adspsp.com
 adswizz.com
 adsymptotic.com
@@ -623,6 +624,7 @@ edigitalsurvey.com
 ekmpinpoint.co.uk
 ekmpinpoint.com
 ela-3-tnk.com
+elastx.net
 electusdigital.com
 elite-s001.com
 elitics.com
@@ -844,6 +846,7 @@ halstats.com
 haraju.co
 haveamint.com
 haymarket.com
+hdmtools.com
 heapanalytics.com
 hellosherpa.com
 hentaicounter.com
@@ -964,6 +967,7 @@ invitemedia.com
 invoc.us
 invoca.net
 invoca.solutions
+iocnt.net
 ip-api.com
 ip-label.net
 ip2location.com
@@ -1460,6 +1464,7 @@ qbaka.net
 qbop.com
 qdtracking.com
 qlfsat.co.uk
+qlitics.com
 qoijertneio.com
 qsstats.com
 quantcount.com
@@ -1499,6 +1504,7 @@ realtracking.ninja
 realytics.io
 realzeit.io
 recoset.com
+recruitics.com
 redcounter.net
 redistats.com
 redstatcounter.com
@@ -4993,6 +4999,7 @@ metrics.tbliab.net
 metrics.ted.com
 metrics.washingtonpost.com
 mint.boingboing.net
+mmm.theweek.co.uk
 mms.al.com
 mms.cbslocal.com
 mms.cleveland.com
