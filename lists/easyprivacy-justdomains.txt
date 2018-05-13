@@ -877,6 +877,7 @@ hittail.com
 hittracker.com
 hitwake.com
 hitwebcounter.com
+hivps.xyz
 homechader.com
 hopurl.org
 host-tracker.com
@@ -3707,7 +3708,6 @@ dt.sellpoint.net
 du8783wkf05yr.cloudfront.net
 dufue2m4sondk.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
-dw.cbsimg.net
 dxwgpw0lkcum5.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
 dzmxze7hxwn6b.cloudfront.net
@@ -5073,6 +5073,7 @@ performances.bestofmedia.com
 pi.feedsportal.com
 ping.buto.tv
 ping.hungama.com
+ping.tvmaze.com
 pings.blip.tv
 pipeline.realtime.active.com
 pix.eads.com
