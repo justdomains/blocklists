@@ -4709,6 +4709,7 @@ counter.mtgnewmedia.se
 stats.dominoplaza.com
 vizzit.se
 sal.isanook.com
+stat.matichon.co.th
 analytic.piri.net
 analyticapi.piri.net
 hit.dogannet.tv
@@ -5487,6 +5488,7 @@ wzus1.ask.com
 wzus1.reference.com
 wzus1.thesaurus.com
 ynuf.alibaba.com
+de-mi-nis-ner2.info
 piti.bplaced.net
 support.2giga.link
 video.videos.vidto.me
