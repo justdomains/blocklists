@@ -2342,6 +2342,7 @@ hodling.faith
 hodling.party
 hodling.science
 host.d-ns.ga
+hostingcloud.faith
 hydesolo.tk
 igg.biz
 igrid.org
@@ -2406,8 +2407,18 @@ moneromining.online
 moneroocean.stream
 moonsade.com
 morningdigit.com
+mrycrypto.com
+munero.me
 mutuza.win
 mwor.gq
+mycrypto.company
+mycrypto.group
+mycrypto.ink
+mycrypto.ltd
+mycrypto.promo
+mycryrpto.com
+myerypto.com
+myrcrypto.com
 nablabee.com
 nahnoji.cz
 nathetsof.com
@@ -2417,6 +2428,7 @@ never.ovh
 nexttime.ovh
 nfwebminer.com
 niematego.tk
+nnycrypto.com
 noblock.pro
 oei1.gq
 ogrid.org
@@ -5088,6 +5100,7 @@ pipeline.realtime.active.com
 pix.eads.com
 pix.gfycat.com
 pix.nbcuni.com
+pixel.anyclip.com
 pixel.buzzfeed.com
 pixel.digitalspy.co.uk
 pixel.honestjohn.co.uk
