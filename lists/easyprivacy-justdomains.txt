@@ -1651,6 +1651,7 @@ sharpspring.com
 shippinginsights.com
 shoelace.com
 shoptimally.com
+showheroes.com
 showroomlogic.com
 siftscience.com
 signup-way.com
@@ -3117,6 +3118,7 @@ beanscattering.jp
 bigmining.com
 blogranking.net
 ca-mpr.jp
+cetlog.jp
 cosmi.io
 d-markets.net
 deteql.net
@@ -3135,6 +3137,7 @@ iogous.com
 japanmetrix.jp
 keyword-match.com
 kir.jp
+macromill.com
 marsflag.com
 mobylog.jp
 omiki.com
@@ -3213,6 +3216,7 @@ zontera.com
 3wnp9.ru
 a-counter.com.ua
 a-counter.kiev.ua
+adblockmetrics.ru
 adx.com.ru
 announcement.ru
 apkonline.ru
@@ -4839,6 +4843,7 @@ c.x.oanda.com
 cbs.wondershare.com
 cd.musicmass.com
 cdnstats.tube8.com
+cem.hotelsapi.io
 chkpt.zdnet.com
 chunk.bustle.com
 cl.expedia.com
@@ -4872,6 +4877,7 @@ collector-medium.lightstep.com
 collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
+collector.prod.expedia.com
 collector.shopstream.co
 collector.statowl.com
 collector.tescocompare.com
@@ -4979,6 +4985,7 @@ harvester.hbpl.co.uk
 heartbeat.flickr.com
 hitcount.heraldm.com
 hitweb2.chosun.com
+hrum.hotelsapi.io
 ibeat.indiatimes.com
 ibs.indiatimes.com
 id.allegisgroup.com
@@ -5383,6 +5390,7 @@ timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
 tk.kargo.com
+tkpi.delta.com
 tools.ranker.com
 top.wn.com
 total.shanghaidaily.com
@@ -5626,6 +5634,7 @@ counter.search.bg
 adgeo.163.com
 al.autohome.com.cn
 analy.qq.com
+analyse.weather.com.cn
 analytics.163.com
 analytics.nextmedia.com
 analytics.zhihu.com
@@ -5712,6 +5721,7 @@ stats.tudou.com
 stats.yinyuetai.com
 tf.360.cn
 tinglog.baidu.com
+tongji.mafengwo.cn
 tracker.live.tudou.com
 uestat.video.qiyi.com
 utrack.hexun.com
