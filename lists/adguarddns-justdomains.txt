@@ -1,3 +1,7 @@
+vast.reyden-x.com
+odnobi.ru
+videoprtl.com
+pochasos.ru
 ssliivuqpm.ru
 vidtok.ru
 context-art.ru
@@ -4563,7 +4567,7 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
-hqsjc.com
+config.unityads.unity3d.com
 init.startappservice.com
 valshara.com
 ads.jianchiapp.com
@@ -5280,6 +5284,7 @@ youradexchange.com
 yuhuads.com
 ziffdavis.com
 zoglafi.info
+hqsjc.com
 n152adserv.com
 rg.yottos.com
 weboohost.com
@@ -10669,6 +10674,7 @@ aladbvddjsxf.com
 alajwtqyw.com
 alasdzdnfvtj.com
 algkebjdgafa.com
+algnnojsdr.com
 alvivigqrogq.com
 ambqphwf.com
 amgkkjgjktml.com
@@ -10829,6 +10835,7 @@ bqqjowpigdnx.com
 bqscwtvpvugopg.com
 bqytfutmwulr.com
 brhkraeknmjk.com
+briqsnyafmmkxr.com
 briqumvlvzshh.com
 brjbzbxbcqjb.com
 brqrtgjklary.com
@@ -11540,6 +11547,7 @@ gtcpsbvtwaqw.com
 gtevyaeeiged.com
 gtmonytxxglu.com
 gtqfsxrrerzu.com
+gtvnygwfzrhfti.com
 gtxfafvoohbc.com
 gubdadtxwqow.com
 gubisowidb.com
@@ -11765,6 +11773,7 @@ iitfqholnpud.com
 ijbybfznp.com
 ijeuhlrqznjb.com
 ijvolcqtnxohl.com
+ikdhuhcigpoc.com
 ikealcmavhpk.com
 ikmymeivze.com
 iknctklddhoh.com
@@ -11883,6 +11892,7 @@ jeakofzseo.com
 jebuorwrqfflzl.com
 jeksffryglas.com
 jemopaqkst.com
+jemyvtomzyha.com
 jeqixokniyny.com
 jertwakjcaym.com
 jevijshpvnwm.com
@@ -12389,6 +12399,7 @@ mosdqxsgjhes.com
 mpifsodagy.com
 mplxbmgukmc.com
 mpoboqvqhjqv.com
+mpxxjdqpru.com
 mpytdykvcdsg.com
 mpzuzvqyuvbh.com
 mqcnrhxdsbwr.com
@@ -12679,6 +12690,7 @@ oulxdvvpmfcd.com
 ovchjqpdh.com
 ovcksawwem.com
 ovfbwavekglf.com
+ovjlgvapqhmpy.com
 ovoczhahelca.com
 ovrdkhamiljt.com
 ovzmelkxgtgf.com
@@ -13043,6 +13055,7 @@ rqthkhiuddlg.com
 rqyezhetbspk.com
 rrbiprsifnmv.com
 rriqwzgmaazsp.com
+rrptobfpqeftyg.com
 rrrdddbtofnf.com
 rrscdnsfunoe.com
 rrvkjvhbwnbre.com
@@ -18582,6 +18595,7 @@ adeventtracker.spotify.com
 do-not-tracker.org
 eviltracker.net
 trackersimulator.org
+api.splkmobile.com
 sdk.stats-locations.com
 config.safedk.com
 api.safedk.com
@@ -18939,6 +18953,7 @@ cjsab.com
 clickmedia.co.id
 cpaclickoffers.com
 cytochemistryrecitativewrasse.com
+d24afgsm39csxt.cloudfront.net
 d2jn12r3o7an7z.cloudfront.net
 dafa.io
 dearerfonder.info

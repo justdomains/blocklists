@@ -1259,6 +1259,8 @@ net-filter.com
 netapplications.com
 netbiscuits.net
 netclickstats.com
+netcore.co.in
+netcoresmartech.com
 netflame.cc
 netgraviton.net
 netinsight.co.kr
@@ -3532,6 +3534,7 @@ bonsai.internetbrands.com
 bright.bncnt.com
 bs.yandex.ru
 btn.clickability.com
+btrace.video.qq.com
 business.sharedcount.com
 buzzbox.buzzfeed.com
 c.compete.com
@@ -4191,6 +4194,7 @@ track.bannedcelebs.com
 track.cafemomstatic.com
 track.captivate.ai
 track.contently.com
+track.cordial.io
 track.did-it.com
 track.digitalriver.com
 track.dzloans.com
@@ -4222,6 +4226,7 @@ track.sprinklecontent.com
 track.strife.com
 track.tcppu.com
 track.td3x.com
+track.uc.cn
 track.uniqodo.com
 track.untd.com
 track.vscash.com
@@ -4639,6 +4644,7 @@ stats.ulixes.pl
 statystyki.panelek.com
 tracker.advisable.pl
 tracking.novem.pl
+api.nobeta.com.br
 contadorgratis.web-kit.org
 hitserver.ibope.com.br
 track.e7r.com.br
@@ -4774,6 +4780,7 @@ analytics.go.com
 analytics.gorillanation.com
 analytics.ifood.tv
 analytics.iraiser.eu
+analytics.islamicfinder.org
 analytics.jabong.com
 analytics.localytics.com
 analytics.mindjolt.com
@@ -5665,7 +5672,6 @@ dwtracking.sdo.com
 eclick.baidu.com
 hk.ndx.nextmedia.com
 jcm.jd.com
-l.qq.com
 log.51cto.com
 log.bitauto.com
 log.flight.qunar.com
@@ -5756,6 +5762,7 @@ analyzer.fc2.com
 analyzer2.fc2.com
 ln.ameba.jp
 mtc.nhk.or.jp
+rdsig.yahoo.co.jp
 sy.amebame.com
 sy.ameblo.jp
 visit.geocities.jp
