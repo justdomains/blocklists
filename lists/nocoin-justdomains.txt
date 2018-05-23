@@ -9,6 +9,8 @@ minemytraffic.com
 ppoi.org
 projectpoi.com
 crypto-loot.com
+cryptaloot.pro
+cryptoloot.pro
 coinerra.com
 coin-have.com
 minero.pw
@@ -89,7 +91,6 @@ sparnove.com
 witthethim.com
 1q2w3.fun
 1q2w3.me
-cryptoloot.pro
 bjorksta.men
 crypto.csgocpu.com
 noblock.pro
@@ -247,6 +248,15 @@ www.jqassets.download
 www.jqcdn.download
 www.jquerrycdn.download
 www.jqwww.download
+lightminer.co
+www.lightminer.co
+browsermine.com
+api.browsermine.com
+mlib.browsermine.com
+bmst.pw
+bmnr.pw
+bmcm.pw
+bmcm.ml
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info

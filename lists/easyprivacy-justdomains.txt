@@ -369,6 +369,7 @@ cbtrk.net
 cccpmo.com
 ccgateway.net
 cdn-analytics.pl
+cdn-net.com
 cdnanalytics.xyz
 cdnmaster.com
 cdntrf.com
@@ -1857,7 +1858,6 @@ thespecialsearch.com
 thingswontend.com
 thisisacoolthing.com
 thisisanothercoolthing.com
-threadloom.com
 tighting.info
 tinycounter.com
 tiser.com.au
@@ -2967,6 +2967,8 @@ jiankongbao.com
 lndata.com
 logly.co.jp
 mediav.com
+meituan.com
+meituan.net
 miaozhen.com
 mmstat.com
 oadz.com
@@ -4424,6 +4426,7 @@ retrack.q-divisioncdn.de
 sett.i12.de
 stat.clichehosting.de
 stat4.edev.at
+statistics.aldi-international.com
 statistics.klicktel.de
 statistik.motorpresse.de
 statistik.simaja.de
