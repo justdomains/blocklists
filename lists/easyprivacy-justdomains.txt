@@ -2943,6 +2943,7 @@ baifendian.com
 blog104.com
 blogtw.net
 cctvgb.com.cn
+cdnmaster.cn
 clicki.cn
 cnzz.net
 cr-nielsen.com
@@ -2967,8 +2968,6 @@ jiankongbao.com
 lndata.com
 logly.co.jp
 mediav.com
-meituan.com
-meituan.net
 miaozhen.com
 mmstat.com
 oadz.com
@@ -4510,6 +4509,7 @@ visitping.rossel.be
 zebestof.com
 analytics.styria.hr
 analytics.21cn.com
+analytics.meituan.net
 atanx.alicdn.com
 beacon.sina.com.cn
 bzclk.baidu.com
@@ -4539,6 +4539,7 @@ pos.baidu.com
 pv.hd.sohu.com
 pv.sohu.com
 r.sax.sina.com.cn
+report.meituan.com
 stat.ws.126.net
 stat.youku.com
 t.hypers.com.cn
@@ -5090,6 +5091,7 @@ mts-ws.rueducommerce.fr
 navlog.channel4.com
 nb.myspace.com
 ned.itv.com
+net.haier.com
 nm.newegg.com
 nmtracking.netflix.com
 oimg.m.cnbc.com
@@ -5647,6 +5649,7 @@ analy.qq.com
 analyse.weather.com.cn
 analytics.163.com
 analytics.nextmedia.com
+analytics.shop.hisense.com
 analytics.zhihu.com
 atm.youku.com
 bc.qunar.com
