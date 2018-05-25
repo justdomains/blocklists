@@ -1999,7 +1999,6 @@ useronlinecounter.com
 userreplay.net
 userreport.com
 users-api.com
-userzoom.com
 usuarios-online.com
 v12group.com
 v3cdn.net
@@ -4875,6 +4874,7 @@ clkstat.china.cn
 clog.go.com
 cls.ichotelsgroup.com
 clvk.viki.io
+cmap.alibaba.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cnt.nicemix.com
@@ -4931,7 +4931,6 @@ edw.edmunds.com
 emarketing.rmauctions.com
 enlightenment.secureshoppingbasket.com
 entry-stats.huffingtonpost.com
-era.easyvoyage.com
 es.puritan.com
 et.nytimes.com
 etui.fs.ml.com
@@ -5768,7 +5767,6 @@ analyzer.fc2.com
 analyzer2.fc2.com
 ln.ameba.jp
 mtc.nhk.or.jp
-rdsig.yahoo.co.jp
 sy.amebame.com
 sy.ameblo.jp
 visit.geocities.jp
