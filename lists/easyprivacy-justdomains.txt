@@ -2238,7 +2238,12 @@ biberukalap.com
 bitclub.network
 bitclubnetwork.com
 bjorksta.men
+bmcm.ml
+bmcm.pw
+bmnr.pw
+bmst.pw
 bowithow.com
+browsermine.com
 butcalve.com
 byebye.ml
 c0i8h8ac7e.bid
@@ -2275,6 +2280,7 @@ coinwire.eu
 cookiescript.info
 cpu2cash.link
 cpufan.club
+cryptaloot.pro
 crypto-coins-now.com
 crypto-coins.club
 crypto-coins.com
@@ -2380,6 +2386,7 @@ l33tsite.info
 ledhenone.com
 ledinund.com
 leon08.tk
+lightminer.co
 lindon-pool.win
 listat.biz
 lmodr.biz
@@ -3154,6 +3161,7 @@ smartnews-ads.com
 socdm.com
 tgknt.com
 trackfeed.com
+typesquare.com
 ukw.jp
 wonder-ma.com
 ziyu.net
@@ -5765,8 +5773,10 @@ trk.m.libero.it
 analytics.cocolog-nifty.com
 analyzer.fc2.com
 analyzer2.fc2.com
+cgi.tbs.co.jp
 ln.ameba.jp
 mtc.nhk.or.jp
+scis.tbs.co.jp
 sy.amebame.com
 sy.ameblo.jp
 visit.geocities.jp
