@@ -891,6 +891,7 @@ hotjar.com
 hotlog.ru
 hqhrt.com
 hs-analytics.net
+hsadspixel.net
 hudb.pl
 humanclick.com
 hunt-leads.com
@@ -2404,6 +2405,7 @@ mine.torrent.pw
 minecrunch.co
 minemytraffic.com
 miner.pr0gramm.com
+mineralt.io
 minercry.pt
 minero.cc
 minero.pw
@@ -2908,6 +2910,7 @@ goutee.top
 goyavelab.com
 graphinsider.com
 hunkal.com
+ivitrack.com
 lead-analytics.biz
 leadium.com
 libstat.com
@@ -4568,7 +4571,9 @@ pixel.cpex.cz
 stat.cncenter.cz
 stat.ringier.cz
 stats.mf.cz
+t.leady.com
 t.leady.cz
+track.leady.cz
 counter.nope.dk
 ubt.berlingskemedia.net
 cookies.reedbusiness.nl
@@ -5649,6 +5654,7 @@ tracker.cds-tracking.com
 tracker.mspy.com
 tracking.ha.rueducommerce.fr
 wbdds.allocine.fr
+footprint.anetwork.ir
 counter.search.bg
 adgeo.163.com
 al.autohome.com.cn
