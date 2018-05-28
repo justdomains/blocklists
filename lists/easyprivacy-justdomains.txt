@@ -3728,6 +3728,7 @@ data2.gosquared.com
 datam8.co.nz
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
+dd6zx4ibq538k.cloudfront.net
 demandmedia.s3.amazonaws.com
 detect.ergebnis-dienst.de
 dfanalytics.dealerfire.com
@@ -4743,7 +4744,6 @@ stats.lnol.com.ar
 stats.miarroba.info
 track.bluecompany.cl
 tracker.thinkindot.com
-cis.schibsted.com
 collector.schibsted.io
 counter.mtgnewmedia.se
 stats.dominoplaza.com
