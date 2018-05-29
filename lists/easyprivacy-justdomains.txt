@@ -249,6 +249,7 @@ baptisttop1000.com
 barilliance.net
 basicstat.com
 basilic.io
+bdash-cloud.com
 beacon.kmi-us.com
 beanstalkdata.com
 beanstock.com
@@ -334,6 +335,7 @@ bux1le001.com
 buzzdeck.com
 bytemgdd.com
 c-o-u-n-t.com
+c-rings.net
 c-webstats.de
 c.adroll.com
 c.hit.ua
@@ -3537,6 +3539,7 @@ beacon.viewlift.com
 beacon2.indieclick.com
 beacon2.indieclicktv.com
 beacons.brandads.net
+beacons.mediamelon.com
 bid.g.doubleclick.net
 bitdash-reporting.appspot.com
 bizsolutions.strands.com
@@ -5781,6 +5784,7 @@ analyzer.fc2.com
 analyzer2.fc2.com
 cgi.tbs.co.jp
 ln.ameba.jp
+measure.ameblo.jp
 mtc.nhk.or.jp
 scis.tbs.co.jp
 sy.amebame.com

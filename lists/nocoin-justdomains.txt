@@ -2,7 +2,6 @@ cnhv.co
 coin-hive.com
 coinhive.com
 authedmine.com
-gus.host
 load.jsecoin.com
 miner.pr0gramm.com
 minemytraffic.com
@@ -43,8 +42,6 @@ www.freecontent.loan
 www.freecontent.win
 www.cryptonoter.com
 www.mutuza.win
-cryweb.github.io
-crywebber.github.io
 crypto-webminer.com
 cdn.adless.io
 hegrinhar.com
