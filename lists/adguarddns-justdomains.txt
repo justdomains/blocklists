@@ -1,3 +1,4 @@
+s37.click
 adwidgets.ru
 cl5tudale.ru
 servantolog.ru
@@ -3169,6 +3170,9 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+pndelfast.com
+a.gerasopa.com
+q0zsp5e3dv.com
 onclickmega.com
 moneymakercdn.com
 vidcpm.com
@@ -4586,6 +4590,7 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+speee-ad.akamaized.net
 config.unityads.unity3d.com
 init.startappservice.com
 valshara.com
@@ -10689,6 +10694,7 @@ adtikimdtfbb.com
 adudzlhdjgof.com
 aduobooydxr.com
 aefqdgklyu.com
+aenrqpnfmdogf.com
 aerkxydrptnv.com
 aeuiazspafmbu.com
 aeunorkjuqtn.com
@@ -11097,6 +11103,7 @@ dajoetsja.com
 daxnfpzmnfdr.com
 daxzupqivdoj.com
 dbjcbnlwchgu.com
+dbjsnxncaxnpp.com
 dbojgaxhxalh.com
 dbtaclpoahri.com
 dbtglwtlxhysk.com
@@ -11937,6 +11944,7 @@ ixznwuxokydz.com
 iydghotpzofn.com
 iygdvith.com
 iylssoobxtvm.com
+izelshnkrh.com
 izhmxwivr.com
 izhvnderudte.com
 iziwhlafxitn.com
@@ -12319,6 +12327,7 @@ ljzhxfurwibo.com
 lkaarvdprhzx.com
 lkaumkxmzefa.com
 lkbvfdgqvvpk.com
+lkdlamrwl.com
 lkgcdedbklfse.com
 lkjmcevfgoxfbyhhmzambtzydolhmeelgkotdllwtfshrkhrev.com
 lkktkgcpqzwd.com
@@ -12935,6 +12944,7 @@ pwizshlkrpyh.com
 pwkzakhq.com
 pwynoympqwgg.com
 pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
+pxbugrgwy.com
 pxgkuwybzuqz.com
 pxktkwmrribg.com
 pxlcadvpqd.com
@@ -12988,6 +12998,7 @@ qfrpehkvqtyj.com
 qgevavwyafjf.com
 qgiumuzmxj.com
 qgraprebabxo.com
+qgrycwxbn.com
 qgtbxtex.com
 qhqofqeivtno.com
 qicggmagur.com
@@ -15248,6 +15259,7 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+yadropro.ru
 stat.botdetector.ru
 code.lockbot.net
 codes.royalad.pl
@@ -18898,7 +18910,6 @@ iapp-cp.nuggad.net
 abtest.mistat.xiaomi.com
 ad-analytics-bootstrap.metaps.com
 adfuture.cn
-adj.st
 adserver.snapads.com
 adsunflower.com
 adv.sec.miui.com
@@ -19010,6 +19021,7 @@ ymtracking.com
 upoll.umengcloud.com
 utop.umengcloud.com
 analy.qq.com
+staticsfs.host
 crypta.js
 eth-pocket.de
 eth-pocket.com
