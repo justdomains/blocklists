@@ -340,6 +340,7 @@ c-webstats.de
 c.adroll.com
 c.hit.ua
 c1exchange.com
+c212.net
 c3metrics.com
 c3tag.com
 c4tracking01.com
