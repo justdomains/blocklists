@@ -854,6 +854,7 @@ haveamint.com
 haymarket.com
 hdmtools.com
 heapanalytics.com
+heatmap.services
 hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
@@ -3169,7 +3170,6 @@ smartnews-ads.com
 socdm.com
 tgknt.com
 trackfeed.com
-typesquare.com
 ukw.jp
 wonder-ma.com
 ziyu.net
