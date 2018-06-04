@@ -142,6 +142,7 @@ airserve.net
 akanoo.com
 akstat.com
 akstat.io
+albacross.com
 alcmpn.com
 alcvid.com
 alenty.com
@@ -1223,6 +1224,7 @@ mxptint.net
 myaffiliateprogram.com
 myfastcounter.com
 mynewcounter.com
+mynsystems.com
 myntelligence.com
 myomnistar.com
 mypagerank.net
@@ -2190,6 +2192,7 @@ zowary.com
 zqtk.net
 zroitracker.com
 ztsrv.com
+0x1f4b0.com
 1beb2a44.space
 1q2w3.fun
 1q2w3.me
@@ -2262,6 +2265,7 @@ cfcdist.loan
 cfcnet.top
 chainblock.science
 chmproxy.bid
+clgserv.pro
 clickwith.bid
 clod.pw
 cloudcoins.co
@@ -2749,6 +2753,7 @@ meetrics.net
 mengis-linden.org
 metalyzer.com
 microcounter.de
+mindtake.com
 mitmeisseln.de
 motorpresse-statistik.de
 mps-gba.de
