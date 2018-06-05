@@ -37,9 +37,16 @@ www.sparechange.io
 static.sparechange.io
 miner.nablabee.com
 m.anyfiles.ovh
+www.coinimp.com
+www.coinimp.net
 www.freecontent.bid
+www.freecontent.date
+www.freecontent.faith
 www.freecontent.loan
+www.freecontent.racing
 www.freecontent.win
+www.blockchained.party
+www.hostingcloud.download
 www.cryptonoter.com
 www.mutuza.win
 crypto-webminer.com
@@ -213,6 +220,7 @@ xmr.cool
 api.netflare.info
 cdnjs.cloudflane.com
 www.cloudflane.com
+clgserv.pro
 hide.ovh
 graftpool.ovh
 encoding.ovh
