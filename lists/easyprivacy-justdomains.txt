@@ -3458,6 +3458,7 @@ analytics.dev.springboardvideo.com
 analytics.episodic.com
 analytics.fairfax.com.au
 analytics.favcy.com
+analytics.groupe-seb.com
 analytics.gvim.mobi
 analytics.hosting24.com
 analytics.hpprintx.com
@@ -5136,6 +5137,7 @@ pclick.internal.yahoo.com
 pclick.yahoo.com
 performances.bestofmedia.com
 pi.feedsportal.com
+pictures.zooplus.com
 ping.buto.tv
 ping.hungama.com
 ping.tvmaze.com
@@ -5183,6 +5185,7 @@ reporting.onthebeach.co.uk
 reporting.theonion.com
 reporting.wilkinsonplus.com
 request.issuu.com
+retargeting.vistaprint.com
 revsci.tvguide.com
 rok.com.com
 roll.bankofamerica.com
