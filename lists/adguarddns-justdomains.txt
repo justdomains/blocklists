@@ -4606,6 +4606,8 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+opt8.co
+ads-bidder-api.twitter.com
 speee-ad.akamaized.net
 config.unityads.unity3d.com
 init.startappservice.com
@@ -10737,6 +10739,7 @@ ahyuzjgukqyd.com
 ahzybvwdwrhi.com
 aiiaqehoqgrj.com
 aionvpexcmm.com
+aiprvqqnhm.com
 aiypulgy.com
 ajaeihzlcwvn.com
 ajfziqehnwvz.com
@@ -11104,6 +11107,7 @@ cwmycjoddoq.com
 cwofongvtbsi.com
 cwtekghutpaq.com
 cwxblalyyvbj.com
+cwxkywbndfue.com
 cwxqufxcqopi.com
 cxgwwsapihlo.com
 cxnxognwkuxm.com
@@ -11533,6 +11537,7 @@ fukchwgbsl.com
 fuurqgbfhvqx.com
 fvbeyduylvgy.com
 fvbtqaijuo.com
+fvhxlrcd.com
 fvrbloxygbrv.com
 fvrvxmksxhut.com
 fvwcwbdrprdt.com
@@ -12066,6 +12071,7 @@ jjdrwkistgfh.com
 jjekiezbshyo.com
 jjpnveujkk.com
 jjpoxurorlsb.com
+jjqoosuum.com
 jjrzlqho.com
 jjxaibzdypcb.com
 jjxsdkphpcwu.com
@@ -12453,6 +12459,7 @@ lwenrqtarmdx.com
 lwjzsigenxsl.com
 lwocvazxfnuj.com
 lwqwsptepdxy.com
+lwtsrwwlfd.com
 lwvdeqfhswg.com
 lwxkgejswn.com
 lwyjxvbcjkstxy.com
@@ -12840,6 +12847,7 @@ oonenbygymsl.com
 oosdjdhqayjm.com
 oouggjayokzx.com
 ooyhetoodapmrjvffzpmjdqubnpevefsofghrfsvixxcbwtmrj.com
+opawiftgis.com
 opencdb84508.com
 opencdb84509.com
 ophpbseelohv.com
@@ -13193,6 +13201,7 @@ rcjthosmxldl.com
 rckxwyowygef.com
 rcnkflgtxspr.com
 rczagufykvpw.com
+rdgsjybsyjj.com
 rdikvendxamg.com
 rdkdexupxcfs.com
 rdlynbosndvx.com
@@ -13465,6 +13474,7 @@ tcyeyccspxod.com
 tedlrouwixqq.com
 teqceeivmpvv.com
 tevrhhgzzutw.com
+tewycnrhnv.com
 teyuzyrjmrdi.com
 tfbzzigqzbax.com
 tfokrtmrwlkzv.com
@@ -13658,6 +13668,7 @@ uncumlzowtkn.com
 unfdjwel.com
 unffpgtoorpz.com
 unrbpcqmiybu.com
+unxuwvntk.com
 unztsvrjofqp.com
 uoarbhxfyygn.com
 uoottsfgy.com
@@ -13668,6 +13679,7 @@ uqpotqld.com
 uqqgyniatjtf.com
 urhvlgfnbdhlf.com
 urijswfbgh.com
+urjbglpktn.com
 urpscavikbyv.com
 urqxrzrphsga.com
 usoqghurirvz.com
@@ -14348,6 +14360,7 @@ zoowknbw.com
 zowhxkwzjpta.com
 zpctncydojjh.com
 zpfjfwbij.com
+zpfoyfae.com
 zpkebyxabtsh.com
 zpkobplsfnxf.com
 zpmbsivi.com
@@ -18922,6 +18935,7 @@ adeventtracker.spotify.com
 do-not-tracker.org
 eviltracker.net
 trackersimulator.org
+gcm.ksmobile.com
 api.splkmobile.com
 sdk.stats-locations.com
 config.safedk.com
