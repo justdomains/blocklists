@@ -3178,6 +3178,8 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+vhldwuv6om.com
+tfa5e.top
 adbitty.com
 800d24d61daea3c.com
 countante.info
@@ -4606,6 +4608,11 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+iqzone.com
+postitial.com
+pssvc.iqzone.com
+cdn-cf.postitial.com
+ad.adapter.kaffnet.com
 opt8.co
 ads-bidder-api.twitter.com
 speee-ad.akamaized.net
@@ -5516,6 +5523,7 @@ adagora.com
 adaos-ads.net
 adap.tv
 adapd.com
+adatrix.com
 adbard.net
 adbasket.net
 adbetclickin.pink
@@ -6813,6 +6821,7 @@ dfskgmrepts.com
 dgmatix.com
 dgmaustralia.com
 dgmaxinteractive.com
+dh2xbuwg.com
 dhundora.com
 dhuodal.com
 diamondtraff.com
@@ -9012,6 +9021,7 @@ theloungenet.com
 themidnightmatulas.com
 theodosium.com
 thepiratereactor.net
+therubiqube.com
 thewebgemnetwork.com
 thewheelof.com
 thewhizmarketing.com
@@ -11359,6 +11369,7 @@ erbsqnmglmnv.com
 erkwkjfompvt.com
 erszwzaidmlc.com
 ervpgpxr.com
+esdykqhupjp.com
 esgwceckxumg.com
 eslgydoqbedo.com
 eslydbnukkme.com
@@ -11755,6 +11766,7 @@ hibiaygg.com
 higrbwtxkjuw.com
 higygtvnzxad.com
 hilkfxdqxzac.com
+hiltrkavduozt.com
 hixuxtufzqcq.com
 hiypucxjvfka.com
 hjeoncuvklqh.com
@@ -11920,6 +11932,7 @@ iknctklddhoh.com
 ikobsqwcutnss.com
 ikvfgsftmyhn.com
 ikvltjooosqh.com
+ikxhjlsynfeo.com
 ilakffljjdpwb.com
 ilfsrsgmgbex.com
 illizuqkdqjobt.com
@@ -12342,6 +12355,7 @@ kzujizavnlxf.com
 kzwcmbypauw.com
 kzwddxlpcqww.com
 kzzqkhxjeytu.com
+lauzlpyl.com
 lavmeebdxwc.com
 lazkslkkmtpy.com
 lbbgjozyrgy.com
@@ -18935,6 +18949,10 @@ adeventtracker.spotify.com
 do-not-tracker.org
 eviltracker.net
 trackersimulator.org
+ilyonanalytics.herokuapp.com
+register.appsflyer.com
+kaffnet.com
+sdk.api.kaffnet.com
 gcm.ksmobile.com
 api.splkmobile.com
 sdk.stats-locations.com
@@ -19148,6 +19166,7 @@ ymtracking.com
 upoll.umengcloud.com
 utop.umengcloud.com
 analy.qq.com
+gitgrub.pro
 d8acddffe978b5dfcae6.date
 staticsfs.host
 crypta.js
