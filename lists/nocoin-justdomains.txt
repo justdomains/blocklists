@@ -105,8 +105,10 @@ reservedoffers.club
 mine.torrent.pw
 host.d-ns.ga
 abc.pema.cl
+js.nahnoji.cz
 mine.nahnoji.cz
 webmine.cz
+www.webmine.cz
 intactoffers.club
 analytics.blue
 smectapop12.pl
@@ -273,8 +275,16 @@ play.video2.stream.vidzi.tv
 007.0x1f4b0.com
 008.0x1f4b0.com
 authedwebmine.cz
+www.authedwebmine.cz
 skencituer.com
 site.flashx.cc
+js.vidoza.net
+mm.zubovskaya-banya.ru
+mysite.irkdsu.ru
+play.estream.nu
+play.estream.to
+play.tainiesonline.pw
+play.vidzi.tv
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
