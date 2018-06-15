@@ -3334,6 +3334,7 @@ uarating.com
 upravel.com
 uptolike.com
 uzrating.com
+variti.net
 vidigital.ru
 vira.ru
 volgograd-info.ru
@@ -4705,6 +4706,7 @@ counter.star.lg.ua
 counter.tovarro.com
 counter.wapstart.ru
 hubrus.com
+mediator.mail.ru
 metrics.aviasales.ru
 montblanc.rambler.ru
 rbc.magna.ru
@@ -5625,6 +5627,7 @@ track.cinestar.de
 trackerstatistik.init-ag.de
 tracking.autoscout24.com
 tracking.beilagen-prospekte.de
+tracking.finanzen.net
 tracking.hrs.de
 tracking.kurier.at
 tracking.mobile.de
@@ -5851,6 +5854,7 @@ log.ren.tv
 montblanc.lenta.ru
 stat.api.2gis.ru
 stat.lenta.ru
+stat.pravmir.ru
 stat.russianfood.com
 stat.woman-announce.ru
 stats.lifenews.ru
