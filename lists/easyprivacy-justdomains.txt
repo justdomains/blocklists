@@ -549,6 +549,7 @@ daylife-analytics.com
 daylogs.com
 dc-storm.com
 dc.tremormedia.com
+dcmn.com
 ddm.io
 decdna.net
 decibelinsight.net
@@ -3229,6 +3230,7 @@ engageya.com
 popstats.com.br
 sambaads.com
 tailtarget.com
+trugaze.io
 best-top.ro
 gtop.ro
 hit100.ro
@@ -4468,6 +4470,7 @@ stats.nekapuzer.at
 stats.united-domains.de
 stats.urban-media.com
 stats2.algo.at
+t.etraveli.com
 t.nativendo.de
 t.quisma.com
 tap.idg.de
