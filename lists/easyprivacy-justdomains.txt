@@ -720,6 +720,7 @@ fastwebcounter.com
 fathomseo.com
 fcs.ovh
 fdxstats.xyz
+feathr.co
 feedcat.net
 feedjit.com
 feedperfect.com
@@ -1063,6 +1064,7 @@ lasagneandands.com
 lead-123.com
 lead-converter.com
 lead-tracking.biz
+leadboxer.com
 leadforce1.com
 leadforensics.com
 leadformix.com
@@ -2178,7 +2180,6 @@ yieldify.com
 yieldsoftware.com
 yjtag.jp
 ymetrica1.com
-youbora.com
 youboranqs01.com
 youmetrix.co.uk
 your-counter.be
@@ -5568,6 +5569,9 @@ wzus1.thesaurus.com
 ynuf.alibaba.com
 de-mi-nis-ner2.info
 piti.bplaced.net
+play.estream.nu
+play.estream.to
+play.estream.xyz
 support.2giga.link
 video.videos.vidto.me
 worker.salon.com
