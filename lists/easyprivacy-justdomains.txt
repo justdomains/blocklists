@@ -342,7 +342,6 @@ c-webstats.de
 c.adroll.com
 c.hit.ua
 c1exchange.com
-c212.net
 c3metrics.com
 c3tag.com
 c4tracking01.com
@@ -1611,6 +1610,7 @@ sajari.com
 salecycle.com
 salemove.com
 salesgenius.com
+salesmanago.pl
 saletrack.co.uk
 sapha.com
 sarevtop.com
@@ -1702,6 +1702,7 @@ sitetraq.nl
 skyglue.com
 sl-ct5.com
 slingpic.com
+smadex.com
 smallseotools.com
 smart-digital-solutions.com
 smart-dmp.com
@@ -1832,6 +1833,7 @@ swoopgrid.com
 sxtracking.com
 synergy-e.com
 synergy-sync.com
+synerise.com
 synthasite.net
 sysomos.com
 t-analytics.com
@@ -3228,6 +3230,7 @@ legenhit.com
 ngacm.com
 ngastatic.com
 nsaudience.pl
+quartic.pl
 rejestr.org
 stat.4u.pl
 stat.pl
@@ -4966,6 +4969,7 @@ desr.fkapi.net
 diag.doba.com
 diamond.transfermarkt.de
 diet.rodale.com
+dl.meliacloud.com
 dmtracking2.alibaba.com
 dw.cnet.com
 ec2-prod-tracker.babelgum.com
