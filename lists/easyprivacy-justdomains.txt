@@ -1227,6 +1227,7 @@ mvtracker.com
 mxcdn.net
 mxptint.net
 myaffiliateprogram.com
+myaudience.de
 myfastcounter.com
 mynewcounter.com
 mynsystems.com
@@ -2047,6 +2048,7 @@ videostat.com
 vinlens.com
 vinub.com
 viralninjas.com
+virgul.com
 virool.com
 virtualnet.co.uk
 visibility-stats.com
@@ -3654,6 +3656,7 @@ counter.scribblelive.com
 counter.scribblelive.net
 counter.snackly.co
 counter.sparklit.com
+counter.tldw.me
 counter.top.ge
 counter.webcom.com
 counter.webmasters.bpath.com
@@ -3979,6 +3982,7 @@ partners.thefilter.com
 passport.pfn.bz
 pebed.dm.gg
 peermapcontent.affino.com
+performance.typekit.net
 perr.h-cdn.com
 petitionermaster.appspot.com
 pf.aclst.com
@@ -5072,6 +5076,7 @@ log.go.com
 log.mappy.net
 log.newsvine.com
 log.optimizely.com
+log.prezi.com
 log.snapdeal.com
 log.thevideo.me
 log.vdn.apps.cntv.cn
