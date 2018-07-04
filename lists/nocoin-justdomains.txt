@@ -211,6 +211,8 @@ jqcdn01.herokuapp.com
 jqcdn03.herokuapp.com
 1q2w3.website
 video.videos.vidto.me
+play.play1.videos.vidto.me
+playe.vidto.se
 video.streaming.estream.to
 eth-pocket.de
 xvideosharing.site
