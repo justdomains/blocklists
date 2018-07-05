@@ -866,6 +866,7 @@ heystaks.com
 hiconversion.com
 higherengine.com
 highmetrics.com
+hira-meki.jp
 histats.com
 hit-counter-download.com
 hit-counter.info
@@ -4352,6 +4353,7 @@ tracking2.channeladvisor.com
 tracking2.interweave.com
 trackingapi.cloudapp.net
 trackingdev.nixxie.com
+trackla.stackla.com
 tracksys.developlabs.net
 traffic.acwebconnecting.com
 traffic.belaydevelopment.com
@@ -4887,6 +4889,7 @@ beacon.lycos.com
 beacon.netflix.com
 beacon.nuskin.com
 beacon.search.yahoo.com
+beacon.toyota.co.jp
 beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
