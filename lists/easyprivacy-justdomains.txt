@@ -1289,6 +1289,7 @@ newstatscounter.info
 nexeps.com
 nextstat.com
 ngmco.net
+nicequest.com
 nicewii.com
 niftymaps.com
 nik.io
@@ -1872,6 +1873,7 @@ tgdaudience.com
 theadex.com
 theagency.com
 thebestlinks.com
+thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
 thermstats.com
@@ -3241,6 +3243,7 @@ stat.pl
 tagcdn.com
 volvelle.tech
 way2traffic.com
+denakop.com
 engageya.com
 popstats.com.br
 sambaads.com
@@ -4372,6 +4375,7 @@ trk.email.dynect.net
 trk.pswec.com
 trk.sele.co
 trk.vindicosuite.com
+tru.webelapp.com
 try.abtasty.com
 ts.tradetracker.net
 tt.onthe.io
@@ -4702,7 +4706,9 @@ tracking.novem.pl
 api.nobeta.com.br
 contadorgratis.web-kit.org
 hitserver.ibope.com.br
+nctrk.abmail.com.br
 track.e7r.com.br
+trk.absuite.com.br
 webstats.sapo.pt
 profiling.avandor.com
 top.skyzone.ro
@@ -5866,6 +5872,7 @@ g.bit.pt
 g.bitmag.com.br
 log.r7.com
 logger.rm.uol.com.br
+logger.uol.com.br
 metrics.uol.com.br
 tm.jsuol.com.br
 tm.uol.com.br
