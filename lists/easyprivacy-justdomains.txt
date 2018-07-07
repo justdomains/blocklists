@@ -3528,6 +3528,7 @@ analytics.websolute.it
 analytics.wildtangent.com
 analytics.yola.net
 analytics.yolacdn.net
+analytics.ziftsolutions.com
 analyticsengine.s3.amazonaws.com
 analyze.full-marke.com
 analyzer.qmerce.com
@@ -4333,6 +4334,7 @@ tracking.listhub.net
 tracking.livingsocial.com
 tracking.maxcdn.com
 tracking.musixmatch.com
+tracking.pacharge.com
 tracking.performgroup.com
 tracking.plattformad.com
 tracking.plinga.de
