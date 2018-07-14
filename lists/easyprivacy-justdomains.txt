@@ -3111,7 +3111,6 @@ contatoreaccessi.com
 cuntador.com
 digital-metric.com
 dnab.info
-exsigma.eu
 freecounter.it
 freestat.ws
 freestats.biz
@@ -3241,7 +3240,6 @@ legenhit.com
 ngacm.com
 ngastatic.com
 nsaudience.pl
-quartic.pl
 rejestr.org
 stat.4u.pl
 stat.pl
@@ -3935,6 +3933,7 @@ lunametrics.wpengine.netdna-cdn.com
 m.addthisedge.com
 m.trb.com
 magnify360-cdn.s3.amazonaws.com
+marketing.net.jumia.com.ng
 marketinghub.hp.com
 mas.nth.ch
 mcs.delvenetworks.com
@@ -5865,7 +5864,6 @@ click.vgnett.no
 fusion.nettavisen.no
 webhit.aftenposten.no
 analytics.gazeta.pl
-audycje.tokfm.pl
 dot.wp.pl
 entryhit.wp.pl
 mklik.gazeta.pl
