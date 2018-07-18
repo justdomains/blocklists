@@ -119,6 +119,7 @@ adultblogtoplist.com
 adunity.com
 advanced-web-analytics.com
 advconversion.com
+advertising.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -4368,7 +4369,6 @@ tracksys.developlabs.net
 traffic.acwebconnecting.com
 traffic.belaydevelopment.com
 traffic.prod.cobaltgroup.com
-traffic.pubexchange.com
 traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trakksocial.googlecode.com
@@ -5912,6 +5912,7 @@ estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
 g.siliconweek.es
 hits.antena3.com
+pixel.europapress.net
 stats.milenio.com
 ai.idg.se
 beacon.mtgx.tv
