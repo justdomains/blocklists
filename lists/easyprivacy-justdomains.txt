@@ -5199,6 +5199,7 @@ pclick.europe.yahoo.com
 pclick.internal.yahoo.com
 pclick.yahoo.com
 performances.bestofmedia.com
+pf.newegg.com
 pi.feedsportal.com
 pictures.zooplus.com
 ping.buto.tv
