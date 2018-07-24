@@ -459,6 +459,7 @@ commander1.com
 company-target.com
 compteur.cc
 comradepony.com
+conductrics.com
 confirmational.com
 confirmit.com
 contactmonkey.com
@@ -906,6 +907,7 @@ hotlog.ru
 hqhrt.com
 hs-analytics.net
 hsadspixel.net
+hubvisor.io
 hudb.pl
 humanclick.com
 hunt-leads.com
@@ -1103,6 +1105,7 @@ livecount.fr
 livehit.net
 livesegmentservice.com
 livestat.com
+livetrafficfeed.com
 lloogg.com
 lockview.cn
 locotrack.net
@@ -4859,6 +4862,7 @@ analytics.247sports.com
 analytics.adfreetime.com
 analytics.archive.org
 analytics.bloomberg.com
+analytics.brave.com
 analytics.ecosia.org
 analytics.femalefirst.co.uk
 analytics.global.sky.com
@@ -5856,6 +5860,7 @@ click.tv.repubblica.it
 emng.libero.it
 g.techweekeurope.it
 livestats.la7.tv
+sa.sky.it
 siteinfo.libero.it
 stats.splinder.com
 track.tesiteca.it
