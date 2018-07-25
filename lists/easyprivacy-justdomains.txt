@@ -698,6 +698,7 @@ ewebanalytics.com
 ewebcounter.com
 exactag.com
 exclusiveclicks.com
+exitbee.com
 exitmonitor.com
 exovueplatform.com
 explore-123.com
@@ -4109,6 +4110,7 @@ sadv.dadapro.com
 sana.newsinc.com
 scout.haymarketmedia.com
 scripts.psyma.com
+sdrive.skoda-auto.com
 search.mediatarget.net
 searchstats.usa.gov
 secure.ifbyphone.com
@@ -5029,6 +5031,7 @@ ev.kck.st
 event-reporting-dot-webylytics.appspot.com
 eventlog.jackpot.de
 eventlogger.soundcloud.com
+events.jora.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
