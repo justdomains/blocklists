@@ -1151,6 +1151,8 @@ marinsm.com
 market015.com
 market2lead.com
 marketizator.com
+marketshot.com
+marketshot.fr
 markitondemand.com
 martianstats.com
 maryneallynndyl.com
@@ -3273,10 +3275,13 @@ popstats.com.br
 sambaads.com
 tailtarget.com
 trugaze.io
+2parale.ro
+2performant.com
 best-top.ro
 gtop.ro
 hit100.ro
 profitshare.ro
+retargeting.biz
 statistics.ro
 top-ro.ro
 trafix.ro
@@ -3711,6 +3716,7 @@ curate.nestedmedia.com
 cx.atdmt.com
 d.shareaholic.com
 d10lpsik1i8c69.cloudfront.net
+d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
@@ -3925,6 +3931,7 @@ licensing.bitmovin.com
 link.americastestkitchencorp.com
 link.huffingtonpost.com
 link.informer.com
+link.tym.cool
 livecounter.theyosh.nl
 livestats.kaltura.com
 log.artipbox.net
