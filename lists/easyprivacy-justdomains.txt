@@ -256,6 +256,7 @@ basicstat.com
 basilic.io
 bdash-cloud.com
 beacon.kmi-us.com
+beampulse.com
 beanstalkdata.com
 beanstock.com
 bebj.com
@@ -922,6 +923,7 @@ hypestat.com
 i-stats.com
 i401xox.com
 iadvize.com
+iaudienc.com
 ib-ibi.com
 ibpxl.com
 ibpxl.net
@@ -3585,6 +3587,7 @@ barium.cheezdev.com
 basilic.netdna-cdn.com
 bat.bing.com
 beacon.affil.walmart.com
+beacon.aimtell.com
 beacon.errorception.com
 beacon.gcion.com
 beacon.gu-web.net
@@ -3934,6 +3937,7 @@ link.informer.com
 link.tym.cool
 livecounter.theyosh.nl
 livestats.kaltura.com
+log.aimtell.com
 log.artipbox.net
 log.ideamelt.com
 log.invodo.com
