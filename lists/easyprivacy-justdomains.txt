@@ -220,6 +220,7 @@ athenainstitute.biz
 atoshonetwork.com
 atticwicket.com
 attracta.com
+attraqt.com
 attributionapp.com
 audienceamplify.com
 audienceiq.com
@@ -1324,6 +1325,7 @@ nuloox.com
 numerino.cz
 nyctrl32.com
 nytlog.com
+o-s.io
 observerapp.com
 octavius.rocks
 octomarket.com
@@ -2948,6 +2950,7 @@ antvoice.com
 atraxio.com
 browsiprod.com
 canalstat.com
+carts.guru
 casualstat.com
 coll1onf.com
 compteur-fr.com
@@ -2980,6 +2983,7 @@ mb-srv.com
 megast.at
 mmtro.com
 ncdnprorogeraie.lol
+netvigie.com
 phywi.org
 poool.fr
 reseau-pub.com
@@ -5212,6 +5216,7 @@ ophan.guardian.co.uk
 optimize-stats.voxmedia.com
 origin-tracking.trulia.com
 origin.chron.com
+pageinfo.motorsport.com
 partner.worldoftanks.com
 partners.badongo.com
 partners.mysavings.com
@@ -5500,7 +5505,6 @@ t2.hulu.com
 t2.huluim.com
 tag-stats.huffpost.com
 tags.msnbc.com
-tags.news.com.au
 tags.transportdirect.info
 tagx.nytimes.com
 tck.bangbros.com
@@ -5736,6 +5740,7 @@ dm.hugolescargot.com
 dm.journaldesfemmes.com
 dm.journaldunet.com
 dm.linternaute.com
+ea.celio.com
 ea.clubic.com
 ea.jeuxvideopc.com
 ea.lexpress.fr
