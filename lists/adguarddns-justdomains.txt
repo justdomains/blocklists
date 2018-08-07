@@ -4319,6 +4319,7 @@ zaperplop.info
 zedo.com
 zeti.com
 zptncsir.com
+d3pvcolmug0tz6.cloudfront.net
 secure.iqmining.com
 delivery.content-recommendation.net
 apps2.ctnetpass2.com
@@ -7042,7 +7043,6 @@ connectionads.com
 connexity.net
 connexplace.com
 connextra.com
-consciouschairs.com
 consivenu.com
 constintptr.com
 construment.com
@@ -19411,6 +19411,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+logs.ntvplus.tv
 alb.reddit.com
 p.vtracy.de
 tracker.brainsins.com
