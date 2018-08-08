@@ -1268,6 +1268,7 @@ naj.sk
 nakanohito.jp
 nalook.com
 nanovisor.io
+natero.com
 native.ai
 natpal.com
 naturaltracking.com
@@ -5540,6 +5541,7 @@ stats.tvmaze.com
 stats.uswitch.com
 stats.vc.gg
 stats.video.search.yahoo.com
+stats.videodelivery.net
 stats.visistat.com
 stats.vulture.com
 stats.wordpress.com
