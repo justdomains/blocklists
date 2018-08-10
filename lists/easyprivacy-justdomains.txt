@@ -5133,6 +5133,7 @@ g.msn.com
 g.techweekeurope.co.uk
 ga.canoe.ca
 ga.nsimg.net
+gateway.reddit.com
 gcpdata.telegraph.co.uk
 gekko.spiceworks.com
 geo.hltv.org
@@ -5969,6 +5970,7 @@ yjtag.yahoo.co.jp
 count.munhwa.com
 gather.hankyung.com
 hits.zdnet.co.kr
+log.sv.pandora.tv
 track.tiara.daum.net
 veta.naver.com
 wcs.naver.com
