@@ -1159,6 +1159,7 @@ marketizator.com
 marketshot.com
 marketshot.fr
 markitondemand.com
+maropost.com
 martianstats.com
 maryneallynndyl.com
 masterstats.com
@@ -1755,6 +1756,7 @@ sodoit.com
 soflopxl.com
 softonic-analytics.net
 sojern.com
+soko.ai
 sokrati.com
 sometrics.com
 sophus3.com
@@ -5133,7 +5135,6 @@ g.msn.com
 g.techweekeurope.co.uk
 ga.canoe.ca
 ga.nsimg.net
-gateway.reddit.com
 gcpdata.telegraph.co.uk
 gekko.spiceworks.com
 geo.hltv.org
