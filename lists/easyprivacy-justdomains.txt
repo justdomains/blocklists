@@ -1454,6 +1454,7 @@ pntra.com
 pntrac.com
 pntrs.com
 pointomatic.com
+polarcdn-pentos.com
 popsample.com
 popt.in
 populr.me
@@ -2719,6 +2720,8 @@ adclear.net
 adcrowd.com
 addcontrol.net
 admeira.ch
+adnz.co
+adquality.ch
 adrank24.de
 adtraxx.de
 adzoe.de
@@ -5740,6 +5743,9 @@ cpx.golem.de
 cpxl.golem.de
 dpm.bluray-disc.de
 dw-eu.com.com
+ens.luzernerzeitung.ch
+ens.nzz.ch
+ens.tagblatt.ch
 event.dkb.de
 extszm.web.de
 fc.vodafone.de
