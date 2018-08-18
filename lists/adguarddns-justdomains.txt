@@ -3250,6 +3250,8 @@ theblackdeath.ru
 tiz.miladynews.ru
 tizer.rupornophoto.com
 ts2.hockey-talks.com
+brdlplgvdq.com
+click.advertnative.com
 xilfqkxezy.com
 docqacvwhgbxv.com
 legistrike.pro
@@ -3880,7 +3882,6 @@ misosoup.io
 nurno.com
 advertica-cdn.com
 torabri.com
-cdn.ywxi.net
 apploading.mobi
 trflog.com
 attirerpage.com
@@ -8871,6 +8872,7 @@ pushance.com
 pushbaddy.com
 pushbasic.com
 pushdusk.com
+pusheify.com
 pusherism.com
 pushimer.com
 pushnest.com
@@ -9074,6 +9076,7 @@ rometroit.com
 rosemand.pro
 rotatingad.com
 rotorads.com
+rotumal.com
 roughted.com
 rovion.com
 roxyaffiliates.com
@@ -11177,6 +11180,7 @@ eqhawyidkdug.com
 ewopxadcn.com
 fhtlyoqzyjjof.com
 flbecoidmt.com
+flnqkhnqjcmvp.com
 ftymzxmic.com
 fxdglnldbnyq.com
 fzccvcrsbtb.com
@@ -11198,10 +11202,13 @@ kacfofrcndc.com
 katxkxcncwool.com
 kfxrukfzqazrs.com
 klhjuuwrmxyjsn.com
+kujwlsnl.com
 lbaybxwiklnfe.com
 llhjbwcjnuii.com
 ltvrdftgr.com
+lvcrcimfmfx.com
 mhhjdlsnji.com
+mldsiekmhy.com
 msoiqafieh.com
 nbvbblmksiahf.com
 ngptxgpbdnutvi.com
@@ -11239,12 +11246,14 @@ utmcttmdaoqd.com
 uubxhbwnwmfqp.com
 uwidtpjwh.com
 uzylpwfamhcb.com
+vbjpddtj.com
 veoujrnenng.com
 vlhdmywfi.com
 vrzparvhipmo.com
 vsrpztnxdejo.com
 vsxjjmyz.com
 vtmkgqcvzvlsdt.com
+vuwojxgklca.com
 vyjwsifvybc.com
 wcyqoiyohhav.com
 wdjbxcdriyjoeu.com
@@ -11253,6 +11262,7 @@ widpzvyx.com
 wjgddzpvx.com
 wmqdgaptep.com
 wozltvfxtntaqk.com
+wyuakcwxmiunqj.com
 wzismevwhqixlq.com
 wznnfwhwwjkp.com
 xsgacudwlysw.com
@@ -11261,6 +11271,7 @@ yaikleyabl.com
 ydolseawnutnf.com
 yjijmpezje.com
 yjwymbwcjyfed.com
+ykixjehac.com
 yvlmcehqt.com
 yxbglezas.com
 zlgokeby.com
@@ -19511,6 +19522,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+prd-collector-anon-video.playbuzz.com
 tracking.deluxe-marketing.com
 logs.ntvplus.tv
 alb.reddit.com
