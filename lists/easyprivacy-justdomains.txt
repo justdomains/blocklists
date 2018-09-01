@@ -4341,6 +4341,7 @@ tagger.opecloud.com
 tags.master-perf-tools.com
 tags.newscgp.com
 target.fark.com
+target.mixi.media
 targeting.wpdigital.net
 tc.airfrance.com
 te.supportfreecontent.com
@@ -4380,6 +4381,7 @@ track.mobicast.io
 track.mycliplister.com
 track.omg2.com
 track.parse.ly
+track.prezna.com
 track.pricespider.com
 track.propelplus.com
 track.qcri.org
