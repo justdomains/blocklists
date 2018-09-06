@@ -1576,6 +1576,7 @@ reson8.com
 responsetap.com
 retags.us
 retargetly.com
+retargettracker.com
 retentionscience.com
 reussissonsensemble.fr
 revdn.net
@@ -3723,6 +3724,7 @@ cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 chartaca.com.s3.amazonaws.com
+clarium.global.ssl.fastly.net
 click.appinthestore.com
 click.aristotle.net
 click.geopaysys.com
