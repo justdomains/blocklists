@@ -80,6 +80,7 @@ ad-score.com
 adabra.com
 adalyser.com
 adblade.com
+adblockrelief.com
 adchemix.com
 adchemy-content.com
 adchemy.com
@@ -538,7 +539,6 @@ d-1.co
 d41.co
 dable.io
 dacounter.com
-dadi.technology
 dailycaller-alerts.com
 dapxl.com
 dashboard.io
@@ -1417,6 +1417,7 @@ performtracking.com
 perimeterx.net
 perion.com
 permutive.com
+personalicanvas.com
 personyze.com
 phonalytics.com
 phone-analytics.com
@@ -1750,6 +1751,7 @@ sniperlog.ru
 sniphub.com
 snoobi.com
 snowsignal.com
+social-sb.com
 socialhoney.co
 socialprofitmachine.com
 socialtrack.co
@@ -2014,6 +2016,7 @@ tsw0.com
 tubetrafficcash.com
 twcount.com
 twopointo.io
+txmoadserver.net
 tylere.net
 tynt.com
 tyxo.com
@@ -2598,6 +2601,7 @@ spacepools.org
 sparechange.io
 sparnove.com
 static-cnt.bid
+static-sb.com
 staticsfs.host
 statistic.date
 stonecalcom.com
@@ -3071,6 +3075,7 @@ tget.me
 titag.com
 tnsinternet.be
 toc.io
+tracking.wlscripts.net
 trafiz.net
 url-stats.net
 webcompteur.com
@@ -5365,6 +5370,7 @@ rta.dailymail.co.uk
 rta2.metro.co.uk
 rtn.thestar.com
 s.infogr.am
+s.infogram.com
 s2.youtube.com
 sa.bbc.co.uk
 sa.bbc.com
