@@ -3513,9 +3513,11 @@ mabaya.com
 micodigo.com
 seedtag.com
 adsettings.com
+adten.eu
 adtlgc.com
 adtraction.com
 bonnieradnetwork.se
+brandmetrics.com
 citypaketet.se
 dep-x.com
 myvisitors.se
@@ -3523,10 +3525,12 @@ prospecteye.com
 publish-int.se
 research-int.se
 sifomedia.se
+suntcontent.se
 tidningsnatet.se
 tns-sifo.se
 vastpaketet.se
 webserviceaward.com
+worldoftulo.com
 d-stats.com
 tracker.stats.in.th
 truehits.net
@@ -4925,6 +4929,7 @@ track.bluecompany.cl
 tracker.thinkindot.com
 collector.schibsted.io
 counter.mtgnewmedia.se
+evt.klarna.com
 stats.dominoplaza.com
 vizzit.se
 sal.isanook.com
@@ -6057,8 +6062,10 @@ hits.antena3.com
 pixel.europapress.net
 stats.milenio.com
 ai.idg.se
+ax.idg.se
 beacon.mtgx.tv
 fusion.bonniertidskrifter.se
+gx.idg.se
 prod-metro-collector.cloudapp.net
 stat.nyheter24.se
 c.gazetevatan.com
