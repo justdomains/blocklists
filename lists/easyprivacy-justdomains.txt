@@ -200,6 +200,7 @@ apicit.net
 apollofind.com
 appared.online
 appboycdn.com
+appn.center
 aprtn.com
 aprtx.com
 aqtracker.com
@@ -1671,6 +1672,7 @@ selaris.com
 selipuquoe.com
 sellebrity.com
 sellpoints.com
+sellsy.com
 semantic-finder.com
 semanticverses.com
 semasio.net
@@ -3963,6 +3965,7 @@ fluidsurveys-com.fs.cm
 friends.totallynsfw.com
 g.delivery.net
 ga-beacon.appspot.com
+ga.kvideo.io
 ga.webdigi.co.uk
 geo.ertya.com
 geo.gorillanation.com
