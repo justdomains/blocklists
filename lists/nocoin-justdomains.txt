@@ -2,7 +2,9 @@ cnhv.co
 coin-hive.com
 coinhive.com
 authedmine.com
+api.jsecoin.com
 load.jsecoin.com
+server.jsecoin.com
 miner.pr0gramm.com
 minemytraffic.com
 ppoi.org
