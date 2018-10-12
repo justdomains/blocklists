@@ -1407,6 +1407,7 @@ pathful.com
 pc1.io
 pclicks.com
 pcspeedup.com
+pdbu.net
 peerius.com
 percentmobile.com
 perfdrive.com
@@ -1504,6 +1505,7 @@ purevideo.com
 putags.com
 pxf.io
 pxi.pub
+pymx5.com
 pzkysq.pink
 q-counter.com
 q-stats.nl
@@ -4320,6 +4322,7 @@ stats.whicdn.com
 stats.wp.com
 stats.yme.com
 stats.yourminis.com
+stats.zotabox.com
 stats1.tune.pk
 stats2.lightningcast.net
 stats3.unrulymedia.com
