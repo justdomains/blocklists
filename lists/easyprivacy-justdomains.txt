@@ -803,6 +803,7 @@ fuse-data.com
 fusestats.com
 fuziontech.net
 fyreball.com
+gameanalytics.com
 gammachug.com
 gaug.es
 gbotvisit.com
@@ -1004,6 +1005,7 @@ ip2location.com
 ip2map.com
 ip2phrase.com
 ipaddresslabs.com
+ipapi.co
 ipcatch.com
 ipcounter.de
 iperceptions.com
@@ -1640,6 +1642,8 @@ salecycle.com
 salemove.com
 salesgenius.com
 salesmanago.pl
+salesviewer.com
+salesviewer.org
 saletrack.co.uk
 sapha.com
 sarevtop.com
@@ -2021,6 +2025,7 @@ tst14netreal.com
 tstlabs.co.uk
 tsw0.com
 tubetrafficcash.com
+tunnl.com
 twcount.com
 twopointo.io
 txmoadserver.net
@@ -4358,7 +4363,6 @@ t.theoutplay.com
 t.ymlp275.net
 t2.t2b.click
 tag-abe.cartrawler.com
-tag.aticdn.net
 tag.brandcdn.com
 tag.email-attitude.com
 tag.myplay.com
@@ -5279,6 +5283,7 @@ metrics.extremetech.com
 metrics.tbliab.net
 metrics.ted.com
 metrics.washingtonpost.com
+metrigo.zalan.do
 mint.boingboing.net
 mmm.theweek.co.uk
 mms.al.com
