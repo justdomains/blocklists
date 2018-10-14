@@ -1044,6 +1044,7 @@ jsid.info
 jstracker.com
 jump-time.net
 jumptime.com
+junta.net
 justuno.com
 jwmstats.com
 k-analytix.com
@@ -1235,6 +1236,7 @@ mousetrace.com
 movable-ink-6710.com
 mparticle.com
 mplxtms.com
+mppapi.io
 mpstat.us
 msgapp.com
 msgtag.com
@@ -3618,9 +3620,11 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.dev.springboardvideo.com
+analytics.dvidshub.net
 analytics.episodic.com
 analytics.fairfax.com.au
 analytics.favcy.com
+analytics.foresee.com
 analytics.groupe-seb.com
 analytics.gvim.mobi
 analytics.hosting24.com
