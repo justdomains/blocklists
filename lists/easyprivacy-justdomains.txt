@@ -5824,6 +5824,7 @@ rl.heise.de
 rwt.reichelt.de
 s.edeka.de
 s.fsphp.t-online.de
+statistics.riskommunal.net
 stats.bmw.de
 stats.daserste.de
 stats01.20min.ch
