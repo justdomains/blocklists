@@ -2059,6 +2059,7 @@ urlbrief.com
 urlself.com
 usabilitytools.com
 usabilla.com
+useitbetter.com
 user-api.com
 user-clicks.com
 user-red.com
@@ -3772,6 +3773,7 @@ cm.g.doubleclick.net
 cms-pixel.crowdreport.com
 cnt.3dmy.net
 cnt.mastorage.net
+cod.bitrec.com
 collect.rewardstyle.com
 collection.acromas.com
 collector.air.tv
@@ -3874,6 +3876,7 @@ d2ry9vue95px0b.cloudfront.net
 d2so4705rl485y.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
+d2wzl9lnvjz3bh.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d3135glefggiep.cloudfront.net
@@ -3969,6 +3972,7 @@ events.marquee-cdn.net
 events.medio.com
 events.realgravity.com
 events.whisk.com
+events.yourcx.io
 eventtracker.videostrip.com
 experience.contextly.com
 fastcounter.bcentral.com
@@ -4069,6 +4073,7 @@ logger.logidea.info
 logger.snackly.co
 logger.sociablelabs.com
 logging.carambo.la
+logging.prefixbox.com
 loggingapi.spingo.com
 logs.spilgames.com
 logs.thebloggernetwork.com
