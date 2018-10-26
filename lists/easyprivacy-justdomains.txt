@@ -665,6 +665,7 @@ ep4p.com
 eperfectdata.com
 epilot.com
 epiodata.com
+episerver.net
 epitrack.com
 eproof.com
 eps-analyzer.de
@@ -1822,6 +1823,7 @@ statisfy.net
 statistiche-web.com
 statistx.com
 statowl.com
+statpipe.ru
 stats-analytics.info
 stats.cz
 stats2.com
@@ -2236,6 +2238,7 @@ yieldbot.com
 yieldify.com
 yieldsoftware.com
 yjtag.jp
+yldr.io
 ymetrica1.com
 youboranqs01.com
 youmetrix.co.uk
@@ -3300,7 +3303,6 @@ counter.ok.ee
 mediaindex.ee
 frosmo.com
 gallupnet.fi
-inpref.com
 kavijaseuranta.fi
 m-brain.fi
 netmonitor.fi
@@ -3964,7 +3966,6 @@ d2ry9vue95px0b.cloudfront.net
 d2so4705rl485y.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
-d2wzl9lnvjz3bh.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d3135glefggiep.cloudfront.net
@@ -4022,6 +4023,7 @@ dnn506yrbagrg.cloudfront.net
 doug1izaerwt3.cloudfront.net
 ds-aksb-a.akamaihd.net
 dt.sellpoint.net
+du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dufue2m4sondk.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
@@ -4874,7 +4876,6 @@ cookies.reedbusiness.nl
 hottraffic.nl
 statistics.rbi-nl.com
 counter.zone.ee
-inpref.s3.amazonaws.com
 insight.fonecta.fi
 links.boom.ge
 analytics.dol.gr
@@ -5245,6 +5246,7 @@ dmtracking2.alibaba.com
 dw.cnet.com
 ec2-prod-tracker.babelgum.com
 edw.edmunds.com
+ekg.riotgames.com
 emarketing.rmauctions.com
 enlightenment.secureshoppingbasket.com
 entry-stats.huffingtonpost.com
@@ -5514,6 +5516,7 @@ session-tracker.badcreditloans.com
 sidebar.issuu.com
 sitelife.ehow.com
 sixpack.udimg.com
+slipstream.skyscanner.net
 smetrics.att.com
 smetrics.delta.com
 snowplow-collector.sugarops.com
