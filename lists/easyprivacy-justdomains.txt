@@ -5437,6 +5437,7 @@ pclick.internal.yahoo.com
 pclick.yahoo.com
 performances.bestofmedia.com
 pf.newegg.com
+phar.gu-web.net
 pi.feedsportal.com
 pictures.zooplus.com
 ping.buto.tv
