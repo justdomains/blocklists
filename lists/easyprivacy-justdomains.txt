@@ -107,6 +107,7 @@ admother.com
 adnxs.com
 adoftheyear.com
 adoric-om.com
+adpaths.com
 adpies.com
 adprotraffic.com
 adrizer.com
@@ -124,6 +125,7 @@ adunity.com
 advanced-web-analytics.com
 advconversion.com
 advertising.com
+adwstats.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -3421,8 +3423,12 @@ trackfeed.com
 ukw.jp
 wonder-ma.com
 ziyu.net
+adpick.co.kr
+adtive.com
 contentsfeed.com
 logger.co.kr
+oevery.com
+tenping.kr
 cms.lv
 erotop.lv
 on-line.lv
@@ -5492,7 +5498,6 @@ revsci.tvguide.com
 rok.com.com
 roll.bankofamerica.com
 rt.prnewswire.com
-rt.rakuten.co.jp
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtn.thestar.com
