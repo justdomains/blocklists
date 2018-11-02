@@ -397,6 +397,7 @@ centraltag.com
 cetrk.com
 cformanalytics.com
 cftrack.com
+cguru.ga
 chardneave.info
 chartaca.com
 chartbeat.net
@@ -4016,7 +4017,6 @@ dd6zx4ibq538k.cloudfront.net
 demandmedia.s3.amazonaws.com
 detect.ergebnis-dienst.de
 dfanalytics.dealerfire.com
-dig.ultimedia.com
 dirt.dennis.co.uk
 distillery.wistia.com
 djibeacon.djns.com
