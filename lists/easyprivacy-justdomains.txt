@@ -79,6 +79,7 @@ acuityplatform.com
 acxiom-online.com
 acxiomapac.com
 ad-score.com
+ad.gt
 adabra.com
 adalyser.com
 adblade.com
@@ -5854,6 +5855,7 @@ webstats.perfectworld.com
 whoson.smcorp.com
 winter.metacafe.com
 ws.yellowpages.ca
+wstats.e-wok.tv
 wtk.db.com
 wusstrack.wunderground.com
 wzus.askkids.com
