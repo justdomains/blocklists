@@ -3338,6 +3338,8 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+daibusee.com
+gsasd.info
 vulevision.info
 ad.linkprice.com
 outbanner.hu.co.kr
@@ -17696,6 +17698,7 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+xl-trk.com
 168logger.com
 nxcount.com
 t.seesaa.net

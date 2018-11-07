@@ -536,6 +536,7 @@ customer.io
 customerconversio.com
 customerdiscoverytrack.com
 cux.io
+cvtr.io
 cxt.ms
 cya2.net
 cybermonitor.com
@@ -1325,6 +1326,7 @@ nicequest.com
 nicewii.com
 niftymaps.com
 nik.io
+nile.works
 noowho.com
 nordicresearch.com
 notifyvisitors.com
@@ -3961,6 +3963,7 @@ d1z2jf7jlzjs58.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
+d23pi6hvdpcc5i.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
@@ -4644,6 +4647,7 @@ ucounter.ucoz.net
 upt.graphiq.com
 urc.taboolasyndication.com
 userlog.synapseip.tv
+usersegment.wpdigital.net
 vertical-stats.huffpost.com
 video-ad-stats.googlesyndication.com
 visit.geocities.com
