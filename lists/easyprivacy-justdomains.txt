@@ -4912,6 +4912,7 @@ fb_servpub-a.akamaihd.net
 fcstats.altervista.org
 livestats.matrix.it
 log.superweb.ws
+logger.kataweb.it
 nanostats.nanopress.it
 rcsmetrics.it
 rd.alice.it
