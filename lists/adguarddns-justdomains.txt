@@ -20458,6 +20458,7 @@ zowary.com
 zqtk.net
 zroitracker.com
 functionalclam.com
+actuallysnake.com
 bulbbait.com
 referdriving.com
 innocentinvention.com
@@ -24190,6 +24191,7 @@ fb_servpub-a.akamaihd.net
 fcstats.altervista.org
 livestats.matrix.it
 log.superweb.ws
+logger.kataweb.it
 nanostats.nanopress.it
 rcsmetrics.it
 rd.alice.it
