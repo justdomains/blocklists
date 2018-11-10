@@ -1,3 +1,4 @@
+wer.glib-cough.fun
 bashirian.biz
 ecadikenaz.com
 ubfhq.top
@@ -142,14 +143,12 @@ ekkhgwp5atpuxdq.ru
 dhygr.com
 ocatdog.today
 fer-ta.com
-oblivki.biz
 ocatdog.live
 qeyps.com
 fkehg.com
 fsfrz.xyz
 mobi-bobi.info
 zdorovmagazine.ru
-mrelko.com
 prosmazke.ru
 hkbpt.com
 rjjtf.biz
@@ -195,9 +194,9 @@ harolmo.ru
 native.ext.media
 tle.ru
 bearsandfish.com
-pelicansource.com
 adsgid.com
 adfill.me
+pelicansource.com
 osdoma.xyz
 1177ea804fbd7d1430c4.date
 buawdshes.ru
@@ -241,12 +240,12 @@ for.health-net-lady.ru
 node.market-place.su
 mipwm.com
 well365.ru
-omasovizac.com
 ypfdp.com
 qoheo.com
 metertna.ru
 nitsano.ru
 turmene.ru
+omasovizac.com
 foganonura.com
 livesurf.ru
 adblender.ru
@@ -258,12 +257,12 @@ sajtiket.ru
 vucovorise.com
 ajx130.online
 vidroll.ru
-sandensi.ru
 kriteriatika.ru
 block.s2blosh.com
 aliru4.ru
 reytata.ru
 a.ruporn.me
+sandensi.ru
 oznibal.ru
 vadideo.com
 aymcsx.ru
@@ -716,6 +715,7 @@ nehuha.ru
 pabrashu.info
 anobufefig.com
 clicktoclick.ru
+mrelko.com
 wom8day.ru
 pgold.pro
 ali-bestshop.ru
@@ -2201,6 +2201,7 @@ nyyed.com
 obhodsb.com
 obigre.ru
 obkatra.ru
+oblivki.biz
 oblivochki.biz
 obmen.starstudio.org.ua
 obmnt.com
@@ -3338,6 +3339,11 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+renaissanto.com
+6c4t5.cn
+201d5.cn
+housineschard.info
+trothko.com
 eecd179r3b.com
 deparationew.info
 daibusee.com
@@ -3803,7 +3809,6 @@ unlithere.info
 320147982.world
 rasius.pro
 phalata.info
-maebtjn.com
 afrigale.co
 aj1052.online
 crvtrk.com
@@ -4165,6 +4170,7 @@ boodlewrite.com
 3ba87e4828c5a95.com
 gocdn.site
 fcrgzqkbtgu.co
+maebtjn.com
 oligan.info
 pebadu.com
 602d76e204c032.com
@@ -5160,7 +5166,6 @@ rtb.appbid.com
 rtapi.abbi.io
 ade.clmbtech.com
 i.mxplayer.j2inter.com
-mxvp-ad-config-prod-1.zenmxapps.com
 online-prod.zenmxapps.com
 look.kfiopkln.com
 studcat.infra.systems
@@ -5184,7 +5189,6 @@ tkmedia-cache.aotter.net
 tkportal.aotter.net
 client.midosoo.com
 sc.smardroid.com
-ap.smardroid.com
 tnkfactory.com
 iqzone.com
 postitial.com
@@ -5209,6 +5213,7 @@ adsmogo.org
 adsmogo.mobi
 chartboosts.com
 mobpowertech.com
+ap.smardroid.com
 aclickoooo.host
 api.ampiri.com
 httpkafka.unityads.unity3d.com
@@ -5307,6 +5312,7 @@ polymorphicads.jp
 cdns.lodeo.io
 ingamesads.gameloft.com
 i2ad.jp
+mxvp-ad-config-prod-1.zenmxapps.com
 mxvp-feature-toggle-prod-1.zenmxapps.com
 js4386.fujianryt.com
 m.12306media.com
@@ -5999,7 +6005,6 @@ livead.jp
 liveads.jp
 maio.jp
 maist.jp
-mcnt.jp
 media-rep.com
 mediad.co.jp
 mediba.jp
@@ -6007,7 +6012,6 @@ mopo.jp
 myiads.com
 adpriv.nikkei.com
 adb.nikkei.co.jp
-ads.nicovideo.jp
 november-lax.com
 octopuspop.com
 servedby.openxmarket.jp
@@ -6072,6 +6076,7 @@ ads.jlisting.jp
 ads.meropar.jp
 ads.metropolis.co.jp
 ads.mixi.jp
+ads.nicovideo.jp
 adstatic.ameba.jp
 affili.dmm.com
 affiliate-b.com
@@ -6117,6 +6122,7 @@ logping.exblog.jp
 m.shanbara.jp
 magma-analytics.com
 match.seesaa.jp
+mcnt.jp
 microad.jp
 mobalyzer.net
 ot.ca-mpr.jp
@@ -20582,6 +20588,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+smetrics.marriott.com
 api.logmatic.io
 adc.9news.com.au
 adc.api.nine.com.au
