@@ -3947,6 +3947,7 @@ counters.gigya.com
 cr.loszona.com
 csi.gstatic.com
 csp-collector.appspot.com
+csp.archant.co.uk
 ct.eid.co.nz
 ct.itbusinessedge.com
 ct.needlive.com
