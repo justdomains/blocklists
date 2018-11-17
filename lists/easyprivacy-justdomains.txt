@@ -6018,6 +6018,7 @@ pam.nextinpact.com
 pwa.telephoneannuaire.fr
 r.orange.fr
 sa.tf1.fr
+secure-stat.canal-plus.com
 stat.webevolutis.com
 stats1x1.kapaza.be
 track.24heures.ch
