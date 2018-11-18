@@ -5143,6 +5143,7 @@ analytics.localytics.com
 analytics.mindjolt.com
 analytics.msnbc.msn.com
 analytics.newsinc.com
+analytics.plex.tv
 analytics.schoolwires.com
 analytics.services.distractify.com
 analytics.shorte.st
