@@ -3353,6 +3353,9 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+newspolovb.info
+uytestion.info
+cultidifficient.info
 bestadbid.com
 trafficclub-nde.netdna-ssl.com
 lovacmar.click
@@ -3373,6 +3376,8 @@ tauptaup.com
 otefauks.link
 ptocmaux.com
 ads.avocet.io
+adswrapme.click
+cdn.pljs.ru
 hgub2polye.com
 ihowed.info
 siterdm.com
@@ -20742,6 +20747,7 @@ zowary.com
 zqtk.net
 zroitracker.com
 functionalclam.com
+culturedcrayon.com
 spuriousstranger.com
 jamexistence.com
 partplanes.com
@@ -20869,6 +20875,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+banstat.nadavi.net
 pixel.4players.de
 lexip.4players.de
 monitor-targeting-failures.sqrt-5041.de
