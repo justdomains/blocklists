@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2018-12-02 07:27:57
+**Last Updated:** 2018-12-03 07:28:28
 
 - [Details](#details)
 - [Usage](#usage)
@@ -41,9 +41,9 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 | Converted List | License | Domains | Domain List | Last Updated |
 :- | - | - | :-: | - |
-| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 16828 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 02 Dec 2018 07:15 UTC |
-| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6243 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 02 Dec 2018 07:15 UTC |
-| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 25045 | [**Download**](https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt) | 2018-12-01 14:54:57 |
+| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 16844 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 03 Dec 2018 06:27 UTC |
+| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6243 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 03 Dec 2018 06:27 UTC |
+| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 25045 | [**Download**](https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt) | 2018-12-02 14:56:45 |
 | [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 509 | [**Download**](https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt) | 22 November 2018 |
 
 &nbsp;
@@ -56,19 +56,19 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 **Source:** [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 201812020715
-- Last Modified: 02 Dec 2018 07:15 UTC
+- Version: 201812030627
+- Last Modified: 03 Dec 2018 06:27 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 73322
+Total Lines Processed: 73338
 Comment Lines: 413
 Empty Lines: 0
 Non-Domain-only Rules Excluded: 53862
 Domain-only Rules Excluded (unsupported options): 1948
 Domain-only Rules Excluded (exception conflict): 271
-Domain-only Rules Output: 16828
+Domain-only Rules Output: 16844
 ```
 
 &nbsp;
@@ -81,16 +81,16 @@ Domain-only Rules Output: 16828
 
 **Source:** [https://easylist.to/easylist/easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt)
 - Title: EasyPrivacy
-- Version: 201812020715
-- Last Modified: 02 Dec 2018 07:15 UTC
+- Version: 201812030627
+- Last Modified: 03 Dec 2018 06:27 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 15716
+Total Lines Processed: 15717
 Comment Lines: 189
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 8986
+Non-Domain-only Rules Excluded: 8987
 Domain-only Rules Excluded (unsupported options): 142
 Domain-only Rules Excluded (exception conflict): 156
 Domain-only Rules Output: 6243
@@ -106,8 +106,8 @@ Domain-only Rules Output: 6243
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/15.txt](https://filters.adtidy.org/extension/chromium/filters/15.txt)
 - Title: AdGuard Simplified domain names filter
-- Version: 2.0.3.0
-- Last Modified: 2018-12-01 14:54:57
+- Version: 2.0.3.1
+- Last Modified: 2018-12-02 14:56:45
 - Homepage: [https://github.com/AdguardTeam/AdguardSDNSFilter](https://github.com/AdguardTeam/AdguardSDNSFilter)
 
 **Conversion Details:**

@@ -3167,6 +3167,7 @@ adthletic.com
 affilizr.com
 air360tracker.net
 alkemics.com
+analytics-cdiscount.com
 antvoice.com
 atraxio.com
 browsiprod.com
@@ -3672,7 +3673,6 @@ tidningsnatet.se
 tns-sifo.se
 vastpaketet.se
 webserviceaward.com
-worldoftulo.com
 d-stats.com
 tracker.stats.in.th
 truehits.net
