@@ -1462,7 +1462,6 @@ plecki.com
 pleisty.com
 plexop.com
 plugin.ws
-plusgrade.com
 plwosvr.net
 pm0.net
 pm14.com
@@ -3350,6 +3349,7 @@ erate.co.il
 fortvision.com
 hetchi.com
 lead.im
+mimgoal.com
 nepohita.com
 ritogaga.com
 gpr.hu
@@ -3649,6 +3649,7 @@ contadorgratis.es
 contadorvisitasgratis.com
 contadorweb.com
 delidatax.net
+easysol.net
 eresmas.net
 estadisticasgratis.com
 estadisticasgratis.es
@@ -6233,6 +6234,7 @@ yast.rutube.ru
 trak-analytics.blic.rs
 tracker.azet.sk
 analytics.infobae.com
+analytics.redlink.com.ar
 audiencies.ccma.cat
 coletor.terra.com
 estadisticas.lanacion.com.ar
