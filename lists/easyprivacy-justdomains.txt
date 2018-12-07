@@ -1933,6 +1933,7 @@ thingswontend.com
 thisisacoolthing.com
 thisisanothercoolthing.com
 tighting.info
+tinb.net
 tinycounter.com
 tiser.com.au
 tkqlhce.com
@@ -3452,6 +3453,7 @@ rtoaster.jp
 sibulla.com
 smartnews-ads.com
 socdm.com
+speee-ad.jp
 tgknt.com
 trackfeed.com
 ukw.jp
@@ -3690,12 +3692,15 @@ sayyac.net
 sitetistik.com
 webservis.gen.tr
 zirve100.com
+getaim.info
 holder.com.ua
 mediatraffic.com.ua
 mycounter.com.ua
 mycounter.ua
 uapoisk.net
 weblog.com.ua
+amcdn.vn
+contineljs.com
 gostats.vn
 51network.com
 a.mobify.com
@@ -4986,6 +4991,7 @@ l.popin.cc
 lcs.livedoor.net
 omt.shinobi.jp
 rd.rakuten.co.jp
+speee-ad.akamaized.net
 trck.dlpo.jp
 userdive.com
 webtracker.jp
