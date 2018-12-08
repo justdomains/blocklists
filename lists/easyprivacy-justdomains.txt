@@ -597,6 +597,7 @@ distralytics.com
 districtm.io
 djers.com
 dlrowehtfodne.com
+dm-event.net
 dmanalytics1.com
 dmclick.cn
 dmd53.com
@@ -3516,6 +3517,7 @@ rdstation.com.br
 sambaads.com
 tailtarget.com
 trugaze.io
+2iui01.com
 2parale.ro
 2performant.com
 best-top.ro
@@ -3699,6 +3701,7 @@ mycounter.com.ua
 mycounter.ua
 uapoisk.net
 weblog.com.ua
+zmctrack.net
 amcdn.vn
 contineljs.com
 gostats.vn
@@ -5111,6 +5114,7 @@ analytic.piri.net
 analyticapi.piri.net
 hit.dogannet.tv
 counter.opinion.com.ua
+informers.sinoptik.ua
 analytics.mecloud.vn
 a.jango.com
 aa.avvo.com
@@ -6015,6 +6019,7 @@ webts.adac.de
 xara.hse24.de
 accn.allocine.net
 analytics.rtbf.be
+businessinsider-fr.businessinsider.fr
 cfcn.allocine.net
 dm.commentcamarche.net
 dm.hugolescargot.com
