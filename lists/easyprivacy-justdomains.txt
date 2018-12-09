@@ -3449,6 +3449,7 @@ owldata.com
 pagoda56.com
 polymorphicads.jp
 r-ad.ne.jp
+rentracks.jp
 research-artisan.com
 rtoaster.jp
 sibulla.com
@@ -3577,6 +3578,7 @@ iryazan.ru
 jetcounter.ru
 k3dqv.ru
 kmindex.ru
+leadslabpixels.net
 lentainform.com
 listtop.ru
 livetex.ru
@@ -3607,6 +3609,7 @@ ru.net
 rutarget.ru
 sarov.ws
 sas.com
+semantiqo.com
 sensor.org.ua
 seo-master.net
 serating.ru
@@ -3619,6 +3622,7 @@ stattds.club
 targetix.net
 tbex.ru
 tds.io
+tnative.ru
 toptracker.ru
 tpm.pw
 track.cooster.ru
@@ -4123,6 +4127,7 @@ fbpixel.network.exchange
 filament-stats.herokuapp.com
 flashstats.libsyn.com
 fluidsurveys-com.fs.cm
+fourmtagservices.appspot.com
 friends.totallynsfw.com
 future-fie-assets.co.uk
 g.delivery.net
@@ -5559,6 +5564,7 @@ rta2.metro.co.uk
 rtn.thestar.com
 s.infogr.am
 s.infogram.com
+s.youtube.com
 s2.youtube.com
 sa.bbc.co.uk
 sa.bbc.com
@@ -6211,6 +6217,7 @@ analytics.gazeta.pl
 dot.wp.pl
 entryhit.wp.pl
 mklik.gazeta.pl
+p.gazeta.pl
 rek.www.wp.pl
 stats.teledyski.info
 audience-mostread.r7.com
