@@ -859,6 +859,7 @@ gravity4.com
 grepdata.com
 grmtech.net
 group-ib.ru
+grumrt.com
 gsecondscreen.com
 gsimedia.net
 gsspat.jp
@@ -1084,6 +1085,7 @@ kopsil.com
 kqzyfj.com
 ksyrium0014.com
 ktxtr.com
+ladsp.com
 lanchaeanly.pro
 landingpg.com
 lansrv030.com
@@ -3279,6 +3281,7 @@ reachmax.cn
 sagetrc.com
 scupio.com
 sitebot.cn
+sjv.io
 tagmanager.cn
 tanx.com
 tenmax.io
@@ -3432,6 +3435,7 @@ ec-optimizer.com
 eco-tag.jp
 fout.jp
 genieedmp.com
+genieessp.jp
 gmodmp.jp
 hitgraph.jp
 i2ad.jp
@@ -3571,6 +3575,7 @@ idntfy.ru
 imrk.net
 infostroy.nnov.ru
 infox.sg
+inrd.ru
 instreamatic.com
 interakt.ru
 intergid.ru
@@ -4009,6 +4014,7 @@ d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
+d24cze5sab2jwg.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
@@ -4202,6 +4208,7 @@ link.americastestkitchencorp.com
 link.huffingtonpost.com
 link.informer.com
 link.tym.cool
+links.voyeurweb.com
 livecounter.theyosh.nl
 livestats.kaltura.com
 log.aimtell.com
@@ -4525,6 +4532,7 @@ tag.email-attitude.com
 tag.myplay.com
 tag.sonymusic.com
 tagger.opecloud.com
+tags.cdn.circlesix.co
 tags.master-perf-tools.com
 tags.newscgp.com
 target.fark.com
@@ -4913,9 +4921,11 @@ sugs.m.sm.cn
 t.hypers.com.cn
 tns.simba.taobao.com
 toruk.tanx.com
+tr.n2.hk
 track.ra.icast.cn
 tracking.cat898.com
 traffic.bokecc.com
+useg.nextdigital.com.hk
 v.emedia.cn
 tracking.vid4u.org
 bnr.alza.cz
@@ -4992,17 +5002,21 @@ ts.blogo.it
 vppst.iltrovatore.it
 analysis.shinobi.jp
 analyzer51.fc2.com
+asumi.shinobi.jp
 clickanalyzer.jp
 counter2.blog.livedoor.com
 imgstat.ameba.jp
 l.popin.cc
 lcs.livedoor.net
 omt.shinobi.jp
+rcm.shinobi.jp
 rd.rakuten.co.jp
 speee-ad.akamaized.net
+sync.shinobi.jp
 trck.dlpo.jp
 userdive.com
 webtracker.jp
+x9.shinobi.jp
 log.cizion.com
 log2.adop.cc
 tracking.adweb.co.kr
@@ -5880,6 +5894,7 @@ traffic.tuberip.com
 traktr.news.com.au
 trax.tvguide.com
 trck.sixt.com
+trk.freepik.com
 trowel.twitch.tv
 trueffect.underarmour.com
 tw.i.hulu.com
@@ -6093,6 +6108,7 @@ dmtracking.1688.com
 dwtracking.sdo.com
 eclick.baidu.com
 hk.ndx.nextmedia.com
+imp.appledaily.com
 jcm.jd.com
 log.51cto.com
 log.bitauto.com
@@ -6152,6 +6168,8 @@ stats.yinyuetai.com
 tf.360.cn
 tinglog.baidu.com
 tongji.mafengwo.cn
+tr.discuss.com.hk
+tr.price.com.hk
 track.sohu.com
 tracker.live.tudou.com
 uestat.video.qiyi.com
