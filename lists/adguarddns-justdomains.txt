@@ -3363,6 +3363,7 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+turngrind.com
 chouphoa.top
 chauksoa.net
 septembership.com
@@ -4985,7 +4986,6 @@ adbreak.cubecdn.net
 adl.mynetreklam.com
 erotiksfilmizle.com
 smrtbnr.org
-turngrind.com
 tr.bannersdf.com
 vegabet.net
 chaicdn.tk
@@ -21032,6 +21032,9 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+log.outbrainimg.com
+analytics-udg.netdna-ssl.com
+collecte.audience.acpm.fr
 stats.otempo.com.br
 banstat.nadavi.net
 pixel.4players.de
@@ -22671,6 +22674,7 @@ gim.co.il
 gnpge.com
 gostats.org
 group-ib.ru
+grumrt.com
 gweini.com
 halo77.com
 hdmtools.com
@@ -22707,6 +22711,7 @@ kaxsdc.com
 keytiles.com
 km-sea.net
 knowlead.io
+ladsp.com
 lansrv030.com
 lasagneandands.com
 leadintel.io
@@ -23513,6 +23518,7 @@ qhupdate.com
 reachmax.cn
 sagetrc.com
 scupio.com
+sjv.io
 tagmanager.cn
 tenmax.io
 tomonline-inc.com
@@ -23554,6 +23560,7 @@ docodoco.jp
 ec-concier.com
 ec-optimizer.com
 genieedmp.com
+genieessp.jp
 im-apps.net
 iogous.com
 keyword-match.com
@@ -23604,6 +23611,7 @@ efatik.me
 hsdn.org
 idntfy.ru
 infox.sg
+inrd.ru
 instreamatic.com
 k3dqv.ru
 leadslabpixels.net
@@ -23895,6 +23903,7 @@ d1r55yzuc1b1bw.cloudfront.net
 d1rnw04e6mc22h.cloudfront.net
 d1ssbq1bwjg5ux.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
+d24cze5sab2jwg.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
@@ -24035,6 +24044,7 @@ link.americastestkitchencorp.com
 link.huffingtonpost.com
 link.informer.com
 link.tym.cool
+links.voyeurweb.com
 livestats.kaltura.com
 log.aimtell.com
 log.artipbox.net
@@ -24302,6 +24312,7 @@ tag.brandcdn.com
 tag.email-attitude.com
 tag.myplay.com
 tag.sonymusic.com
+tags.cdn.circlesix.co
 tags.master-perf-tools.com
 tags.newscgp.com
 target.fark.com
@@ -24638,9 +24649,11 @@ stat.ws.126.net
 sugs.m.sm.cn
 t.hypers.com.cn
 toruk.tanx.com
+tr.n2.hk
 track.ra.icast.cn
 tracking.cat898.com
 traffic.bokecc.com
+useg.nextdigital.com.hk
 v.emedia.cn
 tracking.vid4u.org
 bnr.alza.cz
@@ -24720,10 +24733,14 @@ ts.blogo.it
 vppst.iltrovatore.it
 analysis.shinobi.jp
 analyzer51.fc2.com
+asumi.shinobi.jp
 clickanalyzer.jp
 imgstat.ameba.jp
 omt.shinobi.jp
+rcm.shinobi.jp
+sync.shinobi.jp
 userdive.com
+x9.shinobi.jp
 log.cizion.com
 log2.adop.cc
 counter.hackers.lv
