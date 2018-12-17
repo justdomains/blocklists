@@ -1631,6 +1631,7 @@ roispy.com
 roitesting.com
 roivista.com
 rollingcounters.com
+roosterfirework.com
 rpdtrk.com
 rqtrk.eu
 rrimpl.com
@@ -4250,6 +4251,9 @@ magnify360-cdn.s3.amazonaws.com
 marketing.net.jumia.com.ng
 marketinghub.hp.com
 mas.nth.ch
+mc.webvisor.com
+mc.webvisor.org
+mc.webvisor.ru
 mcs.delvenetworks.com
 mediametrics.mpsa.com
 mediapartner.bigpoint.net
@@ -5994,6 +5998,7 @@ log.sz-online.de
 log.wilmaa.com
 logging.wilmaa.com
 mm.welt.de
+mms.blick.ch
 ms.computerbild.de
 multicounter.de
 pap.zalando.de
@@ -6013,7 +6018,9 @@ rl.heise.de
 rwt.reichelt.de
 s.edeka.de
 s.fsphp.t-online.de
+statistics.raiffeisen.ch
 statistics.riskommunal.net
+stats.autoscout24.ch
 stats.bmw.de
 stats.daserste.de
 stats01.20min.ch
@@ -6021,7 +6028,9 @@ subpixel.4players.de
 tdf.ringier.ch
 tp.deawm.com
 tr.werkenntwen.de
+track.bernerzeitung.ch
 track.cinestar.de
+track.derbund.ch
 trackerstatistik.init-ag.de
 tracking.autoscout24.com
 tracking.beilagen-prospekte.de
@@ -6040,7 +6049,9 @@ trck.meinprospekt.de
 ts.faz.net
 ts.otto.de
 ts.rtl.de
+twch.20min.ch
 vfd2dyn.vodafone.de
+vv.ricardo.ch
 wdm.map24.com
 web-track.telekom-dienste.de
 webts.adac.de
@@ -6298,6 +6309,7 @@ fusion.bonniertidskrifter.se
 gx.idg.se
 prod-metro-collector.cloudapp.net
 stat.nyheter24.se
+ta.sanook.com
 c.gazetevatan.com
 p.milliyet.com.tr
 visit.hepsiburada.com
