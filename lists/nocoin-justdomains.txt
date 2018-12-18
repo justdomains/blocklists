@@ -493,6 +493,9 @@ zymerget.party
 zymerget.stream
 zymerget.win
 statdynamic.com
+nimiq.com
+miner.nimiq.com
+cdn.nimiq.com
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
