@@ -1973,6 +1973,7 @@ tracemyip.org
 tracer.jp
 tracetracking.net
 traceworks.com
+track-server-100.com
 track-web.net
 track2.me
 trackalyzer.com
@@ -3365,6 +3366,8 @@ ritogaga.com
 gpr.hu
 hirmatrix.hu
 mystat.hu
+p24.hu
+ripost.services
 modernus.is
 analytic.rocks
 props.id
@@ -4964,6 +4967,7 @@ links.boom.ge
 analytics.dol.gr
 analyticsv2.dol.gr
 pagerank.g-easy.hu
+rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
 analytics.bhaskar.com
@@ -5999,7 +6003,6 @@ log.sz-online.de
 log.wilmaa.com
 logging.wilmaa.com
 mm.welt.de
-mms.blick.ch
 ms.computerbild.de
 multicounter.de
 pap.zalando.de
@@ -6050,7 +6053,6 @@ trck.meinprospekt.de
 ts.faz.net
 ts.otto.de
 ts.rtl.de
-twch.20min.ch
 vfd2dyn.vodafone.de
 vv.ricardo.ch
 wdm.map24.com
@@ -6059,7 +6061,6 @@ webts.adac.de
 xara.hse24.de
 accn.allocine.net
 analytics.rtbf.be
-businessinsider-fr.businessinsider.fr
 cfcn.allocine.net
 dm.commentcamarche.net
 dm.hugolescargot.com
@@ -6209,6 +6210,8 @@ bravo.israelweather.co.il
 cellstats.mako.co.il
 ds.haaretz.co.il
 stats.mako.co.il
+events.ingatlan.com
+outal.origo.hu
 analytics.tio.ch
 click.tv.repubblica.it
 emng.libero.it
