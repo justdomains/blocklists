@@ -378,6 +378,7 @@ captivate.ai
 captora.com
 capturemedia.network
 capturly.com
+carrotquest.io
 cashburners.com
 cashcount.com
 castelein.nu
@@ -535,6 +536,7 @@ cttracking02.com
 customer.io
 customerconversio.com
 customerdiscoverytrack.com
+customerlabs.co
 cux.io
 cvtr.io
 cxt.ms
@@ -798,6 +800,7 @@ freeusersonline.com
 freeweblogger.com
 frescoerspica.com
 freshcounter.com
+freshmarketer.com
 freshplum.com
 friendbuy.com
 fruitflan.com
@@ -1990,6 +1993,7 @@ tracking202.com
 trackinglabs.com
 trackkas.com
 trackmytarget.com
+trackmyusers.com
 trackmyweb.net
 trackset.com
 tracksy.com
@@ -2237,6 +2241,7 @@ xg4ken.com
 xiti.com
 xlisting.jp
 xref.io
+xtraffstat.com
 xtremline.com
 xxxcounter.com
 xyztraffic.com
