@@ -1,3 +1,4 @@
+ed98512111bb19e5.in.net
 checkbl.ru
 tranzitstar.ru
 bshjzxt3apcciws.ru
@@ -3386,6 +3387,8 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+mobileoffers-cb-download.com
+fabrkrup.com
 aj1574.online
 zostofou.link
 adtube.ir
@@ -3660,7 +3663,6 @@ users.51.la
 linker.hr
 cdn.midas-network.com
 vvbox.cz
-imedia.cz
 eclick.vn
 ad2017.meo4.info
 sbbanner.com
@@ -18270,6 +18272,7 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+cinarra.com
 2iui01.com
 target.mixi.media
 analytics.servogram.io
@@ -21182,12 +21185,17 @@ xovq5nemr.com
 zbwp6ghm.com
 yourblocksite.com
 taskapi.net
+ct.pinterest.com
 ben.crxmouse.com
 api2.poperblocker.com
 d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+t.arianelab.com
+t.karte.io
+beacon.tws.toyota.jp
+c.marsflag.com
 p.gazeta.pl
 st.dynamicyield.com
 log.outbrainimg.com
@@ -22065,7 +22073,6 @@ w.oix.net
 ui.oix.net
 video-ad-stats.googlesyndication.com
 udc.msn.com
-beacon.tws.toyota.jp
 dd6zx4ibq538k.cloudfront.net
 track.express.de
 track.mopo.de
@@ -22362,7 +22369,6 @@ counter.1gb.ru
 counter.mediastealer.com
 counter.tovarro.com
 counter.yadro.ru
-ct.pinterest.com
 d.haberler.com
 d1m6l9dfulcyw7.cloudfront.net
 d1xfq2052q7thw.cloudfront.net

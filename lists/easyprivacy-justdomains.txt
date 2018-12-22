@@ -778,6 +778,7 @@ formalyzer.com
 formisimo.com
 forter.com
 foundry42.com
+fout.jp
 fpctraffic2.com
 fprnt.com
 fqsecure.com
@@ -1194,6 +1195,7 @@ mbsy.co
 mbww.com
 md-ia.info
 mdotlabs.com
+mdxapi.io
 measure.ly
 measuremap.com
 measurementapi.com
@@ -3446,7 +3448,6 @@ e-kaiseki.com
 ec-concier.com
 ec-optimizer.com
 eco-tag.jp
-fout.jp
 genieedmp.com
 genieessp.jp
 gmodmp.jp
@@ -3528,8 +3529,12 @@ stat.pl
 tagcdn.com
 volvelle.tech
 way2traffic.com
+ad5track.com
+cifraclub.com.br
+clearsale.com.br
 denakop.com
 engageya.com
+percycle.com
 popstats.com.br
 rdstation.com.br
 sambaads.com
@@ -3910,6 +3915,7 @@ carl.pubsvs.com
 caspionlog.appspot.com
 cc.swiftype.com
 cdn.trafficexchangelist.com
+cdnbigdata.azureedge.net
 ce.lijit.com
 cf.overblog.com
 cgicounter.oneandone.co.uk
@@ -5058,6 +5064,7 @@ tracker.advisable.pl
 tracking.novem.pl
 api.nobeta.com.br
 contadorgratis.web-kit.org
+events.chaordicsystems.com
 hitserver.ibope.com.br
 nctrk.abmail.com.br
 track.e7r.com.br
