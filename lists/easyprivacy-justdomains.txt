@@ -301,6 +301,7 @@ bitrix.info
 bizible.com
 bizo.com
 bizspring.net
+bjcathay.com
 bkvtrack.com
 blizzardcheck.com
 blockbreaker.io
@@ -1967,6 +1968,7 @@ toplist.cz
 toplist.eu
 topmalaysia.com
 topofblogs.com
+topstat.cn
 torbit.com
 toro-tags.com
 tracc.it
@@ -3241,6 +3243,8 @@ x-traceur.com
 circle.am
 trafit.com
 tyxo.bg
+126.net
+163yun.com
 50bang.org
 51yes.com
 99click.com
@@ -3272,6 +3276,7 @@ growingio.com
 gtags.net
 he2d.com
 hotrank.com.tw
+hubpd.com
 i-mobile.co.jp
 ipinyou.com
 irs09.com
@@ -4242,6 +4247,7 @@ log.kukuplay.com
 log.liverail.com
 log.olark.com
 log.outbrain.com
+log.outbrainimg.com
 log.pinterest.com
 log000.goo.ne.jp
 log1.survey.io
@@ -4920,10 +4926,12 @@ csbew.com
 css.aliyun.com
 d17m68fovwmgxj.cloudfront.net
 da.netease.com
+dup.baidustatic.com
 dw.cbsi.com.cn
 epro.sogou.com
 g.yccdn.com
 haostat.qihoo.com
+hyrankhit.meldingcloud.com
 idigger.qtmojo.com
 imp.ad-plus.cn
 imp.go.sohu.com
@@ -5449,6 +5457,7 @@ linkpuls.idg.no
 live-audience.dailymotion.com
 live.philips.com
 localads-statistics.maps.me
+log.china.cn
 log.data.disney.com
 log.deutschegrammophon.com
 log.go.com
@@ -6132,6 +6141,7 @@ count.newhua.com
 count.qiannao.com
 count.video.sina.com.cn
 count5.pconline.com.cn
+counter.people.cn
 dc.letv.com
 deliver.ifeng.com
 dj.renren.com

@@ -7083,6 +7083,7 @@ am11.ru
 amazon-cornerstone.com
 amazonily.com
 ambaab.com
+ambientplatform.vn
 ambra.com
 amd2016.com
 amertazy.com
@@ -8759,6 +8760,7 @@ madserving.com
 madsone.com
 magicalled.info
 magnetisemedia.com
+mahimeta.com
 mailmarketingmachine.com
 mainroll.com
 makecashtakingsurveys.biz
@@ -12898,6 +12900,7 @@ utbclxmcv.com
 utmcttmdaoqd.com
 utuqrzwg.com
 utxatnjs.com
+uuaajohul.com
 uubxhbwnwmfqp.com
 uvlyzxml.com
 uvniygdwmoojfm.com
@@ -12965,6 +12968,7 @@ vwdrpxmgehqknz.com
 vwkyuawm.com
 vwpoxvufxnon.com
 vxkupxpf.com
+vxrpmslex.com
 vxyqsxeo.com
 vyjwsifvybc.com
 vzhlsmmboaqxlv.com
@@ -13127,6 +13131,7 @@ ylbslipwhfdwr.com
 ymgjtzciu.com
 ymhqeelitngcr.com
 ymvkirvjqgha.com
+ymzrrizntbhde.com
 ynhetcoypgnl.com
 ynhonjqahrh.com
 ynuyzeqtswtd.com
@@ -18272,6 +18277,7 @@ i-bims-1-produkt.de
 i-bims-ein-shopper.de
 ichkaufehierein.de
 meinelieblingsprodukte.de
+metrics-collector.s-onetag.com
 cinarra.com
 2iui01.com
 target.mixi.media
@@ -22902,6 +22908,7 @@ marketshot.fr
 markitondemand.com
 maropost.com
 maryneallynndyl.com
+mdxapi.io
 meatballsandads.com
 media01.eu
 mediarithmics.com
@@ -23760,7 +23767,11 @@ clickmatic.pl
 hub.com.pl
 tagcdn.com
 volvelle.tech
+ad5track.com
+cifraclub.com.br
+clearsale.com.br
 denakop.com
+percycle.com
 sambaads.com
 trugaze.io
 2parale.ro
@@ -23992,6 +24003,7 @@ capture.condenastdigital.com
 carl.pubsvs.com
 caspionlog.appspot.com
 cdn.trafficexchangelist.com
+cdnbigdata.azureedge.net
 ce.lijit.com
 cf.overblog.com
 cgicounter.oneandone.co.uk
@@ -24935,6 +24947,7 @@ tracker.advisable.pl
 tracking.novem.pl
 api.nobeta.com.br
 contadorgratis.web-kit.org
+events.chaordicsystems.com
 hitserver.ibope.com.br
 nctrk.abmail.com.br
 track.e7r.com.br
