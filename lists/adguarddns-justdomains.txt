@@ -3387,6 +3387,10 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+c.pubguard.com
+jscdn.yieldbird.com
+hb.headbidder.net
+advmanager.techfun.pl
 mobileoffers-cb-download.com
 fabrkrup.com
 aj1574.online
@@ -12536,6 +12540,7 @@ nvgcmeqfn.com
 nvztwdkbldp.com
 nwwuhiukrq.com
 nxewruvxprbd.com
+nycnjewyxex.com
 nyltsyud.com
 nyskocbhfz.com
 nytqlenw.com
@@ -22765,6 +22770,7 @@ bfmio.com
 bidr.io
 bigmir.net
 bikepasture.com
+bjcathay.com
 bloomjoy.com
 botman.ninja
 bouncepilot.com
@@ -23038,6 +23044,7 @@ thisisanothercoolthing.com
 tighting.info
 tinb.net
 tnctrx.com
+topstat.cn
 traceless.me
 track-server-100.com
 trackmytarget.com
@@ -23664,6 +23671,8 @@ tget.me
 toc.io
 tracking.wlscripts.net
 url-stats.net
+126.net
+163yun.com
 ad7.com
 adop.cc
 adskom.com
@@ -23682,6 +23691,7 @@ gridsumdissector.com
 growingio.com
 gtags.net
 he2d.com
+hubpd.com
 ipinyou.com
 iteye.com
 lndata.com
@@ -24818,6 +24828,7 @@ da.netease.com
 epro.sogou.com
 g.yccdn.com
 haostat.qihoo.com
+hyrankhit.meldingcloud.com
 idigger.qtmojo.com
 imp.ad-plus.cn
 imp.go.sohu.com
