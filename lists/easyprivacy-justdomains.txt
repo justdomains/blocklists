@@ -1504,7 +1504,6 @@ projectsunblock.com
 promotionengine.com
 proofpositivemedia.com
 provenpixel.com
-proxad.net
 prtracker.com
 pstats.com
 psyma-statistics.com
@@ -3243,7 +3242,6 @@ x-traceur.com
 circle.am
 trafit.com
 tyxo.bg
-126.net
 163yun.com
 50bang.org
 51yes.com
@@ -4279,6 +4277,7 @@ mediametrics.mpsa.com
 mediapartner.bigpoint.net
 metering.pagesuite.com
 metric.nwsource.com
+metrics.api.drift.com
 metrics.brightcove.com
 metrics.chmedia.com
 metrics.feedroom.com
@@ -4632,6 +4631,7 @@ track.vscash.com
 track.written.com
 track.yfret.com
 track.yieldsoftware.com
+tracker.affirm.com
 tracker.beezup.com
 tracker.downdetector.com
 tracker.everestnutrition.com
