@@ -1474,6 +1474,7 @@ plugin.ws
 plwosvr.net
 pm0.net
 pm14.com
+pnstat.com
 pntra.com
 pntrac.com
 pntrs.com
@@ -2107,6 +2108,7 @@ vantage-media.net
 vbanalytics.com
 vdna-assets.com
 veduy.com
+vee24.com
 veille-referencement.com
 veinteractive.com
 velaro.com
@@ -4659,6 +4661,7 @@ tracking.adalyser.com
 tracking.allposters.com
 tracking.badgeville.com
 tracking.bidmizer.com
+tracking.brandmentions.com
 tracking.cmcigroup.com
 tracking.cmjump.com.au
 tracking.dealerwebwatcher.com
@@ -4701,6 +4704,7 @@ tracking.thehut.net
 tracking.tradeking.com
 tracking.waterfrontmedia.com
 tracking.worldmedia.net
+tracking1.brandmentions.com
 tracking2.channeladvisor.com
 tracking2.interweave.com
 trackingapi.cloudapp.net
