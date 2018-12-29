@@ -2033,10 +2033,12 @@ triggeredmessaging.com
 triggertag.gorillanation.com
 triggit.com
 triptease.io
+triptease.net
 trkjmp.com
 trklvs.com
 trkn.us
 trksrv44.com
+trmnsite.com
 trovus.co.uk
 trs.cn
 trtl.ws
@@ -5285,6 +5287,7 @@ bn.adultempire.com
 bulb.76.my
 c.ipaddress.com
 c.newsinc.com
+c.paypal.com
 c.wort-suche.com
 c.x.oanda.com
 cbs.wondershare.com
