@@ -3971,6 +3971,7 @@ clicktracker.iscan.nl
 clicktracks.aristotle.net
 client.tahono.com
 clientstat.castup.net
+clk.onet.pl
 cloudfront-labs.amazonaws.com
 cm.g.doubleclick.net
 cms-pixel.crowdreport.com
@@ -4024,6 +4025,7 @@ cr.loszona.com
 csi.gstatic.com
 csp-collector.appspot.com
 csp.archant.co.uk
+csr.onet.pl
 ct.eid.co.nz
 ct.itbusinessedge.com
 ct.needlive.com
@@ -4176,6 +4178,7 @@ events.jotform.com
 events.launchdarkly.com
 events.marquee-cdn.net
 events.medio.com
+events.ocdn.eu
 events.realgravity.com
 events.whisk.com
 events.yourcx.io
@@ -5036,6 +5039,7 @@ counter.ksm.it
 counter2.condenast.it
 d32hwlnfiv2gyn.cloudfront.net
 encoderfarmced-stats-ns.servicebus.windows.net
+encoderfarmstatsnew.servicebus.windows.net
 evnt.iol.it
 fb_servpub-a.akamaihd.net
 fcstats.altervista.org
@@ -5172,9 +5176,6 @@ tracking.vengovision.ru
 upstats.yadro.ru
 viewstat.promoblocks.ru
 webtrack.biz
-clk.onet.pl
-csr.onet.pl
-events.ocdn.eu
 stat.ringier.sk
 1to1.bbva.com
 analitica.webrpp.com
