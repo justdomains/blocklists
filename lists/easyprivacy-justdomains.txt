@@ -161,6 +161,7 @@ alexametrics.com
 alltagcloud.info
 alltracked.com
 alnera.eu
+alocdn.com
 altabold1.com
 altastat.com
 alvenda.com
@@ -1673,6 +1674,7 @@ sarevtop.com
 sas15k01.com
 sayutracking.co.uk
 sbdtds.com
+sc-static.net
 scaledb.com
 scarabresearch.com
 scastnet.com
@@ -1949,6 +1951,7 @@ thespecialsearch.com
 thingswontend.com
 thisisacoolthing.com
 thisisanothercoolthing.com
+thrtle.com
 tighting.info
 tinb.net
 tinycounter.com
@@ -4043,6 +4046,7 @@ d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1cerpgff739r9.cloudfront.net
@@ -4372,6 +4376,7 @@ pf.aclst.com
 pg.buzzfeed.com
 phantom.nudgespot.com
 phoenix.untd.com
+ping-dot-acp-magento.appspot.com
 ping.aclst.com
 ping.dozuki.com
 ping.rasset.ie
@@ -5894,6 +5899,7 @@ tools.ranker.com
 top.wn.com
 total.shanghaidaily.com
 tp.ranker.com
+tr.snapchat.com
 tracelog.www.alibaba.com
 tracer.perezhilton.com
 track.briskfile.com
