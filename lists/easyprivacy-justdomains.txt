@@ -3760,6 +3760,7 @@ realist.gen.tr
 sayyac.com
 sayyac.net
 sitetistik.com
+visilabs.net
 webservis.gen.tr
 zirve100.com
 getaim.info
@@ -5212,6 +5213,7 @@ stat.matichon.co.th
 analytic.piri.net
 analyticapi.piri.net
 hit.dogannet.tv
+st.tmgrup.com.tr
 counter.opinion.com.ua
 informers.sinoptik.ua
 analytics.mecloud.vn
@@ -6388,6 +6390,7 @@ prod-metro-collector.cloudapp.net
 stat.nyheter24.se
 ta.sanook.com
 c.gazetevatan.com
+d.haberler.com
 p.milliyet.com.tr
 visit.hepsiburada.com
 counter.ukr.net
