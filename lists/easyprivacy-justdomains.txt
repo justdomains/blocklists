@@ -2749,6 +2749,7 @@ rintindown.com
 rintinwa.com
 rocks.io
 rtb-seller.com
+rtb.connatix.com
 ruvuryua.ru
 s7ven.com
 salamaleyum.com
@@ -2794,12 +2795,14 @@ thersprens.com
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
+thismetric.com
 tidafors.xyz
 tmmp.io
 toftofcal.com
 tokyodrift.ga
 traffic.tc-clicks.com
 traviilo.com
+trk.connatix.com
 truemine.org
 tulip18.com
 turnsocial.com
@@ -3935,6 +3938,7 @@ bitdash-reporting.appspot.com
 bizsolutions.strands.com
 blip.bizrate.com
 bonsai.internetbrands.com
+brain.foresee.com
 bright.bncnt.com
 bs.yandex.ru
 btn.clickability.com
@@ -4425,6 +4429,7 @@ projop.dnsalias.com
 providence.voxmedia.com
 prstats.postrelease.com
 pt.crossmediaservices.com
+pt.ispot.tv
 ptracker.nurturehq.com
 ptsc.shoplocal.com
 pub.sheknows.com
