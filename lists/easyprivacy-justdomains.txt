@@ -1016,6 +1016,7 @@ invoc.us
 invoca.net
 invoca.solutions
 iocnt.net
+ionmvdpifz.com
 ip-api.com
 ip-label.net
 ip2location.com
@@ -1259,6 +1260,7 @@ mparticle.com
 mplxtms.com
 mppapi.io
 mpstat.us
+msecure108.com
 msgapp.com
 msgtag.com
 msparktrk.com
@@ -3245,6 +3247,7 @@ edt02.net
 emailretargeting.com
 ew3.io
 ezakus.net
+facil-iti.com
 ferank.fr
 fogl1onf.com
 geocompteur.com
