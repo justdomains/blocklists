@@ -1440,6 +1440,7 @@ pclicks.com
 pcspeedup.com
 pdbu.net
 peerius.com
+pega.com
 percentmobile.com
 perfdrive.com
 perfiliate.com
@@ -1859,6 +1860,7 @@ stats2.com
 stats21.com
 stats2513.com
 stats4all.com
+stats4u.net
 stats4you.com
 statsbox.nl
 statsevent.com
@@ -2237,6 +2239,7 @@ wisetrack.net
 wishloop.com
 woopra-ns.com
 woopra.com
+worldflagcounter.com
 worldlogger.com
 wowanalytics.co.uk
 wp-stats.com
@@ -3889,6 +3892,7 @@ analytics.vanillaforums.com
 analytics.vendemore.com
 analytics.websolute.it
 analytics.wildtangent.com
+analytics.witglobal.net
 analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
@@ -4468,6 +4472,7 @@ reports.pagesuite-professional.co.uk
 reports.tstlabs.co.uk
 res.rbl.ms
 researchintel.com
+response.pure360.com
 rich-agent.s3.amazonaws.com
 rlinks.one.in
 roitrack.addlvr.com
@@ -4777,6 +4782,7 @@ tree-pixel-log.s3.amazonaws.com
 tremorhub.com
 trf.intuitwebsites.com
 triad.technorati.com
+triggers.wfxtriggers.com
 trk.bhs4.com
 trk.email.dynect.net
 trk.pswec.com
@@ -5487,6 +5493,7 @@ geoiplookup.wikimedia.org
 glassmoni.researchgate.net
 glean.pop6.com
 gmonitor.aliimg.com
+gnar.grammarly.com
 h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
@@ -5879,6 +5886,7 @@ stats.wwd.com
 stats.wwitv.com
 stats.ynet.co.il
 stats.zmags.com
+stats02.topix.com
 statscol.pond5.com
 statstracker.celebrity-gossip.net
 stattrack.0catch.com
@@ -6056,6 +6064,7 @@ ac.berlinonline.de
 ac.express.de
 ac.mz-web.de
 acl.stayfriends.de
+analytics.arz.at
 analytics.industriemagazin.net
 analytics.moviepilot.de
 analytics.proxer.me
