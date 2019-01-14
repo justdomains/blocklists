@@ -1105,6 +1105,7 @@ lead-123.com
 lead-converter.com
 lead-tracking.biz
 leadboxer.com
+leadchampion.com
 leadfeeder.com
 leadforce1.com
 leadforensics.com
@@ -5071,6 +5072,7 @@ encoderfarmstatsnew.servicebus.windows.net
 evnt.iol.it
 fb_servpub-a.akamaihd.net
 fcstats.altervista.org
+instore.pagomeno.it
 livestats.matrix.it
 log.superweb.ws
 logger.kataweb.it
