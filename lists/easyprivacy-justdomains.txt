@@ -891,6 +891,7 @@ haymarket.com
 hdmtools.com
 heapanalytics.com
 heatmap.services
+heg-cp.com
 hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
@@ -2039,6 +2040,7 @@ trakken.de
 trakzor.com
 transactionale.com
 traversedlp.com
+trbas.com
 treasuredata.com
 treehousei.com
 trekmedia.net
