@@ -3398,6 +3398,7 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+fairnessels.com
 ousufauk.com
 fvtwyjev.com
 yoads.network
@@ -4227,7 +4228,6 @@ ralkipa.info
 sebadu.com
 ayclinical.com
 naenticle.info
-localbitcoins.com
 adconity.com
 neads.delivery
 kensyii.com
@@ -9857,6 +9857,7 @@ sedatorsinted.info
 sedatorslegallock.info
 sedoparking.com
 seductionprofits.com
+seecontentdelivery.info
 seegamese.com
 seekads.net
 seethisinaction.com
@@ -10542,6 +10543,7 @@ wat.freesubdom.com
 wat.ipowerapps.com
 watchfree.flv.in
 watchingthat.com
+watchingthat.net
 watchnowlive.eu
 wateristian.com
 waycash.net
@@ -12828,6 +12830,7 @@ uanomwcxixed.com
 uaofcvzlhhh.com
 ubpjjgso.com
 uclylhzwg.com
+ucvrtwfh.com
 uembrcfeuwtsjy.com
 uemjnvyn.com
 uenpibqyjvim.com
@@ -21217,6 +21220,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+logger.tv.telstra.com.au
 t.arianelab.com
 t.karte.io
 beacon.tws.toyota.jp
@@ -22877,6 +22881,7 @@ gweini.com
 halo77.com
 hdmtools.com
 heatmap.services
+heg-cp.com
 hira-meki.jp
 hivps.xyz
 hospitality-optimizer.com
@@ -23080,6 +23085,7 @@ trackmyusers.com
 trafficfuel.com
 transactionale.com
 traversedlp.com
+trbas.com
 treasuredata.com
 triptease.io
 triptease.net
@@ -23903,7 +23909,6 @@ tns-sifo.se
 vastpaketet.se
 d-stats.com
 getaim.info
-zmctrack.net
 amcdn.vn
 contineljs.com
 51network.com
