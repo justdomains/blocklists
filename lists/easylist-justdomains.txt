@@ -1420,6 +1420,7 @@ cmllk1.info
 cnt.my
 cntdy.mobi
 coadvertise.com
+codefund.app
 codefund.io
 codeonclick.com
 codezap.com
@@ -3277,6 +3278,7 @@ performanceadvertising.mobi
 performancetrack.info
 performancingads.com
 performanteads.com
+perkcanada.com
 permanyb.com
 persevered.com
 pestrike.com
@@ -15150,6 +15152,7 @@ blossoms.com
 board-books.com
 boinkcash.com
 bookofsex.com
+bootstrap-framework.org
 bposterss.net
 branzas.com
 brightcpm.net
