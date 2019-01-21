@@ -298,7 +298,6 @@ bigstats.net
 bigtracker.com
 bikepasture.com
 bionicclick.com
-bitrix.info
 bizible.com
 bizo.com
 bizspring.net
@@ -5436,6 +5435,7 @@ diag.doba.com
 diamond.transfermarkt.de
 diet.rodale.com
 dl.meliacloud.com
+dmp.marketgid.com
 dmtracking2.alibaba.com
 dw.cnet.com
 ec2-prod-tracker.babelgum.com
