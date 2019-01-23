@@ -173,6 +173,7 @@ ambercrow.com
 amctp.net
 amikay.com
 amilliamilli.com
+amnet.tw
 amplitude.com
 amung.us
 amxdt.com
@@ -1188,6 +1189,7 @@ marinsm.com
 market015.com
 market2lead.com
 marketizator.com
+marketo.com
 marketshot.com
 marketshot.fr
 markitondemand.com
@@ -1256,6 +1258,7 @@ mochibot.com
 momently.com
 monitis.com
 monitus.net
+mooseway.com
 motrixi.com
 mouse3k.com
 mouseflow.com
@@ -4786,6 +4789,7 @@ traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trakksocial.googlecode.com
 trax.dirxion.com
+trc.pushnami.com
 tree-pixel-log.s3.amazonaws.com
 tremorhub.com
 trf.intuitwebsites.com
@@ -5519,6 +5523,7 @@ iedc.fitbit.com
 imgtrack.domainmarket.com
 immassets.s3.amazonaws.com
 imonitor.dhgate.com
+imp-media-lab.thenewslens.com
 imx.comedycentral.com
 influxer.onion.com
 ingest.onion.com
