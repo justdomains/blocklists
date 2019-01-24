@@ -3091,8 +3091,10 @@ linktausch-pagerank.de
 linktausch.li
 liverank.org
 losecounter.de
+mairdumont.com
 marketing-page.de
 mateti.net
+md-nx.com
 meetrics.net
 mengis-linden.org
 metalyzer.com
@@ -3210,6 +3212,7 @@ verypopularwebsite.com
 viewar.org
 vinsight.de
 visitor-stats.de
+vtracy.de
 wcfbc.net
 web-controlling.org
 webhits.de
@@ -4853,6 +4856,7 @@ analytics-static.unister-gmbh.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
 analytics.loop-cloud.de
+analytics.pinpoll.com
 analytics.praetor.im
 analytics.unister-gmbh.de
 asci.freenet.de
@@ -4895,7 +4899,6 @@ liveviewer.ez.no
 log.worldsoft-cms.info
 mastertag.kpcustomer.de
 mastertag.q-sis.de
-met.vgwort.de
 omniture.eaeurope.eu
 pix.news.at
 pixel.holtzbrinckdigital.info
@@ -6113,6 +6116,7 @@ log.suchen.de
 log.sz-online.de
 log.wilmaa.com
 logging.wilmaa.com
+metrics.n-tv.de
 mm.welt.de
 ms.computerbild.de
 multicounter.de
@@ -6146,6 +6150,7 @@ tr.werkenntwen.de
 track.bernerzeitung.ch
 track.cinestar.de
 track.derbund.ch
+track.express.de
 trackerstatistik.init-ag.de
 tracking.autoscout24.com
 tracking.beilagen-prospekte.de

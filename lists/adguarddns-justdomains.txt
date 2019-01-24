@@ -3397,6 +3397,9 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+adslop.com
+phastoag.com
+glodrips.com
 holexknw.loan
 551f044b1a3f4ef.com
 keqi7dh3df.com
@@ -6417,6 +6420,7 @@ w.zenback.jp
 360adstrack.com
 360installer.com
 360popads.com
+360protected.com
 365sbaffiliates.com
 3cnce854.com
 3lift.com
@@ -18248,6 +18252,7 @@ td-tracker.com
 textklicks.de
 textswap.de
 tip-ads.de
+tisoomi-services.com
 topiaserv.net
 trabro.com
 tracknet.twyn-group.com
@@ -18668,7 +18673,6 @@ angsrvr.com
 announcement.ru
 anonymousdmp.com
 anormal-tracker.de
-anrdoezrs.net
 anti-cheat.info
 apexstats.com
 apextwo.com
@@ -20681,7 +20685,6 @@ thestat.net
 tinycounter.com
 tinystat.ir
 tiser.com.au
-tisoomi-services.com
 titag.com
 tkqlhce.com
 tl813.com
@@ -22785,6 +22788,7 @@ airserve.net
 albacross.com
 alocdn.com
 amilliamilli.com
+amnet.tw
 amplitude.com
 ampush.io
 analitits.com
@@ -22961,6 +22965,7 @@ luckyorange.net
 lyngro.com
 mabipa.com
 macandcheeseandads.com
+marketo.com
 marketshot.com
 marketshot.fr
 maropost.com
@@ -24741,6 +24746,7 @@ traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trakksocial.googlecode.com
 trax.dirxion.com
+trc.pushnami.com
 tree-pixel-log.s3.amazonaws.com
 tremorhub.com
 trf.intuitwebsites.com
