@@ -1,3 +1,4 @@
+cbbvi.com
 fafc5ra5.ru
 perfmelab.com
 sedorobma.ru
@@ -18197,6 +18198,7 @@ pornoprinzen.com
 ppac.de
 premiumbesucher.de
 premiumdownloaden.de
+pressekompass.net
 primussponsor.de
 profiliate.net
 prom.ecato.net
@@ -18317,11 +18319,12 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+digitru.st
+s-onetag.com
 personaclick.com
 noy90o.com
 logsss.com
 redatastore.ru
-metrics-collector.s-onetag.com
 cinarra.com
 2iui01.com
 target.mixi.media
@@ -21245,6 +21248,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+stats.aws.rubiconproject.com
+a.ria.ru
 ipcheck.tmgrup.com.tr
 logger.tv.telstra.com.au
 t.arianelab.com
@@ -22864,7 +22869,6 @@ datacoral.io
 dataxpand.com
 ddm.io
 devatics.com
-digitru.st
 distiltag.com
 districtm.io
 dm-event.net
@@ -23042,7 +23046,6 @@ rstg.io
 rtb123.com
 rumpelstiltskinhead.com
 runtnc.net
-s-onetag.com
 salecycle.com
 salemove.com
 salesmanago.pl
@@ -23718,7 +23721,9 @@ cptrack.de
 giga-abs.de
 hstrck.com
 ingenioustech.biz
+mairdumont.com
 mateti.net
+md-nx.com
 mps-gba.de
 ppro.de
 redretarget.com
@@ -23728,6 +23733,7 @@ tausch-link.de
 toplist100.org
 trbo.com
 usemaxserver.de
+vtracy.de
 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
 7x4.fr
 7x5.fr
@@ -24802,6 +24808,7 @@ analytics-static.unister-gmbh.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
 analytics.loop-cloud.de
+analytics.pinpoll.com
 analytics.praetor.im
 analytics.unister-gmbh.de
 asci.freenet.de
