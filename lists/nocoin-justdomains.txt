@@ -662,6 +662,7 @@ nimiq.com
 cdn.nimiq.com
 jscoinminer.com
 www.jscoinminer.com
+play.tercabilis.info
 azvjudwr.info
 jroqvbvw.info
 jyhfuqoh.info
