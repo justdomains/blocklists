@@ -414,6 +414,7 @@ christmalicious.com
 chrumedia.com
 cint.com
 circular-counters.com
+ck-cdn.com
 clarifyingquack.com
 claritytag.com
 clearviewstats.com
@@ -1258,6 +1259,7 @@ mochibot.com
 momently.com
 monitis.com
 monitus.net
+monu.delivery
 mooseway.com
 motrixi.com
 mouse3k.com
@@ -2864,6 +2866,7 @@ wp-monero-miner.de
 wrxgandsfcz.ru
 wsp.marketgid.com
 wtm.monitoringservice.co
+wtmtrack.com
 wty46.com
 xbasfbno.info
 xfast.host
@@ -3578,6 +3581,7 @@ tinystat.ir
 webgozar.com
 webgozar.ir
 adstat.4u.pl
+caanalytics.com
 clickmatic.pl
 gostats.pl
 hub.com.pl
