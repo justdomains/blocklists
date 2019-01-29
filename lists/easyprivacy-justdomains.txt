@@ -3585,11 +3585,13 @@ caanalytics.com
 clickmatic.pl
 gostats.pl
 hub.com.pl
+i22lo.com
 inaudium.com
 legenhit.com
 ngacm.com
 ngastatic.com
 nsaudience.pl
+p071qmn.com
 rejestr.org
 stat.4u.pl
 stat.pl
@@ -4476,6 +4478,7 @@ r.mail.ru
 r.msn.com
 ra.ripple6.com
 ramp.purch.com
+rc.rlcdn.com
 recs.atgsvcs.com
 redir.widdit.com
 referrer.disqus.com
