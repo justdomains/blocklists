@@ -18304,7 +18304,6 @@ td-tracker.com
 textklicks.de
 textswap.de
 tip-ads.de
-tisoomi-services.com
 topiaserv.net
 trabro.com
 tracknet.twyn-group.com
@@ -18369,6 +18368,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+adtlgc.com
 mateti.net
 digitru.st
 s-onetag.com
@@ -20739,6 +20739,7 @@ thestat.net
 tinycounter.com
 tinystat.ir
 tiser.com.au
+tisoomi-services.com
 titag.com
 tkqlhce.com
 tl813.com
@@ -23930,6 +23931,7 @@ wos.lv
 caanalytics.com
 clickmatic.pl
 hub.com.pl
+p071qmn.com
 tagcdn.com
 volvelle.tech
 ad5track.com
@@ -23991,7 +23993,6 @@ flags.es
 mabaya.com
 seedtag.com
 adten.eu
-adtlgc.com
 brandmetrics.com
 citypaketet.se
 myvisitors.se
@@ -24533,6 +24534,7 @@ pxlgnpgecom-a.akamaihd.net
 qubitanalytics.appspot.com
 r.msn.com
 ra.ripple6.com
+rc.rlcdn.com
 redir.widdit.com
 report.downloastar.com
 reporting.handll.net
