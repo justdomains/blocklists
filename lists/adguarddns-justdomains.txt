@@ -5364,6 +5364,8 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+abtest.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
 liftoff.io
 tapdaq-adverts.global.ssl.fastly.net
 a.6d47c1118927cf53ba9654931df80e8d.com
@@ -6512,7 +6514,6 @@ acloudimages.com
 acrabbey.info
 acronym.com
 acrossiblel.info
-actionbutton.co
 activedancer.com
 ad-back.net
 ad-balancer.net
@@ -9344,6 +9345,7 @@ passive-earner.com
 patecrafts.com
 patiskcontentdelivery.info
 pautaspr.com
+paxmedia.net
 pay-click.ru
 payae8moon9.com
 paydotcom.com
@@ -9483,6 +9485,7 @@ portkingric.net
 posternel.com
 potcityzip.com
 poundaccordexecute.info
+powerad.ai
 poweradvertising.co.uk
 powerfulbusiness.net
 powerlinks.com
@@ -11476,6 +11479,18 @@ hashalre.uk
 herowebads.com
 hyphenion.com
 interdfp.com
+g1341551423.com
+g2247755016.com
+g2281971609.com
+g2438896021.com
+g2440001011.com
+g2526721279.com
+g2546417787.com
+g2921554487.com
+g3369554495.com
+g344530742.com
+g3938452447.com
+pushmenews.com
 1el-1el-fie.com
 1elllwrite.com
 1han-rit-ten.com
@@ -11971,6 +11986,7 @@ fcjodgfpjiswa.com
 fcpispplqq.com
 fdbrwxtm.com
 fdrkesvb.com
+fdxdjkswppg.com
 fdzylxffu.com
 febalwby.com
 fepzygektdt.com
@@ -12303,6 +12319,7 @@ klhjuuwrmxyjsn.com
 klhvqeajy.com
 klxteeltivy.com
 klzvkrzluqnx.com
+kmjexpirqstyzv.com
 kmkdkefa.com
 knqjhdkndh.com
 knwfmpvtj.com
@@ -18058,6 +18075,7 @@ blogpay.eu
 bonicity.de
 borrot.de
 brandigo.net
+bsheute.de
 buywords.de
 bwads24.com
 c-points.de
@@ -18368,6 +18386,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+targetman.ru
 adtlgc.com
 mateti.net
 digitru.st
@@ -22613,7 +22632,6 @@ ploy.batmobi.net
 an.batmobi.net
 ustat.batmobi.net
 analytics.any.do
-data.mistat.intl.xiaomi.com
 zeus.ad.intl.xiaomi.com
 api.ad.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
@@ -22696,7 +22714,6 @@ events.appsflyer.com
 track.appsflyer.com
 iapp-cp.nuggad.net
 4seeresults.com
-abtest.mistat.xiaomi.com
 ad-analytics-bootstrap.metaps.com
 adfuture.cn
 adserver.snapads.com
@@ -22951,6 +22968,7 @@ fdxstats.xyz
 feathr.co
 fonderredd.info
 fqsecure.com
+freegeoip.app
 freshmarketer.com
 gameanalytics.com
 gammachug.com
@@ -23035,6 +23053,7 @@ meatballsandads.com
 media01.eu
 mediarithmics.com
 mediaweaver.jp
+metricool.com
 meyersdalebixby.com
 micpn.com
 mno.link
@@ -23210,8 +23229,10 @@ veille-referencement.com
 virgul.com
 visto1.net
 waframedia9.com
+walmeric.com
 whizstats.com
 widerplanet.com
+womtp.com
 worldflagcounter.com
 xlisting.jp
 xtraffstat.com
@@ -24028,6 +24049,7 @@ affiliates.swappernet.com
 affl.sucuri.net
 akatracking.esearchvision.com
 aksb-a.akamaihd.net
+alexandria.marfeelcdn.com
 amplify.outbrain.com
 ams.addflow.ru
 analytic.pho.fm

@@ -283,6 +283,7 @@ belstat.fr
 belstat.nl
 benchit.com
 benchtag2.co
+bentonow.com
 berg-6-82.com
 best-top.de
 bestweb2013stat.lk
@@ -521,6 +522,7 @@ countingbiz.info
 countomat.com
 countz.com
 cpcmanager.com
+cphalk.com
 cpmstar.com
 cpx.to
 cquotient.com
@@ -796,6 +798,7 @@ free-website-statistics.com
 freebloghitcounter.com
 freecountercode.com
 freecounterstat.com
+freegeoip.app
 freehitscounter.org
 freelogs.com
 freeonlineusers.com
@@ -1231,6 +1234,7 @@ mercadoclics.com
 mercent.com
 metakeyproducer.com
 meteorsolutions.com
+metricool.com
 metricsdirect.com
 meyersdalebixby.com
 mezzobit.com
@@ -2192,6 +2196,7 @@ vtracker.net
 vunetotbe.com
 w3counter.com
 waframedia9.com
+walmeric.com
 waplog.net
 waudit.cz
 waust.at
@@ -2248,6 +2253,7 @@ wildxtraffic.com
 wiredminds.de
 wisetrack.net
 wishloop.com
+womtp.com
 woopra-ns.com
 woopra.com
 worldflagcounter.com
@@ -2670,6 +2676,7 @@ moonsade.com
 morningdigit.com
 mrycrypto.com
 munero.me
+mutinyhq.com
 mutuza.win
 mwor.gq
 mycrypto.company
@@ -3249,6 +3256,7 @@ alkemics.com
 analytics-cdiscount.com
 antvoice.com
 atraxio.com
+audiencesquare.com
 browsiprod.com
 canalstat.com
 carts.guru
@@ -4115,6 +4123,7 @@ d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
+d2cpw6kwpff7n5.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
@@ -6188,6 +6197,7 @@ xara.hse24.de
 accn.allocine.net
 analytics.rtbf.be
 cfcn.allocine.net
+compteur.developpez.com
 dm.commentcamarche.net
 dm.hugolescargot.com
 dm.journaldesfemmes.com
@@ -6408,6 +6418,7 @@ analytics.carambatv.ru
 counter.drom.ru
 dot-stat.radikal.ru
 kiks.auto.ru
+link.subscribe.ru
 log.ren.tv
 montblanc.lenta.ru
 radar.imgsmail.ru
