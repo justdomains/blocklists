@@ -3588,6 +3588,7 @@ persianstat.ir
 tinystat.ir
 webgozar.com
 webgozar.ir
+adschoom.com
 adstat.4u.pl
 caanalytics.com
 clickmatic.pl
@@ -5165,10 +5166,13 @@ webhit.snd.no
 analytics.aasaam.com
 analytics.greensender.pl
 fab.interia.pl
+hit.interia.pl
+scontent.services.tvn.pl
 stats.asp24.pl
 stats.media.onet.pl
 stats.ulixes.pl
 statystyki.panelek.com
+track.omgpl.com
 tracker.advisable.pl
 tracking.novem.pl
 api.nobeta.com.br
