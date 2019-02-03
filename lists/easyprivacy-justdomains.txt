@@ -453,6 +453,7 @@ clickstream.co.za
 clicktrack1.com
 clicktracks.com
 clicktrkservices.com
+clickx.io
 clickzs.com
 clickzzs.nl
 clixcount.com
@@ -1962,6 +1963,7 @@ testin.cn
 testpixel.net
 tetoolbox.com
 tgdaudience.com
+tglyr.co
 theadex.com
 theagency.com
 thebestlinks.com
@@ -5132,6 +5134,7 @@ tracker.bestshopping.com
 tracker.iltrovatore.it
 tracking.conversion-lab.it
 tracking.conversionlab.it
+tracking.trovaprezzi.it
 tracks.arubamediamarketing.it
 tracy.sadv.dadapro.com
 ts.blogo.it
@@ -6354,6 +6357,7 @@ stats.mako.co.il
 events.ingatlan.com
 outal.origo.hu
 analytics.tio.ch
+analytics.traderlink.com
 click.tv.repubblica.it
 emng.libero.it
 g.techweekeurope.it
