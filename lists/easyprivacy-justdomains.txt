@@ -140,6 +140,7 @@ affistats.com
 africal.info
 afsanalytics.com
 agencytradingdesk.net
+agentanalytics.com
 agentinteractive.com
 agilecrm.com
 agilone.com
@@ -962,6 +963,7 @@ iclive.com
 ics0.com
 icstats.nl
 id-visitors.com
+id5-sync.com
 ideoclick.com
 idio.co
 idtargeting.com
@@ -1243,6 +1245,7 @@ mialbj6.com
 micpn.com
 midas-i.com
 midkotatraffic.net
+mieru-ca.com
 millioncounter.com
 minewhat.com
 mkt3261.com
@@ -3520,6 +3523,7 @@ cetlog.jp
 cosmi.io
 d-markets.net
 deteql.net
+digitiminimi.com
 e-kaiseki.com
 ec-concier.com
 ec-optimizer.com
@@ -3538,6 +3542,7 @@ kir.jp
 macromill.com
 marsflag.com
 mobylog.jp
+n8s.jp
 omiki.com
 owldata.com
 pagoda56.com
@@ -4317,6 +4322,7 @@ lct.salesforce.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
 licensing.bitmovin.com
+lift.acquia.com
 link.americastestkitchencorp.com
 link.huffingtonpost.com
 link.informer.com
@@ -5152,6 +5158,7 @@ rcm.shinobi.jp
 rd.rakuten.co.jp
 speee-ad.akamaized.net
 sync.shinobi.jp
+torimochi.line-apps.com
 trck.dlpo.jp
 userdive.com
 webtracker.jp
@@ -6375,6 +6382,7 @@ cgi.tbs.co.jp
 ln.ameba.jp
 measure.ameblo.jp
 mtc.nhk.or.jp
+pvtag.yahoo.co.jp
 scis.tbs.co.jp
 sy.amebame.com
 sy.ameblo.jp

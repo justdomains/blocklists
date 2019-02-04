@@ -7271,6 +7271,7 @@ auto-insurance-quotes-compare.com
 automatad.com
 automatedtraffic.com
 automateyourlist.com
+autopilothq.com
 avads.co.uk
 avajo.men
 avalanchers.com
@@ -7383,6 +7384,7 @@ bh3.net
 bhcumsc.com
 bidadx.com
 bidgewatr.com
+bidhead.net
 bidsystem.com
 bidtheatre.com
 bidverdrd.com
@@ -18636,6 +18638,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+s24-analytics.com
 targetman.ru
 adtlgc.com
 mateti.net
@@ -21571,8 +21574,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+metrics.infranken.de
 ophan.theguardian.com
-s24-analytics.com
 tracking.s24.com
 events.whisk.com
 stats.aws.rubiconproject.com
@@ -23112,6 +23115,7 @@ adswizz.com
 adunity.com
 adwstats.com
 africal.info
+agentanalytics.com
 agilecrm.com
 air2s.com
 airserve.net
@@ -23435,6 +23439,7 @@ tedioustooth.com
 tercept.com
 testin.cn
 testpixel.net
+tglyr.co
 theagency.com
 thehairofcaptainpicard.com
 thingswontend.com
@@ -25381,6 +25386,7 @@ tracker.bestshopping.com
 tracker.iltrovatore.it
 tracking.conversion-lab.it
 tracking.conversionlab.it
+tracking.trovaprezzi.it
 tracks.arubamediamarketing.it
 tracy.sadv.dadapro.com
 ts.blogo.it
