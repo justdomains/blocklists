@@ -1,3 +1,6 @@
+d30gt5larl1k8h.cloudfront.net
+kinopushka.xyz
+mirongotrof.ru
 acales.ru
 cinemahd.info
 webmasterskyi.com
@@ -3402,6 +3405,9 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+ad.mox.tv
+dm.hybrid.ai
+uptopop.com
 bodelen.com
 ihosetch.com
 adslop.com
@@ -5322,6 +5328,8 @@ reklam.yonlendir.com
 ad.sacitaslan.com
 cdn.hiperadverts.com
 savoy.cubecdn.net
+mystighty.info
+sohjah-thahka.info
 goitcl.com
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
@@ -12270,6 +12278,7 @@ fukkzdxfyrchhc.com
 fuwgbbkktwbu.com
 fvenxjtzuaxu.com
 fveugxikrgrbsh.com
+fviwwkvvxs.com
 fwbhvrpiunlzyh.com
 fwzqogrlgsdl.com
 fxazopwrns.com
@@ -13135,6 +13144,7 @@ ttegjzxzxyetf.com
 tufpmrcdc.com
 tuggbdzprgudk.com
 tuliprfawfq.com
+tuxbpnne.com
 tuxgnhcrhyugjf.com
 tuzmouxn.com
 tuzvjlqrpzpugj.com
@@ -22944,6 +22954,7 @@ gj.applog.uc.cn
 gjapplog.uc.cn
 mazu.sec.miui.com
 shenghuo.xiaomi.com
+globalapi.ad.xiaomi.com
 api.ad.xiaomi.com
 a.bitmango.com
 tracking.directservices.it
@@ -23255,6 +23266,7 @@ hubvisor.io
 hudb.pl
 i401xox.com
 iaudienc.com
+id5-sync.com
 impactradius-event.com
 infopro-insight.com
 informz.net
@@ -23315,6 +23327,7 @@ mediaweaver.jp
 metricool.com
 meyersdalebixby.com
 micpn.com
+mieru-ca.com
 mno.link
 momently.com
 monu.delivery
@@ -23426,7 +23439,6 @@ statswebtown.com
 storygize.net
 streamsend.com
 streem.com.au
-stripe.network
 stripedcollar.net
 strossle.it
 surefire.link
@@ -24182,23 +24194,28 @@ ca-mpr.jp
 cetlog.jp
 d-markets.net
 deteql.net
+digitiminimi.com
 docodoco.jp
+ebis.ne.jp
 ec-concier.com
 ec-optimizer.com
 genieedmp.com
 genieessp.jp
+iid-network.jp
 im-apps.net
 iogous.com
 keyword-match.com
 kir.jp
 macromill.com
 marsflag.com
+n8s.jp
 omiki.com
 pagoda56.com
 r-ad.ne.jp
 sibulla.com
 speee-ad.jp
 tgknt.com
+triver.jp
 ukw.jp
 wonder-ma.com
 adpick.co.kr
@@ -25399,6 +25416,7 @@ imgstat.ameba.jp
 omt.shinobi.jp
 rcm.shinobi.jp
 sync.shinobi.jp
+torimochi.line-apps.com
 userdive.com
 x9.shinobi.jp
 log.cizion.com
