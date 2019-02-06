@@ -1,3 +1,4 @@
+lostplanetcdn.com
 d30gt5larl1k8h.cloudfront.net
 kinopushka.xyz
 mirongotrof.ru
@@ -3405,6 +3406,9 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+propu.sh
+storoukr.net
+bestadbid.com
 ad.mox.tv
 dm.hybrid.ai
 uptopop.com
@@ -3501,7 +3505,6 @@ lnkfast.com
 newspolovb.info
 uytestion.info
 cultidifficient.info
-bestadbid.com
 trafficclub-nde.netdna-ssl.com
 lovacmar.click
 niltutch.com
@@ -18657,6 +18660,7 @@ s-onetag.com
 personaclick.com
 noy90o.com
 logsss.com
+tnative.ru
 redatastore.ru
 cinarra.com
 marketo.com
@@ -24245,6 +24249,7 @@ trugaze.io
 profitshare.ro
 retargeting.biz
 zontera.com
+1dmp.io
 24smi.info
 2ip.ua
 3wnp9.ru
@@ -24273,7 +24278,6 @@ semantiqo.com
 stat-well.com
 tbex.ru
 tds.io
-tnative.ru
 toptracker.ru
 tpm.pw
 track.cooster.ru
@@ -25457,6 +25461,7 @@ counter.photopulse.ru
 counter.pr-cy.ru
 counter.star.lg.ua
 counter.wapstart.ru
+error.videonow.ru
 mediator.mail.ru
 metrics.aviasales.ru
 montblanc.rambler.ru
