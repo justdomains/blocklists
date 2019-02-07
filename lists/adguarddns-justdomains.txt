@@ -1,3 +1,5 @@
+xr-tds.com
+ali-crm.ru
 lostplanetcdn.com
 d30gt5larl1k8h.cloudfront.net
 kinopushka.xyz
@@ -3406,6 +3408,7 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+jungloconding.info
 propu.sh
 storoukr.net
 bestadbid.com
@@ -4930,6 +4933,8 @@ zeti.com
 zptncsir.com
 rcdn.pro
 samsungads.com
+match.rundsp.com
+d2ho1n52p59mwv.cloudfront.net
 drda5yf9kgz5p.cloudfront.net
 d1wjz6mrey9f5v.cloudfront.net
 xml.revrtb.com
@@ -18651,6 +18656,8 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+vidapi.expepp.de
+builfico.de
 s24-analytics.com
 targetman.ru
 adtlgc.com
@@ -20338,7 +20345,6 @@ ns1p.net
 nstracking.com
 ntlab.org
 nuconomy.com
-nudatasecurity.com
 nuggad.net
 numerino.cz
 nyctrl32.com
@@ -23491,6 +23497,7 @@ u5c93.com
 uciservice.com
 uhygtf1.com
 ultratokensx.com
+uniqodo.com
 upapi.net
 uptain.de
 uptrendsdata.com
@@ -24626,6 +24633,7 @@ eventgateway.soundcloud.com
 events.air.tv
 events.antenna.is
 events.bounceexchange.com
+events.demoup.com
 events.izooto.com
 events.jotform.com
 events.launchdarkly.com
