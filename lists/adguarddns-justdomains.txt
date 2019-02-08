@@ -3408,6 +3408,8 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+dolohen.com
+agxclick.com
 jungloconding.info
 propu.sh
 storoukr.net
@@ -4933,8 +4935,8 @@ zeti.com
 zptncsir.com
 rcdn.pro
 samsungads.com
-match.rundsp.com
 d2ho1n52p59mwv.cloudfront.net
+match.rundsp.com
 drda5yf9kgz5p.cloudfront.net
 d1wjz6mrey9f5v.cloudfront.net
 xml.revrtb.com
@@ -18656,6 +18658,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+group-ib.ru
 vidapi.expepp.de
 builfico.de
 s24-analytics.com
@@ -18672,6 +18675,9 @@ redatastore.ru
 cinarra.com
 marketo.com
 2iui01.com
+bd4travel.com
+bm.adentifi.com
+prvsz4pe.micpn.com
 target.mixi.media
 analytics.servogram.io
 checkmygeo.com
@@ -23261,7 +23267,6 @@ getrockerbox.com
 gim.co.il
 gnpge.com
 gostats.org
-group-ib.ru
 grumrt.com
 gweini.com
 halo77.com
@@ -24093,6 +24098,7 @@ reshin.de
 stetic.com
 tausch-link.de
 toplist100.org
+tracdelight.com
 trbo.com
 usemaxserver.de
 vtracy.de

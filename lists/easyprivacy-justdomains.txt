@@ -775,6 +775,7 @@ fluencymedia.com
 fluidsurveys.com
 flx1.com
 flyingpt.com
+fn-pz.com
 followercounter.com
 fonderredd.info
 footprintdns.com
@@ -3215,6 +3216,7 @@ tisoomi-services.com
 tophits4u.de
 toplist100.org
 topstat.com
+tracdelight.com
 trackfreundlich.de
 trafficmaxx.de
 trbo.com
@@ -4676,6 +4678,7 @@ target.fark.com
 target.mixi.media
 targeting.wpdigital.net
 tc.airfrance.com
+tcheck.outbrainimg.com
 te.supportfreecontent.com
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -5502,6 +5505,7 @@ events.jora.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
+events.secureserver.net
 events.turbosquid.com
 eventtracker.elitedaily.com
 evisit.exeter.ac.uk
@@ -5576,6 +5580,7 @@ intent.cbsi.com
 ip.breitbart.com
 ip.pichunter.com
 jack.allday.com
+kg.aws.mashable.com
 kinesisproxy.hearstlabs.com
 l.5min.com
 lh.secure.yahoo.com
@@ -5661,6 +5666,7 @@ ned.itv.com
 net.haier.com
 nm.newegg.com
 nmtracking.netflix.com
+odin.mic.com
 oimg.m.cnbc.com
 oimg.mobile.cnbc.com
 om.cbsi.com
