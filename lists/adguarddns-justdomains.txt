@@ -3408,6 +3408,7 @@ skyad1.ru
 sv-pr.ru
 widget.mediastealer.com
 ru-novocti.com
+psughooy.com
 dolohen.com
 agxclick.com
 jungloconding.info
@@ -5384,6 +5385,7 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+crosspromo.voodoo.io
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 liftoff.io
@@ -7086,6 +7088,7 @@ adzouk1tag.com
 adzposter.com
 adzpower.com
 adzs.nl
+adzyou.com
 ae1a1e258b8b016.com
 aerobins.com
 af201768865.com
@@ -21600,6 +21603,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+tracker.blutv.com
 metrics.infranken.de
 ophan.theguardian.com
 tracking.s24.com
@@ -23253,6 +23257,7 @@ f92j5.com
 fastly-insights.com
 fdxstats.xyz
 feathr.co
+fn-pz.com
 fonderredd.info
 fqsecure.com
 freegeoip.app
@@ -23325,7 +23330,6 @@ livesession.io
 livetrafficfeed.com
 locotrack.net
 logmatic.io
-logrocket.com
 luckyorange.net
 lyngro.com
 mabipa.com
@@ -25003,6 +25007,7 @@ tags.master-perf-tools.com
 tags.newscgp.com
 target.fark.com
 tc.airfrance.com
+tcheck.outbrainimg.com
 telemetry.reembed.com
 telemetry.soundcloud.com
 thetradedesk-tags.s3.amazonaws.com
