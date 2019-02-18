@@ -201,6 +201,7 @@ answerscloud.com
 anti-cheat.info
 ape78cn2.com
 apexstats.com
+apextag.com
 apextwo.com
 apicit.net
 apollofind.com
@@ -1099,6 +1100,7 @@ klldabck.com
 km-sea.net
 knowlead.io
 knowledgevine.net
+koddi.com
 komtrack.com
 kontagent.net
 kopsil.com
@@ -1809,6 +1811,7 @@ smileyhost.net
 smrk.io
 smrtlnks.com
 snapdeal.biz
+snapsmedia.io
 sniperlog.ru
 sniphub.com
 snoobi.com
@@ -5520,7 +5523,6 @@ frog.wix.com
 funn.graphiq.com
 g.deathandtaxesmag.com
 g.msn.com
-g.techweekeurope.co.uk
 ga.canoe.ca
 ga.nsimg.net
 gcpdata.telegraph.co.uk
