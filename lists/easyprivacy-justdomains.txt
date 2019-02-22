@@ -5720,6 +5720,7 @@ pong.gannettdigital.com
 pound.buzzfeed.com
 presentationtracking.netflix.com
 proac.nationwide.com
+production.airswap.io
 proxypage.msn.com
 ps.ecosia.org
 pulse-analytics-beacon.reutersmedia.net
