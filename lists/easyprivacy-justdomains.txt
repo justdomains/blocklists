@@ -3789,6 +3789,7 @@ seedtag.com
 adsettings.com
 adten.eu
 adtlgc.com
+adtr.io
 adtraction.com
 bonnieradnetwork.se
 brandmetrics.com
@@ -4175,6 +4176,7 @@ d3ojzyhbolvoi5.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
+d3sbxpiag177w8.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
@@ -5111,6 +5113,7 @@ rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
 analytics.bhaskar.com
+analytics.competitoor.com
 analytics.digitouch.it
 analytics.ettoredelnegro.pro
 analytics.linkwelove.com
