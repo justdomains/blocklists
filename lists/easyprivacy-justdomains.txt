@@ -747,6 +747,7 @@ fastly-insights.com
 fastonlineusers.com
 fastwebcounter.com
 fathomseo.com
+fbgpnk.com
 fcs.ovh
 fdxstats.xyz
 feathr.co
@@ -1201,7 +1202,6 @@ marketizator.com
 marketo.com
 marketshot.com
 marketshot.fr
-markitondemand.com
 maropost.com
 martianstats.com
 maryneallynndyl.com
@@ -1365,6 +1365,7 @@ nik.io
 nile.works
 noowho.com
 nordicresearch.com
+northstartravelmedia.com
 notifyvisitors.com
 novately.com
 nowinteract.com
@@ -2143,6 +2144,7 @@ users-api.com
 usuarios-online.com
 v12group.com
 v3cdn.net
+va-endpoint.com
 valaffiliates.com
 valuedopinions.co.uk
 vantage-media.net
@@ -4418,6 +4420,7 @@ ns.rvmkitt.com
 o.addthis.com
 observer.ip-label.net
 octopart-analytics.com
+oda.markitondemand.com
 offermatica.intuit.com
 offers.keynote.com
 om.1and1.co.uk
