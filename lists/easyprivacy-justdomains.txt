@@ -1243,6 +1243,7 @@ metricool.com
 metricsdirect.com
 meyersdalebixby.com
 mezzobit.com
+mfadsrvr.com
 mialbj6.com
 micpn.com
 midas-i.com
@@ -3796,7 +3797,9 @@ adtraction.com
 bonnieradnetwork.se
 brandmetrics.com
 citypaketet.se
+cssrvsync.com
 dep-x.com
+lwadm.com
 myvisitors.se
 prospecteye.com
 publish-int.se
@@ -3807,6 +3810,7 @@ tidningsnatet.se
 tns-sifo.se
 vastpaketet.se
 webserviceaward.com
+yieldbird.com
 d-stats.com
 tracker.stats.in.th
 truehits.net
@@ -4141,6 +4145,7 @@ d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
 d24cze5sab2jwg.cloudfront.net
+d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
