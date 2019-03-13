@@ -1029,7 +1029,6 @@ invoca.net
 invoca.solutions
 iocnt.net
 ionmvdpifz.com
-ip-api.com
 ip-label.net
 ip2location.com
 ip2map.com
@@ -4894,7 +4893,6 @@ wibiya-june-new-log.conduit-data.com
 widget.perfectmarket.com
 widget.quantcast.com
 win.staticstuff.net
-wp-stat.s3.amazonaws.com
 wsb.aracert.com
 wstat.wibiya.com
 wunderloop.aol.co.uk
