@@ -7,8 +7,6 @@ load.jsecoin.com
 server.jsecoin.com
 miner.pr0gramm.com
 minemytraffic.com
-ppoi.org
-projectpoi.com
 crypto-loot.com
 cryptaloot.pro
 cryptoloot.pro
