@@ -104,6 +104,7 @@ adku.co
 adku.com
 admantx.com
 admaster.com.cn
+admetric.io
 admitad.com
 admother.com
 adoftheyear.com
@@ -1447,6 +1448,7 @@ p-td.com
 p.l1v.ly
 p.raasnet.com
 p0.raasnet.com
+p2r14.com
 pa-oa.com
 pagefair.com
 pages05.net
@@ -2764,12 +2766,10 @@ pool.hws.ru
 poolmining.eu
 poolmining.net
 porkypool.com
-ppoi.org
 pr0gram.org
 premiumstats.xyz
 presjots.ga
 proj2018.xyz
-projectpoi.com
 proofly.win
 pzoifaum.info
 rand.com.ru
@@ -4324,6 +4324,7 @@ infinityid.condenastdigital.com
 informer.yandex.ru
 insight.mintel.com
 insights.gravity.com
+insights.plista.com
 insitez.blob.core.windows.net
 intelligence.dgmsearchlab.com
 irqs.ioam.de
@@ -5204,6 +5205,7 @@ analytics.aasaam.com
 analytics.greensender.pl
 fab.interia.pl
 hit.interia.pl
+pixel.homebook.pl
 scontent.services.tvn.pl
 stats.asp24.pl
 stats.media.onet.pl
@@ -6155,6 +6157,7 @@ analytics.solidbau.at
 as.base.de
 beacon.gutefrage.net
 boss.berlinonline.de
+bt.mediaimpact.de
 c.perlentaucher.de
 c.t-online.de
 cc.zeit.de
