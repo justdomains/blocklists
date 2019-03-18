@@ -5315,6 +5315,7 @@ st.tmgrup.com.tr
 counter.opinion.com.ua
 informers.sinoptik.ua
 analytics.mecloud.vn
+3rdeye.spankbang.com
 a.jango.com
 aa.avvo.com
 aax-us-iad.amazon.com
@@ -5490,6 +5491,7 @@ counter.promodeejay.net
 counter.sina.com.cn
 counter.theconversation.edu.au
 counter.zerohedge.com
+cpt.itv.com
 ct.buzzfeed.com
 da.virginmedia.com
 data.mic.com
