@@ -5610,6 +5610,7 @@ lilb2.shutterstock.com
 linkpuls.idg.no
 live-audience.dailymotion.com
 live.philips.com
+loc.rediff.com
 localads-statistics.maps.me
 log.china.cn
 log.data.disney.com
@@ -6105,7 +6106,6 @@ up.nytimes.com
 uptpro.homestead.com
 urchin-tracker.bigpoint.net
 userfly.com
-usmetric.rediff.com
 ut.ratepoint.com
 vertical-stats.huffingtonpost.com
 video-stats.video.google.com
