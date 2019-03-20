@@ -5605,6 +5605,7 @@ jack.allday.com
 kg.aws.mashable.com
 kinesisproxy.hearstlabs.com
 l.5min.com
+laas.americanexpress.com
 lh.secure.yahoo.com
 lilb2.shutterstock.com
 linkpuls.idg.no
@@ -6029,7 +6030,6 @@ track.dictionary.com
 track.engagesciences.com
 track.ft.com
 track.fxstreet.com
-track.gawker.com
 track.hubspot.com
 track.netzero.net
 track.ning.com
@@ -6426,6 +6426,7 @@ scis.tbs.co.jp
 sy.amebame.com
 sy.ameblo.jp
 visit.geocities.jp
+wisteria-js.excite.co.jp
 yjtag.yahoo.co.jp
 count.munhwa.com
 gather.hankyung.com
