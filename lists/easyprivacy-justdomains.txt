@@ -5390,6 +5390,7 @@ analytics.whatculture.com
 analytics.yahoo.com
 analyze.yahooapis.com
 analyzer52.fc2.com
+anon-stats.eff.org
 atax.gamermetrics.com
 atax.gamespy.com
 atax.gamestats.com
