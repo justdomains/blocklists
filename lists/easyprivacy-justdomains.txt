@@ -320,7 +320,6 @@ blogreaderproject.com
 blogscounter.com
 blogsontop.com
 blogtoplist.com
-bloomjoy.com
 bluecava.com
 blueconic.net
 blvdstatus.com
@@ -5235,6 +5234,7 @@ top.skyzone.ro
 1l-hit.mail.ru
 a.tovarro.com
 awaps.yandex.ru
+banstat.nadavi.net
 c.bigmir.net
 cnstats.cdev.eu
 cnt.logoslovo.ru
@@ -5506,6 +5506,8 @@ data.mic.com
 data.ryanair.com
 data.younow.com
 datacollector.coin.scribol.com
+dc.banggood.com
+dccss.banggood.com
 dcs.mattel.com
 dcs.maxthon.com
 debug-vp.webmd.com
