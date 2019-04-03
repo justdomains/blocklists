@@ -2280,6 +2280,7 @@ worldlogger.com
 wowanalytics.co.uk
 wp-stats.com
 wpdstat.com
+wpfc.ml
 wredint.com
 wt-eu02.net
 wt-safetag.com
