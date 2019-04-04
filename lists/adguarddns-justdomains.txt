@@ -3435,6 +3435,8 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+popcent.net
+kerumal.com
 runative-syndicate.com
 roupsouk.com
 itad.linetv.tw
@@ -5080,6 +5082,7 @@ xk0x.cn
 olc0.cn
 rcdn.pro
 samsungads.com
+video.cars247.tv
 osm-onead.cdn.hinet.net
 d63a3au5lqmtu.cloudfront.net
 d13jhr4vol1304.cloudfront.net
@@ -19543,6 +19546,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+sb.voicefive.com
 mrb.upapi.net
 pngme.ru
 qoopler.ru
@@ -24438,6 +24442,7 @@ whizstats.com
 widerplanet.com
 womtp.com
 worldflagcounter.com
+wpfc.ml
 xlisting.jp
 xtraffstat.com
 yandex-metrica.ru
