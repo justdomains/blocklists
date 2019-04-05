@@ -1190,6 +1190,7 @@ lypn.net
 lytics.io
 lytiks.com
 m-pathy.com
+m-t.io
 m1ll1c4n0.com
 m6r.eu
 mabipa.com
@@ -1437,6 +1438,7 @@ optorb.com
 optreadetrus.info
 oranges88.com
 orcapia.com
+oribi.io
 os-data.com
 ositracker.com
 ospserver.net
@@ -2076,6 +2078,7 @@ trekmedia.net
 trendcounter.com
 trendemon.com
 trgtcdn.com
+tribl.io
 triggeredmessaging.com
 triggertag.gorillanation.com
 triggit.com
@@ -3145,6 +3148,7 @@ netzstat.ch
 northclick-statistiken.de
 observare.de
 oewabox.at
+oghub.io
 optimierung-der-website.de
 org-dot-com.com
 osxau.de
@@ -3950,6 +3954,7 @@ analytics.truecarbon.org
 analytics.urx.io
 analytics.vanillaforums.com
 analytics.vendemore.com
+analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
 analytics.witglobal.net
@@ -6173,6 +6178,9 @@ analytics.moviepilot.de
 analytics.proxer.me
 analytics.solidbau.at
 as.base.de
+as.mirapodo.de
+as.mytoys.de
+as.yomonda.de
 beacon.gutefrage.net
 boss.berlinonline.de
 bt.mediaimpact.de
@@ -6244,6 +6252,7 @@ tracking.finanzen.net
 tracking.hrs.de
 tracking.krone.at
 tracking.kurier.at
+tracking.linda.de
 tracking.mobile.de
 tracking.netbank.de
 tracking.oe24.at
@@ -6418,6 +6427,7 @@ events.ingatlan.com
 outal.origo.hu
 analytics.tio.ch
 analytics.traderlink.com
+as.payback.it
 click.tv.repubblica.it
 emng.libero.it
 g.techweekeurope.it
