@@ -3436,6 +3436,12 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+fshet.com
+aijiboft.com
+psadsoob.com
+paibopse.com
+remtoaku.net
+deloplen.com
 ad.pentabox.net
 g--o.info
 dbaof.com
@@ -5542,6 +5548,7 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+ads.edadeal.ru
 adsrvr.io
 t7z.cupid.iqiyi.com
 data2.doodlemobile.com
@@ -12876,6 +12883,7 @@ icfxndxwpan.com
 icjpdubxgab.com
 ictmdbus.com
 icuazeczpeoohx.com
+idbjhskxiablsi.com
 idbtfwllhogxc.com
 iddvmkxme.com
 ideprjebdvj.com
@@ -13263,6 +13271,7 @@ mqdznyotsam.com
 mqgvsxqc.com
 mqnklgnucy.com
 mqobpsctcxnbi.com
+mrjzfzwey.com
 mrtehsag.com
 msisvvxmnpm.com
 msmaijsxlo.com
@@ -13427,6 +13436,7 @@ otdgnmvw.com
 otoxkqlivsqr.com
 otruzjgxof.com
 otuveoqm.com
+oucywciij.com
 ounyrilukncbj.com
 ouzqwetenps.com
 ovckindyf.com
@@ -13831,6 +13841,7 @@ tektbzadrceqje.com
 tepazmynhvo.com
 tfhuupltipcg.com
 tfijbdegozfh.com
+tfjfcvhvudxf.com
 tfqexqeldxjvet.com
 tfxorvbelxfbmk.com
 tfyxcbougqvmk.com
@@ -14366,6 +14377,7 @@ yvsymvjzk.com
 ywegbjiv.com
 ywlaafzvnn.com
 ywolsukpto.com
+ywuyrhkaiat.com
 ywxnjrkkrnyzc.com
 yxbglezas.com
 yxfkdvkh.com
@@ -23491,7 +23503,6 @@ c.ipaddress.com
 trck.cyberport.de
 abc.esprit.de
 tr.outbrain.com
-tracking.epicgames.com
 analytics.shop.hisense.com
 statistics.aldi-international.com
 statistics.11880.com
@@ -25067,7 +25078,10 @@ ingenioustech.biz
 mairdumont.com
 md-nx.com
 mps-gba.de
+odoscope.cloud
+oghub.io
 ppro.de
+prudsys-rde.de
 redretarget.com
 reshin.de
 stetic.com
@@ -26710,6 +26724,7 @@ sa.bbc.co.uk
 sa.bbc.com
 t.9gag.com
 t.appsflyer.com
+tracking.epicgames.com
 adocean.cz
 tt.onthe.io
 weline.info

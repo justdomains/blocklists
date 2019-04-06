@@ -3147,6 +3147,7 @@ netzaehler.de
 netzstat.ch
 northclick-statistiken.de
 observare.de
+odoscope.cloud
 oewabox.at
 oghub.io
 optimierung-der-website.de
@@ -3179,6 +3180,7 @@ pr-update.biz
 prnetwork.de
 productsup.com
 propagerank.de
+prudsys-rde.de
 r.movad.de
 rank-power.com
 rank4all.eu
@@ -5393,6 +5395,7 @@ analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
 analytics.thevideo.me
+analytics.tradedoubler.com
 analytics.upworthy.com
 analytics.us.archive.org
 analytics.volvocars.com
