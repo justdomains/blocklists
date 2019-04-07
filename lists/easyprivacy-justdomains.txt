@@ -1170,6 +1170,7 @@ loggly.com
 logmatic.io
 lognormal.net
 logrocket.com
+logrocket.io
 lookery.com
 loopfuse.net
 lopley.com
@@ -2139,6 +2140,7 @@ urlbrief.com
 urlself.com
 usabilitytools.com
 usabilla.com
+useinsider.com
 useitbetter.com
 user-api.com
 user-clicks.com
@@ -3891,6 +3893,7 @@ analytics.amakings.com
 analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.artirix.com
+analytics.audioeye.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.bigcommerce.com
@@ -4490,6 +4493,7 @@ pix.impdesk.com
 pix.speedbit.com
 pixel-a.basis.net
 pixel-xpanama.netdna-ssl.com
+pixel.cdnwidget.com
 pixel.colorupmedia.com
 pixel.fanbridge.com
 pixel.glimr.io
@@ -5513,6 +5517,7 @@ counter.theconversation.edu.au
 counter.zerohedge.com
 cpt.itv.com
 ct.buzzfeed.com
+d35u1vg1q28b3w.cloudfront.net
 da.virginmedia.com
 data.mic.com
 data.ryanair.com
@@ -5564,6 +5569,7 @@ fresh.techdirt.com
 frog.wix.com
 funn.graphiq.com
 g.deathandtaxesmag.com
+g.ign.com
 g.msn.com
 ga.canoe.ca
 ga.nsimg.net
@@ -6090,7 +6096,6 @@ tracking.carprices.com
 tracking.carsales.com.au
 tracking.chacha.com
 tracking.conduit.com
-tracking.epicgames.com
 tracking.eurosport.com
 tracking.goodgamestudios.com
 tracking.hsn.com

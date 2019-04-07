@@ -22562,6 +22562,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+tracking.linda.de
+cdn.odoscope.cloud
 sanalytics.ncaa.com
 bi.medscape.com
 analytics.cn.ru
