@@ -768,6 +768,7 @@ finderlocator.com
 fishhoo.com
 fitanalytics.com
 flagcounter.com
+flaghit.com
 flash-counter.com
 flash-stat.com
 flashadengine.com
@@ -4264,6 +4265,7 @@ eservicesanalytics.com.au
 et.grabnetworks.com
 event-listener.air.tv
 event.api.drift.com
+event.getblue.io
 event.loyalty.bigdoor.com
 event.previewnetworks.com
 event.trove.com
@@ -5406,6 +5408,7 @@ analytics.volvocars.com
 analytics.wetpaint.me
 analytics.whatculture.com
 analytics.yahoo.com
+analytics.zg-api.com
 analyze.yahooapis.com
 analyzer52.fc2.com
 anon-stats.eff.org
