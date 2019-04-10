@@ -2990,6 +2990,7 @@ andyhoppe.com
 anormal-tracker.de
 atsfi.de
 audiencemanager.de
+audienzz.ch
 avencio.de
 backlink-test.de
 backlink-umsonst.de
@@ -6310,6 +6311,7 @@ pwa.telephoneannuaire.fr
 r.orange.fr
 sa.tf1.fr
 secure-stat.canal-plus.com
+stat.ouedkniss.com
 stat.webevolutis.com
 stats1x1.kapaza.be
 track.24heures.ch
@@ -6427,6 +6429,7 @@ webstat.kuwo.cn
 wl.jd.com
 zhihu-web-analytics.zhihu.com
 stat.novinky.cz
+analytics.rambla.be
 logs.ggweb.nl
 sat.sanoma.fi
 stats.fd.nl
