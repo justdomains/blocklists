@@ -660,3 +660,7 @@ jscoinminer.com
 www.jscoinminer.com
 play.tercabilis.info
 play.istlandoll.com
+s01.hostcontent.live
+s11.hostcontent.live
+s12.hostcontent.live
+s09.hostcontent.live
