@@ -1,3 +1,4 @@
+wsvay.com
 gold-mir.com
 wp-tk.ru
 ezcore.pro
@@ -3454,6 +3455,7 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+udockoan.net
 cuikcg.com
 pmli.cn
 ucheephu.com
@@ -5327,6 +5329,8 @@ dviixeyykyqjv.cloudfront.net
 js.bulkhentai.com
 script.hqpass.com
 d2t2on23g4lty1.cloudfront.net
+smrtbnr.net
+smrtbnr.space
 adnamo.net
 dogus-ads-cdn.dygdigital.com
 adimage.media
@@ -22438,7 +22442,6 @@ track2.me
 trackalyzer.com
 trackbar.info
 trackcdn.com
-trackcmp.net
 trackconsole.com
 trackdiscovery.net
 trackeame.com
