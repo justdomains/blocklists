@@ -343,6 +343,7 @@ brat-online.ro
 brcdn.com
 bridgevine.com
 brightedge.com
+brightfunnel.com
 brilig.com
 browser-statistik.de
 brsrvr.com
@@ -476,6 +477,7 @@ cmptch.com
 cnt1.net
 cnxweb.com
 cnzz.com
+cobaltgroup.com
 codata.ru
 cogmatch.net
 cognitivematch.com
@@ -911,6 +913,7 @@ heatmap.services
 hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
+heyhelga.net
 heystaks.com
 hiconversion.com
 higherengine.com
@@ -1478,6 +1481,7 @@ pega.com
 percentmobile.com
 perfdrive.com
 perfiliate.com
+perfops.net
 performanceanalyser.net
 performancerevenues.com
 performtracking.com
@@ -3305,6 +3309,7 @@ compteur.com
 compteur.org
 count.fr
 countus.fr
+datadome.co
 deliv.lexpress.fr
 do09.net
 edt02.net
@@ -3890,6 +3895,7 @@ analytic.pho.fm
 analytic.xingcloud.com
 analyticapi.pho.fm
 analyticcdn.globalmailer.com
+analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
 analytics-static.ugc.bazaarvoice.com
@@ -4525,6 +4531,7 @@ pong.production.gannettdigital.com
 postpixel.vindicosuite.com
 powersearch.us.com
 pr.blogflux.com
+prd-collector-anon.playbuzz.com
 production-eqbc.lvp.llnw.net
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
@@ -4684,6 +4691,7 @@ stats2.tune.pk
 stats3.unrulymedia.com
 statsadv.dadapro.com
 statsapi.screen9.com
+statsd.zmags.com
 statsdev.treesd.com
 statsrv.451.com
 statt-collect.herokuapp.com
@@ -5949,6 +5957,7 @@ spotlight.accuweather.com
 srt.pch.com
 ssc.api.bbc.com
 ssl-stats.wordpress.com
+st.arte.tv
 stat.alibaba.com
 stat.dealtime.com
 stat.kbs.co.kr
@@ -6165,6 +6174,7 @@ weblogger01.data.disney.com
 webstats.perfectworld.com
 whoson.smcorp.com
 winter.metacafe.com
+wla.vivaldi.com
 ws.yellowpages.ca
 wstats.e-wok.tv
 wtk.db.com
@@ -6451,6 +6461,7 @@ click.tv.repubblica.it
 emng.libero.it
 g.techweekeurope.it
 livestats.la7.tv
+ma.register.it
 sa.sky.it
 siteinfo.libero.it
 stats.splinder.com
