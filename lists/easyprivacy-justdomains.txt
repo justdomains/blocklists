@@ -5793,6 +5793,7 @@ proxypage.msn.com
 ps.ecosia.org
 pulse-analytics-beacon.reutersmedia.net
 pvstat.china.cn
+px.wayfair.com
 r.bbci.co.uk
 r.my.com
 rainbow-uk.mythings.com
