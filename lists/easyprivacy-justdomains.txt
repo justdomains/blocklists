@@ -677,6 +677,7 @@ email-match.com
 embeddedanalytics.com
 emediatrack.com
 emltrk.com
+emxdgt.com
 enecto.com
 enectoanalytics.com
 engageclick.com
@@ -1212,6 +1213,7 @@ marinsm.com
 market015.com
 market2lead.com
 marketizator.com
+marketperf.com
 marketshot.com
 marketshot.fr
 maropost.com
@@ -1689,6 +1691,7 @@ roitesting.com
 roivista.com
 rollingcounters.com
 roosterfirework.com
+rp-rep.net
 rpdtrk.com
 rqtrk.eu
 rrimpl.com
@@ -2236,6 +2239,7 @@ walmeric.com
 waplog.net
 waudit.cz
 waust.at
+wbdx.fr
 wbtrk.net
 web-boosting.net
 web-counter.net
@@ -3799,6 +3803,7 @@ blogtraffic.sg
 idot.cz
 pocitadlo.sk
 toplist.sk
+botize.com
 ccrtvi.com
 certifica.com
 contadordevisitas.es
@@ -5746,6 +5751,7 @@ omniture.stuff.co.nz
 omniture.theglobeandmail.com
 open.mkt1397.com
 ophan.guardian.co.uk
+ophan.theguardian.com
 optimize-stats.voxmedia.com
 origin-tracking.trulia.com
 origin.chron.com
@@ -6460,6 +6466,7 @@ analytics.tio.ch
 analytics.traderlink.com
 as.payback.it
 click.tv.repubblica.it
+compare.easyviaggio.com
 emng.libero.it
 g.techweekeurope.it
 livestats.la7.tv
@@ -6550,6 +6557,7 @@ analytics.infobae.com
 analytics.redlink.com.ar
 audiencies.ccma.cat
 coletor.terra.com
+compare.easyviajar.com
 estadisticas.lanacion.com.ar
 estadonline.publiguias.cl
 g.siliconweek.es
