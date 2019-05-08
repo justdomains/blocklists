@@ -591,6 +591,7 @@ decideinteractive.com
 declaredthoughtfulness.co
 deepattention.com
 dejavu.mlapps.com
+departapp.com
 deqwas.net
 devatics.com
 device9.com
@@ -5574,6 +5575,7 @@ ev.kck.st
 event-reporting-dot-webylytics.appspot.com
 eventlog.jackpot.de
 eventlogger.soundcloud.com
+events.godaddy.com
 events.jora.com
 events.privy.com
 events.reddit.com
@@ -5969,6 +5971,7 @@ st.arte.tv
 stat.alibaba.com
 stat.dealtime.com
 stat.kbs.co.kr
+stat.pubhtml5.com
 stat.ruvr.ru
 stat.torrentbar.com
 stat.xhamsterpremium.com
