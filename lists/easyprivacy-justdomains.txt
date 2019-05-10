@@ -1849,6 +1849,7 @@ socialtrack.co
 socialtrack.net
 sociaplus.com
 socketanalytics.com
+socketviking.net
 sodoit.com
 soflopxl.com
 softonic-analytics.net
@@ -3130,6 +3131,7 @@ ipcount.net
 ipcounter.net
 iptrack.biz
 iyi.net
+kctag.net
 keytrack.de
 klamm-counter.de
 kono-research.de
