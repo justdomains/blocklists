@@ -132,6 +132,7 @@ advconversion.com
 advertising.com
 adways.com
 adwstats.com
+adxadtracker.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -1487,7 +1488,6 @@ pega.com
 percentmobile.com
 perfdrive.com
 perfiliate.com
-perfops.net
 performanceanalyser.net
 performancerevenues.com
 performtracking.com
@@ -2062,6 +2062,7 @@ trackedweb.net
 tracking100.com
 tracking202.com
 trackinglabs.com
+trackingpro.pro
 trackkas.com
 trackmytarget.com
 trackmyusers.com
@@ -2449,6 +2450,7 @@ bewaslac.com
 bewhoyouare.gq
 bhzejltg.info
 biberukalap.com
+binarybusiness.de
 bitclub.network
 bitclubnetwork.com
 bitcoin-pay.eu
