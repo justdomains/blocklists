@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2019-05-16 08:53:05
+**Last Updated:** 2019-05-17 08:53:04
 
 - [Details](#details)
 - [Usage](#usage)
@@ -41,9 +41,9 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 | Converted List | License | Domains | Domain List | Last Updated |
 :- | - | - | :-: | - |
-| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 19085 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 16 May 2019 07:05 UTC |
-| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6592 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 16 May 2019 07:06 UTC |
-| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 27591 | [**Download**](https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt) | 2019-05-15 16:19:23 |
+| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 19117 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 17 May 2019 07:12 UTC |
+| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 6599 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 17 May 2019 07:12 UTC |
+| [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 27595 | [**Download**](https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt) | 2019-05-16 16:19:06 |
 | [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 676 | [**Download**](https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt) | 12 April 2019 |
 
 &nbsp;
@@ -56,19 +56,19 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 **Source:** [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 201905160705
-- Last Modified: 16 May 2019 07:05 UTC
+- Version: 201905170712
+- Last Modified: 17 May 2019 07:12 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 76787
-Comment Lines: 444
+Total Lines Processed: 76796
+Comment Lines: 445
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 54745
-Domain-only Rules Excluded (unsupported options): 2245
-Domain-only Rules Excluded (exception conflict): 268
-Domain-only Rules Output: 19085
+Non-Domain-only Rules Excluded: 54719
+Domain-only Rules Excluded (unsupported options): 2260
+Domain-only Rules Excluded (exception conflict): 255
+Domain-only Rules Output: 19117
 ```
 
 &nbsp;
@@ -81,19 +81,19 @@ Domain-only Rules Output: 19085
 
 **Source:** [https://easylist.to/easylist/easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt)
 - Title: EasyPrivacy
-- Version: 201905160706
-- Last Modified: 16 May 2019 07:06 UTC
+- Version: 201905170712
+- Last Modified: 17 May 2019 07:12 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 16719
+Total Lines Processed: 16744
 Comment Lines: 190
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 9632
+Non-Domain-only Rules Excluded: 9650
 Domain-only Rules Excluded (unsupported options): 147
 Domain-only Rules Excluded (exception conflict): 158
-Domain-only Rules Output: 6592
+Domain-only Rules Output: 6599
 ```
 
 &nbsp;
@@ -106,19 +106,19 @@ Domain-only Rules Output: 6592
 
 **Source:** [https://filters.adtidy.org/extension/chromium/filters/15.txt](https://filters.adtidy.org/extension/chromium/filters/15.txt)
 - Title: AdGuard Simplified domain names filter
-- Version: 2.0.4.96
-- Last Modified: 2019-05-15 16:19:23
+- Version: 2.0.4.98
+- Last Modified: 2019-05-16 16:19:06
 - Homepage: [https://github.com/AdguardTeam/AdguardSDNSFilter](https://github.com/AdguardTeam/AdguardSDNSFilter)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 28597
-Comment Lines: 430
+Total Lines Processed: 28604
+Comment Lines: 431
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 562
+Non-Domain-only Rules Excluded: 563
 Domain-only Rules Excluded (unsupported options): 1
-Domain-only Rules Excluded (exception conflict): 13
-Domain-only Rules Output: 27591
+Domain-only Rules Excluded (exception conflict): 14
+Domain-only Rules Output: 27595
 ```
 
 &nbsp;

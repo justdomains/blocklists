@@ -491,6 +491,7 @@ comradepony.com
 conductrics.com
 confirmational.com
 confirmit.com
+contactatonce.com
 contactmonkey.com
 contemporaryceremonies.ca
 content-square.net
@@ -504,6 +505,7 @@ conversionfly.com
 conversionlogic.net
 conversionly.com
 conversionruler.com
+convertcart.com
 convertexperiments.com
 convertglobal.com
 convertmarketing.net
@@ -1012,6 +1014,7 @@ infinity-tracking.net
 inflectionpointmedia.com
 influid.co
 infopro-insight.com
+infoprodata.com
 informz.net
 inimbus.com.au
 innomdc.com
@@ -1184,6 +1187,7 @@ lognormal.net
 logrocket.com
 logrocket.io
 lookery.com
+loopa.net.au
 loopfuse.net
 lopley.com
 losstrack.com
@@ -1678,6 +1682,7 @@ riastats.com
 richard-group.com
 richmetrics.com
 ritecounter.com
+rivrai.com
 rkdms.com
 rktu.com
 rlcdn.com
@@ -5076,6 +5081,7 @@ btstats.devtribu.fr
 calotag.com
 cdn-analytics.ladmedia.fr
 compteur.websiteout.net
+d3eokk6ya562p5.cloudfront.net
 e.funnymel.com
 email-reflex.com
 lepoint-stat.sdv.fr
@@ -5602,6 +5608,7 @@ funn.graphiq.com
 g.deathandtaxesmag.com
 g.ign.com
 g.msn.com
+g.vev.io
 ga.canoe.ca
 ga.nsimg.net
 gcpdata.telegraph.co.uk
