@@ -23343,6 +23343,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+1dmp.io
 marketing.net.brillen.de
 app.airtrack.jp
 xray.mail.ru
@@ -23881,7 +23882,6 @@ collector.roistat.com
 track.leadhit.io
 applog.ucdns.uc.cn
 t.frtyi.com
-static.1dmp.io
 tracker.twenga.pl
 analytics.ceneo.pl
 track.buybox.click
@@ -26068,7 +26068,6 @@ trugaze.io
 profitshare.ro
 retargeting.biz
 zontera.com
-1dmp.io
 24smi.info
 3wnp9.ru
 audsp.com
