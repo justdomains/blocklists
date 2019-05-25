@@ -703,6 +703,7 @@ epitrack.com
 eproof.com
 eps-analyzer.de
 ereportz.com
+escalated.io
 esearchvision.com
 esm1.net
 esomniture.com
@@ -916,7 +917,6 @@ halo77.com
 halstats.com
 haraju.co
 haveamint.com
-haymarket.com
 hdmtools.com
 heapanalytics.com
 heatmap.services
@@ -1220,6 +1220,7 @@ magnify360.com
 mailstat.us
 maploco.com
 mapmyuser.com
+marfeelcache.com
 marinsm.com
 market015.com
 market2lead.com
@@ -2072,6 +2073,7 @@ tracking202.com
 trackinglabs.com
 trackingpro.pro
 trackkas.com
+trackmethod.com
 trackmytarget.com
 trackmyusers.com
 trackmyweb.net
@@ -2956,6 +2958,7 @@ bh8yx.xyz
 broaddoor.com
 consciouscabbage.com
 consciouschairs.com
+coordinatedcub.com
 copycarpenter.com
 delegatediscussion.com
 detectdiscovery.com
@@ -2980,6 +2983,7 @@ puffyloss.com
 quaintcan.com
 ritzykey.com
 scintillatingspace.com
+scrubswim.com
 selectivesummer.com
 separatesilver.com
 shallowschool.com
@@ -5435,6 +5439,7 @@ analytics.services.distractify.com
 analytics.shorte.st
 analytics.skyscanner.net
 analytics.slashdotmedia.com
+analytics.socialblade.com
 analytics.spankbang.com
 analytics.sportybet.com
 analytics.teespring.com
@@ -6072,6 +6077,7 @@ t.blinkist.com
 t.cinemablend.com
 t.dailymail.co.uk
 t.eharmony.com
+t.indeed.com
 t.kck.st
 t.my.jobs
 t.paypal.com
@@ -6088,6 +6094,7 @@ ted.dailymail.co.uk
 ted.metro.co.uk
 ted1.metro.co.uk
 telemetry.tradingview.com
+tempo.inc.com
 timeslogtn.timesnow.tv
 timestrends.indiatimes.com
 timestrends.timesnow.tv
@@ -6242,6 +6249,8 @@ as.mirapodo.de
 as.mytoys.de
 as.yomonda.de
 beacon.gutefrage.net
+behave.noen.at
+behave.sn.at
 boss.berlinonline.de
 bt.mediaimpact.de
 c.perlentaucher.de
