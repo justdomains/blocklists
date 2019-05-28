@@ -3457,6 +3457,7 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+resorsedroblet.pro
 jomys.xyz
 debitcrebit669.com
 vizaiced.net
@@ -5200,6 +5201,7 @@ xk0x.cn
 olc0.cn
 rcdn.pro
 samsungads.com
+d3t5ngjixpjdho.cloudfront.net
 doo6pwib3qngu.cloudfront.net
 video.cars247.tv
 osm-onead.cdn.hinet.net
@@ -5661,6 +5663,12 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+activity.browser.intl.miui.com
+api.brs.intl.miui.com
+api.newsfeed.intl.miui.com
+huangye.miui.com
+file.market.xiaomi.com
+adv.sec.intl.miui.com
 zhfosenghtr.com
 ads.edadeal.ru
 adsrvr.io
@@ -6785,6 +6793,7 @@ w.zenback.jp
 8yxupue8.com
 93c8c9a28e1db445.com
 97d73lsi.com
+98bf9h8jbg.com
 9ads.mobi
 9d63c80da.pw
 9ts3tpia.com
@@ -7765,6 +7774,7 @@ bnmla.com
 bnr.sys.lv
 bnrs.it
 bnserving.com
+boashesu.net
 bogads.com
 bohowhepsandked.info
 bonusfapturbo.com
@@ -8272,6 +8282,7 @@ dissonbegant.info
 distilled.ie
 districtm.ca
 dj-updates.com
+djfiln.com
 djiboutdifficial.info
 dk4ywix.com
 dl-rms.com
@@ -10030,6 +10041,7 @@ q1xyxm89.com
 q64a9ris0j.com
 qadserve.com
 qadservice.com
+qaykb.com
 qdmil.com
 qertewrt.com
 qksrv.net
@@ -22825,7 +22837,6 @@ tetoolbox.com
 theadex.com
 thebestlinks.com
 thebrighttag.com
-thecounter.com
 thefreehitcounter.com
 thermstats.com
 thesearchagency.net

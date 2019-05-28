@@ -677,3 +677,4 @@ s100.hostcontent.live
 s11.hostcontent.live
 s12.hostcontent.live
 s13.hostcontent.live
+bitcoin-pay.eu

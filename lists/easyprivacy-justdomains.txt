@@ -5858,6 +5858,7 @@ rt.prnewswire.com
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtn.thestar.com
+rv.modanisa.com
 s.infogr.am
 s.infogram.com
 s.youtube.com
@@ -5999,6 +6000,7 @@ srt.pch.com
 ssc.api.bbc.com
 ssl-stats.wordpress.com
 st.arte.tv
+stan.xing.com
 stat.alibaba.com
 stat.dealtime.com
 stat.kbs.co.kr
