@@ -2266,6 +2266,7 @@ webclicktracker.com
 webcounter.co.za
 webcounter.ws
 webengage.com
+webeyez.com
 webflowmetrics.com
 webforensics.co.uk
 webgains.com
@@ -6025,7 +6026,6 @@ stats.ebay.com
 stats.europe.newsweek.com
 stats.eyeviewdigital.com
 stats.farfetch.com
-stats.firedrive.com
 stats.harpercollins.com
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
