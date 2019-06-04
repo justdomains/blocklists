@@ -262,7 +262,11 @@ lightminer.co
 www.lightminer.co
 browsermine.com
 api.browsermine.com
+dl.browsermine.com
 mlib.browsermine.com
+minr.browsermine.com
+static.browsermine.com
+ws.browsermine.com
 bmst.pw
 bmnr.pw
 bmcm.pw
