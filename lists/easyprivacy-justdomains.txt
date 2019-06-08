@@ -2307,6 +2307,7 @@ whoisonline.net
 whoisvisiting.com
 whosclickingwho.com
 widerplanet.com
+wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
 wiredminds.de
@@ -6241,6 +6242,7 @@ play.estream.to
 play.estream.xyz
 support.2giga.link
 worker.salon.com
+event-analytics.yesware.com
 abakus.freenet.de
 ac.berlinonline.de
 ac.express.de
