@@ -5807,6 +5807,7 @@ pictures.zooplus.com
 ping.buto.tv
 ping.hungama.com
 ping.tvmaze.com
+pingback.issuu.com
 pings.blip.tv
 pipeline.realtime.active.com
 pix.eads.com
