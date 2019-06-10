@@ -1170,7 +1170,6 @@ linkpulse.com
 linksynergy.com
 linkxchanger.com
 listrakbi.com
-litix.io
 livecount.fr
 livehit.net
 livesegmentservice.com
@@ -2161,6 +2160,7 @@ unicaondemand.com
 uniqodo.com
 unknowntray.com
 upapi.net
+upscore.com
 upstats.ru
 uptain.de
 uptimeviewer.com
@@ -4209,7 +4209,6 @@ d1uanozc5el74n.cloudfront.net
 d1wscoizcbxzhp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu5hbtu8mng9.cloudfront.net
-d1z2jf7jlzjs58.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
