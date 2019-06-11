@@ -1803,7 +1803,6 @@ signup-way.com
 silvergamed.com
 silverpop.com
 silverpush.co
-simility.com
 simonsignal.com
 simpleanalytics.io
 simpleheatmaps.com
@@ -3599,6 +3598,7 @@ eco-tag.jp
 genieedmp.com
 genieessp.jp
 gmodmp.jp
+gsspcln.jp
 hitgraph.jp
 i2ad.jp
 i2i.jp
@@ -3612,9 +3612,11 @@ macromill.com
 marsflag.com
 mobylog.jp
 n8s.jp
+nex8.net
 omiki.com
 owldata.com
 pagoda56.com
+pdmp.jp
 polymorphicads.jp
 r-ad.ne.jp
 rentracks.jp
@@ -5253,12 +5255,12 @@ asumi.shinobi.jp
 clickanalyzer.jp
 counter2.blog.livedoor.com
 imgstat.ameba.jp
+ip2c.landscape.co.jp
 l.popin.cc
 lcs.livedoor.net
 log.nordot.jp
 omt.shinobi.jp
 rcm.shinobi.jp
-rd.rakuten.co.jp
 speee-ad.akamaized.net
 sync.shinobi.jp
 torimochi.line-apps.com
@@ -5785,6 +5787,7 @@ om.cbsi.com
 omni.nine.com.au
 omniture.stuff.co.nz
 omniture.theglobeandmail.com
+oms.expedia.com
 open.mkt1397.com
 ophan.guardian.co.uk
 ophan.theguardian.com
@@ -6525,6 +6528,7 @@ analytics.cocolog-nifty.com
 analyzer.fc2.com
 analyzer2.fc2.com
 cgi.tbs.co.jp
+count.upc.rakuten.co.jp
 ln.ameba.jp
 measure.ameblo.jp
 mtc.nhk.or.jp
@@ -6534,6 +6538,7 @@ sy.amebame.com
 sy.ameblo.jp
 visit.geocities.jp
 wisteria-js.excite.co.jp
+x.allabout.co.jp
 yjtag.yahoo.co.jp
 count.munhwa.com
 gather.hankyung.com
