@@ -3611,6 +3611,7 @@ kir.jp
 macromill.com
 marsflag.com
 mobylog.jp
+msgs.jp
 n8s.jp
 nex8.net
 omiki.com
@@ -4222,6 +4223,7 @@ d28g9g3vb08y70.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
+d2ibu2ug0mt5qp.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
@@ -5252,10 +5254,12 @@ vppst.iltrovatore.it
 analysis.shinobi.jp
 analyzer51.fc2.com
 asumi.shinobi.jp
+beacon.itmedia.jp
 clickanalyzer.jp
 counter2.blog.livedoor.com
 imgstat.ameba.jp
 ip2c.landscape.co.jp
+kitchen.juicer.cc
 l.popin.cc
 lcs.livedoor.net
 log.nordot.jp
@@ -6533,6 +6537,7 @@ ln.ameba.jp
 measure.ameblo.jp
 mtc.nhk.or.jp
 pvtag.yahoo.co.jp
+pw.gigazine.net
 scis.tbs.co.jp
 sy.amebame.com
 sy.ameblo.jp
