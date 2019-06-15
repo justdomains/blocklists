@@ -1838,6 +1838,7 @@ smartctr.com
 smarterhq.io
 smarterremarketer.net
 smartlook.com
+smartocto.com
 smartology.co
 smartracker.net
 smartsuppchat.com
@@ -3365,6 +3366,7 @@ megast.at
 mmtro.com
 ncdnprorogeraie.lol
 netvigie.com
+organicfruitapps.com
 phywi.org
 reseau-pub.com
 semiocast.com
@@ -3781,6 +3783,7 @@ mokuz.ru
 musiccounter.ru
 mystat-in.net
 personage.name
+pladform.ru
 pmbox.biz
 proext.com
 quick-counter.net
@@ -4838,6 +4841,7 @@ track.yfret.com
 track.yieldsoftware.com
 tracker.affirm.com
 tracker.beezup.com
+tracker.data-vp.com
 tracker.downdetector.com
 tracker.everestnutrition.com
 tracker.financialcontent.com
@@ -5444,6 +5448,7 @@ analytics.jabong.com
 analytics.localytics.com
 analytics.mindjolt.com
 analytics.newsinc.com
+analytics.ngfiles.com
 analytics.plex.tv
 analytics.schoolwires.com
 analytics.services.distractify.com
