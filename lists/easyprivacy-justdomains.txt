@@ -1258,7 +1258,6 @@ mediametrics.ru
 mediaplex.com
 mediarithmics.com
 mediaseeding.com
-mediaweaver.jp
 mediego.com
 mega-stats.com
 memecounter.com
@@ -5797,7 +5796,6 @@ omniture.stuff.co.nz
 omniture.theglobeandmail.com
 oms.expedia.com
 open.mkt1397.com
-ophan.guardian.co.uk
 ophan.theguardian.com
 optimize-stats.voxmedia.com
 origin-tracking.trulia.com
