@@ -4295,6 +4295,7 @@ dnn506yrbagrg.cloudfront.net
 doug1izaerwt3.cloudfront.net
 ds-aksb-a.akamaihd.net
 dt.sellpoint.net
+dt1pxsve3tgas.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dufue2m4sondk.cloudfront.net
@@ -4957,7 +4958,6 @@ vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
 vtracking.in.com
-w88.m.espn.go.com
 watch.teroti.com
 web1.51.la
 webcare.byside.com
