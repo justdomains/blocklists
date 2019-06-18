@@ -2483,11 +2483,8 @@ candid.zone
 cashbeet.com
 cc.gofile.io
 ccvwtdtwyu.trade
-cdn-analytics.pl
 cdn-code.host
 cdn-jquery.host
-cdn.cloudcoins.co
-cdn.static-cnt.bid
 cdnfile.xyz
 cfcdist.gdn
 cfcdist.loan
@@ -2534,7 +2531,6 @@ crypto-coins.info
 crypto-loot.com
 crypto-pool.fr
 crypto-webminer.com
-crypto.csgocpu.com
 cryptobara.com
 cryptoloot.pro
 cryptomine.pro
@@ -2592,7 +2588,6 @@ flophous.cf
 flowplayer.space
 formulawire.com
 freshrefresher.com
-fruitice.realnetwrk.com
 g-content.bid
 g1thub.com
 gasolina.ml
@@ -2601,7 +2596,6 @@ giml.ml
 gitgrub.pro
 gnrdomimplementation.com
 go.bestmobiworld.com
-go.megabanners.cf
 gobba.myeffect.net
 goldoffer.online
 googleanalytcs.com
@@ -2911,7 +2905,6 @@ vzhjnorkudcxbiy.com
 vzzexalcirfgrf.ru
 wasm24.ru
 wbmwss.beetv.net
-web.dle-news.pw
 webassembly.stream
 webmine.cz
 webmine.pro
@@ -3383,6 +3376,7 @@ webcompteur.com
 wysistat.com
 x-traceur.com
 circle.am
+call-tracking.by
 trafit.com
 tyxo.bg
 50bang.org
@@ -3683,6 +3677,7 @@ ngastatic.com
 nsaudience.pl
 p071qmn.com
 pushdom.co
+quartic.pl
 rejestr.org
 stat.4u.pl
 stat.pl
