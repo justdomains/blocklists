@@ -2257,6 +2257,7 @@ waudit.cz
 waust.at
 wbdx.fr
 wbtrk.net
+we-stats.com
 web-boosting.net
 web-counter.net
 web-stat.com
@@ -5523,6 +5524,7 @@ chunk.bustle.com
 cl.expedia.com
 clc.stackoverflow.com
 clck.yandex.com
+clck.yandex.ru
 click.engage.xbox.com
 click.jasmin.com
 click.livejasmin.com
