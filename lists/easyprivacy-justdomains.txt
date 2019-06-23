@@ -1115,6 +1115,7 @@ keywordmax.com
 keywordstrategy.org
 kieden.com
 killerwebstats.com
+kilometrix.de
 kissmetrics.com
 kisstesting.com
 kitbit.net
@@ -3680,6 +3681,7 @@ p071qmn.com
 pushdom.co
 quartic.pl
 rejestr.org
+spolecznosci.net
 stat.4u.pl
 stat.pl
 tagcdn.com
@@ -4205,6 +4207,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1rnw04e6mc22h.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1ssbq1bwjg5ux.cloudfront.net
+d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1wscoizcbxzhp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
@@ -4779,6 +4782,7 @@ telemetry.soundcloud.com
 thetradedesk-tags.s3.amazonaws.com
 tl.tradetracker.net
 tm.tradetracker.net
+tm.vendemore.com
 top-fwz1.mail.ru
 tower.moviepilot.com
 tr-metrics.loomia.com
@@ -6115,6 +6119,7 @@ timestrends.indiatimes.com
 timestrends.timesnow.tv
 tk.kargo.com
 tkpi.delta.com
+tnla.thenewslens.com
 tools.ranker.com
 top.wn.com
 total.shanghaidaily.com
