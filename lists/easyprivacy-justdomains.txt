@@ -2822,7 +2822,6 @@ reauthenticator.com
 refunevent.com
 rencohep.com
 renhertfo.com
-reservedoffers.club
 retadint.com
 rineventrec.com
 rintindown.com
@@ -2879,7 +2878,6 @@ thismetric.com
 tidafors.xyz
 tmmp.io
 toftofcal.com
-tokyodrift.ga
 traffic.tc-clicks.com
 traviilo.com
 trk.connatix.com
@@ -6139,7 +6137,6 @@ track.fxstreet.com
 track.hubspot.com
 track.netzero.net
 track.ning.com
-track.promptfile.com
 track.pushbullet.com
 track.rediff.com
 track.slideshare.net
@@ -6249,9 +6246,7 @@ ynuf.alibaba.com
 cdn1.pebx.pl
 de-mi-nis-ner2.info
 piti.bplaced.net
-play.estream.nu
 play.estream.to
-play.estream.xyz
 support.2giga.link
 worker.salon.com
 event-analytics.yesware.com
