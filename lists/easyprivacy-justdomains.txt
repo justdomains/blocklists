@@ -2956,11 +2956,13 @@ consciouschairs.com
 coordinatedcub.com
 copycarpenter.com
 delegatediscussion.com
+desiredirt.com
 detectdiscovery.com
 ejyymghi.com
 familiarfloor.com
 fearfulflag.com
 flakyfeast.com
+forecasttiger.com
 frailoffer.com
 giddycoat.com
 gorgeousground.com
@@ -5562,8 +5564,6 @@ collector.shopstream.co
 collector.statowl.com
 collector.tescocompare.com
 collector.trendmd.com
-collector.xhamster.com
-collector1.xhamster.com
 comms-web-tracking.uswitchinternal.com
 confirm-referer.glrsales.com
 contadores.bolsamania.com
@@ -6567,6 +6567,7 @@ dot.wp.pl
 entryhit.wp.pl
 mklik.gazeta.pl
 p.gazeta.pl
+pixel.wp.pl
 rek.www.wp.pl
 stats.teledyski.info
 audience-mostread.r7.com
