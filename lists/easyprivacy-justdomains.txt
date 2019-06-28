@@ -263,6 +263,7 @@ axf8.net
 azalead.com
 azera-s014.com
 azointel.com
+b0e8.com
 b1img.com
 b1js.com
 b2c.com
@@ -327,6 +328,7 @@ blogsontop.com
 blogtoplist.com
 bluecava.com
 blueconic.net
+bluecore.com
 blvdstatus.com
 bm23.com
 bm324.com
@@ -1657,6 +1659,7 @@ relmaxtop.com
 remarketingpixel.com
 remarketstats.com
 rep0pkgr.com
+repixel.co
 report-uri.io
 research-tool.com
 researchnow.co.uk
@@ -2056,6 +2059,7 @@ tracemyip.org
 tracer.jp
 tracetracking.net
 traceworks.com
+track-re01.com
 track-server-100.com
 track-web.net
 track2.me
@@ -2312,6 +2316,7 @@ wikiodeliv.com
 wildxtraffic.com
 wiredminds.de
 wisetrack.net
+wishabi.net
 wishloop.com
 womtp.com
 woopra-ns.com
@@ -5743,6 +5748,7 @@ metric-agent.i10c.net
 metric.inetcore.com
 metrics.apartments.com
 metrics.aws.sitepoint.com
+metrics.bangbros.com
 metrics.cbn.com
 metrics.cbslocal.com
 metrics.cnn.com
