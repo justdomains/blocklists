@@ -2979,6 +2979,7 @@ jadeitite.com
 jewelcheese.com
 lizardslaugh.com
 mowfruit.com
+nervoussummer.com
 petiteumbrella.com
 photographpan.com
 pietexture.com
@@ -4572,6 +4573,7 @@ pixel.yabidos.com
 pixel.yola.com
 pixels.youknowbest.com
 platform.communicatorcorp.com
+platform.iteratehq.com
 pmetrics.performancing.com
 pong.production.gannettdigital.com
 postpixel.vindicosuite.com
@@ -5976,6 +5978,7 @@ sp.poughkeepsiejournal.com
 sp.press-citizen.com
 sp.pressconnects.com
 sp.publicopiniononline.com
+sp.pushsquare.com
 sp.redding.com
 sp.reporternews.com
 sp.rgj.com
