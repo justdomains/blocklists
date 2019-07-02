@@ -3685,7 +3685,6 @@ ngastatic.com
 nsaudience.pl
 p071qmn.com
 pushdom.co
-quartic.pl
 rejestr.org
 spolecznosci.net
 stat.4u.pl
@@ -5296,6 +5295,7 @@ analytics.greensender.pl
 fab.interia.pl
 hit.interia.pl
 pixel.homebook.pl
+rec.quartic.pl
 scontent.services.tvn.pl
 stats.asp24.pl
 stats.media.onet.pl
