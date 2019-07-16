@@ -545,6 +545,7 @@ cquotient.com
 craftkeys.com
 craktraffic.com
 crashfootwork.com
+crazyclickstats.com
 crazyegg.com
 criteo.com
 crmmetrix.fr
@@ -869,6 +870,7 @@ getrockerbox.com
 getsmartlook.com
 getstatistics.se
 gez.io
+giddyuptrk.com
 gigcount.com
 gim.co.il
 glanceguide.com
@@ -1053,6 +1055,7 @@ invoca.net
 invoca.solutions
 iocnt.net
 ionmvdpifz.com
+ip-api.com
 ip-label.net
 ip2location.com
 ip2map.com
@@ -1726,6 +1729,7 @@ runtnc.net
 rztrkr.com
 s-onetag.com
 s3s-main.net
+safe-click.net
 sageanalyst.net
 sajari.com
 salecycle.com
@@ -2178,6 +2182,7 @@ usabilitytools.com
 usabilla.com
 useinsider.com
 useitbetter.com
+useproof.com
 user-api.com
 user-clicks.com
 user-red.com
@@ -5418,6 +5423,7 @@ abeagle-public.buzzfeed.com
 acookie.alibaba.com
 activity.frequency.com
 activity.homescape.com
+adc-js.nine.com.au
 adc.9news.com.au
 adc.api.nine.com.au
 adc.nine.com.au
@@ -5862,6 +5868,7 @@ proxypage.msn.com
 ps.ecosia.org
 pulse-analytics-beacon.reutersmedia.net
 pvstat.china.cn
+px.mvfglobal.com
 px.wayfair.com
 r.bbci.co.uk
 r.my.com
@@ -6036,6 +6043,7 @@ stat.dealtime.com
 stat.kbs.co.kr
 stat.pubhtml5.com
 stat.ruvr.ru
+stat.tildacdn.com
 stat.torrentbar.com
 stat.xhamsterpremium.com
 statistics.crowdynews.com
