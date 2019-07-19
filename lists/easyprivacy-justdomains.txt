@@ -5600,6 +5600,7 @@ counter.theconversation.edu.au
 counter.zerohedge.com
 cpt.itv.com
 ct.buzzfeed.com
+d1.abtshield.com
 da.virginmedia.com
 data.mic.com
 data.ryanair.com
