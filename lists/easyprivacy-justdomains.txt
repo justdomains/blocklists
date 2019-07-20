@@ -28,6 +28,7 @@
 3dstats.com
 3enm.com
 3gl.net
+404tracker.com
 40nuggets.com
 44-trk-srv.com
 4oney.com
@@ -338,6 +339,7 @@ boomerang.com.au
 boomtrain.com
 botman.ninja
 botsvisit.com
+bounceexchange.com
 bouncepilot.com
 bouncex.com
 bpmonline.com
@@ -347,6 +349,7 @@ bridgevine.com
 brightedge.com
 brightfunnel.com
 brilig.com
+bronto.com
 browser-statistik.de
 brsrvr.com
 bstk.co
@@ -809,6 +812,7 @@ foreseeresults.com
 forkcdn.com
 formalyzer.com
 formisimo.com
+forter.com
 foundry42.com
 fout.jp
 fpctraffic2.com
@@ -843,6 +847,7 @@ fshka.com
 fstrk.net
 ftbpro.com
 fueldeck.com
+fuelx.com
 fugetech.com
 funneld.com
 funstage.com
@@ -860,6 +865,7 @@ gemtrackers.com
 geni.us
 genieesspv.jp
 geobytes.com
+geoip-db.com
 getbackstory.com
 getblueshift.com
 getconversion.net
@@ -956,6 +962,7 @@ hittracker.com
 hitwake.com
 hitwebcounter.com
 hivps.xyz
+hmstats.com
 homechader.com
 hopurl.org
 hospitality-optimizer.com
@@ -2985,6 +2992,7 @@ importedincrease.com
 jadeitite.com
 jewelcheese.com
 lizardslaugh.com
+magnetairport.com
 mowfruit.com
 nervoussummer.com
 petiteumbrella.com
@@ -4030,6 +4038,7 @@ analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
 analytics.witglobal.net
+analytics.worldtable.co
 analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
@@ -4089,6 +4098,7 @@ blip.bizrate.com
 bonsai.internetbrands.com
 brain.foresee.com
 bright.bncnt.com
+browser.sentry-cdn.com
 bs.yandex.ru
 btn.clickability.com
 btrace.video.qq.com
@@ -4344,7 +4354,6 @@ eventlog.inspsearchapi.com
 events.air.tv
 events.antenna.is
 events.apester.com
-events.bounceexchange.com
 events.demoup.com
 events.izooto.com
 events.jotform.com
@@ -4357,6 +4366,7 @@ events.whisk.com
 events.yourcx.io
 eventtracker.videostrip.com
 experience.contextly.com
+fast.appcues.com
 fastcounter.bcentral.com
 fastcounter.onlinehoster.net
 fbpixel.network.exchange
@@ -4783,6 +4793,7 @@ tag-abe.cartrawler.com
 tag.brandcdn.com
 tag.email-attitude.com
 tag.myplay.com
+tag.rmp.rakuten.com
 tag.sonymusic.com
 tagger.opecloud.com
 tags.cdn.circlesix.co
@@ -5001,6 +5012,7 @@ yapi.awe.sm
 ys.ddns.me
 zdlogs.sphereup.com
 zvsuhljiha-a.akamaihd.net
+connatix.com
 analytics-static.unister-gmbh.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
@@ -5456,6 +5468,7 @@ analytics.brave.com
 analytics.ecosia.org
 analytics.eip.telegraph.co.uk
 analytics.femalefirst.co.uk
+analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
 analytics.gorillanation.com
