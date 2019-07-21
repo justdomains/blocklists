@@ -641,6 +641,7 @@ doclix.com
 dominocounter.net
 domodomain.com
 dotomi.com
+doubleverify.com
 downture.in
 dpbolvw.net
 dps-reach.com
@@ -755,6 +756,7 @@ extole.com
 extole.io
 extreme-dm.com
 eyein.com
+eyereturn.com
 ezec.co.uk
 ezytrack.com
 f92j5.com
@@ -1182,6 +1184,7 @@ linkconnector.com
 linkpulse.com
 linksynergy.com
 linkxchanger.com
+liod1ours.com
 listrakbi.com
 livecount.fr
 livehit.net
@@ -1230,6 +1233,7 @@ macandcheeseandads.com
 magiq.com
 magnetmail1.net
 magnify360.com
+magnuum.com
 mailstat.us
 maploco.com
 mapmyuser.com
@@ -1337,6 +1341,7 @@ mxcdn.net
 mxptint.net
 myaffiliateprogram.com
 myaudience.de
+mybluemix.net
 myfastcounter.com
 mynewcounter.com
 mynsystems.com
@@ -4098,7 +4103,6 @@ blip.bizrate.com
 bonsai.internetbrands.com
 brain.foresee.com
 bright.bncnt.com
-browser.sentry-cdn.com
 bs.yandex.ru
 btn.clickability.com
 btrace.video.qq.com
@@ -4268,6 +4272,7 @@ d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
+d38nbbai6u794i.cloudfront.net
 d3a2okcloueqyx.cloudfront.net
 d3alqb8vzo7fun.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -5197,6 +5202,7 @@ stat.ws.126.net
 stat.youku.com
 sugs.m.sm.cn
 t.hypers.com.cn
+tce.alicdn.com
 tns.simba.taobao.com
 toruk.tanx.com
 tr.n2.hk
@@ -5643,6 +5649,7 @@ entry-stats.huffingtonpost.com
 es.puritan.com
 et.nytimes.com
 etui.fs.ml.com
+eu.groupondata.com
 eulerian.sarenza.com
 ev.kck.st
 event-collector.udsrv.com
@@ -6496,6 +6503,7 @@ ranking.ynet.com
 rcgi.video.qq.com
 rec.udn.com
 report.qq.com
+retcode.taobao.com
 s.360.cn
 s.qhupdate.com
 s.renren.com
@@ -6576,6 +6584,7 @@ analyzer2.fc2.com
 cgi.tbs.co.jp
 count.upc.rakuten.co.jp
 ln.ameba.jp
+log.suumo.jp
 measure.ameblo.jp
 mtc.nhk.or.jp
 pvtag.yahoo.co.jp
@@ -6676,3 +6685,4 @@ visit.hepsiburada.com
 counter.ukr.net
 hit.meta.ua
 target.ukr.net
+logsbin.dantri.com.vn
