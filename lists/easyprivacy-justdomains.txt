@@ -59,6 +59,7 @@ ablsrv.com
 abmr.net
 absolstats.co.za
 abtrcking.com
+abtshield.com
 acc-hd.de
 acceptableserver.com
 access-analyze.org
@@ -1064,6 +1065,7 @@ invoca.net
 invoca.solutions
 iocnt.net
 ionmvdpifz.com
+iotechnologies.com
 ip-api.com
 ip-label.net
 ip2location.com
@@ -3115,6 +3117,7 @@ countok.de
 countyou.de
 cptrack.de
 cya1t.net
+dcmn.io
 df-srv.de
 die-rankliste.com
 digidip.net
@@ -3132,6 +3135,7 @@ emetriq.de
 erotikcounter.org
 etracker.de
 etracking24.de
+etrust.eu
 euro-pr.eu
 eurocounter.com
 exapxl.de
@@ -3308,6 +3312,7 @@ trafficmaxx.de
 trbo.com
 trendcounter.de
 trkme.net
+txt.eu
 universaltrackingcontainer.com
 up-rank.com
 urstats.de
@@ -3709,6 +3714,7 @@ nsaudience.pl
 p071qmn.com
 pushdom.co
 rejestr.org
+snrbox.com
 spolecznosci.net
 stat.4u.pl
 stat.pl
@@ -3745,6 +3751,7 @@ zontera.com
 a-counter.com.ua
 a-counter.kiev.ua
 adblockmetrics.ru
+admile.ru
 adx.com.ru
 announcement.ru
 apkonline.ru
@@ -4055,6 +4062,7 @@ api.fyreball.com
 api.wipmania.com
 app.insightgrit.com
 apple.www.letv.com
+ariane.abtasty.com
 aserve.directorym.com
 async-px.dynamicyield.com
 attributiontrackingga.googlecode.com
@@ -5619,6 +5627,7 @@ counter.theconversation.edu.au
 counter.zerohedge.com
 cpt.itv.com
 ct.buzzfeed.com
+d-engine.spankbang.com
 d1.abtshield.com
 da.virginmedia.com
 data.mic.com
@@ -6058,6 +6067,7 @@ spotlight.accuweather.com
 srt.pch.com
 ssc.api.bbc.com
 ssl-stats.wordpress.com
+sstats.oui.sncf
 st.arte.tv
 stan.xing.com
 stat.alibaba.com
@@ -6093,6 +6103,7 @@ stats.mehrnews.com
 stats.nimiq-network.com
 stats.nymag.com
 stats.opoloo.de
+stats.oui.sncf
 stats.pandora.com
 stats.paste2.org
 stats.paypal.com
@@ -6227,6 +6238,7 @@ tracking.moneyam.com
 tracking.mycapture.com
 tracking.nextdoor.com
 tracking.olx-st.com
+tracking.oui.sncf
 tracking.porndoelabs.com
 tracking.pornhd.com
 tracking.realtor.com
@@ -6258,6 +6270,7 @@ uptpro.homestead.com
 urchin-tracker.bigpoint.net
 userfly.com
 ut.ratepoint.com
+v.oui.sncf
 vertical-stats.huffingtonpost.com
 video-stats.video.google.com
 videotracker.washingtonpost.com
