@@ -661,6 +661,7 @@ dwin2.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
+e-contenta.com
 e-pagerank.net
 e-referrer.com
 e-webtrack.net
@@ -986,6 +987,7 @@ hurra.com
 hurterkranach.net
 hwpub.com
 hxtrack.com
+hybrid.ai
 hyfntrak.com
 hyperactivate.com
 hypestat.com
@@ -2341,6 +2343,7 @@ wishloop.com
 womtp.com
 woopra-ns.com
 woopra.com
+wootric.com
 worldflagcounter.com
 worldlogger.com
 wowanalytics.co.uk
@@ -2977,6 +2980,7 @@ axiomaticalley.com
 balancebreath.com
 bh8yx.xyz
 broaddoor.com
+carscannon.com
 consciouscabbage.com
 consciouschairs.com
 coordinatedcub.com
@@ -4689,6 +4693,7 @@ segments.adap.tv
 session.timecommerce.net
 sftrack.searchforce.net
 shared.65twenty.com
+shopnetic.com
 sig.atdmt.com
 sig.gamerdna.com
 sitereports.officelive.com
@@ -6308,6 +6313,7 @@ web-t.9gag.com
 weblog.strawberrynet.com
 weblogger01.data.disney.com
 webstats.perfectworld.com
+webstats.thesoul-publishing.com
 whoson.smcorp.com
 winter.metacafe.com
 wla.vivaldi.com
