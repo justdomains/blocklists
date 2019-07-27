@@ -3469,6 +3469,11 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+hpcat.cn
+tslomhfys.com
+bl0uxepb4o.com
+321gongsi.com
+e.211pu.cn
 m.91xiaodu.top
 m.789657.top
 wysasys.com
@@ -25916,6 +25921,8 @@ adeventtracker.spotify.com
 do-not-tracker.org
 eviltracker.net
 trackersimulator.org
+analytics.kidoz.net
+tracker.mtrtb.com
 tracking.ws.eurosport.com
 tracker.rqmob.com
 fraudmetrix.cn
@@ -28954,10 +28961,15 @@ banners-gallery.coccoc.com
 cdn.comedia.coccoc.com
 cleverads.vn
 cokhach.com
+dsmartvietnam.com
+ezimar.com
 fff.com.vn
 gammaplatform.com
 itim.vn
 klick.vn
+ladipage.net
+ladipage.vn
+landingpagelagi.vn
 lavanetwork.net
 log.news.zing.vn
 log.sdk.zadn.vn
@@ -29011,6 +29023,7 @@ ads.home.vn
 ads.ictnews.vn
 ads.tiki.vn
 ads1.careerbuilder.vn
+adserver.lag.vn
 adsplus.vn
 adsv2.autodaily.vn
 adt.com.vn
