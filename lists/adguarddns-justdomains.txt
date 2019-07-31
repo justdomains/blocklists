@@ -3410,6 +3410,13 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+d0p21g2fep.com
+push-tools-system.com
+feed.monad-rtb.com
+ellcurvth.com
+yr9n47004g.com
+m.helloworld2018.top
+reydi.xyz
 chidsimp.com
 hpcat.cn
 tslomhfys.com
@@ -5263,6 +5270,7 @@ xk0x.cn
 olc0.cn
 rcdn.pro
 samsungads.com
+banners.myads.ge
 d1b0fk9ns6n0w9.cloudfront.net
 smpop.icfcdn.com
 pci.pornclipsxxx.com
@@ -21699,6 +21707,9 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+t.hoood.info
+experianmarketingservices.digital
+liod1ours.com
 treasuredata.com
 ladsp.com
 pymx5.com
@@ -24641,6 +24652,7 @@ um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 tags.news.com.au
+pixelappcollector.thesun.co.uk
 beacon.itmedia.jp
 d2ibu2ug0mt5qp.cloudfront.net
 tr.snapchat.com
@@ -26329,7 +26341,6 @@ eventbeacon.ca
 eventcapture03.com
 eventoptimize.com
 exitbee.com
-experianmarketingservices.digital
 extole.io
 f92j5.com
 fastly-insights.com
@@ -26419,7 +26430,6 @@ leadintel.io
 leadsmonitor.io
 leadsrx.com
 limbik.io
-liod1ours.com
 livesegmentservice.com
 livesession.io
 livetrafficfeed.com
@@ -28804,7 +28814,6 @@ c-4fambt.com
 cfqpxzx.com
 cjsab.com
 clickmedia.co.id
-d0p21g2fep.com
 d2405b0jymm2dk.cloudfront.net
 d24afgsm39csxt.cloudfront.net
 d2jn12r3o7an7z.cloudfront.net
