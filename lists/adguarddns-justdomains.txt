@@ -3413,6 +3413,11 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+nameketathar.pro
+deryjobmeetin.info
+sylmyar.pw
+kenvam.online
+wmwloejxww.com
 givirsou.net
 aud3g.com
 adtags.mobi
@@ -5275,6 +5280,7 @@ xk0x.cn
 olc0.cn
 rcdn.pro
 samsungads.com
+d1k3dpebxhgqjc.cloudfront.net
 banners.myads.ge
 d1b0fk9ns6n0w9.cloudfront.net
 smpop.icfcdn.com
@@ -24658,6 +24664,10 @@ collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 tags.news.com.au
 pixelappcollector.thesun.co.uk
+candac.iridion.de
+cunda.prudsys-rde.de
+tr.junaroad.com
+tracker.shopclues.com
 beacon.itmedia.jp
 d3j1weegxvu8ns.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -26264,6 +26274,7 @@ beemray.com
 benchtag2.co
 bentonow.com
 bettermetrics.co
+beusable.net
 bfmio.com
 bidr.io
 bikepasture.com
@@ -26388,6 +26399,7 @@ homechader.com
 hospitality-optimizer.com
 hotdogsandads.com
 hsadspixel.net
+hscta.net
 hubvisor.io
 hudb.pl
 hybrid.ai
@@ -27554,6 +27566,7 @@ analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
+analytics-scripts.cablelabs.com
 analytics-v2.anvato.com
 analytics.30m.com
 analytics.abacast.com
