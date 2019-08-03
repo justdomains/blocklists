@@ -3413,6 +3413,8 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+relapayssia.xyz
+erxalim.xyz
 nameketathar.pro
 deryjobmeetin.info
 sylmyar.pw
@@ -9404,6 +9406,7 @@ mathads.com
 matiro.com
 mattempte.info
 maxcorpmedia.com
+maxim.pub
 maxserving.com
 mb01.com
 mb102.com
@@ -24662,7 +24665,6 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
-tags.news.com.au
 pixelappcollector.thesun.co.uk
 candac.iridion.de
 cunda.prudsys-rde.de
@@ -28646,6 +28648,7 @@ logger.kataweb.it
 nanostats.nanopress.it
 rcsmetrics.it
 rd.alice.it
+sem.triboomedia.it
 shinystat.lvlar.com
 stat.acca.it
 stat.freetool.it

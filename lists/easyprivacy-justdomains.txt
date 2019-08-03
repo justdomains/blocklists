@@ -178,6 +178,7 @@ amadesa.com
 amavalet.com
 amazingcounters.com
 ambercrow.com
+ambienetics.com
 amctp.net
 amikay.com
 amilliamilli.com
@@ -1867,7 +1868,6 @@ smartlook.com
 smartocto.com
 smartology.co
 smartracker.net
-smartsuppchat.com
 smartzonessva.com
 smct.co
 smfsvc.com
@@ -3057,6 +3057,7 @@ adtraxx.de
 adtriba.com
 adzoe.de
 amunx.de
+analysis.fi
 analytics.rechtslupe.org
 andyhoppe.com
 anormal-tracker.de
@@ -3273,6 +3274,7 @@ ranking-it.de
 ranking-links.de
 rankings24.de
 ranklink.de
+rawr.at
 redretarget.com
 refinedads.com
 research.de.com
@@ -3323,6 +3325,7 @@ trbo.com
 trendcounter.de
 trkme.net
 txt.eu
+uniconsent.com
 universaltrackingcontainer.com
 up-rank.com
 urstats.de
@@ -4052,6 +4055,7 @@ analytics.revee.com
 analytics.reyrey.net
 analytics.shareaholic.com
 analytics.sitewit.com
+analytics.sleeknote.com
 analytics.snidigital.com
 analytics.sonymusic.com
 analytics.springboardvideo.com
@@ -5298,6 +5302,7 @@ logger.kataweb.it
 nanostats.nanopress.it
 rcsmetrics.it
 rd.alice.it
+sem.triboomedia.it
 shinystat.lvlar.com
 stat.acca.it
 stat.freetool.it
