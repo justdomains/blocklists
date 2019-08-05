@@ -239,6 +239,7 @@ adbma.com
 adboost.com
 adbooth.com
 adbooth.net
+adbox.lv
 adbrau.com
 adbrite.com
 adbroo.com
@@ -1780,6 +1781,7 @@ dispop.com
 disqusads.com
 dissonbegant.info
 distilled.ie
+districtm.ca
 dj-updates.com
 djfiln.com
 djiboutdifficial.info
@@ -4128,6 +4130,7 @@ sellously.info
 selloweb.com
 selsin.net
 semanticrep.com
+semi-cod.com
 sendptp.com
 sensible-ads.com
 sensive.pro
@@ -4295,13 +4298,16 @@ sponsoredtweets.com
 sponsormob.com
 sponsorpalace.com
 sponsorpay.com
+sponsorselect.com
 sportslovin.com
 sportsyndicator.com
+spotrails.com
 spotscenered.info
 spottt.com
 spottysense.com
 spotx.tv
 spotxcdn.com
+spotxchange.com
 spoutable.com
 sprawley.com
 springserve.com
@@ -4612,6 +4618,7 @@ trafficsway.com
 trafficsynergy.com
 traffictrader.net
 trafficular.com
+trafficvance.com
 trafficwave.net
 trafficz.com
 trafficzap.com
@@ -4888,6 +4895,7 @@ waframedia5.com
 waframedia7.com
 waframedia8.com
 wagershare.com
+wahoha.com
 wallstrads.com
 walternsa.com
 walternse.com
@@ -19920,6 +19928,7 @@ streaming.rtbiddingplatform.com
 strikeadcdn.s3.amazonaws.com
 stuff-nzwhistleout.s3.amazonaws.com
 supply.upjers.com
+survey.g.doubleclick.net
 syndicate.payloadz.com
 syndication.jsadapi.com
 syndication1.viraladnetwork.net
