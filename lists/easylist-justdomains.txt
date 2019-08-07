@@ -2990,7 +2990,6 @@ media303.com
 media6degrees.com
 media970.com
 mediaadserver.org
-mediaalpha.com
 mediaclick.com
 mediacpm.com
 mediaessence.net
@@ -5107,6 +5106,7 @@ yu21uy.com
 yuarth.com
 yucce.com
 yuhuads.com
+yumenetworks.com
 yunshipei.com
 yupfiles.club
 yupfiles.net
@@ -5131,6 +5131,7 @@ zapunited.com
 zavu.work
 zde-engage.com
 zeads.com
+zedo.com
 zeesiti.com
 zenoviaexchange.com
 zenoviagroup.com

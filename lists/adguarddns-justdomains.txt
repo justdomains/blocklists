@@ -1,8 +1,12 @@
+s.newsportalssl1.top
+tirqeso.ru
+somuboteso.com
 369bd3a861d8c27.com
 unixfuture.com
 qqmilk.ru
 itrigra.ru
 bigdate.biz
+fadeaibgfihegegjadc.ru
 antiblock.info
 eti-code.com
 plyfoni.ru
@@ -17,6 +21,7 @@ meqxh.com
 milliardytv.ru
 content.mql5.com
 jojonewwss.pro
+infoguardru.info
 img-perli.com
 kymirasite.pro
 thethi.ru
@@ -3420,6 +3425,8 @@ vi.bigmir.net
 widget.mediastealer.com
 osskanger.com
 relapayssia.xyz
+kepler-37b.com
+voluumtlkrnarketing.com
 erxalim.xyz
 nameketathar.pro
 deryjobmeetin.info
@@ -24677,6 +24684,7 @@ um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 pixelappcollector.thesun.co.uk
+analytics.webgains.io
 candac.iridion.de
 cunda.prudsys-rde.de
 tr.junaroad.com
@@ -27655,7 +27663,6 @@ analytics.truecarbon.org
 analytics.urx.io
 analytics.vanillaforums.com
 analytics.vendemore.com
-analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
 analytics.witglobal.net
@@ -29063,6 +29070,7 @@ subiz.com
 tracking.playzing.g6.zing.vn
 vietad.vn
 vietnamnetad.vn
+zalo-ads.zadn.vn
 zalo-ads-td.zadn.vn
 zaloapp.ads.zdn.vn
 zlog.zingmp3.vn
@@ -29097,6 +29105,7 @@ adsv2.autodaily.vn
 adt.com.vn
 adx.kul.vn
 adx.xemvtv.net
+affiliate.k4.tinhte.vn
 ailamtrieuphu.com
 alivar.com.vn
 alivar.vn
