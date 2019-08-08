@@ -1,3 +1,5 @@
+smart-tds.info
+cpamedia.info
 s.newsportalssl1.top
 tirqeso.ru
 somuboteso.com
@@ -3423,6 +3425,11 @@ sv-pr.ru
 svitnews.com
 vi.bigmir.net
 widget.mediastealer.com
+ailiyou1999.com
+snyowx29.com
+tuigang1999.com
+victory1999.com
+adserver.yahoo.com
 osskanger.com
 relapayssia.xyz
 kepler-37b.com
@@ -9449,7 +9456,6 @@ media.net
 media303.com
 media970.com
 mediaadserver.org
-mediaalpha.com
 mediaclick.com
 mediacpm.com
 mediaessence.net
@@ -21739,6 +21745,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+stat.enter-system.com
 t.hoood.info
 experianmarketingservices.digital
 liod1ours.com
@@ -22656,7 +22663,6 @@ engine64.com
 enhance.com
 enquisite.com
 ensighten.com
-enter-system.com
 enticelabs.com
 eperfectdata.com
 epilot.com
@@ -27819,7 +27825,6 @@ d11a2fzhgzqe7i.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
-d1aqhv4sn5kxtx.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1ksyxj9xozc2j.cloudfront.net
 d1r55yzuc1b1bw.cloudfront.net
@@ -29068,6 +29073,7 @@ shopping.coccoc.com
 sp.zalo.me
 subiz.com
 tracking.playzing.g6.zing.vn
+vclick.vn
 vietad.vn
 vietnamnetad.vn
 zalo-ads.zadn.vn
@@ -29146,7 +29152,6 @@ truoctran.com
 upfile16.mediaphim.com
 vads.net.vn
 vads.vn
-vclick.vn
 vietbuzzad.com
 vietdorje.com
 vinaads.vn
