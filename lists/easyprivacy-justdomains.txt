@@ -1762,6 +1762,7 @@ salesmanago.pl
 salesviewer.com
 salesviewer.org
 saletrack.co.uk
+san-spr-01.net
 sapha.com
 sarevtop.com
 sas15k01.com
@@ -3013,6 +3014,7 @@ jewelcheese.com
 leaplunchroom.com
 levelbehavior.com
 lizardslaugh.com
+lumberamount.com
 magnetairport.com
 mowfruit.com
 nervoussummer.com
@@ -5026,6 +5028,7 @@ ttdetect.staticimgfarm.com
 ttwbs.channelintelligence.com
 txn.grabnetworks.com
 ucounter.ucoz.net
+uid.mavencoalition.io
 upt.graphiq.com
 urc.taboolasyndication.com
 userlog.synapseip.tv
@@ -6733,6 +6736,8 @@ g.siliconweek.es
 hits.antena3.com
 pixel.europapress.net
 stats.milenio.com
+wssgmstats.vibbo.com
+wsstats.coches.net
 ai.idg.se
 ax.idg.se
 beacon.mtgx.tv
