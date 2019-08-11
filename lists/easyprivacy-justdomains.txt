@@ -272,6 +272,7 @@ b2c.com
 babator.com
 bam-x.com
 baptisttop1000.com
+baremetrics.com
 barilliance.net
 basicstat.com
 basilic.io
@@ -592,6 +593,7 @@ datafeedfile.com
 datam.com
 datamind.ru
 dataperforma.com
+datasteam.io
 dataxpand.com
 datvantage.com
 daylife-analytics.com
@@ -871,7 +873,6 @@ gbotvisit.com
 gear5.me
 geistm.com
 gemtrackers.com
-geni.us
 genieesspv.jp
 geobytes.com
 geoip-db.com
@@ -1383,6 +1384,7 @@ navdmp.com
 navigator.io
 navilytics.com
 naytev.com
+ncaudienceexchange.com
 ndf81.com
 ndg.io
 neads.delivery
@@ -1938,6 +1940,7 @@ statcounterfree.com
 statcounters.info
 stathat.com
 stathound.com
+staticiv.com
 statisfy.net
 statistiche-web.com
 statistx.com
@@ -3552,7 +3555,6 @@ synovite-scripts.com
 traffic4u.nl
 counter.ok.ee
 mediaindex.ee
-frosmo.com
 gallupnet.fi
 kavijaseuranta.fi
 m-brain.fi
@@ -4729,6 +4731,7 @@ spacedust.netmediaeurope.com
 speedtrap.shopdirect.com
 spoods.rce.veeseo.com
 st.cdnco.us
+st.dynamicyield.com
 stat.boredomtherapy.com
 stat.easydate.biz
 stat.ed.cupidplc.com
@@ -5552,6 +5555,7 @@ analytics.slashdotmedia.com
 analytics.socialblade.com
 analytics.sportybet.com
 analytics.teespring.com
+analytics.thegedsection.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
@@ -5598,7 +5602,6 @@ beacon.nuskin.com
 beacon.search.yahoo.com
 beacon.shazam.com
 beacon.toyota.co.jp
-beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beacons.helium.com
