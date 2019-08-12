@@ -1,3 +1,6 @@
+qqjar.ru
+qqshoe.ru
+rezhiv.ru
 smart-tds.info
 cpamedia.info
 s.newsportalssl1.top
@@ -8536,6 +8539,7 @@ emsservice.de
 encruses.com
 engineseeker.com
 enlnks.com
+enmisindingat.info
 enoughts.info
 enterads.com
 entrecard.com
@@ -8586,6 +8590,7 @@ exchange4media.com
 exerciale.com
 exitexplosion.com
 exitjunction.com
+exoclsodaqs.com
 exoneratedresignation.info
 exosrv.com
 expebtu.com
@@ -8609,6 +8614,7 @@ f5v1x3kgv5.com
 f7oddtr.com
 facebooker.top
 faggrim.com
+faidoud.com
 fairadsnetwork.com
 falkag.net
 falthouse.info
@@ -10022,6 +10028,7 @@ polluxnetwork.com
 polmontventures.com
 polydarth.com
 pontypriddcrick.com
+poolgmsd.com
 poolnoodle.tech
 pop-rev.com
 popclck.net
@@ -29040,6 +29047,7 @@ yx-ads6.com
 zy16eoat1w.com
 accesstrade.com.vn
 accesstrade.vn
+ad.org.vn
 ad.zing.vn
 ad360.vn
 admicro.vn
@@ -29112,7 +29120,6 @@ ad-img.icheck.com.vn
 ad.24h.com.vn
 ad.icheck.com.vn
 ad.mwork.vn
-ad.org.vn
 ad.vatgia.com
 ad.vietbao.vn
 ad.vkool.net
@@ -29141,11 +29148,9 @@ alivar.vn
 amobi.vn
 apinas.nct.vn
 app.masoffer.net
-appapicached.vtvgo.vn
 banner.5giay.vn
 clevernet.vn
 click.xdeal.vn
-client.vads.net.vn
 clipbongda.info
 clix.vn
 delivery.senvangvn.com
@@ -29168,8 +29173,6 @@ quangcao.24h.com.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 serving-ad.tv24.vn
-serving.ad.org.vn
-static.ad.org.vn
 static.masoffer.net
 stc-nas.nixcdn.com
 trenddigital.vn
@@ -29185,6 +29188,7 @@ alexajstrack.com
 analytics.bkav.com
 analytics.easyvideo.vn
 analytics.explus.vn
+analytics.thethao247.org
 analytics.vnreview.vn
 collect.ovp.vn
 fbuser.ovp.vn
@@ -29192,10 +29196,12 @@ log.anninhthudo.vn
 log.baomoi.com
 log.batdongsan.com.vn
 log.giaoduc.net.vn
+log.infonet.vn
 log.kienthuc.net.vn
 log.sggp.org.vn
 log.thanhnien.vn
 log.tienphong.vn
+log.vietnamdaily.net.vn
 log.vietnamplus.vn
 log.vov.vn
 log4x.nixcdn.com
@@ -29206,9 +29212,11 @@ s.kenh14.vn
 s.soha.vn
 s.tuoitre.vn
 sharefb.cnnd.vn
+staticad.thethao247.vn
 stats.bizweb.vn
 stats.vietnammoi.vn
 thongke.24h.com.vn
+thongke.baotintuc.vn
 track-srv.vietnamnet.vn
 track.icheck.com.vn
 track.sendo.vn
