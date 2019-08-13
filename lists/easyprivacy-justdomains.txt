@@ -1335,6 +1335,7 @@ mparticle.com
 mplxtms.com
 mppapi.io
 mpstat.us
+mql5.com
 msecure108.com
 msgapp.com
 msgtag.com
@@ -5516,6 +5517,7 @@ affiliates.genealogybank.com
 affiliates.londonmarketing.com
 affiliates.mozy.com
 affiliates.myfax.com
+affiliates.purevpn.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
 aggregator.inquisitr.com
