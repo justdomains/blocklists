@@ -1782,7 +1782,6 @@ scrippscontroller.com
 script.ag
 scripts21.com
 scriptshead.com
-scroll.com
 sddan.com
 sea-nov-1.com
 searchfeed.com
@@ -3629,6 +3628,7 @@ trackset.it
 trick17.it
 ultrastats.it
 vivistats.com
+webads.eu
 webmeter.ws
 webmobile.ws
 webtraffstats.net
