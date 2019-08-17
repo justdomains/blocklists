@@ -5929,6 +5929,7 @@ pipeline.realtime.active.com
 pix.eads.com
 pix.gfycat.com
 pix.nbcuni.com
+pixel-static.spotify.com
 pixel.anyclip.com
 pixel.buzzfeed.com
 pixel.digitalspy.co.uk
@@ -5942,6 +5943,7 @@ pixel.pcworld.com
 pixel.propublica.org
 pixel.reddit.com
 pixel.redditmedia.com
+pixel.spotify.com
 pixel.staging.tree.com
 pixel.tuko.co.ke
 pixels.livingsocial.com
