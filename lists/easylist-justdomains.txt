@@ -3923,6 +3923,7 @@ qksrv.net
 qksz.net
 qnrzmapdcc.com
 qnsr.com
+qr00rq.com
 qrlsx.com
 qservz.com
 qtpfm.com
@@ -6773,6 +6774,7 @@ ahjwkwugxvznxv.com
 ahkilcrublxn.bid
 ahkpdnrtjwat.com
 ahllgtevqrsh.com
+ahneiwkpsnxign.com
 ahstrelgnh.com
 ahtkajcs.com
 ahuivddkvrrebo.com
@@ -6974,6 +6976,7 @@ arxerlxllv.bid
 aryufuxbmwnb.com
 asbqyhrpty.com
 asdtwttky.com
+aseabnyw.com
 asecxggulyrf.com
 ashwlrtiazee.com
 asiinbyu.com
@@ -7222,6 +7225,7 @@ bgrojtcdymmcdr.com
 bgtmceqoipodkv.com
 bguaeoakgmrw.com
 bgvexbybxxbcao.com
+bgvfceqpqzx.com
 bgxjypaeyocjy.bid
 bgybufwnfxkcr.bid
 bgzyppwk.com
@@ -10383,6 +10387,7 @@ ioujbpldicfgm.com
 ioupfmge.com
 ioyixcprbghm.com
 iozpujvmlojzhp.com
+iozsmwjezobro.com
 ipacpdxmvwyi.com
 ipadxqhm.bid
 ipcouosurtdqc.bid
@@ -10478,6 +10483,7 @@ iuncajvw.com
 iuooczzbi.com
 iuowwbrqblweoa.com
 iupqelechcmj.com
+iutqdjtajrhpi.com
 iuumkigdfcz.com
 iuymaolvzery.com
 ivebuyrkn.com
@@ -11780,6 +11786,7 @@ lrpcokbf.bid
 lruyzrlcef.com
 lrwwnmijztt.com
 lryenoty.bid
+lryfmcok.com
 lsdgtifuqrwjax.com
 lsegvhvzrpqc.com
 lsghawrw.bid
@@ -12348,6 +12355,7 @@ mzhyrgyo.bid
 mzjotkigwu.com
 mzkhhjueazkn.com
 mznijqwjkqadk.com
+mznzltgotp.com
 mzqxeqrmgzxv.com
 mzrhjbbikqm.com
 mzwaqcfbx.com
@@ -12471,6 +12479,7 @@ nharaeklya.com
 nhbklvpswckx.com
 nheanvabodkw.com
 nhkhxvnhfdkn.com
+nhndzbmnkps.com
 nhqmomir.com
 niaqaltky.com
 nicmtzkucd.com
@@ -13371,6 +13380,7 @@ pndiblukiqdix.bid
 pnfdunvcgl.bid
 pnfpithmmrxc.com
 pnjeolgxsimj.com
+pnkdlqeibm.com
 pnkrtgea.com
 pnmkuqkonlzj.com
 pnmxoeztls.bid
@@ -14409,6 +14419,7 @@ rwaxdqfuqih.bid
 rwcdoeigzraeu.com
 rwdkcusan.com
 rweqvydtzyre.com
+rwfqhbwkxpewc.com
 rwgvulisul.com
 rwkxvess.com
 rwlzbswwmmh.com
@@ -15535,6 +15546,7 @@ unfdjwel.com
 unffpgtoorpz.com
 ungvncbnx.bid
 unikmmqybjy.com
+unjqjnzvzyrtw.com
 unkrokwhwn.com
 unlupxiky.bid
 unmdrnuzgel.com
@@ -15966,6 +15978,7 @@ vkqfzlpowalv.com
 vkrgljxqn.com
 vkwasihbl.com
 vkywqkbmdkmmg.com
+vkznlzueuuebb.com
 vkzziiuqacv.com
 vlaqqdwltcuk.com
 vletnguozhvm.com
@@ -16919,6 +16932,7 @@ xqhwdjuk.bid
 xqiqnxxy.com
 xqjhszpussoeur.com
 xqkqkfszveqvm.com
+xqngocao.com
 xqopbyfjdqfs.com
 xqquphzq.bid
 xqrjfouxkrs.com
@@ -17211,6 +17225,7 @@ yhaztdufgmw.com
 yhcxzccnlvm.bid
 yhglrmvdxmxm.com
 yhljenkljge.com
+yhmbwgolijyac.com
 yhnwofsz.bid
 yhqojrhfgfsh.com
 yhrzzoze.com
@@ -17847,6 +17862,7 @@ zukipoayrlh.com
 zunjxpwiztqgt.bid
 zupeaoohmntp.com
 zursiicizyhd.com
+zuszohaosnrssk.com
 zutnlpnzxtt.com
 zuuwfrphdgxk.com
 zuwaodorkyrrp.com
@@ -19766,6 +19782,7 @@ d22lo5bcpq2fif.cloudfront.net
 d23guct4biwna6.cloudfront.net
 d23nyyb6dc29z6.cloudfront.net
 d258j801nsw1p7.cloudfront.net
+d25dfknw9ghxs6.cloudfront.net
 d25ruj6ht8bs1.cloudfront.net
 d25xkbr68qqtcn.cloudfront.net
 d26c6kzavi5zwd.cloudfront.net
@@ -20504,6 +20521,8 @@ red.bayimg.net
 redvase.bravenet.com
 richmedia.yimg.com
 roia.com
+rps-p2.rockpapershotgun.com
+rps-uk.rockpapershotgun.com
 runetki.joyreactor.ru
 searchignited.com
 sebar.thand.info
@@ -20526,8 +20545,10 @@ themis.yahoo.com
 tmcs.net
 traffic.focuusing.com
 uimserv.net
+urs.zdnet.com
 viral.vidhd.fun
 w.homes.yahoo.net
+wall.vgr.com
 web.tmearn.com
 webmaster.extabit.com
 widget.directory.dailycommercial.com

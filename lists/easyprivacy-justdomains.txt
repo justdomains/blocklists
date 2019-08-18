@@ -278,6 +278,7 @@ basicstat.com
 basilic.io
 bdash-cloud.com
 beacon.kmi-us.com
+beaconstreetservices.com
 beampulse.com
 beanstalkdata.com
 beanstock.com
@@ -1290,6 +1291,7 @@ mediaseeding.com
 mediego.com
 mega-stats.com
 memecounter.com
+memo.co
 mercadoclics.com
 mercent.com
 metakeyproducer.com
@@ -1610,6 +1612,7 @@ ptmind.com
 pto-slb-09.com
 ptp123.com
 ptrk-wn.com
+publicgood.com
 publicidees.com
 publishflow.com
 pubplus.com
@@ -1690,6 +1693,7 @@ remarketingpixel.com
 remarketstats.com
 rep0pkgr.com
 repixel.co
+report-uri.com
 report-uri.io
 research-tool.com
 researchnow.co.uk
@@ -2251,6 +2255,7 @@ vertster.com
 vi-serve.com
 videos.oms.eu
 videostat.com
+vilynx.com
 vinlens.com
 vinub.com
 viralninjas.com
@@ -2290,6 +2295,7 @@ votistics.com
 vstats.co
 vtracker.net
 vunetotbe.com
+vuukle.com
 w3counter.com
 waframedia9.com
 walmeric.com
@@ -2987,6 +2993,7 @@ zlx.com.br
 zminer.zaloapp.com
 zndaowjdnf.stream
 6ldu6qa.com
+acridtwist.com
 aheadday.com
 anxiousapples.com
 awzbijw.com
@@ -3016,6 +3023,7 @@ hammerhearing.com
 hilariouszinc.com
 horsenectar.com
 importedincrease.com
+intelligentscissors.com
 jadeitite.com
 jewelcheese.com
 leaplunchroom.com
@@ -3042,6 +3050,7 @@ sharppatch.com
 shelterstraw.com
 shermore.info
 sicksmash.com
+sombersurprise.com
 spiffymachine.com
 spottysense.com
 spurioussteam.com
@@ -3053,6 +3062,7 @@ suddensidewalk.com
 sugarcurtain.com
 ticklesign.com
 truthfulturn.com
+untidyrice.com
 womanear.com
 123-counter.de
 12mnkys.com
@@ -4175,6 +4185,7 @@ capture.condenastdigital.com
 carl.pubsvs.com
 caspionlog.appspot.com
 cc.swiftype.com
+ccexperimentsstatic.oracleoutsourcing.com
 cdn.trafficexchangelist.com
 cdnbigdata.azureedge.net
 ce.lijit.com
@@ -4183,7 +4194,6 @@ cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 chartaca.com.s3.amazonaws.com
-clarium.global.ssl.fastly.net
 click.appinthestore.com
 click.aristotle.net
 click.geopaysys.com
@@ -4249,6 +4259,7 @@ counter.yadro.ru
 counters.freewebs.com
 counters.gigya.com
 cr.loszona.com
+creator.zmags.com
 csi.gstatic.com
 csp-collector.appspot.com
 csp.archant.co.uk
@@ -4978,6 +4989,7 @@ tracking.i-click.com.hk
 tracking.interweave.com
 tracking.jotform.com
 tracking.keywee.co
+tracking.legacyoffers.com
 tracking.lengow.com
 tracking.listhub.net
 tracking.livingsocial.com
@@ -5024,6 +5036,7 @@ trf.intuitwebsites.com
 triad.technorati.com
 triggers.wfxtriggers.com
 trk.bhs4.com
+trk.cloudsna.com
 trk.email.dynect.net
 trk.pswec.com
 trk.sele.co
@@ -5068,6 +5081,7 @@ wibiya-june-new-log.conduit-data.com
 widget.perfectmarket.com
 widget.quantcast.com
 win.staticstuff.net
+ws.audioeye.com
 wsb.aracert.com
 wstat.wibiya.com
 wunderloop.aol.co.uk
@@ -5076,6 +5090,7 @@ yapi.awe.sm
 ys.ddns.me
 zdlogs.sphereup.com
 zvsuhljiha-a.akamaihd.net
+clarium.global.ssl.fastly.net
 connatix.com
 analytics-static.unister-gmbh.de
 analytics.cnd-motionmedia.de
@@ -6011,6 +6026,7 @@ smetrics.att.com
 smetrics.delta.com
 snowplow-collector.sugarops.com
 somniture.theglobeandmail.com
+sp-mms.weather.com
 sp.app.com
 sp.argusleader.com
 sp.azcentral.com
