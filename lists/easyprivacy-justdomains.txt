@@ -50,6 +50,7 @@ a-cast.jp
 a-counters.com
 a-pagerank.net
 a013.com
+a4b-tracking.com
 a8ww.net
 aaddzz.com
 aamsitecertifier.com
@@ -878,6 +879,7 @@ geistm.com
 gemtrackers.com
 genieesspv.jp
 geobytes.com
+geoedge.be
 geoip-db.com
 getbackstory.com
 getblueshift.com
@@ -1913,6 +1915,7 @@ spamanalyst.com
 spectate.com
 speed-trap.com
 speedcurve.com
+sphereup.com
 spklw.com
 splittag.com
 splurgi.com
@@ -4645,6 +4648,7 @@ pix.impdesk.com
 pix.speedbit.com
 pixel-a.basis.net
 pixel-xpanama.netdna-ssl.com
+pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.colorupmedia.com
 pixel.fanbridge.com
@@ -5027,6 +5031,7 @@ traffic.belaydevelopment.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
+trafficmanager.anyclip.com
 trakksocial.googlecode.com
 trax.dirxion.com
 trc.pushnami.com
@@ -5543,6 +5548,7 @@ aggregator.inquisitr.com
 ai.inmdata.io
 ai.iol.io
 alb.reddit.com
+als-svc.nytimes.com
 amp.virginmedia.com
 analysis.focalprice.com
 analytic.imlive.com
