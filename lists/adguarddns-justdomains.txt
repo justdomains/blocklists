@@ -7100,6 +7100,7 @@ adcarem.co
 adcastplus.net
 adcde.com
 adcdnx.com
+adcell.com
 adcentriconline.com
 adcfrthyo.tk
 adchannels.in
@@ -9790,6 +9791,7 @@ normkela.com
 northmay.com
 nothering.com
 novarevenue.com
+novelty.media
 nowlooking.net
 nowspots.com
 npdbklojsvn.co
@@ -9801,6 +9803,7 @@ nscontext.com
 nsdsvc.com
 nsmartad.com
 nspmotion.com
+nsstatic.com
 nsstatic.net
 nsvfl7p9.com
 ntent.com
@@ -26496,7 +26499,6 @@ stat.duokanbox.com
 statistics.videofarm.daum.net
 stats.popcap.com
 stats.unity3d.com
-sypi.gpshopper.com
 tapjoy.com
 tapjoy.net
 taurus.iad.appboy.com
@@ -26704,6 +26706,7 @@ gameanalytics.com
 gammachug.com
 gear5.me
 geni.us
+geoedge.be
 geoip-db.com
 getblueshift.com
 getdrip.com
@@ -26924,6 +26927,7 @@ soflopxl.com
 sojern.com
 soko.ai
 spamanalyst.com
+sphereup.com
 spklw.com
 sptag3.com
 spycounter.net
@@ -28402,6 +28406,7 @@ pix.impdesk.com
 pix.speedbit.com
 pixel-a.basis.net
 pixel-xpanama.netdna-ssl.com
+pixel.blivenyc.com
 pixel.colorupmedia.com
 pixel.fanbridge.com
 pixel.glimr.io
@@ -28722,6 +28727,7 @@ traffic.belaydevelopment.com
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
+trafficmanager.anyclip.com
 trakksocial.googlecode.com
 trax.dirxion.com
 trc.pushnami.com
@@ -29369,6 +29375,7 @@ ladipage.net
 ladipage.vn
 landingpagelagi.vn
 lavanetwork.net
+laydata.com
 log.news.zing.vn
 log.sdk.zadn.vn
 log.zingmp3.vn
@@ -29381,8 +29388,10 @@ novaon.vn
 novaonads.com
 novaonx.com
 nt-cdn.coccoc.com
+ohchat.net
 phanquang.vn
 pinetech.vn
+px.za.zaloapp.com
 qc-static.coccoc.com
 qc.coccoc.com
 qc.coccoc.vn
@@ -29511,6 +29520,7 @@ track.srv.vietnamnet.vn
 track.vatgia.com
 tracker.tintucvietnam.vn
 tracking.appwifi.com
+tracking.meete.co
 tracking.vht.com.vn
 trackingapi.foody.vn
 trackity.tiki.vn
