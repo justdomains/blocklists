@@ -581,6 +581,7 @@ cxt.ms
 cya2.net
 cybermonitor.com
 cytoclause.com
+czx5eyk0exbhwp43ya.biz
 d-1.co
 d41.co
 dable.io
@@ -1574,7 +1575,6 @@ plugin.ws
 plwosvr.net
 pm0.net
 pm14.com
-pmdstatic.net
 pnstat.com
 pntra.com
 pntrac.com
@@ -4903,6 +4903,8 @@ tr.connatix.com
 tr.interlake.net
 tr.webantenna.info
 tr1.mailperformance.com
+tra.pmdstatic.net
+tra.scds.pmdstatic.net
 trace.qq.com
 track.99acres.com
 track.addevent.com
@@ -4977,6 +4979,7 @@ tracker2.apollo-mail.net
 trackerapi.truste.com
 trackicollect.ibase.fr
 tracking.adalyser.com
+tracking.aegpresents.com
 tracking.allposters.com
 tracking.badgeville.com
 tracking.bidmizer.com
@@ -5238,7 +5241,6 @@ stats.ipmgroup.be
 t.planvip.fr
 tag.leadplace.fr
 tmgr.ccmbg.com
-tra.pmdstatic.net
 track.byzon.swelen.net
 tracking.ecookie.fr
 tracking.kdata.fr
@@ -5562,6 +5564,7 @@ analytics.adfreetime.com
 analytics.archive.org
 analytics.bloomberg.com
 analytics.brave.com
+analytics.chase.com
 analytics.ecosia.org
 analytics.eip.telegraph.co.uk
 analytics.femalefirst.co.uk
