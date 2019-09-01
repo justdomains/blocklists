@@ -1802,6 +1802,7 @@ searchignite.com
 searchplow.com
 secure-pixel.com
 securepaths.com
+securitytrfx.com
 sedotracker.com
 seehits.com
 seewhy.com
@@ -4753,6 +4754,7 @@ sig.gamerdna.com
 sitereports.officelive.com
 smrt.as
 snaps.vidiemi.com
+snowplow.swm.digital
 spacedust.netmediaeurope.com
 speedtrap.shopdirect.com
 spoods.rce.veeseo.com
