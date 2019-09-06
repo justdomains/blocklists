@@ -3469,7 +3469,6 @@ blamper-novosti.ru
 blamper.ru
 fin-vecto.ru
 fin-vector.ru
-hotnews.rusplt.ru
 ognyvo-topnews.ru
 ognyvo24.ru
 polit-e-fox.ru
@@ -3480,15 +3479,17 @@ ros-infonews.ru
 rosinfonews.ru
 rossinfonews.ru
 rossinfonewsrf.ru
-rusplt.ru
 rustoria-topnews.ru
 secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+xineday.com
+outseeltor.com
 g.letaojuan68.com
 clicktracklink.com
 beiven.pw
+sometired.com
 pushlinck.com
 glishais.net
 euktoywjpdxpdh.com
@@ -5398,7 +5399,6 @@ xk0x.cn
 olc0.cn
 rcdn.pro
 samsungads.com
-eus.rubiconproject.com
 d2wpknqle9nuv8.cloudfront.net
 d22sfab2t5o9bq.cloudfront.net
 dgw7ae5vrovs7.cloudfront.net
@@ -5590,6 +5590,7 @@ bambarmedia.com
 adreman.pro
 turkakisi.com
 adrequests.com
+cdnmerkezi.ninja
 smrtbnr.net
 smrtbnr.space
 adnamo.net
@@ -6545,6 +6546,7 @@ robocat.me
 rotaban.ru
 rtb.nexage.com
 rtbpop.com
+rubiconproject.com
 s.innovid.com
 sas816.ujikdd041o.cn
 saymedia.com
@@ -10512,7 +10514,6 @@ rtbidder.net
 rtbmedia.org
 rtbpops.com
 rtk.io
-rubiconproject.com
 ruckusschroederraspberry.com
 rummyaffiliates.com
 runadtag.com
@@ -21997,6 +21998,7 @@ et.twyn.com
 ethnarc.de
 evania.de
 exnzg.de
+expepp.de
 falkag.de
 feropt.de
 fexzuf.com
@@ -22243,6 +22245,7 @@ ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
 vast.videocdn.tv
+wapempire.com
 chali.info
 ulogin-stats.ru
 stat.enter-system.com
