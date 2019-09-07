@@ -1989,6 +1989,7 @@ statun.com
 statuncore.com
 stcllctrs.com
 stcounter.com
+steadfastsystem.com
 steelhousemedia.com
 stellaservice.com
 stormcontainertag.com
@@ -3011,6 +3012,7 @@ axiomaticalley.com
 balancebreath.com
 bh8yx.xyz
 broaddoor.com
+cannontwin.com
 caringzinc.com
 carscannon.com
 consciouscabbage.com
@@ -4387,6 +4389,7 @@ datam8.co.nz
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dd6zx4ibq538k.cloudfront.net
+deepknow.egoid.me
 demandmedia.s3.amazonaws.com
 detect.ergebnis-dienst.de
 dfanalytics.dealerfire.com
@@ -4545,6 +4548,7 @@ log.kcisa.kr
 log.kibboko.com
 log.kukuplay.com
 log.liverail.com
+log.mediacategory.com
 log.olark.com
 log.outbrain.com
 log.outbrainimg.com
@@ -4877,6 +4881,7 @@ t.theoutplay.com
 t.ymlp275.net
 t2.t2b.click
 tag-abe.cartrawler.com
+tag.aumago.com
 tag.brandcdn.com
 tag.email-attitude.com
 tag.myplay.com
@@ -5403,6 +5408,7 @@ webtracker.jp
 x9.shinobi.jp
 log.cizion.com
 log2.adop.cc
+teralog.techhub.co.kr
 tracking.adweb.co.kr
 counter.hackers.lv
 hits.sys.lv
@@ -5778,6 +5784,7 @@ g.msn.com
 g.vev.io
 ga.canoe.ca
 ga.nsimg.net
+gc.newsweek.com
 gcpdata.telegraph.co.uk
 gekko.spiceworks.com
 geo.hltv.org
@@ -6028,6 +6035,7 @@ sa135.macworld.co.uk
 sana.newsinc.com.s3.amazonaws.com
 sayac.hurriyettv.com
 sb.vevo.com
+sc.cc.com
 scluster3.cliphunter.com
 scout.lexisnexis.com
 scout.rollcall.com
@@ -6269,6 +6277,7 @@ timestrends.timesnow.tv
 tk.kargo.com
 tkpi.delta.com
 tnla.thenewslens.com
+tongji.meizu.com
 tools.ranker.com
 top.wn.com
 total.shanghaidaily.com
@@ -6490,6 +6499,7 @@ track.bernerzeitung.ch
 track.cinestar.de
 track.derbund.ch
 track.express.de
+track.mopo.de
 trackerstatistik.init-ag.de
 tracking.autoscout24.com
 tracking.beilagen-prospekte.de
@@ -6719,6 +6729,7 @@ nil.naver.com
 pb.m.naver.com
 sp.naver.com
 track.tiara.daum.net
+tracker.cauly.co.kr
 veta.naver.com
 wcs.naver.com
 weblog.eseoul.go.kr
