@@ -876,6 +876,7 @@ fuziontech.net
 fyreball.com
 gameanalytics.com
 gammachug.com
+gatorleads.co.uk
 gaug.es
 gbotvisit.com
 gear5.me
@@ -3029,6 +3030,7 @@ flakyfeast.com
 forecasttiger.com
 frailoffer.com
 giddycoat.com
+giraffepiano.com
 gorgeousground.com
 greyinstrument.com
 hammerhearing.com
@@ -4273,6 +4275,7 @@ counters.freewebs.com
 counters.gigya.com
 cr.loszona.com
 creator.zmags.com
+crta.dailymail.co.uk
 csi.gstatic.com
 csp-collector.appspot.com
 csp.archant.co.uk
@@ -4374,6 +4377,7 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 d8rk54i4mohrb.cloudfront.net
 d9lq0o81skkdj.cloudfront.net
+dadi.technology
 dagda.vilynx.com
 daq0d0aotgq0f.cloudfront.net
 data.alexa.com
@@ -4401,6 +4405,7 @@ dkj2m377b0yzw.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
 dlvkf5067xruv.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
+dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 doug1izaerwt3.cloudfront.net
 ds-aksb-a.akamaihd.net
@@ -4458,6 +4463,7 @@ fbpixel.network.exchange
 filament-stats.herokuapp.com
 flashstats.libsyn.com
 fluidsurveys-com.fs.cm
+fog.pixual.co
 fourmtagservices.appspot.com
 friends.totallynsfw.com
 future-fie-assets.co.uk
@@ -5138,6 +5144,7 @@ ctr-opc.nmg.de
 ctr.nmg.de
 d.adrolays.de
 d.nativendo.de
+d.omsnative.de
 data.econa.com
 et.twyn.com
 events.kaloo.ga
