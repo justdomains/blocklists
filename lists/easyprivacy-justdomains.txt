@@ -4891,6 +4891,7 @@ tag.aumago.com
 tag.brandcdn.com
 tag.email-attitude.com
 tag.myplay.com
+tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.sonymusic.com
 tagger.opecloud.com
@@ -6380,6 +6381,7 @@ up.boston.com
 up.nytimes.com
 uptpro.homestead.com
 urchin-tracker.bigpoint.net
+user-metrics.onthemarket.com
 userfly.com
 ut.ratepoint.com
 v.oui.sncf
