@@ -4065,6 +4065,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
 analytics.dev.springboardvideo.com
+analytics.developer.riotgames.com
 analytics.dvidshub.net
 analytics.episodic.com
 analytics.fairfax.com.au
@@ -5698,6 +5699,19 @@ clog.go.com
 cls.ichotelsgroup.com
 clvk.viki.io
 cmap.alibaba.com
+cmp.arnnet.com.au
+cmp.cio.com.au
+cmp.cmo.com.au
+cmp.computerworld.com.au
+cmp.cso.com.au
+cmp.digitalartsonline.co.uk
+cmp.greenbot.com
+cmp.macworld.co.uk
+cmp.macworld.com
+cmp.pcworld.co.nz
+cmp.pcworld.com
+cmp.techadvisor.co.uk
+cmp.techhive.com
 cmstrendslog.indiatimes.com
 cmstrendslog.timesnow.tv
 cnt.nicemix.com
@@ -6322,6 +6336,7 @@ tracker-api.my.com
 tracker.anandtech.com
 tracker.calameo.com
 tracker.cpapath.com
+tracker.jawcloud.co
 tracker.joost.com
 tracker.lolalytics.com
 tracker.nbcuas.com
@@ -6390,6 +6405,7 @@ v.oui.sncf
 vertical-stats.huffingtonpost.com
 video-stats.video.google.com
 videotracker.washingtonpost.com
+visit.asb.co.nz
 visit.dealspwn.com
 visit.mobot.net
 visit.theglobeandmail.com
