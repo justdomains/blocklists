@@ -3767,6 +3767,7 @@ caanalytics.com
 clickmatic.pl
 conversion.pl
 dmdi.pl
+goprediction.com
 gostats.pl
 hub.com.pl
 i22lo.com
@@ -3775,9 +3776,11 @@ inistrack.net
 legenhit.com
 ngacm.com
 ngastatic.com
+nokaut.link
 nsaudience.pl
 p071qmn.com
 pushdom.co
+refericon.pl
 rejestr.org
 sare25.com
 snrbox.com
@@ -6473,6 +6476,7 @@ counter.zeit.de
 cpix.daserste.de
 cpx.golem.de
 cpxl.golem.de
+cxt.deutsche-bank.de
 dpm.bluray-disc.de
 dw-eu.com.com
 ens.luzernerzeitung.ch
