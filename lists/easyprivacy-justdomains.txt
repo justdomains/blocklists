@@ -594,6 +594,7 @@ databrain.com
 datacaciques.com
 datacoral.com
 datacoral.io
+datadoghq-browser-agent.com
 datafeedfile.com
 datam.com
 datamind.ru
@@ -1919,6 +1920,7 @@ sojern.com
 soko.ai
 sokrati.com
 sometrics.com
+sophi.io
 sophus3.com
 soska.us
 spamanalyst.com
@@ -3055,6 +3057,7 @@ pietexture.com
 profusesupport.com
 puffyloss.com
 quaintcan.com
+quietknowledge.com
 ritzykey.com
 scintillatingspace.com
 scrubswim.com
@@ -3077,6 +3080,7 @@ suddensidewalk.com
 sugarcurtain.com
 ticklesign.com
 truthfulturn.com
+typicalteeth.com
 untidyrice.com
 womanear.com
 123-counter.de
@@ -4248,6 +4252,7 @@ collector.snplow.net
 collector.sspinc.io
 comet.ibsrv.net
 control.cityofcairns.com
+conversions.genieventures.co.uk
 cookies.livepartners.com
 cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
@@ -4471,6 +4476,7 @@ fluidsurveys-com.fs.cm
 fog.pixual.co
 fourmtagservices.appspot.com
 friends.totallynsfw.com
+fundingchoicesmessages.google.com
 future-fie-assets.co.uk
 future-price.co.uk
 g.delivery.net
@@ -4905,6 +4911,7 @@ tags.master-perf-tools.com
 tags.newscgp.com
 target.fark.com
 target.mixi.media
+targeting.perso.aws.arc.pub
 targeting.wpdigital.net
 tc.airfrance.com
 tcheck.outbrainimg.com
@@ -5575,6 +5582,7 @@ affiliates.myfax.com
 affiliates.purevpn.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
+agg.inquisitr.com
 aggregator.inquisitr.com
 ai.inmdata.io
 ai.iol.io
@@ -6079,6 +6087,7 @@ smetrics.att.com
 smetrics.delta.com
 snowplow-collector.sugarops.com
 somniture.theglobeandmail.com
+sourcepoint.vice.com
 sp-mms.weather.com
 sp.app.com
 sp.argusleader.com
