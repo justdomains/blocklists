@@ -54,6 +54,7 @@ a4b-tracking.com
 a8ww.net
 aaddzz.com
 aamsitecertifier.com
+aapsis.com
 aaxdetect.com
 abcstats.com
 ablsrv.com
@@ -1548,6 +1549,7 @@ perion.com
 permutive.com
 personalicanvas.com
 personyze.com
+pgs.io
 phonalytics.com
 phone-analytics.com
 photorank.me
@@ -3008,6 +3010,7 @@ zlx.com.br
 zminer.zaloapp.com
 zndaowjdnf.stream
 6ldu6qa.com
+absorbingband.com
 acridtwist.com
 aheadday.com
 anxiousapples.com
@@ -3028,10 +3031,12 @@ desiredirt.com
 detectdiscovery.com
 ejyymghi.com
 familiarfloor.com
+familiarrod.com
 fearfulflag.com
 flakyfeast.com
 forecasttiger.com
 frailoffer.com
+futuristicfifth.com
 giddycoat.com
 giraffepiano.com
 gorgeousground.com
@@ -4399,6 +4404,7 @@ data.marketgid.com
 data.minute.ly
 data.queryly.com
 data2.gosquared.com
+datadog-service.mvfglobal.com
 datam8.co.nz
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
@@ -4480,6 +4486,7 @@ fundingchoicesmessages.google.com
 future-fie-assets.co.uk
 future-price.co.uk
 g.delivery.net
+g2insights-cdn.azureedge.net
 ga-beacon.appspot.com
 ga.kvideo.io
 ga.webdigi.co.uk
@@ -5856,6 +5863,7 @@ h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
 heartbeat.flickr.com
+hermes.theglobeandmail.com
 hitcount.heraldm.com
 hitweb2.chosun.com
 hrum.hotelsapi.io
@@ -6337,6 +6345,7 @@ track.pushbullet.com
 track.rediff.com
 track.slideshare.net
 track.thesaurus.com
+track.totalav.com
 track.ugamezone.com
 track.ultimate-guitar.com
 track.webgains.com
@@ -6352,6 +6361,7 @@ tracker.jawcloud.co
 tracker.joost.com
 tracker.lolalytics.com
 tracker.nbcuas.com
+tracker.nitropay.com
 tracker.pandora.com
 tracker.pinnaclesports.com
 tracker.realclearpolitics.com
