@@ -486,7 +486,6 @@ clixpy.com
 cloud-exploration.com
 cloud-iq.com
 cloudtracer101.com
-clustrmaps.com
 cmcintra.net
 cmcore.com
 cmmeglobal.com
@@ -1641,6 +1640,7 @@ pxf.io
 pxi.pub
 pymx5.com
 pzkysq.pink
+pzz.events
 q-counter.com
 q-stats.nl
 qbaka.net
@@ -1876,6 +1876,7 @@ sitelabweb.com
 sitelinktrack.com
 sitemeter.com
 sitereport.org
+sitestats.live
 sitetag.us
 sitetagger.co.uk
 sitetracker.com
@@ -3014,6 +3015,7 @@ absorbingband.com
 acridtwist.com
 aheadday.com
 anxiousapples.com
+automaticside.com
 awzbijw.com
 axiomaticalley.com
 balancebreath.com
@@ -3056,6 +3058,7 @@ magnetairport.com
 mowfruit.com
 nervoussummer.com
 penspade.com
+perceivequarter.com
 petiteumbrella.com
 photographpan.com
 pietexture.com
@@ -3111,6 +3114,7 @@ analysis.fi
 analytics.rechtslupe.org
 andyhoppe.com
 anormal-tracker.de
+asadcdn.com
 atsfi.de
 audiencemanager.de
 audienzz.ch
