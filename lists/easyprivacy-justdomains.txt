@@ -1053,6 +1053,7 @@ infopro-insight.com
 infoprodata.com
 informz.net
 inimbus.com.au
+inmoment.com
 innomdc.com
 innovateads.com
 inphonic.com
@@ -4591,6 +4592,7 @@ logging.carambo.la
 logging.prefixbox.com
 loggingapi.spingo.com
 loglady.skypicker.com
+logs-api.shoprunner.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
