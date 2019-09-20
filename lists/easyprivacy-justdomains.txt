@@ -567,6 +567,7 @@ crosspixel.net
 crosswalkmail.com
 crowdtwist.com
 crsspxl.com
+crtx.info
 csi-tracking.com
 ctnsnet.com
 cttracking02.com
@@ -1108,6 +1109,7 @@ ipro.com
 iproanalytics.com
 iprotrk.com
 ipstat.com
+ipstatp.com
 ipv6monitoring.eu
 iqdata.ai
 iqfp1.com
@@ -3897,6 +3899,7 @@ mediatoday.ru
 mokuz.ru
 musiccounter.ru
 mystat-in.net
+ngenix.net
 personage.name
 pladform.ru
 pmbox.biz
@@ -5506,6 +5509,7 @@ hubrus.com
 mediator.mail.ru
 metrics.aviasales.ru
 montblanc.rambler.ru
+piper.amocrm.ru
 rbc.magna.ru
 s.agava.ru
 scnt.rambler.ru
@@ -6832,6 +6836,7 @@ stat.api.2gis.ru
 stat.lenta.ru
 stat.pravmir.ru
 stat.russianfood.com
+stat.stars.ru
 stat.woman-announce.ru
 stats.lifenews.ru
 stats.mos.ru
