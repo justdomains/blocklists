@@ -888,6 +888,7 @@ genieesspv.jp
 geobytes.com
 geoedge.be
 geoip-db.com
+geojs.io
 getbackstory.com
 getblueshift.com
 getconversion.net
@@ -2131,6 +2132,7 @@ trackdiscovery.net
 trackeame.com
 trackedlink.net
 trackedweb.net
+trackertest.org
 tracking100.com
 tracking202.com
 trackinglabs.com
@@ -6685,6 +6687,7 @@ pvx.xcar.com.cn
 ranking.ynet.com
 rcgi.video.qq.com
 rec.udn.com
+referer.pixplug.in
 report.qq.com
 retcode.taobao.com
 s.360.cn
