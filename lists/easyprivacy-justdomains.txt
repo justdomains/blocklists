@@ -1101,6 +1101,7 @@ ipcatch.com
 ipcounter.de
 iperceptions.com
 ipfingerprint.com
+ipgeolocation.io
 ipify.org
 ipinfo.info
 ipinfodb.com
@@ -1309,6 +1310,7 @@ memo.co
 mercadoclics.com
 mercent.com
 metakeyproducer.com
+meteor.com
 meteorsolutions.com
 metricool.com
 metricsdirect.com
@@ -3090,6 +3092,7 @@ spottysense.com
 spurioussteam.com
 squeakzinc.com
 steepsquirrel.com
+stiffstem.com
 storesurprise.com
 strivesidewalk.com
 suddensidewalk.com
@@ -4414,6 +4417,7 @@ data.imakenews.com
 data.marketgid.com
 data.minute.ly
 data.queryly.com
+data.studybreakmedia.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
 datam8.co.nz
@@ -5119,6 +5123,7 @@ vertical-stats.huffpost.com
 video-ad-stats.googlesyndication.com
 visit.geocities.com
 visit.webhosting.yahoo.com
+vmstats.varrando.com
 voss.collegehumor.com
 vra.outbrain.com
 vrp.outbrain.com
@@ -5646,7 +5651,6 @@ analytics.thegedsection.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
-analytics.thevideo.me
 analytics.tradedoubler.com
 analytics.upworthy.com
 analytics.us.archive.org
@@ -5922,7 +5926,6 @@ log.newsvine.com
 log.optimizely.com
 log.prezi.com
 log.snapdeal.com
-log.thevideo.me
 log.vdn.apps.cntv.cn
 log.wat.tv
 log.webnovel.com
@@ -6283,7 +6286,6 @@ stats.slideshare.net
 stats.someecards.com
 stats.storify.com
 stats.suite101.com
-stats.thevideo.me
 stats.townnews.com
 stats.tvmaze.com
 stats.uswitch.com
