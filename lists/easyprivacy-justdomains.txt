@@ -242,6 +242,7 @@ atoshonetwork.com
 atticwicket.com
 attracta.com
 attributionapp.com
+audience.visiblemeasures.com
 audienceamplify.com
 audienceiq.com
 audiencerate.com
@@ -1061,6 +1062,7 @@ innovateads.com
 inphonic.com
 inpwrd.com
 inside-graph.com
+insideall.com
 insightera.com
 insightgrit.com
 insigit.com
@@ -1175,6 +1177,7 @@ kqzyfj.com
 ksyrium0014.com
 ktxtr.com
 l2.io
+l2.visiblemeasures.com
 ladsp.com
 lanchaeanly.pro
 landingpg.com
@@ -1441,7 +1444,6 @@ nicequest.com
 nicewii.com
 niftymaps.com
 nik.io
-nile.works
 noowho.com
 nordicresearch.com
 northstartravelmedia.com
@@ -1464,6 +1466,7 @@ o-s.io
 observerapp.com
 octavius.rocks
 octomarket.com
+od.visiblemeasures.com
 odesaconflate.com
 odoscope.com
 offermatica.com
@@ -1743,6 +1746,7 @@ rhinoseo.com
 riastats.com
 richard-group.com
 richmetrics.com
+rightmoveanalytics.co.uk
 ritecounter.com
 rivrai.com
 rkdms.com
@@ -2280,6 +2284,7 @@ verticalscope.com
 verticalsearchworks.com
 vertster.com
 vi-serve.com
+video.oms.eu
 videos.oms.eu
 videostat.com
 vilynx.com
@@ -3033,10 +3038,12 @@ cannontwin.com
 capsquirrel.com
 caringzinc.com
 carscannon.com
+cloisteredcord.com
 consciouscabbage.com
 consciouschairs.com
 coordinatedcub.com
 copycarpenter.com
+cubchannel.com
 delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
@@ -3066,7 +3073,9 @@ lizardslaugh.com
 lumberamount.com
 magnetairport.com
 mowfruit.com
+mundanepollution.com
 nervoussummer.com
+pedropanther.com
 penspade.com
 perceivequarter.com
 petiteumbrella.com
@@ -3076,6 +3085,7 @@ profusesupport.com
 puffyloss.com
 quaintcan.com
 quietknowledge.com
+richstring.com
 ritzykey.com
 scintillatingspace.com
 scrubswim.com
@@ -3100,6 +3110,7 @@ sugarcurtain.com
 ticklesign.com
 truthfulturn.com
 typicalteeth.com
+ubiquitousyard.com
 untidyrice.com
 womanear.com
 123-counter.de
@@ -3157,6 +3168,7 @@ blogverzeichnis.eu
 bluecounter.de
 bonitrust.de
 bonuscounter.de
+businessclick.ch
 checkeffect.at
 clickmap.ch
 clkd.at
@@ -3476,9 +3488,11 @@ organicfruitapps.com
 phywi.org
 reseau-pub.com
 semiocast.com
+sitizy.network
 sk1n.fr
 sk8t.fr
 stats.fr
+sync.tv
 tget.me
 titag.com
 tnsinternet.be
@@ -5280,10 +5294,10 @@ btstats.devtribu.fr
 calotag.com
 cdn-analytics.ladmedia.fr
 compteur.websiteout.net
-d3eokk6ya562p5.cloudfront.net
 e.funnymel.com
 ea.warnerbros.fr
 email-reflex.com
+events.sk.ht
 lepoint-stat.sdv.fr
 nvc.n1bus-exp.com
 nws.naltis.com
@@ -5377,6 +5391,7 @@ insight.fonecta.fi
 links.boom.ge
 analytics.dol.gr
 analyticsv2.dol.gr
+stats.e-go.gr
 pagerank.g-easy.hu
 rum.marquardmedia.hu
 videostat-new.index.hu
@@ -5660,6 +5675,7 @@ analytics.wetpaint.me
 analytics.whatculture.com
 analytics.yahoo.com
 analytics.zg-api.com
+analytics2.socialblade.com
 analyze.yahooapis.com
 analyzer52.fc2.com
 anon-stats.eff.org
@@ -5705,7 +5721,6 @@ bn.adultempire.com
 bulb.76.my
 c.ipaddress.com
 c.newsinc.com
-c.paypal.com
 c.wort-suche.com
 c.x.oanda.com
 cbs.wondershare.com
@@ -6082,6 +6097,7 @@ retargeting.vistaprint.com
 revsci.tvguide.com
 rok.com.com
 roll.bankofamerica.com
+rs.mail.ru
 rt.prnewswire.com
 rta.dailymail.co.uk
 rta2.metro.co.uk
@@ -6320,6 +6336,7 @@ t.indeed.com
 t.kck.st
 t.my.jobs
 t.paypal.com
+t.regionsjob.com
 t.vimeo.com
 t.wayfair.com
 t2.hulu.com
@@ -6440,6 +6457,7 @@ up.boston.com
 up.nytimes.com
 uptpro.homestead.com
 urchin-tracker.bigpoint.net
+urlcheck.hulu.com
 user-metrics.onthemarket.com
 userfly.com
 ut.ratepoint.com
@@ -6457,6 +6475,7 @@ vs.target.com
 vstat.vidigy.com
 vstats.digitaltrends.com
 w88.espn.com
+w88.go.com
 wa.metro.co.uk
 wa.ui-portal.de
 wal.wolfram.com
@@ -6483,7 +6502,6 @@ cdn1.pebx.pl
 de-mi-nis-ner2.info
 piti.bplaced.net
 play.estream.to
-support.2giga.link
 worker.salon.com
 event-analytics.yesware.com
 abakus.freenet.de
@@ -6510,6 +6528,7 @@ c.t-online.de
 cc.zeit.de
 cct2.o2online.de
 count.merian.de
+count.rtl.de
 count.spiegel.de
 counter.zeit.de
 cpix.daserste.de
@@ -6597,6 +6616,7 @@ web-track.telekom-dienste.de
 webts.adac.de
 xara.hse24.de
 accn.allocine.net
+analytics.allovoisins.com
 analytics.rtbf.be
 cfcn.allocine.net
 compteur.developpez.com
@@ -6655,9 +6675,11 @@ cmstool.youku.com
 collect.tianya.cn
 collect.yinyuetai.com
 count.joy.cn
+count.kandian.com
 count.newhua.com
 count.qiannao.com
 count.video.sina.com.cn
+count.vrs.sohu.com
 count5.pconline.com.cn
 counter.people.cn
 dc.letv.com

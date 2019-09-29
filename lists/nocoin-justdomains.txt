@@ -234,7 +234,6 @@ scaleway.ovh
 nexttime.ovh
 never.ovh
 2giga.download
-support.2giga.link
 webminerpool.com
 minercry.pt
 adplusplus.fr
