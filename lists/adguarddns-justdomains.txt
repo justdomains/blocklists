@@ -4,6 +4,7 @@ aj1907.online
 octclck.xyz
 klsdee.com
 reg88.ru
+windowmentaria.com
 24productions.info
 armi.media
 wjgohz.com
@@ -4342,7 +4343,6 @@ titranco.info
 eoredi.com
 geniusonclick.com
 decademical.com
-windowmentaria.com
 stringroadway.com
 sloi1.com
 pnewspages.com
@@ -5936,6 +5936,9 @@ ad2play.ftv-publicite.fr
 socdm.com
 criteo.com
 criteo.net
+banner.hpmdnetwork.ru
+hybrid.ai
+px.adhigh.net
 ad.auditude.com
 adfiles.auditude.com
 cdn.auditude.com
@@ -7606,6 +7609,7 @@ adtomafusion.com
 adtoox.com
 adtotal.pl
 adtpix.com
+adtprofit.com
 adtransfer.net
 adtrgt.com
 adtrieval.com
@@ -13697,6 +13701,7 @@ cbrqndeptsw.com
 cbsfcpciitwcky.com
 cbtdjpspjp.com
 cbuxzegro.com
+cbwocsublalxz.com
 cbwrwcjdctrj.com
 cbxqceuuwnaz.com
 cbxtnudkklwh.com
@@ -15074,6 +15079,7 @@ fyblldnlr.com
 fybrwdikdsvzt.com
 fygpdajgtsqp.com
 fykmahfa.com
+fylusiucmzdjl.com
 fynprrom.com
 fyphnmoz.com
 fytrvzettfn.com
@@ -16417,6 +16423,7 @@ jqsrfzjgn.com
 jqtsknmobyw.com
 jqtwygdajic.com
 jqvlsavxawfr.com
+jqziltjcuwr.com
 jractwjn.com
 jrarnqfvjijaa.com
 jrcpoxuskv.com
@@ -16916,6 +16923,7 @@ ldgananrrtx.com
 ldgozccnwgtuya.com
 ldigvkkjquvyn.com
 ldkyzudgbksh.com
+ldpubkzh.com
 ldqxdxtkepveg.com
 lduusuiclvw.com
 ldvfvwkjtacrfm.com
@@ -17211,6 +17219,7 @@ lyzskjigkxwy.com
 lzawbiclvehu.com
 lzblbcsemihk.com
 lzbzwpmozwfy.com
+lzfqxxtgyydrc.com
 lzfvonzwjzhz.com
 lzfyahjavcik.com
 lzkuqbptcjqta.com
@@ -17949,6 +17958,7 @@ oeidusggzj.com
 oeppesfmzlbpa.com
 oertmxfsryji.com
 oetwplgu.com
+oevujdgj.com
 oewscpwrvoca.com
 oexbdfnbentzd.com
 oezgivtasc.com
@@ -18476,6 +18486,7 @@ ptzljkufu.com
 ptzpyhhapyt.com
 pucemara.com
 pugklldkhrfg.com
+puktazxh.com
 pukzrlddw.com
 punfbtrcvfdxl.com
 punlkhusprgw.com
@@ -19007,6 +19018,7 @@ rgvrddwoccsgn.com
 rgwaskums.com
 rgzpseubgxho.com
 rgztepyoefvm.com
+rhcamehnhkntzy.com
 rhfntvnbxfxu.com
 rhfvzboqkjfmabakkxggqdmulrsxmisvuzqijzvysbcgyycwfk.com
 rhmyiplqmuupmf.com
@@ -25679,6 +25691,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+d2yh8t8mdj4l9x.cloudfront.net
+detwzgl8cvciv.cloudfront.net
 events-collector.spot.im
 track.bizjournals.com
 pixel.playbuzz.com
@@ -27330,6 +27344,7 @@ canlytics.com
 captora.com
 capturemedia.network
 capturly.com
+caramel.press
 cbtrk.net
 ccgateway.net
 cdn-analytics.pl
@@ -27355,6 +27370,7 @@ clientgear.com
 cloud-iq.com
 cobaltgroup.com
 colossusssp.com
+config.parsely.com
 contactatonce.com
 content-square.net
 contentsquare.net
@@ -27453,7 +27469,6 @@ hsadspixel.net
 hscta.net
 hubvisor.io
 hudb.pl
-hybrid.ai
 i401xox.com
 iaudienc.com
 id5-sync.com
@@ -27533,6 +27548,7 @@ meyersdalebixby.com
 mfadsrvr.com
 mieru-ca.com
 mno.link
+mockingfish.com
 momently.com
 monstat.com
 monu.delivery
@@ -29103,6 +29119,7 @@ mediametrics.mpsa.com
 mediapartner.bigpoint.net
 metering.pagesuite.com
 metric.nwsource.com
+metrics-api.dimensions.ai
 metrics.api.drift.com
 metrics.chmedia.com
 metrics.ctvdigital.net
