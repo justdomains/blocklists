@@ -947,6 +947,7 @@ guardwork.info
 guruquicks.net
 gvisit.com
 gweini.com
+gxgydnhz.com
 h4k5.com
 halldata.com
 halo77.com
@@ -2583,6 +2584,7 @@ clod.pw
 cloudcdn.gdn
 cloudcoins.co
 cloudflane.com
+cloudflareinsights.com
 cndhit.xyz
 cnhv.co
 coin-cube.com
@@ -3465,6 +3467,8 @@ countus.fr
 datadome.co
 deliv.lexpress.fr
 do09.net
+early-birds.fr
+early-birds.io
 edt02.net
 emailretargeting.com
 ew3.io
@@ -4346,6 +4350,7 @@ d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d16xpr36wrmcmk.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
@@ -5309,6 +5314,7 @@ nvc.n1bus-exp.com
 nws.naltis.com
 osd.oxygem.it
 piximedia.com
+rs.smc.tf
 securite.01net.com
 stats-dc1.frz.io
 stats.buzzea.com
@@ -6623,6 +6629,7 @@ web-track.telekom-dienste.de
 webts.adac.de
 xara.hse24.de
 accn.allocine.net
+act.acotedemoi.com
 analytics.allovoisins.com
 analytics.rtbf.be
 cfcn.allocine.net
@@ -6652,6 +6659,7 @@ secure-stat.canal-plus.com
 stat.ouedkniss.com
 stat.webevolutis.com
 stats1x1.kapaza.be
+tag.boulanger.fr
 track.24heures.ch
 tracker-id.cdiscount.com
 tracker.cds-tracking.com
