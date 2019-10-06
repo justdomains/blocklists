@@ -145,6 +145,7 @@ affiliatetrackingsetup.com
 affiliatly.com
 affinesystems.com
 affinitymatrix.com
+affirm.com
 affistats.com
 africal.info
 afsanalytics.com
@@ -5030,10 +5031,10 @@ track.td3x.com
 track.uc.cn
 track.untd.com
 track.vscash.com
+track.wayin.com
 track.written.com
 track.yfret.com
 track.yieldsoftware.com
-tracker.affirm.com
 tracker.beezup.com
 tracker.data-vp.com
 tracker.downdetector.com
