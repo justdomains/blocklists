@@ -671,7 +671,6 @@ dti-ranker.com
 dtscout.com
 dtxngr.com
 dummy-domain-do-not-change.com
-dv0.info
 dwin1.com
 dwin2.com
 dynatrace.com
@@ -1947,7 +1946,6 @@ spamanalyst.com
 spectate.com
 speed-trap.com
 speedcurve.com
-sphereup.com
 spklw.com
 splittag.com
 splurgi.com
@@ -3450,6 +3448,7 @@ zaehler.tv
 7x4.fr
 7x5.fr
 abcompteur.com
+ad4m.at
 admo.tv
 adthletic.com
 affilizr.com
