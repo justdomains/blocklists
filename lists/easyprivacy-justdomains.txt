@@ -5981,7 +5981,6 @@ marketing.dropbox.com
 marketing.kalahari.net
 marketing.nodesource.com
 merlin.abc.go.com
-meter-svc.nytimes.com
 metric-agent.i10c.net
 metric.inetcore.com
 metrics.apartments.com
@@ -6368,6 +6367,7 @@ tck.bangbros.com
 ted.dailymail.co.uk
 ted.metro.co.uk
 ted1.metro.co.uk
+telemetry.qa.webex.com
 telemetry.tradingview.com
 tempo.inc.com
 timeslogtn.timesnow.tv
