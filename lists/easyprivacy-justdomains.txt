@@ -510,7 +510,6 @@ conductrics.com
 config.parsely.com
 confirmational.com
 confirmit.com
-contactatonce.com
 contactmonkey.com
 contemporaryceremonies.ca
 content-square.net
@@ -673,6 +672,7 @@ dtxngr.com
 dummy-domain-do-not-change.com
 dwin1.com
 dwin2.com
+dynamicyield.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -1116,7 +1116,6 @@ ipro.com
 iproanalytics.com
 iprotrk.com
 ipstat.com
-ipstatp.com
 ipv6monitoring.eu
 iqdata.ai
 iqfp1.com
@@ -2203,7 +2202,6 @@ truconversion.com
 truehits.in.th
 truehits1.gits.net.th
 truoptik.com
-trustedform.com
 trysera.com
 tscapeplay.com
 tscounter.com
@@ -4190,7 +4188,6 @@ app.insightgrit.com
 apple.www.letv.com
 ariane.abtasty.com
 aserve.directorym.com
-async-px.dynamicyield.com
 attributiontrackingga.googlecode.com
 audience.atex.com
 audience.newscgp.com
@@ -4746,6 +4743,7 @@ pixel.sprinklr.com
 pixel.tree.com
 pixel.usrsync.com
 pixel.vmm-satellite2.com
+pixel.widgetly.com
 pixel.wp.com
 pixel.xmladfeed.com
 pixel.yabidos.com
@@ -4772,7 +4770,6 @@ ptsc.shoplocal.com
 pub.sheknows.com
 publish.pizzazzemail.com
 px.247inc.net
-px.dynamicyield.com
 px.excitedigitalmedia.com
 px.marchex.io
 px.owneriq.net
@@ -4836,7 +4833,7 @@ spacedust.netmediaeurope.com
 speedtrap.shopdirect.com
 spoods.rce.veeseo.com
 st.cdnco.us
-st.dynamicyield.com
+stas.outbrain.com
 stat.boredomtherapy.com
 stat.easydate.biz
 stat.ed.cupidplc.com
@@ -5981,6 +5978,7 @@ marketing.alibaba.com
 marketing.dropbox.com
 marketing.kalahari.net
 marketing.nodesource.com
+mcdp-sadc1.outbrain.com
 merlin.abc.go.com
 metric-agent.i10c.net
 metric.inetcore.com
@@ -6263,6 +6261,7 @@ spanids.thesaurus.com
 speed.wikia.net
 spotlight.accuweather.com
 srt.pch.com
+srtb.msn.com
 ssc.api.bbc.com
 ssl-stats.wordpress.com
 sstats.oui.sncf
@@ -6402,7 +6401,6 @@ track.rediff.com
 track.searchiq.co
 track.slideshare.net
 track.thesaurus.com
-track.totalav.com
 track.ugamezone.com
 track.ultimate-guitar.com
 track.webgains.com
@@ -6640,6 +6638,7 @@ accn.allocine.net
 act.acotedemoi.com
 analytics.allovoisins.com
 analytics.rtbf.be
+c0011.boursorama.com
 cfcn.allocine.net
 compteur.developpez.com
 dm.commentcamarche.net
