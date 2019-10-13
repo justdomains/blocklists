@@ -1101,7 +1101,6 @@ ip2location.com
 ip2map.com
 ip2phrase.com
 ipaddresslabs.com
-ipapi.co
 ipcatch.com
 ipcounter.de
 iperceptions.com
