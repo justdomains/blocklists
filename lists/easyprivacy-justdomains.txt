@@ -145,7 +145,6 @@ affiliatetrackingsetup.com
 affiliatly.com
 affinesystems.com
 affinitymatrix.com
-affirm.com
 affistats.com
 africal.info
 afsanalytics.com
@@ -202,7 +201,6 @@ anametrix.net
 anatid3.com
 andagainanotherthing.com
 andyetanotherthing.com
-anexia-it.com
 angelfishstats.com
 angorch-cdr7.com
 angsrvr.com
@@ -836,7 +834,6 @@ foreseeresults.com
 forkcdn.com
 formalyzer.com
 formisimo.com
-forter.com
 foundry42.com
 fout.jp
 fpctraffic2.com
@@ -4073,6 +4070,7 @@ adtrack.calls.net
 affiliate.iamplify.com
 affiliates.mgmmirage.com
 affiliates.minglematch.com
+affiliates.purevpn.com
 affiliates.spark.net
 affiliates.swappernet.com
 affl.sucuri.net
@@ -4392,7 +4390,6 @@ d2ibu2ug0mt5qp.cloudfront.net
 d2kmrmwhq7wkvs.cloudfront.net
 d2kyy9hvbrzkgn.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pxb4n3f9klsc.cloudfront.net
@@ -4406,7 +4403,6 @@ d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d3135glefggiep.cloudfront.net
 d33im0067v833a.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
-d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
 d38nbbai6u794i.cloudfront.net
@@ -5031,6 +5027,7 @@ track.wayin.com
 track.written.com
 track.yfret.com
 track.yieldsoftware.com
+tracker.affirm.com
 tracker.beezup.com
 tracker.data-vp.com
 tracker.downdetector.com
@@ -5634,7 +5631,6 @@ affiliates.genealogybank.com
 affiliates.londonmarketing.com
 affiliates.mozy.com
 affiliates.myfax.com
-affiliates.purevpn.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
 agg.inquisitr.com
