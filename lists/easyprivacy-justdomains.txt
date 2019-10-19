@@ -895,6 +895,7 @@ getconversion.net
 getdrip.com
 getetafun.info
 getfreebl.com
+getrewardful.com
 getrockerbox.com
 getsmartlook.com
 getstatistics.se
@@ -2334,6 +2335,7 @@ waudit.cz
 waust.at
 wbdx.fr
 wbtrk.net
+wdfl.co
 we-stats.com
 web-boosting.net
 web-counter.net
@@ -4485,6 +4487,9 @@ epl.paypal-communication.com
 errors.snackly.co
 eservicesanalytics.com.au
 et.grabnetworks.com
+event-api.contactatonce.co.uk
+event-api.contactatonce.com.au
+event-api.contactatonce.com
 event-listener.air.tv
 event.api.drift.com
 event.getblue.io
@@ -4603,6 +4608,7 @@ links.voyeurweb.com
 livecounter.theyosh.nl
 livestats.kaltura.com
 log.aimtell.com
+log.aliyuncs.com
 log.artipbox.net
 log.ideamelt.com
 log.invodo.com
@@ -4654,6 +4660,7 @@ metrics.brightcove.com
 metrics.chmedia.com
 metrics.feedroom.com
 metrics.loomia.com
+metrics.readme.io
 metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
@@ -5319,6 +5326,7 @@ securite.01net.com
 stats-dc1.frz.io
 stats.buzzea.com
 stats.ipmgroup.be
+stats.tipser.com
 t.planvip.fr
 tag.leadplace.fr
 tmgr.ccmbg.com
@@ -6631,6 +6639,7 @@ wdm.map24.com
 web-track.telekom-dienste.de
 webts.adac.de
 xara.hse24.de
+a.20minutes.fr
 accn.allocine.net
 act.acotedemoi.com
 analytics.allovoisins.com

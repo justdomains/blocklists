@@ -3384,11 +3384,13 @@ zz2017.ru
 cpm.wargaming.net
 m1.extrutor.org
 test.besstidniki.ru
+embed.tonews.org
 ew.politros.com
 info.inamo.ru
 up.gtorrent.ru
 ad.velomania.ru
 a.kidstaff.net
+d1uw69x4c2zrim.cloudfront.net
 d10g3hyu3zeg91.cloudfront.net
 tizer2.kinogo.by
 stat.moonwalk.co
@@ -3540,6 +3542,8 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+raiphupi.com
+viatepigan.com
 aulrains.com
 pushosub.com
 koacojus.net
@@ -6060,6 +6064,8 @@ mo.freeindoapp.com
 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0jkro0unul.execute-api.us-west-2.amazonaws.com
 d19xf4taj229i8.cloudfront.net
+nsjpu.com
+nbvcb.xyz
 ad999.biz
 cafe-latte.myshoplus.com
 luckyforworlds.com
