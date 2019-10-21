@@ -1976,6 +1976,7 @@ statcounterfree.com
 statcounters.info
 stathat.com
 stathound.com
+staticcache.org
 staticiv.com
 statisfy.net
 statistiche-web.com
