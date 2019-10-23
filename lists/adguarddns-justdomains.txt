@@ -1,3 +1,5 @@
+obldomain.ru
+gqedxf.com
 farsihd.pw
 v1-c73e.kxcdn.com
 zrlcr.com
@@ -3546,6 +3548,8 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+toonikab.com
+itteholm.site
 amarceusan.com
 go.ero-advertising.com
 bebasads.com
@@ -6005,6 +6009,7 @@ savoy.cubecdn.net
 mystighty.info
 sohjah-thahka.info
 goitcl.com
+stripe.rs-1028-a.com
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 coinhive.com
@@ -6071,6 +6076,9 @@ admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+gameanalysis.appcpi.net
+ads.bulldogcpi.com
+other.appcpi.net
 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0jkro0unul.execute-api.us-west-2.amazonaws.com
 d19xf4taj229i8.cloudfront.net
@@ -6143,7 +6151,6 @@ opt8.co
 ads-bidder-api.twitter.com
 speee-ad.akamaized.net
 config.unityads.unity3d.com
-init.startappservice.com
 valshara.com
 ads.jianchiapp.com
 abroad-ad.kingsoft-office-service.com
@@ -6180,7 +6187,6 @@ ad.daum.net
 cdn.hdat.xyz
 bgrndi.com
 et-code.ru
-m.mixadvert.com
 fastmap33.com
 avazunativeads.com
 mobilebanner.ru
@@ -6290,7 +6296,6 @@ ad.myinstashot.com
 net.rayjump.com
 ad.cauly.co.kr
 rtb.platform.glispa.com
-ads.yemonisoni.com
 adflake.com
 ads.aitype.net
 ero-advertising.com
@@ -6362,14 +6367,12 @@ adprotected.com
 adpublisher.s3.amazonaws.com
 adquota.com
 ads.ad2iction.com
-ads.admarvel.com
 ads.admoda.com
 ads.aerserv.com
 ads.fotoable.com
 ads.glispa.com
 ads.marvel.com
 ads.matomymobile.com
-ads.mdotm.com
 ads.mobilefuse.net
 ads.mobilityware.com
 ads.mobvertising.net
@@ -6399,7 +6402,6 @@ adsniper.ru
 adspirit.de
 adsrvmedia.net
 adsrvr.org
-adsx.greystripe.com
 adsymptotic.com
 adtaily.pl
 adtech.de
@@ -6411,7 +6413,6 @@ adv.mxmcdn.net
 adversal.com
 adverticum.net
 advertise.com
-advertiser.fyber.com
 advertur.ru
 advombat.ru
 adwhirl.com
@@ -6428,7 +6429,6 @@ amazon-adsystem.com
 amoad.com
 amobee.com
 andomedia.com
-api.adflake.com
 api.appfireworks.com
 api.fusepowered.com
 api.kiip.me
@@ -6463,7 +6463,6 @@ banners.etermax.com
 bannersnack.com
 bannerwall.herewetest.com
 bannerwall.s3.appcnt.com
-base-cdn.admarvel.com
 bayctrk.com
 bcfads.com
 beatchucknorris.com
@@ -6576,7 +6575,6 @@ httpool.com
 huntmad.com
 i-mobile.co.jp
 i-vengo.com
-i.tapit.com
 iad.appboy.com
 iadsdk.apple.com
 iamediaserve.com
@@ -6667,12 +6665,10 @@ mofox.com
 mojiva.com
 mologiq.net
 mookie1.com
-mopub.web107-east.manage.com
 morgdm.ru
 mprezchc.com
 mpx.mopub.com
 msads.net
-msntest.serving-sys.com
 mtburn.jp
 mtrcss.com
 mxtads.com
@@ -6745,7 +6741,6 @@ rotaban.ru
 rtb.nexage.com
 rtbpop.com
 rubiconproject.com
-s.innovid.com
 sas816.ujikdd041o.cn
 saymedia.com
 sdk.native123.com
@@ -6756,7 +6751,6 @@ servebom.com
 serving-sys.com
 sessionm.com
 shareasale.com
-shared.iad.appboy.com
 sharethrough.com
 show.niqiu99.org
 silvermob.com
@@ -8874,6 +8868,7 @@ erendri.com
 ergerww.net
 ergodob.ru
 ergoledo.com
+erosyndc.com
 erovation.com
 erovinmo.com
 escalatenetwork.com
@@ -10766,6 +10761,7 @@ s2d6.com
 sa.entireweb.com
 saboopiz.net
 sadbads.com
+sadsans.com
 sadsims.com
 safeadnetworkdata.net
 safecllc.com
@@ -11610,6 +11606,7 @@ worldwidemailer.com
 worthathousandwords.com
 worthyadvertising.com
 wpnjs.com
+wranjeon.xyz
 wulium.com
 wurea.com
 wwbn.com
@@ -13689,6 +13686,7 @@ bsaixnxcpaai.com
 bsepyppitmkkf.com
 bsjhbxtrbvkr.com
 bskijhtct.com
+bskwrsjudrp.com
 bsmryjou.com
 bsnbfufjgxrb.com
 bspjagxietut.com
@@ -13784,6 +13782,7 @@ caaqyzbpsbtk.com
 cadchbpsifb.com
 cafvzpusl.com
 cahepysgenpb.com
+caljqsml.com
 camrfajedgku.com
 capquqhuiazl.com
 carsxardivaf.com
@@ -13873,6 +13872,7 @@ cgaemihcbvr.com
 cgbqzfjf.com
 cgcukmix.com
 cgjbizumzm.com
+cgkeasqkzfpepr.com
 cgkpwhkgjxo.com
 cglcdshkqiuic.com
 cglpmszvpzzxj.com
@@ -13962,6 +13962,7 @@ clzfurcqmlgw.com
 cmdjujqlfbts.com
 cmdnzbuynnm.com
 cmdotgwjhpqf.com
+cmhomlaipa.com
 cmhwwdwfiyx.com
 cmjjzwddw.com
 cmncgeqivmjki.com
@@ -14664,6 +14665,7 @@ elzmazpsbnwn.com
 emdbszgmxggo.com
 emdqaycbvqz.com
 emirdzzvhviv.com
+emqeafoztotu.com
 emrumkgmdmdq.com
 emvdlnwph.com
 emxfructugey.com
@@ -16415,6 +16417,7 @@ jhceybuguvureg.com
 jhcnnizbua.com
 jheduynirrxkro.com
 jheplryxvzvx.com
+jhhlhneavuo.com
 jhijojlatyvri.com
 jhmmbrfsqm.com
 jhnteodwqtk.com
@@ -16533,6 +16536,7 @@ jobveibsozms.com
 jogpsoiyngua.com
 jogrgddvb.com
 johonmtpyv.com
+jomrhqkqvvxix.com
 jomznuefrw.com
 joqnoyniblzm.com
 joqpatxugyug.com
@@ -17310,6 +17314,7 @@ ltfroezjyyhv.com
 ltfxlxze.com
 ltjvgpxg.com
 ltnfhltuksarpq.com
+ltnkbvcm.com
 lttsvesujmry.com
 ltvrdftgr.com
 ltwlxoedrydz.com
@@ -18194,6 +18199,7 @@ ohrkrzvndwitaa.com
 ohscoczrnhzd.com
 ohszjtbehoo.com
 ohwlwlus.com
+ohzczsyjadw.com
 oiahzjhwpsokt.com
 oieeezzld.com
 oiehcvpxfbnur.com
@@ -18344,6 +18350,7 @@ ouiinryhlvbgq.com
 oujlnbyavjhy.com
 oulxdvvpmfcd.com
 ounyrilukncbj.com
+ouuktjcoh.com
 ouytveod.com
 ouzqwetenps.com
 ovchjqpdh.com
@@ -19055,6 +19062,7 @@ quqyiobevrc.com
 qurhdjkms.com
 quyxxofx.com
 qveuxmbhbhmg.com
+qvfwckuehf.com
 qvgjqhfnbdeur.com
 qvilmdus.com
 qvivzreleolawc.com
@@ -19180,6 +19188,7 @@ rdrkxlmlqpqns.com
 rdthuvynnwgind.com
 rdvrxbxwxspxd.com
 rdwcvesg.com
+rdwsjnifcemg.com
 rdxwaydglehog.com
 rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com
 realnwspfbumn.com
@@ -19574,6 +19583,7 @@ shohabiymgjxdb.com
 shtkybxv.com
 shuxcbgab.com
 shvdvzydgryx.com
+shvjvbmyyyfa.com
 shyyyxjw.com
 siaiscphvghttd.com
 sibatnsryjpcq.com
@@ -19680,6 +19690,7 @@ sqtsuzrfefwy.com
 sqwyxzrajzsxpx.com
 sqykpwpgqqt.com
 sqyvhynwl.com
+srezrzsyqrikab.com
 srfizvugkheq.com
 srgszwexkpehb.com
 srhovuokux.com
@@ -20217,6 +20228,7 @@ ufrbfvelweoy.com
 ufrzvzpympib.com
 ufugfbtpp.com
 ufvehyxuiwe.com
+ufvzwshjkhocjn.com
 ugahbedypf.com
 uggepqevz.com
 uggvuuquxj.com
@@ -20303,6 +20315,7 @@ umrehhye.com
 umusjdiehxbn.com
 umvgcqaxmie.com
 umwsjnsvfzuo.com
+umxxuqpbhylyy.com
 umxzhxfrrkmt.com
 umybobusjo.com
 umyiwkxzf.com
@@ -20768,6 +20781,7 @@ vtbyvtmabpclx.com
 vtcquvxsaosz.com
 vtcxhnri.com
 vtemaaftwexu.com
+vtgcvsmzxiyoz.com
 vtgdjgtwl.com
 vthhmbfo.com
 vtmkgqcvzvlsdt.com
@@ -22029,6 +22043,7 @@ zhlfogiy.com
 zhmbxvmyk.com
 zhpdtoott.com
 zhqbimjc.com
+zhqigwbchfnqn.com
 zhqzqupvgczom.com
 zhrmtsxcdkjj.com
 zhxdiirwhtico.com
@@ -22981,6 +22996,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+count.nuanyuehanxing.com
 itrustzone.site
 distiltag.com
 deep.bi
@@ -26678,6 +26694,7 @@ hit.copesa.cl
 hit.dogannet.tv
 hindsight.significanceapps.com
 hc.uralweb.ru
+j.uralweb.ru
 hits.theguardian.com
 hits.top.lv
 hm.baidu.com
@@ -27703,7 +27720,6 @@ gameanalytics.com
 gammachug.com
 gatorleads.co.uk
 gear5.me
-geni.us
 geoedge.be
 geoip-db.com
 geojs.io
@@ -27923,6 +27939,7 @@ sitelabweb.com
 sitestats.live
 smadex.com
 smart-dmp.com
+smart-traffik.com
 smartocto.com
 smartology.co
 smct.co
@@ -30462,6 +30479,7 @@ qc.coccoc.com
 qc.coccoc.vn
 qccoccocmedia.vn
 rungrinh.vn
+sharks.vn
 shop-cdn.coccoc.com
 shop.zalo.me
 shopping.coccoc.com

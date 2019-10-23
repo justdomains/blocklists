@@ -136,6 +136,7 @@ advertising.com
 adways.com
 adwstats.com
 adxadtracker.com
+adxcel-ec2.com
 adyapper.com
 afairweb.com
 affilae.com
@@ -313,6 +314,7 @@ bidr.io
 bidswitch.net
 bigcattracks.com
 bigmir.net
+bigreal.org
 bigstats.net
 bigtracker.com
 bikepasture.com
@@ -1578,6 +1580,7 @@ pixeleze.com
 pixelinteractivemedia.com
 pixelrevenue.com
 pixelsnippet.com
+pixlee.com
 pizzaandads.com
 pjatr.com
 pjtra.com
@@ -2311,6 +2314,7 @@ visitorpath.com
 visitorprofiler.com
 visitortracklog.com
 visitorville.com
+visitstats.com
 visitstreamer.com
 visto1.net
 visualdna-stats.com
@@ -4513,6 +4517,7 @@ events.marquee-cdn.net
 events.medio.com
 events.ocdn.eu
 events.realgravity.com
+events.tubecup.org
 events.whisk.com
 events.yourcx.io
 eventtracker.videostrip.com
@@ -5671,6 +5676,7 @@ analytics.ifood.tv
 analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.jabong.com
+analytics.kaggle.io
 analytics.localytics.com
 analytics.mindjolt.com
 analytics.newsinc.com
@@ -6252,6 +6258,7 @@ sp.thestarpress.com
 sp.thetimesherald.com
 sp.thetowntalk.com
 sp.timesrecordnews.com
+sp.tinymce.com
 sp.udimg.com
 sp.usatoday.com
 sp.vcstar.com
@@ -6294,6 +6301,7 @@ stats.cardschat.com
 stats.cheddar.com
 stats.christianpost.com
 stats.clear-media.com
+stats.digg.com
 stats.dnaindia.com
 stats.ebay.com
 stats.europe.newsweek.com
