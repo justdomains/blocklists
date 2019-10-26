@@ -3121,6 +3121,7 @@ spiffymachine.com
 spottysense.com
 spurioussteam.com
 squeakzinc.com
+squirrelhands.com
 steepsquirrel.com
 stiffstem.com
 storesurprise.com
@@ -4359,6 +4360,7 @@ cts.businesswire.com
 cts.channelintelligence.com
 cts.vresp.com
 curate.nestedmedia.com
+curated.fieldtest.cc
 cws.conviva.com
 cx.atdmt.com
 d.shareaholic.com
