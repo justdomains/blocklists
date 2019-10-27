@@ -1114,6 +1114,7 @@ iplocationtools.com
 ipro.com
 iproanalytics.com
 iprotrk.com
+ipstack.com
 ipstat.com
 ipv6monitoring.eu
 iqdata.ai
@@ -1205,6 +1206,7 @@ leadsmonitor.io
 leadsrx.com
 leanplum.com
 legolas-media.com
+leokross.com
 les-experts.com
 letterboxtrail.com
 lexity.com
@@ -3066,6 +3068,7 @@ diplomahawaii.com
 ejyymghi.com
 familiarfloor.com
 familiarrod.com
+farmergoldfish.com
 faultycanvas.com
 fearfulflag.com
 flakyfeast.com
@@ -4084,6 +4087,7 @@ adg.bzgint.com
 adlog.com.com
 ads-trk.vidible.tv
 adtrack.calls.net
+aevents.izooto.com
 affiliate.iamplify.com
 affiliates.mgmmirage.com
 affiliates.minglematch.com
@@ -4530,6 +4534,7 @@ events.tubecup.org
 events.whisk.com
 events.yourcx.io
 eventtracker.videostrip.com
+evt.izooto.com
 experience.contextly.com
 fast.appcues.com
 fastcounter.bcentral.com
@@ -6681,6 +6686,7 @@ elr.sfr.fr
 eultech.fnac.com
 g.itespresso.fr
 hit.leboncoin.fr
+kbn.korben.info
 logs-qos.tf1.fr
 p.pagesjaunes.fr
 pam.nextinpact.com
