@@ -370,6 +370,7 @@ bstk.co
 bstn-14-ma.com
 btbuckets.com
 btserve.com
+btstatic.com
 btttag.com
 bubblestat.com
 bugherd.com
@@ -749,11 +750,13 @@ esearchvision.com
 esm1.net
 esomniture.com
 estara.com
+estat.com
 estrack.net
 etahub.com
 etherealhakai.com
 ethn.io
 ethnio.com
+etracker.com
 etrafficcounter.com
 etrafficstats.com
 etrigue.com
@@ -1152,6 +1155,7 @@ itracker360.com
 itrackerpro.com
 itracmediav4.com
 ivcbrasil.org.br
+ivwbox.de
 iwebtrack.com
 iwstats.com
 ixiaa.com
@@ -1234,11 +1238,13 @@ legolas-media.com
 leokross.com
 les-experts.com
 letterboxtrail.com
+levexis.com
 lexity.com
 lfov.net
 liadm.com
 lijit.com
 limbik.io
+linezing.com
 link-smart.com
 linkconnector.com
 linkpulse.com
@@ -1527,6 +1533,7 @@ onefeed.co.uk
 onelink-translations.com
 onestat.com
 onetag-sys.com
+onetag.io
 ongsono.com
 online-media-stats.com
 online-metrix.net
@@ -1794,6 +1801,7 @@ rightmoveanalytics.co.uk
 ritecounter.com
 rivrai.com
 rkdms.com
+rktch.com
 rktu.com
 rlcdn.com
 rmtag.com
@@ -1934,6 +1942,7 @@ sitelabweb.com
 sitelinktrack.com
 sitemeter.com
 sitereport.org
+sitestat.com
 sitestats.live
 sitetag.us
 sitetagger.co.uk
@@ -2067,6 +2076,7 @@ storygize.net
 streamsend.com
 streem.com.au
 stripedcollar.net
+stroeerdigitalmedia.de
 strossle.it
 strs.jp
 sub2tech.com
@@ -2133,6 +2143,7 @@ tglyr.co
 theadex.com
 theagency.com
 thebestlinks.com
+thebrighttag.com
 thecounter.com
 thefreehitcounter.com
 thehairofcaptainpicard.com
@@ -2208,6 +2219,7 @@ tracktrk.net
 trackvoluum.com
 trackword.biz
 trackyourstats.com
+tradedoubler.com
 tradelab.fr
 tradescape.biz
 trafex.net
@@ -2311,6 +2323,7 @@ useronlinecounter.com
 userreplay.net
 userreport.com
 users-api.com
+userzoom.com
 usuarios-online.com
 uuxnwoevyb.com
 v12group.com
@@ -2365,6 +2378,7 @@ visitstreamer.com
 visto1.net
 visualdna-stats.com
 visualdna.com
+visualrevenue.com
 visualwebsiteoptimizer.com
 vivocha.com
 vizisense.net
@@ -2457,6 +2471,7 @@ wowanalytics.co.uk
 wp-stats.com
 wpdstat.com
 wpfc.ml
+wrating.com
 wredint.com
 wt-eu02.net
 wt-safetag.com
@@ -3219,6 +3234,7 @@ backlinkprofi.info
 backlinks.li
 backlinktausch.biz
 bekannt-im-web.de
+belboon.de
 beliebtestewebseite.de
 besucherstats.de
 besucherzaehler-counter.de
@@ -3446,6 +3462,7 @@ speedtracker.de
 spelar.org
 spider-mich.com
 sponsorcounter.de
+spring-tns.net
 srvtrck.com
 ssl4stats.de
 statistik-gallup.net
@@ -3727,6 +3744,7 @@ contatoreaccessi.com
 cpmktg.com
 cuntador.com
 digital-metric.com
+distribeo.com
 dnab.info
 freecounter.it
 freestat.ws
@@ -4316,6 +4334,7 @@ c.mgid.com
 c.wen.ru
 c2s-openrtb.liverail.com
 c3metrics.medifast1.com
+cache2.delvenetworks.com
 cadreon.s3.amazonaws.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
@@ -5386,6 +5405,7 @@ abs.proxistore.com
 affiliation.planethoster.info
 analytics.freespee.com
 analytics.grupogodo.com
+analytics.ladmedia.fr
 audience.acpm.fr
 bbtrack.net
 btstats.devtribu.fr
@@ -5403,6 +5423,7 @@ osd.oxygem.it
 piximedia.com
 rs.smc.tf
 securite.01net.com
+stat.prsmedia.fr
 stats-dc1.frz.io
 stats.buzzea.com
 stats.ipmgroup.be
@@ -5483,6 +5504,7 @@ t.leady.cz
 track.leady.cz
 counter.nope.dk
 ubt.berlingskemedia.net
+analytics.belgacom.be
 cookies.reedbusiness.nl
 hottraffic.nl
 statistics.rbi-nl.com
@@ -5628,6 +5650,7 @@ counter.rian.ru
 counter.star.lg.ua
 counter.tovarro.com
 counter.wapstart.ru
+crm-analytics.imweb.ru
 error.videonow.ru
 hubrus.com
 mediator.mail.ru
@@ -5723,6 +5746,7 @@ affiliates.myfax.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
 agg.inquisitr.com
+agg.lifedaily.com
 aggregator.inquisitr.com
 ai.inmdata.io
 ai.iol.io
@@ -6508,6 +6532,7 @@ tracker.cpapath.com
 tracker.jawcloud.co
 tracker.joost.com
 tracker.lolalytics.com
+tracker.mattel.com
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.pandora.com
@@ -6749,6 +6774,7 @@ ea.rueducommerce.fr
 elr.sfr.fr
 eultech.fnac.com
 g.itespresso.fr
+gstat.orange.fr
 hit.leboncoin.fr
 kbn.korben.info
 logs-qos.tf1.fr
@@ -6795,6 +6821,7 @@ count.joy.cn
 count.kandian.com
 count.newhua.com
 count.qiannao.com
+count.taobao.com
 count.video.sina.com.cn
 count.vrs.sohu.com
 count5.pconline.com.cn
@@ -6827,6 +6854,7 @@ p-log.ykimg.com
 pass.1688.com
 pb.i.sogou.com
 pingback.sogou.com
+pingjs.qq.com
 pv.csdn.net
 pv.ltn.com.tw
 pv.udn.com
