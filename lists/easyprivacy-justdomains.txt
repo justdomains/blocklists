@@ -652,6 +652,7 @@ dinkstat.com
 directrdr.com
 discover-path.com
 discovertrail.net
+display.studio
 displaymarketplace.com
 distiltag.com
 distralytics.com
@@ -1916,6 +1917,7 @@ shoelace.com
 shoptimally.com
 showheroes.com
 showroomlogic.com
+sift.com
 siftscience.com
 signifyd.com
 signup-way.com
@@ -2274,6 +2276,7 @@ tsw0.com
 tubetrafficcash.com
 tuinfra.com
 tunnl.com
+tvpixel.com
 twcount.com
 twopointo.io
 txmoadserver.net
@@ -3188,9 +3191,11 @@ squirrelhands.com
 steepsquirrel.com
 stiffstem.com
 storesurprise.com
+stormyachiever.com
 strivesidewalk.com
 suddensidewalk.com
 sugarcurtain.com
+tendertest.com
 ticklesign.com
 truthfulturn.com
 typicalteeth.com
@@ -4363,6 +4368,7 @@ clicktalecdn.sslcs.cdngc.net
 clickthru.lefbc.com
 clicktracker.iscan.nl
 clicktracks.aristotle.net
+client-analytics.braintreegateway.com
 client.tahono.com
 clientstat.castup.net
 clk.onet.pl
@@ -5985,6 +5991,7 @@ frog.wix.com
 funn.graphiq.com
 g.deathandtaxesmag.com
 g.ign.com
+g.mashable.com
 g.msn.com
 g.vev.io
 ga.canoe.ca
@@ -6085,6 +6092,7 @@ loggingservices.tribune.com
 loggly.cheatsheet.com
 loglady.publicbroadcasting.net
 logs.dashlane.com
+logs.gaana.com
 lsam.research.microsoft.com
 lslmetrics.djlmgdigital.com
 marketing.alibaba.com
@@ -6113,7 +6121,9 @@ mmm.theweek.co.uk
 mms.al.com
 mms.cbslocal.com
 mms.cleveland.com
+mms.cloudpro.co.uk
 mms.cnn.com
+mms.coachmag.co.uk
 mms.deadspin.com
 mms.gizmodo.com
 mms.gulflive.com
