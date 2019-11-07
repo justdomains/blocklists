@@ -1627,7 +1627,6 @@ pixeleze.com
 pixelinteractivemedia.com
 pixelrevenue.com
 pixelsnippet.com
-pixlee.com
 pizzaandads.com
 pjatr.com
 pjtra.com
@@ -4633,6 +4632,7 @@ g2insights-cdn.azureedge.net
 ga-beacon.appspot.com
 ga.kvideo.io
 ga.webdigi.co.uk
+gateway.foresee.com
 geo.ertya.com
 geo.gorillanation.com
 geo.kontagent.net
