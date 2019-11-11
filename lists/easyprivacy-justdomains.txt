@@ -1641,6 +1641,7 @@ pnstat.com
 pntra.com
 pntrac.com
 pntrs.com
+pointillist.com
 pointomatic.com
 polarcdn-pentos.com
 popsample.com
@@ -6287,7 +6288,6 @@ smetrics.att.com
 smetrics.delta.com
 snowplow-collector.sugarops.com
 somniture.theglobeandmail.com
-sourcepoint.vice.com
 sp-mms.weather.com
 sp.app.com
 sp.argusleader.com
