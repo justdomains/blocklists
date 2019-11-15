@@ -3582,6 +3582,10 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+bgadx.com
+vaebard.com
+augheguw.net
+moowouzy.net
 boffinsoft.com
 9purdfe9xg.com
 risausso.com
@@ -5839,6 +5843,7 @@ dviixeyykyqjv.cloudfront.net
 js.bulkhentai.com
 script.hqpass.com
 d2t2on23g4lty1.cloudfront.net
+bumbook.xyz
 app.gelirartisi.com
 vvhatsappsohbetim.site
 bformu12.tk
@@ -6039,6 +6044,7 @@ visilabs.net
 winaffiliates.com
 xpornoizlex.net
 xyztanitim.com
+adserver.a24.com.tr
 sam.setimedia.com
 ioi.seldos.com.tr
 zafrc.5780.site
@@ -13631,6 +13637,7 @@ axmxarqxbkc.com
 axsczaklngkxx.com
 axvabgnr.com
 axzrxkkklakka.com
+ayazstuzc.com
 aycwvgrra.com
 ayfzryxitsusx.com
 ayggsmmb.com
@@ -13658,6 +13665,7 @@ azihmmkagcey.com
 azkvcgzjsrmk.com
 aznfyqgrbgy.com
 azofucrzkkaa.com
+azrjdlvlsxihbd.com
 azroydhgqcfv.com
 azwsolqpewo.com
 azzvkcavtgwp.com
@@ -13928,6 +13936,7 @@ btbuigpxge.com
 btcwkbqojiyg.com
 btgovcuviqor.com
 btkcdqrzmqca.com
+btkxogjoxtd.com
 btmcxzanpsi.com
 btnbdmhxdsf.com
 btovopyov.com
@@ -14225,6 +14234,7 @@ cnqanzdb.com
 cnsnoljocc.com
 cnutjhszkjse.com
 coaincltxhw.com
+coatobpljh.com
 coepzyavjda.com
 cofybuwuc.com
 cogxsnvqesph.com
@@ -15606,6 +15616,7 @@ ghjlhnbc.com
 ghjwogfexch.com
 ghkajgexob.com
 ghkhvajwsiy.com
+ghkihfwfxb.com
 ghomifuzhobtoo.com
 ghtroafchzrt.com
 ghytjserb.com
@@ -16917,6 +16928,7 @@ jrmyhchnfawh.com
 jroxkqhin.com
 jrrekpskc.com
 jrrmwjybfaztct.com
+jrsrshjlzdvsk.com
 jrtawlpbusyg.com
 jrtzehrbg.com
 jrunvrfma.com
@@ -17092,6 +17104,7 @@ kfpwayrztgjj.com
 kfqronzxcrdt.com
 kfritiigmqk.com
 kftbvzlrqkakfo.com
+kfutdsjwtcvnpx.com
 kfwhcwoc.com
 kfwpyyctzmpk.com
 kfxrukfzqazrs.com
@@ -17764,6 +17777,7 @@ lzfyahjavcik.com
 lzkuqbptcjqta.com
 lzmovatu.com
 lzopoqzlihfbc.com
+lzowrfhqy.com
 lzpgstae.com
 lzrfxzvfbkay.com
 lzscunjyovitc.com
@@ -20931,6 +20945,7 @@ uyxjfkgudefv.com
 uyxjnuqbti.com
 uyyalzrvkvmtiq.com
 uyznjuyfyjc.com
+uyzzzeodgommgb.com
 uzagahwfnt.com
 uzbboiydfzog.com
 uzbciwrwzzhs.com
@@ -21842,6 +21857,7 @@ xhwtilplkmvbxumaxwmpaqexnwxypcyndhjokwqkxcwbbsclqh.com
 xhyjlfbqnbr.com
 xibnqcksoax.com
 xicuxxferbnn.com
+xidxivhiior.com
 xiebddgbseoxa.com
 xihkdzijh.com
 xihwtdncwtxc.com
@@ -22488,6 +22504,7 @@ zcwjasfrog.com
 zcyclbncgubccl.com
 zdafkehcmdcphi.com
 zdfyowkafur.com
+zdgmhsahttsj.com
 zdhnepeadrwetg.com
 zdjkzqwpqvwcmc.com
 zdolhnqbtnbcx.com
@@ -23503,6 +23520,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+trafficscanner.pl
 stat.livesportbar.net
 analytics.datahc.com
 s99i.org
@@ -26487,6 +26505,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+pixel.trackverify.com
+cdn.contalyze.com
 log.news.zing.vn
 px.gfycat.com
 vhsrwd.aip24.pl
@@ -29888,7 +29908,6 @@ fluidsurveys-com.fs.cm
 fog.pixual.co
 fourmtagservices.appspot.com
 friends.totallynsfw.com
-fundingchoicesmessages.google.com
 future-fie-assets.co.uk
 future-price.co.uk
 g.delivery.net
@@ -31107,7 +31126,6 @@ amobi.vn
 api.nas.nct.vn
 apinas.nct.vn
 banner.5giay.vn
-bgadx.com
 clevernet.vn
 click.xdeal.vn
 clix.vn
