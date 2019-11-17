@@ -929,6 +929,7 @@ getsmartcontent.com
 getsmartlook.com
 getstatistics.se
 gez.io
+gglscr.online
 giddyuptrk.com
 gigcount.com
 gim.co.il
@@ -1694,6 +1695,9 @@ pulsemaps.com
 pureairhits.com
 purevideo.com
 putags.com
+px-cdn.net
+px-cloud.net
+pxchk.net
 pxf.io
 pxi.pub
 pymx5.com
@@ -5152,6 +5156,7 @@ track.tcppu.com
 track.td3x.com
 track.uc.cn
 track.untd.com
+track.vdo.ai
 track.vscash.com
 track.wayin.com
 track.written.com
@@ -6002,6 +6007,7 @@ eventtracker.elitedaily.com
 evisit.exeter.ac.uk
 expbl2ro.xbox.com
 expdb2.msn.com
+extra.tvmaze.com
 f.staticlp.com
 fast.forbes.com
 felitb.rightinthebox.com
@@ -6144,6 +6150,7 @@ mms.cloudpro.co.uk
 mms.cnn.com
 mms.coachmag.co.uk
 mms.deadspin.com
+mms.expertreviews.co.uk
 mms.gizmodo.com
 mms.gulflive.com
 mms.jalopnik.com
@@ -6170,6 +6177,7 @@ ned.itv.com
 net.haier.com
 nm.newegg.com
 nmtracking.netflix.com
+nozem.tvmaze.com
 odin.mic.com
 oimg.m.cnbc.com
 oimg.mobile.cnbc.com
@@ -6665,6 +6673,7 @@ wzus1.ask.com
 wzus1.reference.com
 wzus1.thesaurus.com
 ynuf.alibaba.com
+zeus.slader.com
 cdn1.pebx.pl
 de-mi-nis-ner2.info
 piti.bplaced.net
