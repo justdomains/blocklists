@@ -1,3 +1,4 @@
+dejionsite.pro
 aliadvert.ru
 tpjsqt.com
 bveyge.com
@@ -3424,6 +3425,7 @@ zxrtn.com
 zycvyudt.com
 zz2017.ru
 cpm.wargaming.net
+pp.muzofon-online.com
 ban.zab.ru
 m1.extrutor.org
 test.besstidniki.ru
@@ -3585,6 +3587,8 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+start.parimatch.com
+badshades.com
 abskursin.com
 whegrads.com
 impactserving.com
@@ -20292,6 +20296,7 @@ tamrczjeedauh.com
 taoclfxgf.com
 taodggarfrmd.com
 taowjygwtm.com
+taozgpkjzpdtgr.com
 tapffdskgjr.com
 tapihmxemcksuvleuzpodsdfubceomxfqayamnsoswxzkijjmw.com
 taqesyqne.com
@@ -22680,6 +22685,7 @@ znsqykdmcjh.com
 zntqjdvonxm.com
 znuwbselijsmyj.com
 znvctmolksaj.com
+znxvuabzgm.com
 znztvqgtaivf.com
 zobsibzczd.com
 zohaqnxwkvyt.com
@@ -26545,6 +26551,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+pixel.welt.de
 pixel.trackverify.com
 cdn.contalyze.com
 log.news.zing.vn

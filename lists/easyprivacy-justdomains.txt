@@ -6596,7 +6596,6 @@ tracking.goodgamestudios.com
 tracking.hsn.com
 tracking.koego.com
 tracking.military.com
-tracking.moneyam.com
 tracking.mycapture.com
 tracking.nextdoor.com
 tracking.olx-st.com
@@ -6799,6 +6798,7 @@ accn.allocine.net
 act.acotedemoi.com
 analytics.allovoisins.com
 analytics.rtbf.be
+buf.lemonde.fr
 c0011.boursorama.com
 cfcn.allocine.net
 compteur.developpez.com
