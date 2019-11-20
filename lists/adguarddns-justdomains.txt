@@ -3425,6 +3425,7 @@ zxrtn.com
 zycvyudt.com
 zz2017.ru
 cpm.wargaming.net
+unisound.cdnvideo.ru
 pp.muzofon-online.com
 ban.zab.ru
 m1.extrutor.org
@@ -3587,6 +3588,9 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+ftigholm.site
+publish.iptvz.net
+yieldlove-ad-serving.net
 start.parimatch.com
 badshades.com
 abskursin.com
@@ -6134,7 +6138,6 @@ advs2sonline.goforandroid.com
 adpush.goforandroid.com
 advonline.goforandroid.com
 dzpu6za66svjl.cloudfront.net
-ad.api.kaffnet.com
 ad.flipboard.com
 adserver.shadow.snapads.com
 ads-chunks.prod.ihrhls.com
@@ -6266,7 +6269,7 @@ iqzone.com
 postitial.com
 pssvc.iqzone.com
 cdn-cf.postitial.com
-ad.adapter.kaffnet.com
+kaffnet.com
 opt8.co
 ads-bidder-api.twitter.com
 speee-ad.akamaized.net
@@ -6851,7 +6854,6 @@ qservz.com
 questionmarket.com
 reate.info
 reklamz.com
-relap.io
 reporo.net
 revcontent.com
 revmob.com
@@ -20778,6 +20780,7 @@ ujqbxbcqtbqt.com
 ujrfwuzv.com
 ujrtwvabum.com
 ujtyosgemtnx.com
+ujuclxjkb.com
 ujuqvalvvvof.com
 ujwdwwfuqcgnv.com
 ujyyciaedxqr.com
@@ -23566,9 +23569,11 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+tracker.convead.io
 trafficscanner.pl
 stat.livesportbar.net
 analytics.datahc.com
+collect.blishtech.co
 s99i.org
 g.vev.io
 rob.megaopen.ru
@@ -25597,6 +25602,7 @@ reinvigorate.net
 reitingas.lt
 reitingi.lv
 rejestr.org
+relap.io
 relead.com
 reliablecounter.com
 relmaxtop.com
@@ -27887,6 +27893,10 @@ fraudmetrix.cn
 plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
+api.appsflyer.com
+register.appsflyer.com
+events.appsflyer.com
+track.appsflyer.com
 hwstats.unity3d.com
 dsp-tracking.unityads.unity3d.com
 installtracker.unityads.unity3d.com
@@ -27927,9 +27937,6 @@ a.appbaqend.com
 ue.flipboard.com
 mobileapptracking.com
 ilyonanalytics.herokuapp.com
-register.appsflyer.com
-kaffnet.com
-sdk.api.kaffnet.com
 gcm.ksmobile.com
 api.splkmobile.com
 sdk.stats-locations.com
@@ -28022,9 +28029,6 @@ alogs.umeng.com
 alogs.umengcloud.com
 stats.umsns.com
 analytics.rayjump.com
-api.appsflyer.com
-events.appsflyer.com
-track.appsflyer.com
 iapp-cp.nuggad.net
 4seeresults.com
 ad-analytics-bootstrap.metaps.com
