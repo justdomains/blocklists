@@ -6017,6 +6017,7 @@ expdb2.msn.com
 extra.tvmaze.com
 f.staticlp.com
 fast.forbes.com
+fathom.hakibenita.com
 felitb.rightinthebox.com
 fresh.techdirt.com
 frog.wix.com
@@ -6028,6 +6029,7 @@ g.msn.com
 g.vev.io
 ga.canoe.ca
 ga.nsimg.net
+ganon.yahoo.com
 gc.newsweek.com
 gcpdata.telegraph.co.uk
 gekko.spiceworks.com
