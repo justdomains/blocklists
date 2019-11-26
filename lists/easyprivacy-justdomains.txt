@@ -628,6 +628,7 @@ decideinteractive.com
 declaredthoughtfulness.co
 deep.bi
 deepattention.com
+deepchannel.com
 dejavu.mlapps.com
 demandbase.com
 departapp.com
@@ -1365,7 +1366,6 @@ mezzobit.com
 mfadsrvr.com
 mialbj6.com
 micpn.com
-midas-i.com
 midkotatraffic.net
 mieru-ca.com
 millioncounter.com
@@ -1952,6 +1952,7 @@ sitemeter.com
 sitereport.org
 sitestat.com
 sitestats.live
+siteswithcontent.com
 sitetag.us
 sitetagger.co.uk
 sitetracker.com
@@ -4450,6 +4451,7 @@ counter.webmasters.bpath.com
 counter.yadro.ru
 counters.freewebs.com
 counters.gigya.com
+country.yepshare.com
 cr.loszona.com
 creator.zmags.com
 crta.dailymail.co.uk
@@ -4472,6 +4474,7 @@ curated.fieldtest.cc
 cws.conviva.com
 cx.atdmt.com
 d.shareaholic.com
+d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
 d169bbxks24g2u.cloudfront.net
@@ -5627,6 +5630,8 @@ webtracker.jp
 x9.shinobi.jp
 log.cizion.com
 log2.adop.cc
+mtag.mman.kr
+performanceplay.co.kr
 teralog.techhub.co.kr
 tracking.adweb.co.kr
 counter.hackers.lv
@@ -6559,7 +6564,6 @@ track.hubspot.com
 track.netzero.net
 track.ning.com
 track.pushbullet.com
-track.rediff.com
 track.searchiq.co
 track.slideshare.net
 track.thesaurus.com
@@ -6632,6 +6636,7 @@ trk.freepik.com
 trowel.twitch.tv
 trueffect.underarmour.com
 trx.smdatalabs.com
+ttauri.laptopmag.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 tw.i.hulu.com
@@ -7071,6 +7076,7 @@ l.m.naver.com
 log.sv.pandora.tv
 nil.naver.com
 pb.m.naver.com
+prism.pandora.tv
 sp.naver.com
 track.tiara.daum.net
 tracker.cauly.co.kr
