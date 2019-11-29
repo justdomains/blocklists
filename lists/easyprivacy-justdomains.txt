@@ -232,6 +232,7 @@ arpxs.com
 arrowpushengine.com
 arsdev.net
 artefact.is
+artfut.com
 arturtrack.com
 ascend.ai
 assoctrac.com
@@ -1203,6 +1204,7 @@ kitcode.net
 klert.com
 klldabck.com
 km-sea.net
+kmtx.io
 knowlead.io
 knowledgevine.net
 koddi.com
@@ -1370,6 +1372,7 @@ midkotatraffic.net
 mieru-ca.com
 millioncounter.com
 minewhat.com
+mixi.mn
 mkt3261.com
 mkt51.net
 mkt941.com
@@ -1792,6 +1795,7 @@ revdn.net
 revenuepilot.com
 revenuescience.com
 revenuewire.net
+revjet.com
 revolvermaps.com
 revsw.net
 rewardtv.com
@@ -3580,6 +3584,7 @@ compteur.com
 compteur.org
 count.fr
 countus.fr
+datado.me
 datadome.co
 deliv.lexpress.fr
 do09.net
@@ -3627,6 +3632,7 @@ url-stats.net
 webcompteur.com
 wysistat.com
 x-traceur.com
+ywywjrlbsuv.com
 circle.am
 call-tracking.by
 trafit.com
@@ -5025,7 +5031,6 @@ stats.nebula.fi
 stats.netbopdev.co.uk
 stats.olark.com
 stats.ombx.io
-stats.openload.co
 stats.ozwebsites.biz
 stats.polldaddy.com
 stats.qmerce.com
@@ -5441,6 +5446,7 @@ x.bloggurat.net
 zs.dhl.de
 analytics.traidnt.net
 abs.proxistore.com
+ac.acadomia.fr
 affiliation.planethoster.info
 analytics.freespee.com
 analytics.grupogodo.com
@@ -6001,7 +6007,6 @@ es.puritan.com
 et.nytimes.com
 etui.fs.ml.com
 eu.groupondata.com
-eulerian.sarenza.com
 ev.kck.st
 event-collector.udsrv.com
 event-reporting-dot-webylytics.appspot.com
@@ -6121,7 +6126,6 @@ log.vdn.apps.cntv.cn
 log.wat.tv
 log.webnovel.com
 log1.24liveplus.com
-logdev.openload.co
 logg.kiwi.com
 logger.dailymotion.com
 logger.nerdwallet.com
@@ -6688,10 +6692,14 @@ wzus1.thesaurus.com
 ynuf.alibaba.com
 zeus.slader.com
 6pal.consobaby.com
+ch0p.darty.com
 cse3.chausport.com
 dt.nrjmobile.fr
 ea.auchantelecom.fr
 ea.aujourdhui.com
+ea.celio.com
+ea.ciblo.net
+ea.clubic.com
 ea.deguisetoi.fr
 ea.fleurancenature.fr
 ea.greenweez.com
@@ -6699,13 +6707,18 @@ ea.habitat.fr
 ea.histoiredor.com
 ea.hofmann.pt
 ea.homair.com
+ea.jeuxvideopc.com
 ea.lafrancedunordausud.fr
+ea.lexpress.fr
 ea.melijoe.com
 ea.millet-mountain.com
 ea.millet.fr
+ea.monsieurmanuel.com
 ea.natiloo.com
 ea.rentacar.fr
+ea.rueducommerce.fr
 ea.venta-unica.com
+ea.vente-unique.be
 ea.vente-unique.ch
 ea.vente-unique.com
 ea.warnerbros.fr
@@ -6713,6 +6726,9 @@ ef.futuroscope.com
 et.unclejeans.com
 eulerian.brandalley.fr
 eulerian.mathon.fr
+eulerian.sarenza.com
+eulerian.splendia.com
+eultech.fnac.com
 f7ds.liberation.fr
 fsz1.francoisesaget.com
 gdm1.toner.fr
@@ -6720,6 +6736,8 @@ guq9.vente-unique.it
 mo.moonpig.com
 mva1.maeva.com
 ncx2.voyage-prive.it
+netc.sfr.fr
+noa0.compteczam.fr
 oal2.destinia.co.uk
 ojm4.palladiumhotelgroup.com
 pbox.photobox.de
@@ -6874,12 +6892,6 @@ dm.hugolescargot.com
 dm.journaldesfemmes.com
 dm.journaldunet.com
 dm.linternaute.com
-ea.celio.com
-ea.clubic.com
-ea.jeuxvideopc.com
-ea.lexpress.fr
-ea.monsieurmanuel.com
-ea.rueducommerce.fr
 elr.sfr.fr
 eultech.fnac.com
 g.itespresso.fr
