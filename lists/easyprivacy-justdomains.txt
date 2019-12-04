@@ -366,6 +366,7 @@ brightfunnel.com
 brilig.com
 bronto.com
 browser-statistik.de
+browser-update.org
 brsrvr.com
 bstk.co
 bstn-14-ma.com
@@ -1032,6 +1033,7 @@ hostip.info
 hoststats.info
 hotdogsandads.com
 hotjar.com
+hotjar.io
 hotlog.ru
 hqhrt.com
 hs-analytics.net
@@ -1397,6 +1399,7 @@ monitus.net
 monstat.com
 monu.delivery
 mooseway.com
+mopinion.com
 motrixi.com
 mouse3k.com
 mouseflow.com
@@ -1757,6 +1760,7 @@ realtracker.com
 realtracking.ninja
 realytics.io
 realzeit.io
+reciteme.com
 recoset.com
 recruitics.com
 redcounter.net
@@ -1999,6 +2003,7 @@ socialtrack.net
 sociaplus.com
 socketanalytics.com
 socketviking.net
+socsi.in
 sodoit.com
 soflopxl.com
 softonic-analytics.net
@@ -2099,6 +2104,8 @@ subtraxion.com
 successfultogether.co.uk
 summerhamster.com
 summitemarketinganalytics.com
+sumo.com
+sumome.com
 supercounters.com
 superstats.com
 supert.ag
@@ -2540,6 +2547,7 @@ zdbb.net
 zdtag.com
 zedwhyex.com
 zeerat.com
+zengenti.com
 zenlivestats.com
 zeotap.com
 zesep.com
