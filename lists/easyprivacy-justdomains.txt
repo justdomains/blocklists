@@ -3127,6 +3127,7 @@ aheadday.com
 alleyarm.com
 allowmailbox.com
 anxiousapples.com
+attractivecap.com
 automaticside.com
 awzbijw.com
 axiomaticalley.com
@@ -4564,6 +4565,7 @@ d3l3lkinz3f56t.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3ojzyhbolvoi5.cloudfront.net
+d3q7vxy7usqoub.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
@@ -5400,7 +5402,6 @@ retrack.q-divisioncdn.de
 sett.i12.de
 stat.clichehosting.de
 stat4.edev.at
-statistics.aldi-international.com
 statistics.klicktel.de
 statistik.motorpresse.de
 statistik.simaja.de
@@ -5899,6 +5900,7 @@ bench.uc.cn
 bi.medscape.com
 bit.ehow.com
 bn.adultempire.com
+bucksfreepress-gb.bucksfreepress.co.uk
 bulb.76.my
 c.ipaddress.com
 c.microsoft.com
