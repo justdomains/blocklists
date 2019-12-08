@@ -1704,7 +1704,6 @@ pulsemaps.com
 pureairhits.com
 purevideo.com
 putags.com
-px-cdn.net
 px-cloud.net
 pxchk.net
 pxf.io
@@ -2410,6 +2409,7 @@ vmm-satellite2.com
 vmmpxl.com
 vmtrk.com
 voicefive.com
+volantix.com
 voodooalerts.com
 votistics.com
 vstats.co
@@ -3134,6 +3134,7 @@ awzbijw.com
 axiomaticalley.com
 balancebreath.com
 bh8yx.xyz
+breakfastboat.com
 broadcastbed.com
 broaddoor.com
 burnbubble.com
@@ -3239,6 +3240,7 @@ sugarcurtain.com
 tendertest.com
 ticklesign.com
 truthfulturn.com
+typicalairplane.com
 typicalteeth.com
 ubiquitousyard.com
 unarmedindustry.com
@@ -4864,6 +4866,7 @@ partners.thefilter.com
 passport.pfn.bz
 pebed.dm.gg
 peermapcontent.affino.com
+perf.dugout.com
 performance.typekit.net
 perr.h-cdn.com
 petitionermaster.appspot.com
@@ -6641,6 +6644,7 @@ trueffect.underarmour.com
 trx.smdatalabs.com
 tw.i.hulu.com
 txn.thenewsroom.com
+uie.data.cbc.ca
 unid.go.com
 up.boston.com
 up.nytimes.com
@@ -6670,6 +6674,7 @@ wa.ui-portal.de
 wal.wolfram.com
 warp.prnewswire.co.uk
 watson.live.com
+wblt.oui.sncf
 web-t.9gag.com
 weblog.strawberrynet.com
 weblogger01.data.disney.com
@@ -6704,11 +6709,16 @@ cmp.pcworld.com
 cmp.techadvisor.co.uk
 cmp.techhive.com
 eurogamer-uk.eurogamer.net
+gazette-news-gb.gazette-news.co.uk
 h-bid.com
 mdn.neowin.net
+sthelensstar-gb.sthelensstar.co.uk
+thenational-gb.thenational.scot
 ttauri.laptopmag.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+worcesternews-gb.worcesternews.co.uk
+yourlocalguardian-gb.yourlocalguardian.co.uk
 6pal.consobaby.com
 ch0p.darty.com
 cse3.chausport.com
@@ -7058,6 +7068,7 @@ sat.sanoma.fi
 stats.fd.nl
 webstatistieken.xs4all.nl
 analytics.sanoma.fi
+events.il.fi
 stat.mtv3.fi
 bravo.israelweather.co.il
 cellstats.mako.co.il
