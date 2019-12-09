@@ -510,6 +510,7 @@ cobaltgroup.com
 codata.ru
 cogmatch.net
 cognitivematch.com
+cohesionapps.com
 collarity.com
 collserve.com
 colossusssp.com
@@ -1853,6 +1854,7 @@ runtnc.net
 rztrkr.com
 s-onetag.com
 s3s-main.net
+s7target.ru
 safe-click.net
 sageanalyst.net
 sajari.com
@@ -2926,7 +2928,6 @@ mysite.irkdsu.ru
 mytestminer.xyz
 nabaza.com
 nablabee.com
-nahnoji.cz
 najsiejfnc.win
 nametraff.com
 nathetsof.com
@@ -3201,6 +3202,7 @@ perceivequarter.com
 petiteumbrella.com
 photographpan.com
 pietexture.com
+plantdigestion.com
 profusesupport.com
 puffyloss.com
 puffypull.com
@@ -4154,7 +4156,6 @@ brandmetrics.com
 citypaketet.se
 cssrvsync.com
 dep-x.com
-lwadm.com
 myvisitors.se
 prospecteye.com
 publish-int.se
@@ -5068,6 +5069,7 @@ stats.webs.com
 stats.webstarts.com
 stats.whicdn.com
 stats.wp.com
+stats.wpmucdn.com
 stats.yme.com
 stats.yourminis.com
 stats.zotabox.com
@@ -6231,6 +6233,7 @@ ping.tvmaze.com
 pingback.issuu.com
 pings.blip.tv
 pipeline.realtime.active.com
+pistyll.bleacherreport.com
 pix.eads.com
 pix.gfycat.com
 pix.nbcuni.com
