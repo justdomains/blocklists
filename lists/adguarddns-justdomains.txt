@@ -3694,6 +3694,8 @@ dlads.cn
 chushoushijian.cn
 u.xogu.cn
 lk.4jzl.cn
+rehomesit.info
+htopensationclie.info
 bigbangbon.online
 amaumomt.com
 media-sapiens.com
@@ -5811,6 +5813,7 @@ stripe.rs-1028-a.com
 rcdn.pro
 samsungads.com
 samsungtvads.com
+dc5k8fg5ioc8s.cloudfront.net
 direct.apus.tech
 d1qggq1at2gusn.cloudfront.net
 d1r90st78epsag.cloudfront.net
@@ -24116,6 +24119,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+leadsmonitor.io
 audsp.com
 mparticle.com
 stat.analytiall.com
@@ -27129,6 +27133,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+stats1.wpmudev.com
+stats.wpmucdn.com
 stat.thestartmagazine.com
 statistics.news1.kr
 e.dr-zh.com
@@ -29039,7 +29045,6 @@ lead-tracking.biz
 leadchampion.com
 leadfeeder.com
 leadintel.io
-leadsmonitor.io
 leadsrx.com
 limbik.io
 livesegmentservice.com
@@ -30924,7 +30929,6 @@ stats.vodpod.com
 stats.webs.com
 stats.webstarts.com
 stats.whicdn.com
-stats.wpmucdn.com
 stats.yme.com
 stats.yourminis.com
 stats.zotabox.com
