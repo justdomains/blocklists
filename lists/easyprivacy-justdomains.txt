@@ -1606,6 +1606,7 @@ pdbu.net
 peep1alea.com
 peerius.com
 pega.com
+pepperjam.com
 percentmobile.com
 perfdrive.com
 perfectaudience.com
@@ -6732,6 +6733,9 @@ eurogamer-uk.eurogamer.net
 gazette-news-gb.gazette-news.co.uk
 h-bid.com
 mdn.neowin.net
+orionis.techradar.com
+rps-p2.rockpapershotgun.com
+rps-uk.rockpapershotgun.com
 sthelensstar-gb.sthelensstar.co.uk
 thenational-gb.thenational.scot
 ttauri.laptopmag.com
