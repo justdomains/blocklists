@@ -347,6 +347,7 @@ bm23.com
 bm324.com
 bmlmedia.com
 bmmetrix.com
+bntech.io
 bookforest.biz
 boomerang.com.au
 boomtrain.com
@@ -5389,6 +5390,7 @@ ctr-iwb.nmg.de
 ctr-opc.nmg.de
 ctr.nmg.de
 d.adrolays.de
+d.finative.eu
 d.nativendo.de
 d.omsnative.de
 data.econa.com
@@ -6900,6 +6902,7 @@ tdf.ringier.ch
 tp.deawm.com
 tr.werkenntwen.de
 track.bazonline.ch
+track.berliner-kurier.de
 track.bernerzeitung.ch
 track.cinestar.de
 track.derbund.ch
@@ -6977,6 +6980,7 @@ analytics.163.com
 analytics.nextmedia.com
 analytics.shop.hisense.com
 analytics.zhihu.com
+anti-bot.baidu.com
 atm.youku.com
 bc.qunar.com
 bdwblog.eastmoney.com
