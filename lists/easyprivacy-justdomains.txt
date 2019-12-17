@@ -475,6 +475,7 @@ clickdensity.com
 clickdimensions.com
 clickening.com
 clickforensics.com
+clickguard.com
 clickguardian.co.uk
 clickigniter.io
 clickinc.com
@@ -4449,6 +4450,7 @@ collector.apester.com
 collector.automote.co.nz
 collector.contentexchange.me
 collector.leaddyno.com
+collector.mazeberry.com
 collector.nextguide.tv
 collector.roistat.com
 collector.snplow.net
@@ -4705,6 +4707,7 @@ geo.ertya.com
 geo.gorillanation.com
 geo.kontagent.net
 geo.ltassrv.com
+geo.mezr.com
 geo.q5media.net
 geobar.ziffdavisinternational.com
 geoip.nekudo.com
@@ -6745,7 +6748,14 @@ ttauri.tomsguide.com
 ttauri.tomshardware.com
 worcesternews-gb.worcesternews.co.uk
 yourlocalguardian-gb.yourlocalguardian.co.uk
+0sbm.consobaby.co.uk
+319dn.dieti-natura.com
+6ddc.tartine-et-chocolat.com
 6pal.consobaby.com
+7lbd4.armandthiery.fr
+7mx.eider.com
+913nd.dieti-natura.es
+a8ht.hipp.fr
 ch0p.darty.com
 cse3.chausport.com
 dt.nrjmobile.fr
@@ -6755,6 +6765,7 @@ ea.celio.com
 ea.ciblo.net
 ea.clubic.com
 ea.deguisetoi.fr
+ea.diamant-unique.com
 ea.fleurancenature.fr
 ea.greenweez.com
 ea.habitat.fr
