@@ -3710,7 +3710,6 @@ lndata.com
 logly.co.jp
 mediav.com
 miaozhen.com
-mmstat.com
 oadz.com
 p0y.cn
 phpstat.com
