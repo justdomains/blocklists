@@ -220,6 +220,7 @@ appboycdn.com
 appn.center
 aprtn.com
 aprtx.com
+apxy.io
 aqtracker.com
 arcadeweb.com
 arch-nicto.com
@@ -902,6 +903,7 @@ fsd2.digital
 fshka.com
 fstrk.net
 ftbpro.com
+ftz.io
 fueldeck.com
 fuelx.com
 fugetech.com
@@ -1268,6 +1270,7 @@ linkpulse.com
 linksynergy.com
 linkxchanger.com
 liod1ours.com
+litix.io
 livecount.fr
 livehit.net
 livesegmentservice.com
@@ -2154,6 +2157,7 @@ td573.com
 tdsrmbl.net
 tdstats.com
 tealiumiq.com
+techtarget.com
 tedioustooth.com
 telemetrytaxonomy.net
 telize.com
@@ -3164,9 +3168,12 @@ consciouscabbage.com
 consciouschairs.com
 coordinatedcub.com
 copycarpenter.com
+cosmosjackson.com
+critictruck.com
 cubchannel.com
 culturedcrayon.com
 damdoor.com
+decisivedrawer.com
 delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
@@ -3176,6 +3183,7 @@ falseframe.com
 familiarfloor.com
 familiarrod.com
 farmergoldfish.com
+farshake.com
 faultycanvas.com
 fearfulflag.com
 flakyfeast.com
@@ -3186,6 +3194,7 @@ giddycoat.com
 giraffepiano.com
 gorgeousground.com
 greyinstrument.com
+guiltlessbasketball.com
 gulliblecamp.com
 hammerhearing.com
 hilariouszinc.com
@@ -3210,6 +3219,7 @@ neighborlywatch.com
 nervoussummer.com
 parcelcreature.com
 parsimoniouspolice.com
+partplanes.com
 pedropanther.com
 penspade.com
 perceivequarter.com
@@ -3263,8 +3273,10 @@ typicalteeth.com
 ubiquitousyard.com
 unarmedindustry.com
 unbecominghall.com
+unequalbrake.com
 untidyrice.com
 womanear.com
+zlp6s.pw
 123-counter.de
 12mnkys.com
 24log.de
@@ -4281,6 +4293,7 @@ analytics.groupe-seb.com
 analytics.gvim.mobi
 analytics.hosting24.com
 analytics.hpprintx.com
+analytics.inform.com
 analytics.kaltura.com
 analytics.kapost.com
 analytics.live.com
@@ -4359,6 +4372,7 @@ backstage.funnelenvy.com
 barium.cheezdev.com
 basilic.netdna-cdn.com
 bat.bing.com
+beacon-v2.helpscout.net
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.errorception.com
@@ -4620,6 +4634,7 @@ deepknow.egoid.me
 demandmedia.s3.amazonaws.com
 detect.ergebnis-dienst.de
 dfanalytics.dealerfire.com
+diagnose.igstatic.com
 dirt.dennis.co.uk
 distillery.wistia.com
 djibeacon.djns.com
@@ -5263,6 +5278,7 @@ tracking.i-click.com.hk
 tracking.interweave.com
 tracking.jotform.com
 tracking.keywee.co
+tracking.leadlander.com
 tracking.legacyoffers.com
 tracking.lengow.com
 tracking.listhub.net
@@ -6162,6 +6178,7 @@ loggly.cheatsheet.com
 loglady.publicbroadcasting.net
 logs.dashlane.com
 logs.gaana.com
+logs.hotstar.com
 lsam.research.microsoft.com
 lslmetrics.djlmgdigital.com
 marketing.alibaba.com
@@ -6769,9 +6786,11 @@ ea.fleurancenature.fr
 ea.greenweez.com
 ea.habitat.fr
 ea.histoiredor.com
+ea.hofmann.es
 ea.hofmann.pt
 ea.homair.com
 ea.jeuxvideopc.com
+ea.kauf-unique.at
 ea.lafrancedunordausud.fr
 ea.lexpress.fr
 ea.melijoe.com
@@ -6959,6 +6978,7 @@ dm.journaldunet.com
 dm.linternaute.com
 elr.sfr.fr
 eultech.fnac.com
+events.guesttoguest.com
 g.itespresso.fr
 gstat.orange.fr
 hit.leboncoin.fr
@@ -6972,8 +6992,11 @@ sa.tf1.fr
 secure-stat.canal-plus.com
 stat.ouedkniss.com
 stat.webevolutis.com
+stats.grafikart.fr
 stats1x1.kapaza.be
+t.blablacar.com
 tag.boulanger.fr
+tc.hometogo.net
 track.24heures.ch
 tracker-id.cdiscount.com
 tracker.cds-tracking.com
