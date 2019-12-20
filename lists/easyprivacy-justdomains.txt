@@ -3626,6 +3626,7 @@ compteur.com
 compteur.org
 count.fr
 countus.fr
+d-bi.fr
 datado.me
 datadome.co
 deliv.lexpress.fr
@@ -3645,6 +3646,7 @@ goyavelab.com
 graphinsider.com
 hunkal.com
 ivitrack.com
+kdata.fr
 lead-analytics.biz
 leadium.com
 libstat.com
@@ -4766,6 +4768,7 @@ insights.plista.com
 insitez.blob.core.windows.net
 intelligence.dgmsearchlab.com
 invitejs.trustpilot.com
+ipapi.tmbi.com
 irqs.ioam.de
 itracking.fccinteractive.com
 javascriptcounter.appspot.com
@@ -6806,12 +6809,15 @@ ea.vente-unique.ch
 ea.vente-unique.com
 ea.warnerbros.fr
 ef.futuroscope.com
+ek8.voyage-prive.com
 et.unclejeans.com
 eulerian.brandalley.fr
+eulerian.madeindesign.com
 eulerian.mathon.fr
 eulerian.sarenza.com
 eulerian.splendia.com
 eultech.fnac.com
+exd4.destinia.com.au
 f7ds.liberation.fr
 fsz1.francoisesaget.com
 gdm1.toner.fr
@@ -6840,7 +6846,11 @@ vgo.vegaoo.de
 vgo.vegaoo.es
 vgo.vegaoo.nl
 vgo.vegaooparty.com
+vnf4.belleetbio.com
+vnl1.voyage-prive.nl
+vpf4.euskaltelofertas.com
 vry9.destinia.com
+vtf2f.banque-casino.fr
 we.wecanimal.pt
 xy33.smallable.com
 yoc.younited-credit.com
@@ -6848,7 +6858,6 @@ cdn1.pebx.pl
 de-mi-nis-ner2.info
 piti.bplaced.net
 play.estream.to
-worker.salon.com
 event-analytics.yesware.com
 abakus.freenet.de
 ac.berlinonline.de
