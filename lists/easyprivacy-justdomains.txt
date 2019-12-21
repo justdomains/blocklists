@@ -4374,7 +4374,6 @@ backstage.funnelenvy.com
 barium.cheezdev.com
 basilic.netdna-cdn.com
 bat.bing.com
-beacon-v2.helpscout.net
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.errorception.com
