@@ -1045,7 +1045,6 @@ hotlog.ru
 hqhrt.com
 hs-analytics.net
 hsadspixel.net
-hscta.net
 hubvisor.io
 hudb.pl
 humanclick.com
@@ -6155,6 +6154,7 @@ live-audience.dailymotion.com
 live.philips.com
 loc.rediff.com
 localads-statistics.maps.me
+location.bloomberg.com
 log.china.cn
 log.data.disney.com
 log.deutschegrammophon.com
