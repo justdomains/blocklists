@@ -3634,6 +3634,8 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
+a.breaktime.com.tw
+power.adhacker.online
 a.tyncar.com
 og.zyzjpx.cn
 x.dmouy.cn
@@ -8476,6 +8478,7 @@ bimlocal.com
 bin-layer.de
 bin-layer.ru
 binaryoptionssystems.org
+binchoise.ml
 bingo4affiliates.com
 binlayer.com
 binlayer.de
@@ -24304,6 +24307,9 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+counter.pixplug.in
+referer.pixplug.in
+visitor.pixplug.in
 collector.mazeberry.com
 email-reflex.com
 tracker.azet.sk
@@ -27415,7 +27421,6 @@ pixel.4pcdn.de
 lexip.4pcdn.de
 pebed.dm-event.net
 pixelappcollector.thesun.co.uk
-counter.pixplug.in
 analytics.webgains.io
 candac.iridion.de
 cunda.prudsys-rde.de
