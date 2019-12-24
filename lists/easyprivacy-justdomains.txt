@@ -3796,8 +3796,8 @@ traffic4u.nl
 counter.ok.ee
 mediaindex.ee
 gallupnet.fi
-leiki.com
 kavijaseuranta.fi
+leiki.com
 m-brain.fi
 netmonitor.fi
 stat.www.fi
@@ -5180,6 +5180,7 @@ tr.webantenna.info
 tr1.mailperformance.com
 tra.pmdstatic.net
 tra.scds.pmdstatic.net
+traccoon.intellectsoft.net
 trace.qq.com
 track.99acres.com
 track.addevent.com
@@ -6189,6 +6190,7 @@ marketing.dropbox.com
 marketing.kalahari.net
 marketing.nodesource.com
 mcdp-sadc1.outbrain.com
+measure.office.com
 merlin.abc.go.com
 metric-agent.i10c.net
 metric.inetcore.com
@@ -7018,6 +7020,7 @@ adgeo.163.com
 al.autohome.com.cn
 analy.qq.com
 analyse.weather.com.cn
+analytics.126.net
 analytics.163.com
 analytics.nextmedia.com
 analytics.shop.hisense.com
@@ -7131,6 +7134,7 @@ webclick.yeshj.com
 webstat.kuwo.cn
 wl.jd.com
 zhihu-web-analytics.zhihu.com
+zz.bdstatic.com
 stat.novinky.cz
 analytics.rambla.be
 logs.ggweb.nl
