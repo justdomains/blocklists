@@ -4738,6 +4738,7 @@ green-griffin-860.appspot.com
 gsp1.baidu.com
 gtrk.s3.amazonaws.com
 gu-pix.appspot.com
+happen.spkt.io
 harvester.ext.square-enix-europe.com
 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 heals.msgfocus.com
@@ -4762,6 +4763,7 @@ impress.vcita.com
 infinityid.condenastdigital.com
 informer.yandex.ru
 insight.mintel.com
+insight.rapid7.com
 insights.gravity.com
 insights.plista.com
 insitez.blob.core.windows.net
@@ -6126,6 +6128,7 @@ hermes.theglobeandmail.com
 hitcount.heraldm.com
 hitweb2.chosun.com
 hrum.hotelsapi.io
+i.pokernews.com
 ibeat.indiatimes.com
 ibs.indiatimes.com
 id.allegisgroup.com
@@ -6569,6 +6572,7 @@ t.blinkist.com
 t.cinemablend.com
 t.dailymail.co.uk
 t.eharmony.com
+t.freelancer.com
 t.indeed.com
 t.kck.st
 t.my.jobs
