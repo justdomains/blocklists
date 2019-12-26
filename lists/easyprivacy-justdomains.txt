@@ -696,7 +696,6 @@ dtxngr.com
 dummy-domain-do-not-change.com
 dwin1.com
 dwin2.com
-dynamicyield.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -3896,6 +3895,8 @@ ebis.ne.jp
 ec-concier.com
 ec-optimizer.com
 eco-tag.jp
+f-counter.jp
+f-counter.net
 genieedmp.com
 genieessp.jp
 gmodmp.jp
@@ -3921,6 +3922,7 @@ pagoda56.com
 pdmp.jp
 polymorphicads.jp
 r-ad.ne.jp
+rays-counter.com
 rentracks.jp
 research-artisan.com
 rtoaster.jp
@@ -5350,6 +5352,7 @@ upt.graphiq.com
 urc.taboolasyndication.com
 userlog.synapseip.tv
 usersegment.wpdigital.net
+v.shopify.com
 vertical-stats.huffpost.com
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
@@ -5571,6 +5574,7 @@ look.urs.tw
 msg.71.am
 n.yunshipei.com
 p.aty.sohu.com
+p.tencentmind.com
 pos.baidu.com
 pv.hd.sohu.com
 pv.sohu.com
@@ -5687,6 +5691,7 @@ rcm.shinobi.jp
 speee-ad.akamaized.net
 sync.shinobi.jp
 torimochi.line-apps.com
+track.thebase.in
 trck.dlpo.jp
 userdive.com
 webtracker.jp
@@ -7184,6 +7189,7 @@ pw.gigazine.net
 scis.tbs.co.jp
 sy.amebame.com
 sy.ameblo.jp
+tr.api.itmedia.jp
 visit.geocities.jp
 wisteria-js.excite.co.jp
 x.allabout.co.jp
