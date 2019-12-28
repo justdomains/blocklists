@@ -3177,6 +3177,7 @@ desiredirt.com
 detectdiscovery.com
 diplomahawaii.com
 ejyymghi.com
+fadedsnow.com
 falseframe.com
 familiarfloor.com
 familiarrod.com
@@ -3244,7 +3245,9 @@ shallowschool.com
 sharppatch.com
 shelterstraw.com
 shermore.info
+shyseed.com
 sicksmash.com
+smashsurprise.com
 sombersurprise.com
 sortsummer.com
 spiffymachine.com
@@ -5886,6 +5889,7 @@ analytics.kaggle.io
 analytics.localytics.com
 analytics.meaww.com
 analytics.mindjolt.com
+analytics.mouthshut.com
 analytics.newsinc.com
 analytics.ngfiles.com
 analytics.plex.tv
@@ -6848,6 +6852,7 @@ sls2.loisirsencheres.com
 tdf1.admyjob.com
 tpa7.iahorro.com
 tsj0.madeindesign.com
+upz1.destinia.lt
 uue2.destinia.ir
 vbe.voyage-prive.be
 vch.voyage-prive.ch
@@ -6863,6 +6868,9 @@ vpf4.euskaltelofertas.com
 vry9.destinia.com
 vtf2f.banque-casino.fr
 we.wecanimal.pt
+wph2.destinia.us
+xay5o.toscane-boutique.fr
+xfn6.monaco.edu
 xy33.smallable.com
 yoc.younited-credit.com
 cdn1.pebx.pl
