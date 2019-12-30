@@ -6099,6 +6099,7 @@ ganon.yahoo.com
 gc.newsweek.com
 gcpdata.telegraph.co.uk
 gekko.spiceworks.com
+geo.battle.net
 geo.hltv.org
 geo.homepage-web.com
 geo.metronews.ca
@@ -7015,7 +7016,6 @@ logs-qos.tf1.fr
 p.pagesjaunes.fr
 pam.nextinpact.com
 pwa.telephoneannuaire.fr
-r.orange.fr
 sa.tf1.fr
 secure-stat.canal-plus.com
 stat.ouedkniss.com
