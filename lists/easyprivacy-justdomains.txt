@@ -3931,6 +3931,7 @@ research-artisan.com
 rtoaster.jp
 seesaa.jp
 sibulla.com
+smart-counter.net
 smartnews-ads.com
 socdm.com
 speee-ad.jp
@@ -7149,6 +7150,7 @@ utrack.hexun.com
 vatrack.hinet.net
 webclick.yeshj.com
 webstat.kuwo.cn
+wkctj.baidu.com
 wl.jd.com
 zhihu-web-analytics.zhihu.com
 zz.bdstatic.com
