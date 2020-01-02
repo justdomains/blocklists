@@ -679,4 +679,8 @@ s100.hostcontent.live
 s11.hostcontent.live
 s12.hostcontent.live
 s13.hostcontent.live
+binarybusiness.de
 bitcoin-pay.eu
+cloud-miner.de
+cloud-miner.eu
+easyhash.de

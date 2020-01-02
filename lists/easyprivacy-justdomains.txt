@@ -313,6 +313,7 @@ bettermetrics.co
 beusable.net
 bfmio.com
 bfoleyinteractive.com
+bgpng.me
 bidr.io
 bidswitch.net
 bigcattracks.com
@@ -2025,6 +2026,7 @@ sometrics.com
 sophi.io
 sophus3.com
 soska.us
+sp-prod.net
 spamanalyst.com
 spectate.com
 speed-trap.com
@@ -2542,6 +2544,7 @@ yaudience.com
 ybotvisit.com
 ycctrk.co.uk
 yellowbrix.com
+yext-pixel.com
 ygsm.com
 yieldbot.com
 yieldify.com
