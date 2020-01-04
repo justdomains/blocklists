@@ -476,6 +476,7 @@ clickconversion.net
 clickdensity.com
 clickdimensions.com
 clickening.com
+clickferret.com
 clickforensics.com
 clickguard.com
 clickguardian.co.uk
@@ -1576,6 +1577,7 @@ optimost.com
 optin-machine.com
 optorb.com
 optreadetrus.info
+oracleinfinity.io
 oranges88.com
 orcapia.com
 oribi.io
@@ -1834,6 +1836,7 @@ rnengage.com
 rng-snp-003.com
 rnlabs.com
 rockincontent.net
+roeye.com
 roi-pro.com
 roi-rocket.net
 roia.biz
@@ -4377,6 +4380,7 @@ audit.median.hu
 awaps.yandex.net
 awseukpi.whisbi.com
 axislogger.appspot.com
+az693360.vo.msecnd.net
 b-aws.aol.com
 b.bedop.com
 bab.frb.io
@@ -4393,6 +4397,7 @@ beacon.guim.co.uk
 beacon.heliumnetwork.com
 beacon.indieclick.com
 beacon.livefyre.com
+beacon.nrholding.net
 beacon.richrelevance.com
 beacon.riskified.com
 beacon.rum.dynapis.com
@@ -5013,6 +5018,8 @@ roitrack.addlvr.com
 rs.sinajs.cn
 rss.tmgrup.com.tr
 rtt.campanja.com
+rum.nccgroup-webperf.com
+rum.uptime.com
 rva.outbrain.com
 s-vop.sundaysky.com
 s.clickability.com
@@ -5046,6 +5053,7 @@ stas.outbrain.com
 stat.boredomtherapy.com
 stat.easydate.biz
 stat.ed.cupidplc.com
+stat.glaze.ai
 stat.itp-nyc.com
 stat.mixi.media
 stat.php-d.com
@@ -5144,6 +5152,7 @@ t.bimvid.com
 t.brand-server.com
 t.c4tw.net
 t.cfjump.com
+t.clic2buy.com
 t.devnet.com
 t.dgm-au.com
 t.flux.com
@@ -5179,6 +5188,7 @@ te.supportfreecontent.com
 telemetry.reembed.com
 telemetry.soundcloud.com
 thetradedesk-tags.s3.amazonaws.com
+tk.storetail.io
 tl.tradetracker.net
 tm.tradetracker.net
 tm.vendemore.com
@@ -5551,6 +5561,7 @@ tracking.kdata.fr
 tracking.netvigie.com
 trk.adbutter.net
 visitping.rossel.be
+wrapper.lemde.fr
 zebestof.com
 analytics.styria.hr
 analytics.21cn.com
@@ -6584,6 +6595,7 @@ surveys.cnet.com
 t-ak.hulu.com
 t.9gag.com
 t.appsflyer.com
+t.birchlane.com
 t.blinkist.com
 t.cinemablend.com
 t.dailymail.co.uk
@@ -6595,6 +6607,7 @@ t.my.jobs
 t.paypal.com
 t.regionsjob.com
 t.vimeo.com
+t.wayfair.co.uk
 t.wayfair.com
 t2.hulu.com
 t2.huluim.com
@@ -6963,6 +6976,7 @@ stats.bmw.de
 stats.daserste.de
 stats01.20min.ch
 subpixel.4players.de
+t.wayfair.de
 tdf.ringier.ch
 tp.deawm.com
 tr.werkenntwen.de
@@ -7018,7 +7032,9 @@ events.guesttoguest.com
 g.itespresso.fr
 gstat.orange.fr
 hit.leboncoin.fr
+k.rueducommerce.fr
 kbn.korben.info
+lem.nouvelobs.com
 logs-qos.tf1.fr
 p.pagesjaunes.fr
 pam.nextinpact.com
