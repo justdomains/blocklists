@@ -527,9 +527,9 @@ conductrics.com
 config.parsely.com
 confirmational.com
 confirmit.com
+connectif.cloud
 contactmonkey.com
 contemporaryceremonies.ca
-contensis.com
 content-square.net
 content.ad
 contentinsights.com
@@ -1060,7 +1060,6 @@ hyperactivate.com
 hypestat.com
 i-stats.com
 i401xox.com
-iadvize.com
 iaudienc.com
 ib-ibi.com
 ibpxl.com
@@ -1238,6 +1237,7 @@ lead-converter.com
 lead-tracking.biz
 leadboxer.com
 leadchampion.com
+leaddyno.com
 leadfeeder.com
 leadforce1.com
 leadforensics.com
@@ -3667,6 +3667,7 @@ ncdnprorogeraie.lol
 netvigie.com
 organicfruitapps.com
 phywi.org
+pingclock.net
 potterpetrey.com
 reseau-pub.com
 semiocast.com
@@ -4478,7 +4479,6 @@ collector.air.tv
 collector.apester.com
 collector.automote.co.nz
 collector.contentexchange.me
-collector.leaddyno.com
 collector.mazeberry.com
 collector.nextguide.tv
 collector.roistat.com
@@ -6605,6 +6605,7 @@ t.indeed.com
 t.kck.st
 t.my.jobs
 t.paypal.com
+t.perigold.com
 t.regionsjob.com
 t.vimeo.com
 t.wayfair.co.uk
@@ -6792,6 +6793,7 @@ commsvc.stern.de
 eurogamer-uk.eurogamer.net
 gazette-news-gb.gazette-news.co.uk
 h-bid.com
+isgprivacy.cbsi.com
 mdn.neowin.net
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
@@ -7029,6 +7031,7 @@ dm.linternaute.com
 elr.sfr.fr
 eultech.fnac.com
 events.guesttoguest.com
+fsm.lapresse.ca
 g.itespresso.fr
 gstat.orange.fr
 hit.leboncoin.fr
