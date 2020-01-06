@@ -643,6 +643,7 @@ demandbase.com
 departapp.com
 deqwas.net
 devatics.com
+devatics.io
 device9.com
 dgmsearchlab.com
 dhmtracking.co.za
@@ -2068,7 +2069,6 @@ statcounterfree.com
 statcounters.info
 stathat.com
 stathound.com
-staticcache.org
 staticiv.com
 statisfy.net
 statistiche-web.com
