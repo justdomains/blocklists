@@ -816,6 +816,7 @@ ezytrack.com
 f92j5.com
 fabricww.com
 factortg.com
+faktor.io
 fallingfalcon.com
 fandommetrics.com
 fanplayr.com
@@ -1519,6 +1520,7 @@ nr-data.net
 nr7.us
 nrich.ai
 ns1p.net
+ns8ds.com
 nstracking.com
 nuconomy.com
 nuggad.net
@@ -1613,7 +1615,6 @@ pcspeedup.com
 pdbu.net
 peep1alea.com
 peerius.com
-pega.com
 pepperjam.com
 percentmobile.com
 perfdrive.com
@@ -2721,6 +2722,7 @@ coinpot.co
 coinrail.io
 coinwebmining.com
 coinwire.eu
+coinzillatag.com
 cookiescript.info
 cpu2cash.link
 cpufan.club
@@ -2826,6 +2828,7 @@ hodling.faith
 hodling.party
 hodling.science
 host.d-ns.ga
+hostcontent.live
 hostingcloud.accountant
 hrfziiddxa.ru
 httpp.gdn
@@ -3085,7 +3088,6 @@ turnsocial.com
 ue696vbd9l.bid
 ugmfvqsu.ru
 ukp2pool.uk
-unlock-protocol.com
 unrummaged.com
 uoldid.ru
 uoldid.ru
@@ -5141,6 +5143,7 @@ statsdev.treesd.com
 statsrv.451.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
+sts.eccmp.com
 su.addthis.com
 survey.interquest.com
 surveywall-api.survata.com
@@ -5278,6 +5281,7 @@ tracker.streamroot.io
 tracker.timesgroup.com
 tracker.u-link.me
 tracker.vreveal.com
+tracker.wpserveur.net
 tracker2.apollo-mail.net
 trackerapi.truste.com
 trackicollect.ibase.fr
