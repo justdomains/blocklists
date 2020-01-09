@@ -195,6 +195,7 @@ analysistools.net
 analytics-egain.com
 analytics-engine.net
 analyticschecker.com
+analyticson.com
 analyticswizard.com
 analytk.com
 anametrix.com
@@ -424,6 +425,7 @@ castelein.nu
 cbtrk.net
 cccpmo.com
 ccgateway.net
+ccscserver.com
 cdn-analytics.pl
 cdn-net.com
 cdnanalytics.xyz
@@ -1585,6 +1587,7 @@ oranges88.com
 orcapia.com
 oribi.io
 os-data.com
+osdata.solutions
 ositracker.com
 ospserver.net
 otoshiana.com
@@ -2422,6 +2425,7 @@ visualdna-stats.com
 visualdna.com
 visualrevenue.com
 visualwebsiteoptimizer.com
+visx.net
 vivocha.com
 vizisense.net
 vizury.com
@@ -3890,6 +3894,7 @@ webtraffstats.net
 whoseesyou.com
 wstatslive.com
 zt-dst.com
+accesstrade.net
 admatrix.jp
 aid-ad.jp
 amoad.com
@@ -3902,6 +3907,7 @@ ca-mpr.jp
 cetlog.jp
 cosmi.io
 d-markets.net
+d2-apps.net
 deteql.net
 digitiminimi.com
 e-kaiseki.com
@@ -3985,12 +3991,14 @@ de17a.com
 trafikkfondet.no
 webstat.no
 xtractor.no
+amarfa.ir
 melatstat.com
 persianstat.com
 persianstat.ir
 tinystat.ir
 webgozar.com
 webgozar.ir
+yektanet.com
 adschoom.com
 adstat.4u.pl
 caanalytics.com
@@ -5059,6 +5067,7 @@ stat.ed.cupidplc.com
 stat.glaze.ai
 stat.itp-nyc.com
 stat.mixi.media
+stat.moevideo.net
 stat.php-d.com
 stat.pladform.ru
 stat.segitek.hu
@@ -5535,6 +5544,7 @@ affiliation.planethoster.info
 analytics.freespee.com
 analytics.grupogodo.com
 analytics.ladmedia.fr
+analytics.valiuz.com
 audience.acpm.fr
 bbtrack.net
 btstats.devtribu.fr
@@ -5786,6 +5796,7 @@ counter.tovarro.com
 counter.wapstart.ru
 crm-analytics.imweb.ru
 error.videonow.ru
+g4p.redtram.com
 hubrus.com
 mediator.mail.ru
 metrics.aviasales.ru
@@ -6037,6 +6048,7 @@ collector.tescocompare.com
 collector.trendmd.com
 collector.wallapop.com
 comms-web-tracking.uswitchinternal.com
+compare.liligo.com
 confirm-referer.glrsales.com
 contadores.bolsamania.com
 coolertracks.emailroi.com
@@ -6812,6 +6824,7 @@ worcesternews-gb.worcesternews.co.uk
 yourlocalguardian-gb.yourlocalguardian.co.uk
 0sbm.consobaby.co.uk
 319dn.dieti-natura.com
+5ijo.01net.com
 6ddc.tartine-et-chocolat.com
 6pal.consobaby.com
 7lbd4.armandthiery.fr
@@ -6870,6 +6883,7 @@ mva1.maeva.com
 ncx2.voyage-prive.it
 netc.sfr.fr
 noa0.compteczam.fr
+nrg.red-by-sfr.fr
 oal2.destinia.co.uk
 ojm4.palladiumhotelgroup.com
 pbox.photobox.de
@@ -6985,6 +6999,7 @@ stats01.20min.ch
 subpixel.4players.de
 t.wayfair.de
 tdf.ringier.ch
+te.mytoys.de
 tp.deawm.com
 tr.werkenntwen.de
 track.bazonline.ch
@@ -7027,6 +7042,7 @@ analytics.rtbf.be
 buf.lemonde.fr
 c0011.boursorama.com
 cfcn.allocine.net
+clk.boulanger.com
 compteur.developpez.com
 dm.commentcamarche.net
 dm.hugolescargot.com
@@ -7056,6 +7072,7 @@ stats1x1.kapaza.be
 t.blablacar.com
 tag.boulanger.fr
 tc.hometogo.net
+tdep.vacansoleil.fr
 track.24heures.ch
 tracker-id.cdiscount.com
 tracker.cds-tracking.com
