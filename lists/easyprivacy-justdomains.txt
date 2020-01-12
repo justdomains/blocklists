@@ -1068,7 +1068,6 @@ invoca.solutions
 iocnt.net
 ionmvdpifz.com
 iotechnologies.com
-ip-api.com
 ip-label.net
 ip2location.com
 ip2map.com
@@ -3149,6 +3148,7 @@ stetic.com
 suchmaschinen-ranking-hits.de
 sunios.de
 t4ft.de
+tagtool.de
 tamedia.ch
 tausch-link.de
 tda.io
@@ -3608,6 +3608,7 @@ stat.pl
 tagcdn.com
 volvelle.tech
 way2traffic.com
+x-link.pl
 ad5track.com
 cifraclub.com.br
 clearsale.com.br
@@ -5355,6 +5356,7 @@ analytics.posttv.com
 analytics.productreview.com.au
 analytics.schoolwires.com
 analytics.shorte.st
+analytics.sketchup.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.socialblade.com
@@ -5538,6 +5540,7 @@ geoip.pennlive.com
 geoip.silive.com
 geoip.syracuse.com
 geoip.viamichelin.com
+gj.mmstat.com
 glassmoni.researchgate.net
 glean.pop6.com
 gmonitor.aliimg.com
@@ -5662,6 +5665,7 @@ omni.nine.com.au
 omniture.stuff.co.nz
 omniture.theglobeandmail.com
 oms.expedia.com
+oneid.mmstat.com
 open.mkt1397.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
@@ -6421,6 +6425,7 @@ secure-stat.canal-plus.com
 stat.ouedkniss.com
 stat.webevolutis.com
 stats.grafikart.fr
+stats.sexemodel.com
 stats1x1.kapaza.be
 t.blablacar.com
 tag.boulanger.fr
@@ -6442,6 +6447,7 @@ analytics.163.com
 analytics.shop.hisense.com
 analytics.zhihu.com
 anti-bot.baidu.com
+atm.youku.com
 bc.qunar.com
 bdwblog.eastmoney.com
 bglog.bitauto.com
@@ -6686,3 +6692,4 @@ counter.ukr.net
 hit.meta.ua
 target.ukr.net
 logsbin.dantri.com.vn
+ktracker.kumparan.com
