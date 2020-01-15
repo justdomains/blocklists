@@ -5530,6 +5530,7 @@ pictures.zooplus.com
 ping.buto.tv
 ping.hungama.com
 ping.tvmaze.com
+pingback.giphy.com
 pingback.issuu.com
 pings.blip.tv
 pipeline.realtime.active.com
@@ -6407,6 +6408,7 @@ log.ren.tv
 montblanc.lenta.ru
 radar.imgsmail.ru
 stat.api.2gis.ru
+stat.bankiros.ru
 stat.pravmir.ru
 stat.russianfood.com
 stat.stars.ru
