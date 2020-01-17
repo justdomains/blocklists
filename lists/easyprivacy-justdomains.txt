@@ -1798,6 +1798,7 @@ seewhy.com
 segmentify.com
 selaris.com
 sellebrity.com
+sellpoint.net
 sellpoints.com
 semantic-finder.com
 semanticverses.com
@@ -3596,7 +3597,6 @@ stat.pl
 tagcdn.com
 volvelle.tech
 way2traffic.com
-x-link.pl
 ad5track.com
 cifraclub.com.br
 clearsale.com.br
@@ -5347,6 +5347,7 @@ f.staticlp.com
 fast.forbes.com
 fathom.hakibenita.com
 felitb.rightinthebox.com
+firebaselogging.googleapis.com
 fresh.techdirt.com
 frog.wix.com
 funn.graphiq.com
@@ -5956,6 +5957,7 @@ mdn.neowin.net
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
+sourcepoint.vice.com
 sthelensstar-gb.sthelensstar.co.uk
 thenational-gb.thenational.scot
 ttauri.laptopmag.com
