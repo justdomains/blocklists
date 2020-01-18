@@ -801,7 +801,6 @@ flcounter.com
 flix360.com
 flixfacts.co.uk
 flixsyndication.net
-fluctuo.com
 fluencymedia.com
 fluidsurveys.com
 flx1.com
@@ -5173,7 +5172,6 @@ alb.reddit.com
 als-svc.nytimes.com
 analytic.imlive.com
 analytics.adfreetime.com
-analytics.amplitude.com
 analytics.archive.org
 analytics.bloomberg.com
 analytics.brave.com
