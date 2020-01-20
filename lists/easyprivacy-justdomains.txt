@@ -3467,6 +3467,7 @@ wstatslive.com
 zt-dst.com
 accesstrade.net
 admatrix.jp
+af-z.jp
 aid-ad.jp
 amoad.com
 analyticsip.net
@@ -3485,6 +3486,7 @@ ebis.ne.jp
 ec-concier.com
 ec-optimizer.com
 eco-tag.jp
+eltex.co.jp
 f-counter.jp
 f-counter.net
 genieedmp.com
@@ -3499,6 +3501,7 @@ im-apps.net
 iogous.com
 keyword-match.com
 kir.jp
+letro.jp
 macromill.com
 marsflag.com
 mobylog.jp
@@ -3915,7 +3918,6 @@ analyticsengine.s3.amazonaws.com
 analyze.full-marke.com
 ape-tagit.timeinc.net
 api.wipmania.com
-apollo-ireland.akamaized.net
 app.link
 apple.www.letv.com
 ariane.abtasty.com
@@ -4963,6 +4965,7 @@ tracks.arubamediamarketing.it
 tracy.sadv.dadapro.com
 vppst.iltrovatore.it
 analysis.shinobi.jp
+analytics.liveact.cri-mw.jp
 analyzer51.fc2.com
 asumi.shinobi.jp
 clickanalyzer.jp
@@ -5885,7 +5888,6 @@ commsvc.stern.de
 eurogamer-uk.eurogamer.net
 gazette-news-gb.gazette-news.co.uk
 h-bid.com
-isgprivacy.cbsi.com
 mdn.neowin.net
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
