@@ -573,6 +573,7 @@ dailycaller-alerts.com
 dapxl.com
 dashboard.io
 data-analytics.jp
+data-dynamic.net
 databrain.com
 datacaciques.com
 datacoral.com
@@ -638,6 +639,7 @@ dojomojo.com
 dojomojo.ninja
 dominocounter.net
 domodomain.com
+dotaki.com
 dotomi.com
 doubleverify.com
 dpbolvw.net
@@ -2476,6 +2478,7 @@ bestsecurepractice.com
 bewaslac.com
 biberukalap.com
 binarybusiness.de
+binarybusiness.de
 bitclub.network
 bitclubnetwork.com
 bitcoin-pay.eu
@@ -2495,6 +2498,8 @@ cfcdist.loan
 chmproxy.bid
 clgserv.pro
 clod.pw
+cloud-miner.de
+cloud-miner.eu
 cloudcdn.gdn
 cloudcoins.co
 cloudflane.com
@@ -2543,6 +2548,7 @@ deepc.cc
 devphp.org.ua
 directprimal.com
 dzizsih.ru
+easyhash.de
 easyhash.io
 encoding.ovh
 etacontent.com
@@ -3889,6 +3895,7 @@ analytics.radiatemedia.com
 analytics.recruitics.com
 analytics.reyrey.net
 analytics.rogersmedia.com
+analytics.salesanalytics.io
 analytics.shareaholic.com
 analytics.sitewit.com
 analytics.sleeknote.com
@@ -4011,6 +4018,7 @@ cnt.mastorage.net
 cod.bitrec.com
 collect.igodigital.com
 collect.rewardstyle.com
+collect.usefathom.com
 collector-api.99designs.com
 collector.automote.co.nz
 collector.contentexchange.me
@@ -5099,6 +5107,7 @@ hit.dogannet.tv
 st.tmgrup.com.tr
 counter.opinion.com.ua
 informers.sinoptik.ua
+analytics.yomedia.vn
 aa.avvo.com
 aax-us-iad.amazon.com
 abeagle-public.buzzfeed.com
@@ -5950,7 +5959,6 @@ eulerian.mathon.fr
 eulerian.sarenza.com
 eulerian.splendia.com
 eultech.fnac.com
-eur2.otcdn.com
 eur3.mvjcdn.com
 exd4.destinia.com.au
 f7ds.liberation.fr
@@ -5972,7 +5980,22 @@ pgt1.voyage-prive.es
 po.ponant.com
 ski1.skiset.com
 sls2.loisirsencheres.com
+ssrlot.lotoquebec.com
+sykc.madeindesign.ch
+t.locasun.de
+t.locasun.es
+t.locasun.fr
+t.locasun.it
+t.locasun.nl
 tdf1.admyjob.com
+tdf1.easyviaggio.com
+tdf1.easyviajar.com
+tdf1.easyvols.fr
+tdf1.easyvoyage.co.uk
+tdf1.easyvoyage.com
+tdf1.easyvoyage.de
+tdf1.laredoute.fr
+tdf1.vente-unique.pt
 tlp5.mimale.com
 tpa7.iahorro.com
 tracking.3ds.com
@@ -6137,6 +6160,7 @@ logs-qos.tf1.fr
 p.pagesjaunes.fr
 pam.nextinpact.com
 pwa.telephoneannuaire.fr
+rdtdlv.laredoute.fr
 sa.tf1.fr
 secure-stat.canal-plus.com
 stat.ouedkniss.com
@@ -6148,6 +6172,7 @@ t.blablacar.com
 tag.boulanger.fr
 tc.hometogo.net
 tdep.vacansoleil.fr
+tesla.oscaro.com
 track.24heures.ch
 tracker-id.cdiscount.com
 tracker.cds-tracking.com
