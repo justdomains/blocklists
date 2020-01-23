@@ -1465,6 +1465,7 @@ omniconvert.com
 onaudience.com
 ondu.ru
 onefeed.co.uk
+oneimpress.io
 onelink-translations.com
 onestat.com
 onetag-sys.com
@@ -2895,7 +2896,6 @@ sombersurprise.com
 sortsummer.com
 spiffymachine.com
 spottednoise.com
-spottysense.com
 spurioussteam.com
 squeakzinc.com
 squirrelhands.com
@@ -4576,6 +4576,7 @@ tm.tradetracker.net
 tm.vendemore.com
 top-fwz1.mail.ru
 tower.moviepilot.com
+tpx.tesseradigital.com
 tr.cloud-media.fr
 tr.connatix.com
 tr.interlake.net
@@ -4972,6 +4973,7 @@ tracking.trovaprezzi.it
 tracks.arubamediamarketing.it
 tracy.sadv.dadapro.com
 vppst.iltrovatore.it
+ad-beacon-v01.uliza.jp
 analysis.shinobi.jp
 analytics.liveact.cri-mw.jp
 analyzer51.fc2.com
@@ -4983,6 +4985,7 @@ ip2c.landscape.co.jp
 kitchen.juicer.cc
 l.popin.cc
 lcs.livedoor.net
+log.codemarketing.cloud
 log.nordot.jp
 omt.shinobi.jp
 rcm.shinobi.jp
