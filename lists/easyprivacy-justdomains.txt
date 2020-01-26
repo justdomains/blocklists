@@ -876,6 +876,7 @@ geoip-db.com
 geojs.io
 geolid.com
 georiot.com
+geotargetly-1a441.appspot.com
 getbackstory.com
 getblueshift.com
 getclicky.com
