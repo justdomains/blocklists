@@ -1453,7 +1453,6 @@ odoscope.com
 offermatica.com
 offerpoint.net
 offerstrategy.com
-og4.me
 ogt.jp
 ohmystats.com
 oidah.com
@@ -1660,7 +1659,6 @@ rapidcounter.com
 rapidstats.net
 rapidtrk.net
 rating.in
-reach5.net
 reachforce.com
 reachsocket.com
 reactful.com
@@ -4959,6 +4957,7 @@ click.kataweb.it
 counter.ksm.it
 counter2.condenast.it
 d32hwlnfiv2gyn.cloudfront.net
+dmpcdn.el-mundo.net
 encoderfarmstatsnew.servicebus.windows.net
 evnt.iol.it
 fb_servpub-a.akamaihd.net
@@ -5184,6 +5183,7 @@ analytics.shorte.st
 analytics.sketchup.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
+analytics.smallpdf.com
 analytics.socialblade.com
 analytics.sportybet.com
 analytics.teespring.com
@@ -6224,6 +6224,7 @@ pwa.telephoneannuaire.fr
 rdtdlv.laredoute.fr
 sa.tf1.fr
 secure-stat.canal-plus.com
+sgmnt.ticketswap.com
 stat.ouedkniss.com
 stat.webevolutis.com
 stats.grafikart.fr
