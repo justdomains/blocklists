@@ -269,6 +269,7 @@ basicstat.com
 basilic.io
 baynote.net
 baztrack.com
+bc0a.com
 bdash-cloud.com
 beacon.kmi-us.com
 beaconstreetservices.com
@@ -345,7 +346,6 @@ brandlock.io
 brat-online.ro
 brcdn.com
 bridgevine.com
-brightedge.com
 brightfunnel.com
 brilig.com
 bronto.com
@@ -1114,6 +1114,7 @@ izearanks.com
 janrain.xyz
 jdoqocy.com
 jirafe.com
+jixie.io
 jscounter.com
 jstracker.com
 jump-time.net
@@ -1220,6 +1221,7 @@ logdy.com
 logentries.com
 logger.pw
 loggly.com
+loginfra.com
 logmatic.io
 lognormal.net
 logrocket.com
@@ -2195,6 +2197,7 @@ txmoadserver.net
 tynt.com
 tyxo.com
 tz284.com
+u-on.eu
 u5c93.com
 u5e.com
 uadx.com
@@ -2790,6 +2793,7 @@ zminer.zaloapp.com
 6ldu6qa.com
 absorbingband.com
 absurdapple.com
+acidpigs.com
 acridtwist.com
 aheadday.com
 alleyarm.com
@@ -2946,7 +2950,6 @@ analysis.fi
 analytics.rechtslupe.org
 andyhoppe.com
 anormal-tracker.de
-asadcdn.com
 atsfi.de
 audiencemanager.de
 audienzz.ch
@@ -3359,6 +3362,7 @@ vdoing.com
 vm5apis.com
 webdissector.com
 xtgreat.com
+yhjinm.cn
 yigao.com
 youle55.com
 zampda.net
@@ -4611,6 +4615,7 @@ track.leadin.com
 track.mailerlite.com
 track.mycliplister.com
 track.omg2.com
+track.pnicnik.live
 track.pricespider.com
 track.qcri.org
 track.qoof.com
@@ -4632,6 +4637,7 @@ track.wayin.com
 track.written.com
 track.yfret.com
 track.yieldsoftware.com
+tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.beezup.com
 tracker.data-vp.com
@@ -4893,11 +4899,13 @@ epro.sogou.com
 g.yccdn.com
 haostat.qihoo.com
 hyrankhit.meldingcloud.com
+ia.51.la
 imp.ad-plus.cn
 imp.go.sohu.com
 imp.optaim.com
 log.hiiir.com
 log.tagtic.cn
+m.lolvsdota.cn
 msg.71.am
 n.yunshipei.com
 p.aty.sohu.com
@@ -4907,6 +4915,7 @@ pv.hd.sohu.com
 pv.sohu.com
 r.sax.sina.com.cn
 report.meituan.com
+soso.mymederback.com
 stat.ws.126.net
 sugs.m.sm.cn
 t.hypers.com.cn
@@ -5071,6 +5080,7 @@ counter.star.lg.ua
 counter.tovarro.com
 counter.wapstart.ru
 crm-analytics.imweb.ru
+dbex-tracker-v2.driveback.ru
 error.videonow.ru
 g4p.redtram.com
 hubrus.com
@@ -5139,6 +5149,7 @@ adc.api.nine.com.au
 adc.nine.com.au
 adv.drtuber.com
 advancedtracker.appspot.com
+aeon.spankbang.com
 affiliate.mercola.com
 affiliate.resellerclub.com
 affiliates.genealogybank.com
@@ -5291,6 +5302,7 @@ data.younow.com
 dc.banggood.com
 dccss.banggood.com
 debug-vp.webmd.com
+deliver.ptgncdn.com
 desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
@@ -5341,6 +5353,7 @@ g.msn.com
 g.vev.io
 ga.canoe.ca
 ga.nsimg.net
+gak.webtoons.com
 ganon.yahoo.com
 gc.newsweek.com
 gcpdata.telegraph.co.uk
@@ -6007,7 +6020,6 @@ ea.warnerbros.fr
 ef.futuroscope.com
 ef.futuroscope.mobi
 ek8.voyage-prive.com
-era.easyvoyage.com
 et.unclejeans.com
 eulerian.belambra.be
 eulerian.belambra.fr
@@ -6376,6 +6388,7 @@ trk.m.libero.it
 analytics.cocolog-nifty.com
 analyzer.fc2.com
 analyzer2.fc2.com
+astat.nikkei.com
 cgi.tbs.co.jp
 count.upc.rakuten.co.jp
 ln.ameba.jp
