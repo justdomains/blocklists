@@ -6226,7 +6226,6 @@ eultech.fnac.com
 events.guesttoguest.com
 fsm.lapresse.ca
 g.itespresso.fr
-iphdata.lequipe.fr
 k.rueducommerce.fr
 kbn.korben.info
 lem.nouvelobs.com
