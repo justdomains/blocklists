@@ -4381,6 +4381,7 @@ p.delivery.net
 p.travelsmarter.net
 p.yotpo.com
 pages-stats.rbl.ms
+pagesocket.glam.com
 partner.cynapse.com
 passport.pfn.bz
 pebed.dm.gg
