@@ -3593,6 +3593,7 @@ adstat.4u.pl
 caanalytics.com
 clickmatic.pl
 conversion.pl
+conversionlabs.net.pl
 dmdi.pl
 goprediction.com
 gostats.pl
@@ -4179,7 +4180,6 @@ djtflbt20bdde.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
 dlvkf5067xruv.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
-dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 doug1izaerwt3.cloudfront.net
 ds-aksb-a.akamaihd.net
@@ -4801,6 +4801,7 @@ mastertag.kpcustomer.de
 mastertag.q-sis.de
 met.vgwort.de
 omniture.eaeurope.eu
+orbidder.otto.de
 px.staticfiles.at
 retrack.q-divisioncdn.de
 stat.clichehosting.de
@@ -4819,6 +4820,8 @@ stats2.algo.at
 t.etraveli.com
 t.nativendo.de
 t.quisma.com
+tagm.tchibo.de
+track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
 tracker.euroweb.net
@@ -5042,9 +5045,11 @@ fab.interia.pl
 hit.interia.pl
 marketing.tr.netsalesmedia.pl
 pixel.homebook.pl
+pixel6.wp.pl
 px.wp.pl
 qai-ir.quartic.pl
 qai.quartic.pl
+rec-pl.quartic.pl
 rec.quartic.pl
 scontent.services.tvn.pl
 stats.asp24.pl
@@ -6488,6 +6493,7 @@ stat.nyheter24.se
 ta.sanook.com
 c.gazetevatan.com
 d.haberler.com
+mark.isbank.com.tr
 p.milliyet.com.tr
 counter.ukr.net
 hit.meta.ua
