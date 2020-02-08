@@ -1188,6 +1188,7 @@ leadpages.net
 leadsius.com
 leadsmonitor.io
 leadsrx.com
+leanlab.co
 leanplum.com
 legolas-media.com
 leokross.com
@@ -4383,7 +4384,6 @@ mcs.delvenetworks.com
 mediametrics.mpsa.com
 metering.pagesuite.com
 metric.nwsource.com
-metrics-api.dimensions.ai
 metrics-api.librato.com
 metrics.api.drift.com
 metrics.brightcove.com
@@ -5978,7 +5978,6 @@ cmp.pcworld.com
 cmp.pcworld.idg.com.au
 cmp.techadvisor.co.uk
 cmp.techhive.com
-commsvc.geo.de
 commsvc.stern.de
 eurogamer-uk.eurogamer.net
 gazette-news-gb.gazette-news.co.uk
