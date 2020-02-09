@@ -1764,6 +1764,7 @@ rsvpgenius.com
 rtb123.com
 rtfn.net
 rtmark.net
+rtox.net
 rtrk.co.nz
 rtrk.com
 ru4.com
@@ -3828,7 +3829,6 @@ adsettings.com
 adten.eu
 adtlgc.com
 adtr.io
-adtraction.com
 bonnieradnetwork.se
 brandmetrics.com
 citypaketet.se
@@ -3868,6 +3868,7 @@ zmctrack.net
 amcdn.vn
 contineljs.com
 gostats.vn
+100widgets.com
 51network.com
 a.mobify.com
 aan.amazon.com
@@ -4601,6 +4602,7 @@ t.beopinion.com
 t.bimvid.com
 t.brand-server.com
 t.c4tw.net
+t.castle.io
 t.cfjump.com
 t.clic2buy.com
 t.dgm-au.com
@@ -6299,6 +6301,7 @@ tag.boulanger.fr
 tc.hometogo.net
 tdep.vacansoleil.fr
 tesla.oscaro.com
+tim.nextinpact.com
 track.24heures.ch
 tracker-id.cdiscount.com
 tracker.cds-tracking.com
