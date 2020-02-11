@@ -2933,6 +2933,7 @@ selfishsea.com
 separatesilver.com
 sharppatch.com
 shermore.info
+shesubscriptions.com
 shockinggrass.com
 shockingship.com
 shyseed.com
@@ -3441,6 +3442,7 @@ netminers.dk
 netstats.dk
 parameter.dk
 peakcounter.dk
+telemetric.dk
 tns-gallup.dk
 zipstat.dk
 active24stats.nl
@@ -4924,6 +4926,7 @@ stats.buzzea.com
 stats.ipmgroup.be
 stats.tipser.com
 tag.leadplace.fr
+testcddc.atclouddev.net
 tmgr.ccmbg.com
 track.byzon.swelen.net
 track.kyoads.com
