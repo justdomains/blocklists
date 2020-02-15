@@ -4600,6 +4600,7 @@ su.addthis.com
 survey.interquest.com
 surveywall-api.survata.com
 sync.adap.tv
+sync.outbrain.com
 systemmonitoring.badgeville.com
 t-staging.powerreviews.com
 t.a3cloud.net
@@ -4926,6 +4927,7 @@ stats-factory.digitregroup.io
 stats.buzzea.com
 stats.ipmgroup.be
 stats.tipser.com
+t.ofsys.com
 tag.leadplace.fr
 testcddc.atclouddev.net
 tmgr.ccmbg.com
