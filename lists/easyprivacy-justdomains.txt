@@ -2852,8 +2852,10 @@ delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
 diplomahawaii.com
+dq95d35.com
 drydrum.com
 ejyymghi.com
+enviousshape.com
 fadedsnow.com
 falseframe.com
 familiarrod.com
@@ -2892,6 +2894,7 @@ leaplunchroom.com
 levelbehavior.com
 lizardslaugh.com
 loudlunch.com
+lowlocket.com
 lumberamount.com
 lumpylumber.com
 magnetairport.com
@@ -4168,6 +4171,7 @@ d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
+d2as12kgjg8gw5.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
@@ -5094,6 +5098,7 @@ webhit.snd.no
 analytics.aasaam.com
 analytics.ceneo.pl
 analytics.greensender.pl
+cmp.dreamlab.pl
 fab.interia.pl
 hit.interia.pl
 marketing.tr.netsalesmedia.pl
@@ -5105,6 +5110,7 @@ qai.quartic.pl
 rec-pl.quartic.pl
 rec.quartic.pl
 scontent.services.tvn.pl
+sgqcvfjvr.onet.pl
 stats.asp24.pl
 stats.media.onet.pl
 stats.ulixes.pl
