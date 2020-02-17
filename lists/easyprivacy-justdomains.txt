@@ -122,6 +122,7 @@ adswizz.com
 adsymptotic.com
 adtarget.me
 adtelligence.de
+adtrackers.net
 adultblogtoplist.com
 adunity.com
 advalo.com
@@ -2819,6 +2820,7 @@ awzbijw.com
 axiomaticalley.com
 bagbeam.com
 balancebreath.com
+bandborder.com
 breakfastboat.com
 broadcastbed.com
 broaddoor.com
@@ -4098,6 +4100,7 @@ collector.sspinc.io
 comet.ibsrv.net
 control.cityofcairns.com
 conversions.genieventures.co.uk
+convsgmp.taboola.com
 cookies.livepartners.com
 cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
@@ -4427,6 +4430,7 @@ oda.markitondemand.com
 om.rogersmedia.com
 onespot-tracking.herokuapp.com
 open.delivery.net
+opps.taboola.com
 optimizely.appspot.com
 orts.wixawin.com
 p.adbrn.com
@@ -4803,6 +4807,7 @@ webservices.websitepros.com
 webstats.motigo.com
 webstats.thaindian.com
 webtracker.apicasystem.com
+wf.taboola.com
 wibiya-actions.conduit-data.com
 wibiya-june-new-log.conduit-data.com
 widget.perfectmarket.com
@@ -5077,6 +5082,7 @@ log.nordot.jp
 omt.shinobi.jp
 rcm.shinobi.jp
 speee-ad.akamaized.net
+sstats.mora.jp
 sync.shinobi.jp
 torimochi.line-apps.com
 track.thebase.in
@@ -6206,6 +6212,7 @@ cpx.golem.de
 cpxl.golem.de
 cxt.deutsche-bank.de
 dpm.bluray-disc.de
+dv.chemie.de
 dw-eu.com.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
