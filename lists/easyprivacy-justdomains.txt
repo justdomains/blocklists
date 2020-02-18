@@ -5384,6 +5384,7 @@ dmtracking2.alibaba.com
 dw.cnet.com
 dwh-tracking.it.auth0.com
 edw.edmunds.com
+eec.crunchyroll.com
 ekg.riotgames.com
 emarketing.rmauctions.com
 engagefront.theweathernetwork.com
@@ -5982,6 +5983,7 @@ wtk.db.com
 ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
+bournemouthecho-gb.bournemouthecho.co.uk
 bucksfreepress-gb.bucksfreepress.co.uk
 cdn-alliancegravity.s3.amazonaws.com
 cmp.arnnet.com.au
@@ -6002,17 +6004,22 @@ cmp.techhive.com
 commsvc.stern.de
 eurogamer-uk.eurogamer.net
 gazette-news-gb.gazette-news.co.uk
+glasgowtimes-gb.glasgowtimes.co.uk
+greenocktelegraph-gb.greenocktelegraph.co.uk
 h-bid.com
+heraldscotland-gb.heraldscotland.com
 mdn.neowin.net
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
 sourcepoint.vice.com
 sthelensstar-gb.sthelensstar.co.uk
+swindonadvertiser-gb.swindonadvertiser.co.uk
 thenational-gb.thenational.scot
 ttauri.laptopmag.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+wiltshiretimes-gb.wiltshiretimes.co.uk
 worcesternews-gb.worcesternews.co.uk
 yourlocalguardian-gb.yourlocalguardian.co.uk
 0sbm.consobaby.co.uk
@@ -6305,6 +6312,7 @@ kbn.korben.info
 lem.nouvelobs.com
 logs-qos.tf1.fr
 p.pagesjaunes.fr
+pam.nextinpact.com
 poum.nextinpact.com
 pwa.telephoneannuaire.fr
 rdtdlv.laredoute.fr
