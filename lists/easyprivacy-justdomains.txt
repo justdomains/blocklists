@@ -77,6 +77,7 @@ acuityplatform.com
 acxiom-online.com
 acxiomapac.com
 ad-score.com
+ad-srv-track.com
 ad.gt
 adabra.com
 adalyser.com
@@ -6018,6 +6019,7 @@ sthelensstar-gb.sthelensstar.co.uk
 swindonadvertiser-gb.swindonadvertiser.co.uk
 thenational-gb.thenational.scot
 ttauri.laptopmag.com
+ttauri.livescience.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 wiltshiretimes-gb.wiltshiretimes.co.uk
