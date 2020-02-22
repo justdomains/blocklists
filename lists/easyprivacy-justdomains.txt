@@ -4421,6 +4421,7 @@ myscoop-tracking.googlecode.com
 n.mailfire.io
 neocounter.neoworx-blog-tools.net
 newsanalytics.com.au
+ninja.akamaized.net
 nol.yahoo.com
 nova.dice.net
 ns.rvmkitt.com
@@ -5086,6 +5087,7 @@ rcm.shinobi.jp
 speee-ad.akamaized.net
 sstats.mora.jp
 sync.shinobi.jp
+t.adlpo.com
 torimochi.line-apps.com
 track.thebase.in
 userdive.com
@@ -6011,6 +6013,7 @@ greenocktelegraph-gb.greenocktelegraph.co.uk
 h-bid.com
 heraldscotland-gb.heraldscotland.com
 mdn.neowin.net
+mms.gocomics.com
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
