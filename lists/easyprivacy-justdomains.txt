@@ -1569,6 +1569,7 @@ pixel.ad
 pixel.watch
 pixeleze.com
 pixelinteractivemedia.com
+pixelpop.co
 pixelrevenue.com
 pizzaandads.com
 pjatr.com
@@ -1650,6 +1651,7 @@ qsstats.com
 quadran.eu
 quantcount.com
 quantummetric.com
+quartic.pl
 qubitproducts.com
 questionpro.com
 questradeaffiliates.com
@@ -4939,6 +4941,7 @@ stats.buzzea.com
 stats.ipmgroup.be
 stats.tipser.com
 t.ofsys.com
+tag.goldenbees.fr
 tag.leadplace.fr
 testcddc.atclouddev.net
 tmgr.ccmbg.com
