@@ -6258,6 +6258,7 @@ proactive.base.de
 prophet.heise.de
 pxc.otto.de
 rem-track.bild.de
+responder.wt.heise.de
 rl.heise.de
 s.edeka.de
 statistics.raiffeisen.ch
