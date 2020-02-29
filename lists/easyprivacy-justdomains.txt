@@ -483,6 +483,7 @@ cnzz.com
 cobaltgroup.com
 codata.ru
 cogmatch.net
+cognativex.com
 cognitivematch.com
 collarity.com
 collecting.click
@@ -3793,7 +3794,6 @@ tnative.ru
 toptracker.ru
 tpm.pw
 track.cooster.ru
-trbna.com
 uarating.com
 upravel.com
 uptolike.com
@@ -4169,6 +4169,7 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
+d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
@@ -4745,6 +4746,7 @@ tracking.lengow.com
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.maxcdn.com
+tracking.menamarketplace.com
 tracking.monsido.com
 tracking.musixmatch.com
 tracking.pacharge.com
@@ -6346,6 +6348,7 @@ tracker.mspy.com
 tracking.bd4travel.com
 tracking.ha.rueducommerce.fr
 wbdds.allocine.fr
+zam.nextinpact.com
 footprint.anetwork.ir
 counter.search.bg
 adgeo.163.com
