@@ -1,3 +1,5 @@
+ec2-44-233-143-239.us-west-2.compute.amazonaws.com
+meatthe.ru
 oc734yaw3w.rest
 reu5uut0.top
 ssdbkv4qtq.xyz
@@ -3841,6 +3843,7 @@ spl.ztvx8.com
 qaops.jgwsmqx.com
 zhangguangzong.com
 taoguohe.com
+lofv.xyz
 dayadopen.site
 newthuads.com
 witchcraftcash.com
@@ -6557,6 +6560,11 @@ savoy.cubecdn.net
 mystighty.info
 sohjah-thahka.info
 goitcl.com
+admin.appnext.com
+global.appnext.com
+cdn.appnext.com
+api.appnxt.net
+apis.appnxt.net
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
 coinhive.com
@@ -6622,7 +6630,6 @@ id1.cn
 xdrig.com
 usp1.baidu.com
 i2.myapkcdn.in
-admin.appnext.com
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
@@ -21315,6 +21322,7 @@ i-bims-ein-shopper.de
 ichkaufehierein.de
 maria-herzt.de
 meinelieblingsprodukte.de
+mc.admetrica.ru
 e-contenta.com
 ad-srv-track.com
 trk.techtarget.com
@@ -25885,6 +25893,7 @@ logger.cloudmobi.net
 tracker.adotmob.com
 analytics-tracker.thescore.com
 app.roximity.com
+rosenberg.appmetrica.webvisor.com
 api.oneaudience.com
 api.gameofwhales.com
 d.applvn.com

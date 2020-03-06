@@ -264,6 +264,7 @@ b1js.com
 b2c.com
 babator.com
 bam-x.com
+bamgrid.com
 baptisttop1000.com
 baremetrics.com
 barilliance.net
@@ -1456,6 +1457,7 @@ nuggad.net
 nuloox.com
 numerino.cz
 nyctrl32.com
+nyltx.com
 nytlog.com
 o-s.io
 observerapp.com
@@ -1500,6 +1502,7 @@ oproi.com
 optify.net
 optimahub.com
 optimix.asia
+optimizelydata.com
 optimost.com
 optin-machine.com
 optorb.com
@@ -5522,6 +5525,7 @@ loglady.publicbroadcasting.net
 logs.dashlane.com
 logs.gaana.com
 logs.hotstar.com
+logx.optimizely.com
 lslmetrics.djlmgdigital.com
 marketing.alibaba.com
 marketing.dropbox.com
@@ -6012,6 +6016,8 @@ cmp.pcworld.idg.com.au
 cmp.techadvisor.co.uk
 cmp.techhive.com
 commsvc.stern.de
+consent.api.osano.com
+consent.inm.ie
 eurogamer-uk.eurogamer.net
 gazette-news-gb.gazette-news.co.uk
 glasgowtimes-gb.glasgowtimes.co.uk
@@ -6225,6 +6231,7 @@ c.perlentaucher.de
 c.t-online.de
 cc.zeit.de
 cct2.o2online.de
+cmp.channelpartner.de
 count.merian.de
 count.rtl.de
 count.spiegel.de
