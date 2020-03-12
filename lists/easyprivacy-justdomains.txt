@@ -229,6 +229,7 @@ astro-way.com
 atatus.com
 athenainstitute.biz
 atoshonetwork.com
+atp.io
 atticwicket.com
 attracta.com
 attributionapp.com
@@ -982,6 +983,7 @@ hitwebcounter.com
 hivps.xyz
 hlserve.com
 hmstats.com
+honeybadger.io
 hoood.info
 hopurl.org
 hospitality-optimizer.com
@@ -1292,6 +1294,7 @@ mbww.com
 mdotlabs.com
 mdxapi.io
 measure.ly
+measured.com
 measuremap.com
 measurementapi.com
 meatballsandads.com
@@ -1611,6 +1614,7 @@ prnx.net
 pro6e.com
 proclivitysystems.com
 profilesnitch.com
+programmatictrader.com
 projectsunblock.com
 promotionengine.com
 proofpoint.com
@@ -3905,7 +3909,6 @@ affiliates.mgmmirage.com
 affiliates.minglematch.com
 affiliates.purevpn.com
 akatracking.esearchvision.com
-aksb-a.akamaihd.net
 alexandria.marfeelcdn.com
 amp-error-reporting.appspot.com
 amplify.outbrain.com
@@ -4022,6 +4025,7 @@ b-aws.aol.com
 b.bedop.com
 bab.frb.io
 backstage.funnelenvy.com
+bacon.section.io
 barium.cheezdev.com
 bat.bing.com
 bc.marfeelcache.com
@@ -4069,6 +4073,7 @@ cadreon.s3.amazonaws.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
 capture.condenastdigital.com
+capture.trackjs.com
 carl.pubsvs.com
 caspionlog.appspot.com
 cc.swiftype.com
@@ -4249,7 +4254,6 @@ dlvkf5067xruv.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 doug1izaerwt3.cloudfront.net
-ds-aksb-a.akamaihd.net
 dt1pxsve3tgas.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
@@ -4389,6 +4393,7 @@ logging.prefixbox.com
 loggingapi.spingo.com
 loglady.skypicker.com
 logs-api.shoprunner.com
+logs.datadoghq.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
@@ -4431,7 +4436,6 @@ myscoop-tracking.googlecode.com
 n.mailfire.io
 neocounter.neoworx-blog-tools.net
 newsanalytics.com.au
-ninja.akamaized.net
 nol.yahoo.com
 nova.dice.net
 ns.rvmkitt.com
@@ -4510,7 +4514,6 @@ px.marchex.io
 px.owneriq.net
 px.spiceworks.com
 px.topspin.net
-pxlgnpgecom-a.akamaihd.net
 qubitanalytics.appspot.com
 r.mail.ru
 r.msn.com
@@ -4829,8 +4832,20 @@ ws.audioeye.com
 wstat.wibiya.com
 x.weather.com
 zdlogs.sphereup.com
+aksb-a.akamaihd.net
+ds-aksb-a.akamaihd.net
+ninja.akamaized.net
+pxlgnpgecom-a.akamaihd.net
+rndntpmgnj-a.akamaihd.net
+sgphctileh-a.akamaihd.net
+uhytajrtpo-a.akamaihd.net
 zvsuhljiha-a.akamaihd.net
 clarium.global.ssl.fastly.net
+dfapvmql-q.global.ssl.fastly.net
+nsg.symantec.com
+sealserver.trustwave.com
+websecurity.norton.com
+widgets.trustedshops.com
 connatix.com
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
@@ -5361,6 +5376,7 @@ cnt.vivatube.com
 co.hltv.org
 collector-cdn.github.com
 collector-medium.lightstep.com
+collector-px0py5pczn.octopart.com
 collector.fiverr.com
 collector.githubapp.com
 collector.ksax.com
@@ -5396,6 +5412,7 @@ diamond.transfermarkt.de
 dl.meliacloud.com
 dmp.marketgid.com
 dmtracking2.alibaba.com
+dp.shoprunner.com
 dw.cnet.com
 dwh-tracking.it.auth0.com
 edw.edmunds.com
@@ -5853,6 +5870,7 @@ sugar.gameforge.com
 surveys.cnet.com
 t-ak.hulu.com
 t.9gag.com
+t.allmodern.com
 t.appsflyer.com
 t.birchlane.com
 t.blinkist.com
@@ -5861,10 +5879,12 @@ t.dailymail.co.uk
 t.eharmony.com
 t.freelancer.com
 t.indeed.com
+t.jossandmain.com
 t.kck.st
 t.paypal.com
 t.perigold.com
 t.regionsjob.com
+t.wayfair.ca
 t.wayfair.co.uk
 t.wayfair.com
 t.wizaly.com
@@ -5884,6 +5904,8 @@ timestrends.indiatimes.com
 timestrends.timesnow.tv
 tk.kargo.com
 tkpi.delta.com
+tms.eharmony.ca
+tms.eharmony.co.uk
 tnla.thenewslens.com
 tongji.meizu.com
 tools.ranker.com
