@@ -18,6 +18,7 @@
 24counter.com
 24log.com
 2cnt.net
+2smt6mfgo.de
 33across.com
 360i.com
 360tag.com
@@ -2867,6 +2868,7 @@ delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
 diplomahawaii.com
+distinctday.com
 dq95d35.com
 drydrum.com
 ejyymghi.com
@@ -3961,6 +3963,7 @@ analytics.mailmunch.co
 analytics.matchbin.com
 analytics.midwesternmac.com
 analytics.mlstatic.com
+analytics.myfidevs.io
 analytics.myfinance.com
 analytics.newscred.com
 analytics.onlyonlinemarketing.com
@@ -4834,6 +4837,7 @@ x.weather.com
 zdlogs.sphereup.com
 aksb-a.akamaihd.net
 ds-aksb-a.akamaihd.net
+e77lmzbqou0n-a.akamaihd.net
 ninja.akamaized.net
 pxlgnpgecom-a.akamaihd.net
 rndntpmgnj-a.akamaihd.net
@@ -4890,6 +4894,7 @@ met.vgwort.de
 omniture.eaeurope.eu
 orbidder.otto.de
 px.staticfiles.at
+quiz.stroeermediabrands.de
 retrack.q-divisioncdn.de
 stat.clichehosting.de
 stat4.edev.at
