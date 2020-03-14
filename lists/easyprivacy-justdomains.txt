@@ -2835,6 +2835,7 @@ axiomaticalley.com
 bagbeam.com
 balancebreath.com
 bandborder.com
+baskettexture.com
 breakfastboat.com
 broadcastbed.com
 broaddoor.com
@@ -5050,6 +5051,7 @@ statistics.jfmedier.dk
 trckr.nordiskemedier.dk
 ubt.berlingskemedia.net
 analytics.belgacom.be
+atconnect.npo.nl
 cookies.reedbusiness.nl
 hottraffic.nl
 statistics.rbi-nl.com
@@ -5439,6 +5441,7 @@ eventlogger.soundcloud.com
 events.avantisvideo.com
 events.godaddy.com
 events.jora.com
+events.practo.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
@@ -6345,6 +6348,7 @@ act.acotedemoi.com
 analytics.allovoisins.com
 buf.lemonde.fr
 c0011.boursorama.com
+cdn5.nextinpact.com
 cfcn.allocine.net
 clk.boulanger.com
 compteur.developpez.com
