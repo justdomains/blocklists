@@ -432,6 +432,7 @@ cint.com
 cintnetworks.com
 circular-counters.com
 ck-cdn.com
+clarity.ms
 claritytag.com
 clarivoy.com
 cleananalytics.com
@@ -4482,6 +4483,7 @@ phoenix.untd.com
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.hellobar.com
+ping.idocdn.com
 ping.smyte.com
 pings.conviva.com
 pings.vidpulse.com
