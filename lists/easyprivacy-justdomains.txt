@@ -1526,6 +1526,7 @@ outbid.io
 outboundlink.me
 overstat.com
 owlanalytics.io
+ox-bio.com
 oxidy.com
 p-td.com
 p.raasnet.com
@@ -2461,6 +2462,7 @@ zoossoft.net
 zqtk.net
 zroitracker.com
 ztsrv.com
+zuzab.com
 0x1f4b0.com
 1q2w3.fun
 1q2w3.website
@@ -3789,11 +3791,13 @@ mediatoday.ru
 mokuz.ru
 musiccounter.ru
 mystat-in.net
+mytopf.com
 opentracking.ru
 pmbox.biz
 proext.com
 quick-counter.net
 r24-tech.com
+relap.io
 retag.xyz
 rnet.plus
 ru.net
@@ -4415,6 +4419,7 @@ logs.thebloggernetwork.com
 logs.vmixcore.com
 loxodo-analytics.ext.nile.works
 lt.tritondigital.com
+lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
 m.addthisedge.com
 m.trb.com
@@ -4640,6 +4645,7 @@ sts.eccmp.com
 su.addthis.com
 survey.interquest.com
 surveywall-api.survata.com
+svc.dynamics.com
 sync.adap.tv
 sync.outbrain.com
 systemmonitoring.badgeville.com
