@@ -3610,7 +3610,6 @@ macromill.com
 marsflag.com
 mobylog.jp
 msgs.jp
-n8s.jp
 nex8.net
 omiki.com
 owldata.com
@@ -4432,6 +4431,7 @@ mc.webvisor.org
 mcs.delvenetworks.com
 mediametrics.mpsa.com
 metering.pagesuite.com
+metric.ipv6test.net
 metric.nwsource.com
 metrics-api.librato.com
 metrics.api.drift.com
