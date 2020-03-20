@@ -1357,7 +1357,6 @@ mouseflow.com
 mousestats.com
 mousetrace.com
 movable-ink-6710.com
-mparticle.com
 mpianalytics.com
 mplxtms.com
 mppapi.io
@@ -1493,7 +1492,6 @@ onestat.com
 onetag-sys.com
 onetag.io
 ongsono.com
-online-metrix.net
 onlinepbx.ru
 onlysix.co.uk
 onthe.io
@@ -4488,7 +4486,6 @@ phoenix.untd.com
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.hellobar.com
-ping.idocdn.com
 ping.smyte.com
 pings.conviva.com
 pings.vidpulse.com
@@ -5173,7 +5170,6 @@ qai.quartic.pl
 rec-pl.quartic.pl
 rec.quartic.pl
 scontent.services.tvn.pl
-sgqcvfjvr.onet.pl
 stats.asp24.pl
 stats.media.onet.pl
 stats.ulixes.pl
@@ -5719,6 +5715,7 @@ scribe.twitter.com
 servedby.o2.co.uk
 servicetick.com
 session-tracker.badcreditloans.com
+shopmetric.rediff.com
 sidebar.issuu.com
 sitelife.ehow.com
 slipstream.skyscanner.net
@@ -6061,6 +6058,7 @@ cmp.digitalartsonline.co.uk
 cmp.greenbot.com
 cmp.macworld.co.uk
 cmp.macworld.com
+cmp.osano.com
 cmp.pcworld.co.nz
 cmp.pcworld.com
 cmp.pcworld.idg.com.au
