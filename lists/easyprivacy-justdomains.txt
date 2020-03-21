@@ -5916,6 +5916,7 @@ t.wayfair.com
 t.wizaly.com
 t2.hulu.com
 t2.huluim.com
+tagger.ope.scmp.com
 taglocker.target.com
 tags.msnbc.com
 tagx.nytimes.com
@@ -6068,6 +6069,7 @@ commsvc.stern.de
 consent.api.osano.com
 consent.inm.ie
 eurogamer-uk.eurogamer.net
+fuse.forbes.com
 gazette-news-gb.gazette-news.co.uk
 glasgowtimes-gb.glasgowtimes.co.uk
 greenocktelegraph-gb.greenocktelegraph.co.uk
