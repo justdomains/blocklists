@@ -1200,7 +1200,6 @@ leadpages.net
 leadsius.com
 leadsmonitor.io
 leadsrx.com
-leanlab.co
 leanplum.com
 legolas-media.com
 leokross.com
@@ -4368,6 +4367,7 @@ insight.rapid7.com
 insights.plista.com
 insights.sitesearch360.com
 insitez.blob.core.windows.net
+invite.leanlab.co
 invitejs.trustpilot.com
 ipapi.tmbi.com
 irqs.ioam.de
@@ -6068,6 +6068,7 @@ cmp.techhive.com
 commsvc.stern.de
 consent.api.osano.com
 consent.inm.ie
+ep00.epimg.net
 eurogamer-uk.eurogamer.net
 fuse.forbes.com
 gazette-news-gb.gazette-news.co.uk
