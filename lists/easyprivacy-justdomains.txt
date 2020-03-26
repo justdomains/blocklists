@@ -1532,6 +1532,7 @@ p2r14.com
 pa-oa.com
 pagefair.com
 pages05.net
+pagesense.io
 paidstats.com
 parklogic.com
 parrable.com
@@ -4473,6 +4474,7 @@ p.delivery.net
 p.travelsmarter.net
 p.yotpo.com
 pages-stats.rbl.ms
+pagesense-collect.zoho.com
 pagesocket.glam.com
 partner.cynapse.com
 passport.pfn.bz
