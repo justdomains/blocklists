@@ -367,7 +367,6 @@ bunchbox.co
 burstbeacon.com
 bux1le001.com
 buzzdeck.com
-bytedance.com
 bytemgdd.com
 c-o-u-n-t.com
 c-rings.net
@@ -4006,6 +4005,7 @@ analytics.strangeloopnetworks.com
 analytics.suggestv.io
 analytics.supplyframe.com
 analytics.themarketiq.com
+analytics.tiktok.com
 analytics.tout.com
 analytics.tribeca.vidavee.com
 analytics.urx.io
@@ -4644,7 +4644,6 @@ sts.eccmp.com
 su.addthis.com
 survey.interquest.com
 surveywall-api.survata.com
-svc.dynamics.com
 sync.adap.tv
 sync.outbrain.com
 systemmonitoring.badgeville.com
