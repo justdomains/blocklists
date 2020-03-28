@@ -604,6 +604,7 @@ decideinteractive.com
 deep.bi
 deepattention.com
 deepchannel.com
+defacto-analytics.net
 dejavu.mlapps.com
 demandbase.com
 departapp.com
@@ -1326,6 +1327,7 @@ minewhat.com
 mixi.mn
 mkt3261.com
 mkt51.net
+mkt6333.com
 mkt941.com
 mktoresp.com
 ml-attr.com
@@ -1354,6 +1356,7 @@ mouse3k.com
 mouseflow.com
 mousestats.com
 mousetrace.com
+movable-ink-397.com
 movable-ink-6710.com
 mpianalytics.com
 mplxtms.com
@@ -1481,6 +1484,7 @@ ometria.com
 omguk.com
 omkt.co
 omniconvert.com
+omtvxcle.com
 onaudience.com
 ondu.ru
 onefeed.co.uk
@@ -1730,6 +1734,7 @@ retargetly.com
 retargettracker.com
 retentionscience.com
 rettica.com
+returnpath.net
 reussissonsensemble.fr
 revdn.net
 revenuepilot.com
@@ -2902,6 +2907,7 @@ homelycrown.com
 horsenectar.com
 immensehoney.com
 importedincrease.com
+importedinsect.com
 innocentinvention.com
 inquisitiveinvention.com
 intelligentscissors.com
@@ -4311,6 +4317,7 @@ events.whisk.com
 events.yourcx.io
 eventtracker.videostrip.com
 evt.izooto.com
+exacttarget.com
 experience.contextly.com
 fast.appcues.com
 filament-stats.herokuapp.com
@@ -4415,6 +4422,7 @@ logs.datadoghq.com
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
+lore.circulate.com
 loxodo-analytics.ext.nile.works
 lt.tritondigital.com
 lucid.mjhassoc.com
@@ -4471,6 +4479,7 @@ optimizely.appspot.com
 orts.wixawin.com
 p.adbrn.com
 p.delivery.net
+p.eyebuydirect-cmr.net
 p.travelsmarter.net
 p.yotpo.com
 pages-stats.rbl.ms
@@ -5860,6 +5869,7 @@ stats.christianpost.com
 stats.clear-media.com
 stats.digg.com
 stats.dnaindia.com
+stats.extremetech.com
 stats.eyeviewdigital.com
 stats.fs.com
 stats.harpercollins.com
