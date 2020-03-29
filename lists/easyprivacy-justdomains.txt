@@ -6097,6 +6097,7 @@ rps-uk.rockpapershotgun.com
 sourcepoint.vice.com
 sthelensstar-gb.sthelensstar.co.uk
 swindonadvertiser-gb.swindonadvertiser.co.uk
+theargus-gb.theargus.co.uk
 thenational-gb.thenational.scot
 ttauri.laptopmag.com
 ttauri.livescience.com
