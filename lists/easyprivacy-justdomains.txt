@@ -4287,9 +4287,11 @@ dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
 dzmxze7hxwn6b.cloudfront.net
 ebay.northernhost.com
+ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
 edge.sqweb.com
+engage.wixapps.net
 epl.paypal-communication.com
 errors.snackly.co
 et.grabnetworks.com
@@ -4875,6 +4877,7 @@ zvsuhljiha-a.akamaihd.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 nsg.symantec.com
+seal.godaddy.com
 sealserver.trustwave.com
 websecurity.norton.com
 widgets.trustedshops.com
