@@ -69,6 +69,7 @@ acetrk.com
 acexedge.com
 acint.net
 acq.io
+acsbap.com
 active-trk7.com
 activeconversion.com
 activemeter.com
@@ -831,6 +832,7 @@ formisimo.com
 foundry42.com
 fout.jp
 fpctraffic2.com
+fpjs.io
 fprnt.com
 fqsecure.com
 fqtag.com
@@ -4369,6 +4371,7 @@ icu.getstorybox.com
 imp.affiliator.com
 imp.clickability.com
 imp.constantcontact.com
+imp.pvnsolutions.com
 impress.vcita.com
 infinityid.condenastdigital.com
 informer.yandex.ru
