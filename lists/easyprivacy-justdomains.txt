@@ -4291,7 +4291,6 @@ ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
 edge.sqweb.com
-engage.wixapps.net
 epl.paypal-communication.com
 errors.snackly.co
 et.grabnetworks.com
@@ -4307,6 +4306,7 @@ eventlog.inspsearchapi.com
 events.air.tv
 events.antenna.is
 events.apester.com
+events.brightline.tv
 events.demoup.com
 events.izooto.com
 events.jotform.com
@@ -4866,6 +4866,9 @@ ws.audioeye.com
 wstat.wibiya.com
 x.weather.com
 zdlogs.sphereup.com
+go.techtarget.com
+trk.techtarget.com
+users.techtarget.com
 aksb-a.akamaihd.net
 ds-aksb-a.akamaihd.net
 e77lmzbqou0n-a.akamaihd.net
@@ -6107,6 +6110,7 @@ ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+ttauri.whathifi.com
 wiltshiretimes-gb.wiltshiretimes.co.uk
 worcesternews-gb.worcesternews.co.uk
 yourlocalguardian-gb.yourlocalguardian.co.uk
