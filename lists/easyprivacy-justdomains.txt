@@ -318,6 +318,7 @@ bizspring.net
 bjcathay.com
 bkrtx.com
 bkvtrack.com
+blaick.com
 blockbreaker.io
 blockmetrics.com
 blog-stat.com
@@ -379,6 +380,7 @@ c3tag.com
 c4tracking01.com
 cache.am
 cache.fm
+cactusglobal.io
 cadreon.com
 call-tracking.co.uk
 callisto.fm
@@ -1239,6 +1241,7 @@ logentries.com
 logger.pw
 loggly.com
 loginfra.com
+loginhood.io
 logmatic.io
 lognormal.net
 logrocket.com
@@ -2940,6 +2943,7 @@ petiteumbrella.com
 photographpan.com
 pietexture.com
 plantdigestion.com
+prepareplanes.com
 profusesupport.com
 puffyloss.com
 puffypull.com
@@ -2962,6 +2966,7 @@ roofrelation.com
 rusticprice.com
 savoryorange.com
 scientificshirt.com
+scintillatingscissors.com
 scintillatingspace.com
 scrubswim.com
 secretturtle.com
@@ -3004,6 +3009,7 @@ thirdrespect.com
 thirstytwig.com
 ticklesign.com
 tranquilside.com
+troubledtail.com
 typicalairplane.com
 typicalteeth.com
 ubiquitousyard.com
@@ -3339,6 +3345,7 @@ ezakus.net
 facil-iti.com
 ferank.fr
 fogl1onf.com
+galaxiemedia.fr
 geocompteur.com
 goutee.top
 graphinsider.com
@@ -6013,6 +6020,7 @@ tracking.oui.sncf
 tracking.porndoelabs.com
 tracking.pornhd.com
 tracking.resumecompanion.com
+tracking.shopstyle.com
 tracking.shoptogether.buy.com
 tracking.softwareprojects.com
 tracking.teamskeet.com
@@ -6089,6 +6097,7 @@ consent.inm.ie
 ep00.epimg.net
 eurogamer-uk.eurogamer.net
 fuse.forbes.com
+gamesradar-gb.gamesradar.com
 gazette-news-gb.gazette-news.co.uk
 glasgowtimes-gb.glasgowtimes.co.uk
 greenocktelegraph-gb.greenocktelegraph.co.uk
@@ -6101,6 +6110,7 @@ mms.gocomics.com
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
+sm.pcmag.com
 sourcepoint.vice.com
 sthelensstar-gb.sthelensstar.co.uk
 swindonadvertiser-gb.swindonadvertiser.co.uk
@@ -6390,14 +6400,12 @@ act.acotedemoi.com
 analytics.allovoisins.com
 buf.lemonde.fr
 c0011.boursorama.com
-cdn5.nextinpact.com
 cfcn.allocine.net
 clk.boulanger.com
 compteur.developpez.com
 dm.commentcamarche.net
 dm.journaldunet.com
 dm.linternaute.com
-edmi.nextinpact.com
 elr.sfr.fr
 eultech.fnac.com
 events.guesttoguest.com
@@ -6408,8 +6416,6 @@ kbn.korben.info
 lem.nouvelobs.com
 logs-qos.tf1.fr
 p.pagesjaunes.fr
-pam.nextinpact.com
-poum.nextinpact.com
 pwa.telephoneannuaire.fr
 rdtdlv.laredoute.fr
 sa.tf1.fr
@@ -6432,6 +6438,12 @@ tracker.mspy.com
 tracking.bd4travel.com
 tracking.ha.rueducommerce.fr
 wbdds.allocine.fr
+cdn5.nextinpact.com
+edmi.nextinpact.com
+pam.nextinpact.com
+poum.nextinpact.com
+rel.nextinpact.com
+rel2.nextinpact.com
 zam.nextinpact.com
 footprint.anetwork.ir
 counter.search.bg
