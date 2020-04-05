@@ -412,7 +412,6 @@ cdn-net.com
 cdnanalytics.xyz
 cdnmaster.com
 cdntrf.com
-cedexis.com
 cedexis.net
 celebros-analytics.com
 celebrus.com
@@ -1442,6 +1441,7 @@ netinsight.co.kr
 netmining.com
 netmng.com
 netratings.com
+newrrb.bid
 newscurve.com
 nexeps.com
 nextstat.com
@@ -1640,6 +1640,7 @@ ptmind.com
 pto-slb-09.com
 ptp123.com
 ptrk-wn.com
+pubdream.com
 publicgood.com
 publicidees.com
 publishflow.com
@@ -6093,6 +6094,7 @@ cmp.osano.com
 cmp.pcworld.co.nz
 cmp.pcworld.com
 cmp.pcworld.idg.com.au
+cmp.tech426.com
 cmp.techadvisor.co.uk
 cmp.techhive.com
 commsvc.stern.de
@@ -6114,7 +6116,11 @@ mms.gocomics.com
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
 rps-uk.rockpapershotgun.com
+services.hmhost.co.uk
 sm.pcmag.com
+sourcepoint-mms.aetv.com
+sourcepoint-mms.history.com
+sourcepoint-mms.mylifetime.com
 sourcepoint.vice.com
 sthelensstar-gb.sthelensstar.co.uk
 swindonadvertiser-gb.swindonadvertiser.co.uk
