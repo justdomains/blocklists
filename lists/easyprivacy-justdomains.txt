@@ -497,6 +497,7 @@ commander1.com
 company-target.com
 compteur.cc
 conductrics.com
+conduze.com
 config.parsely.com
 confirmational.com
 confirmit.com
@@ -5452,6 +5453,7 @@ counter.sina.com.cn
 counter.theconversation.edu.au
 counter.zerohedge.com
 cpt.itv.com
+d.ghostery.com
 d1.abtshield.com
 da.virginmedia.com
 data.mic.com
