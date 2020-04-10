@@ -489,6 +489,7 @@ codata.ru
 cogmatch.net
 cognativex.com
 cognitivematch.com
+cohesionapps.com
 collarity.com
 collecting.click
 collserve.com
@@ -5524,6 +5525,7 @@ geo.battle.net
 geo.hltv.org
 geo.homepage-web.com
 geo.metronews.ca
+geo.nbcsports.com
 geo.play.it
 geo.yahoo.com
 geobeacon.ign.com
@@ -5576,6 +5578,7 @@ kinesisproxy.hearstlabs.com
 laas.americanexpress.com
 lh.secure.yahoo.com
 lilb2.shutterstock.com
+link.kogan.com
 linkpuls.idg.no
 loc.rediff.com
 localads-statistics.maps.me
