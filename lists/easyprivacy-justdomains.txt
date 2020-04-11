@@ -817,6 +817,7 @@ flixfacts.co.uk
 flixsyndication.net
 fluencymedia.com
 fluidsurveys.com
+flurry.com
 flx1.com
 flxpxl.com
 flyingpt.com
@@ -889,6 +890,7 @@ geojs.io
 geolid.com
 georiot.com
 geotargetly-1a441.appspot.com
+getambassador.com
 getbackstory.com
 getblueshift.com
 getclicky.com
