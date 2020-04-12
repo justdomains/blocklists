@@ -883,6 +883,7 @@ gbotvisit.com
 gear5.me
 geistm.com
 genieesspv.jp
+geo-targetly.com
 geobytes.com
 geoedge.be
 geoip-db.com
@@ -4416,6 +4417,7 @@ licensing.bitmovin.com
 lift.acquia.com
 link.informer.com
 links.voyeurweb.com
+literally-analytics.appspot.com
 livecounter.theyosh.nl
 livestats.kaltura.com
 log.aimtell.com
@@ -4505,6 +4507,7 @@ pages-stats.rbl.ms
 pagesense-collect.zoho.com
 pagesocket.glam.com
 partner.cynapse.com
+partner.permutive.app
 passport.pfn.bz
 pebed.dm.gg
 perf.dugout.com
