@@ -4912,6 +4912,7 @@ sealserver.trustwave.com
 websecurity.norton.com
 widgets.trustedshops.com
 connatix.com
+analytics.audionow.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
 analytics.loop-cloud.de
@@ -6119,6 +6120,7 @@ cmp.techhive.com
 commsvc.stern.de
 consent.api.osano.com
 consent.inm.ie
+eg-p2.eurogamer.net
 ep00.epimg.net
 eurogamer-uk.eurogamer.net
 fuse.forbes.com
