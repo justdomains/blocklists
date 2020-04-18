@@ -1488,6 +1488,7 @@ oidah.com
 ojrq.net
 okt.to
 oktopost.com
+omappapi.com
 omarsys.com
 omeda.com
 ometria.com
@@ -2939,7 +2940,9 @@ lowlocket.com
 lumberamount.com
 lumpylumber.com
 magnetairport.com
+massivemark.com
 meatydime.com
+movemeal.com
 mowfruit.com
 mundanepollution.com
 neighborlywatch.com
@@ -4538,6 +4541,7 @@ pixel.cdnwidget.com
 pixel.fanbridge.com
 pixel.glimr.io
 pixel.newscred.com
+pixel.parsely.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.solvemedia.com
@@ -6133,6 +6137,7 @@ heraldscotland-gb.heraldscotland.com
 keighleynews-gb.keighleynews.co.uk
 mdn.neowin.net
 mmm.carbuyer.co.uk
+mms.blick.ch
 mms.gocomics.com
 orionis.techradar.com
 rps-p2.rockpapershotgun.com
