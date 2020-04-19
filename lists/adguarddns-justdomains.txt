@@ -7251,6 +7251,7 @@ keepaira.net
 kegpoihat.club
 kenfeeask.com
 ketstheralinver.info
+kikoucuy.net
 kitferdog.site
 kitrigthy.com
 kniferasatte.info
@@ -16632,6 +16633,7 @@ jarhcvnlj.com
 jaxwrwvxfscq.com
 jazdoxthxiv.com
 jbbfphnd.com
+jbbqwmnrkpi.com
 jbdddxgjn.com
 jbinjmsb.com
 jbiqepilzn.com
@@ -16717,6 +16719,7 @@ jiixdtavic.com
 jiiyddosyv.com
 jijyubjf.com
 jikottnbg.com
+jikpijfebfflia.com
 jimqcqsyhser.com
 jimxaqrpqbxldt.com
 jinfrfimajr.com
@@ -17506,6 +17509,7 @@ mcuqjebym.com
 mcyopesbusomqf.com
 mczemvlzkndplq.com
 mdcszycw.com
+mdcytqwnbr.com
 mddwabpvzcr.com
 mdgpupricqpmy.com
 mdlhzknv.com
@@ -18394,6 +18398,7 @@ oubibahphzsz.com
 oubriojtpnps.com
 oucywciij.com
 oudccdjvh.com
+ougdqjentmp.com
 ougesqknoehod.com
 ougfkbyllars.com
 oughaoxixcfe.com
@@ -20554,6 +20559,7 @@ uufbvpidyn.com
 uujdthyg.com
 uujzywpxxrroh.com
 uukqisdwolzsjd.com
+uulvtpbx.com
 uunriutbi.com
 uusftafycvolbk.com
 uuzjerqlmxnosw.com
@@ -20732,6 +20738,7 @@ vlyqzdsucomih.com
 vlyuopulvewg.com
 vmetkehutsu.com
 vmftwflt.com
+vmhzvqzx.com
 vmmphpamtigpbi.com
 vmqgouvq.com
 vmraahnmspzy.com
@@ -20863,6 +20870,7 @@ vygekimhrfto.com
 vysgpewbyfbiob.com
 vyykulowdu.com
 vzbbzzasjtn.com
+vzcljugmtuno.com
 vzhlsmmboaqxlv.com
 vzjjglrnira.com
 vzkdyladanuudb.com
@@ -21843,6 +21851,7 @@ zpcxpdpqllyrb.com
 zperfcaskqrxug.com
 zpghmretcikhzs.com
 zpiqwngppibmf.com
+zpjkvuyqxu.com
 zpkshggvjif.com
 zpolivtjrhjquo.com
 zppkpktskuf.com
@@ -21876,6 +21885,7 @@ zridsfev.com
 zrlxjcsvib.com
 zronsunopja.com
 zrosbqwecw.com
+zrvnhlwypqpwjw.com
 zrzeewya.com
 zrzrpxzvsk.com
 zsdqemzzzbtn.com
@@ -23882,7 +23892,6 @@ production-eqbc.lvp.llnw.net
 pp-serve.newsinc.com
 pixelg.adswizz.com
 pixel.bild.de
-pixel.parsely.com
 pix.sniperlog.ru
 partner.shareaholic.com
 p.l1v.ly
@@ -25962,6 +25971,7 @@ ohmystats.com
 oidah.com
 okt.to
 oktopost.com
+omappapi.com
 omarsys.com
 omeda.com
 ometria.com
@@ -27298,7 +27308,9 @@ lowlocket.com
 lumberamount.com
 lumpylumber.com
 magnetairport.com
+massivemark.com
 meatydime.com
+movemeal.com
 mowfruit.com
 mundanepollution.com
 neighborlywatch.com
@@ -28889,6 +28901,7 @@ pixel.condenastdigital.com
 pixel.fanbridge.com
 pixel.glimr.io
 pixel.newscred.com
+pixel.parsely.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.solvemedia.com
@@ -30025,7 +30038,6 @@ yllix.com
 ys3e965d.top
 yx-ads6.com
 zukxd6fkxqn.com
-vnnayngaytin.vn
 ad.org.vn
 ad.zing.vn
 ad360.vn
@@ -30039,6 +30051,7 @@ adpia.vn
 adrealclick.com
 ads-target.coccoc.com
 ads.hosting.vcmedia.vn
+ads.zalo.me
 ads.zaloapp.com
 ads.zdn.vn
 adsota.com
@@ -30067,6 +30080,7 @@ cokhach.com
 contineljs.com
 d2ox6x0y9xhicd.cloudfront.net
 dable.io
+donglogs.com
 eclick.vn
 ezimar.com
 fff.com.vn
@@ -30108,6 +30122,7 @@ polyad.net
 pushdi.com
 pushdy.com
 pushdy.vn
+px.za.zalo.me
 px.za.zaloapp.com
 qc-static.coccoc.com
 qc.coccoc.com
@@ -30134,11 +30149,13 @@ viam.com.vn
 vidoomy.com
 vietad.vn
 vietnamnetad.vn
+vnnayngaytin.vn
 yeah1media.vn
 yoads.net
 yoads.network
 yomedia.vn
 younetmedia.com
+zaloapp.ads.zdn.vn
 zlog.zingmp3.vn
 zminer.zaloapp.com
 zplayer-trk.zdn.vn
@@ -30404,6 +30421,7 @@ rituationscardb.info
 sacchaeleduk.com
 sukientraogiaizalo.com
 xmobliefacebook.com
+dnscheck.adguard.com
 abcounter.de
 adc.9news.com.au
 adc.api.nine.com.au

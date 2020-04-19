@@ -227,6 +227,7 @@ artefact.is
 artfut.com
 ascend.ai
 assoctrac.com
+asteriresearch.com
 astro-way.com
 atatus.com
 athenainstitute.biz
@@ -3265,6 +3266,7 @@ speedcounter.net
 speedtracker.de
 spelar.org
 spider-mich.com
+spkrth.scw.systems
 sponsorcounter.de
 spring-tns.net
 srvtrck.com
@@ -4912,6 +4914,7 @@ clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 nsg.symantec.com
 seal.godaddy.com
+seal.verisign.com
 sealserver.trustwave.com
 websecurity.norton.com
 widgets.trustedshops.com
@@ -6448,6 +6451,7 @@ eultech.fnac.com
 events.guesttoguest.com
 fsm.lapresse.ca
 g.itespresso.fr
+geo.6play.fr
 k.rueducommerce.fr
 kbn.korben.info
 lem.nouvelobs.com
