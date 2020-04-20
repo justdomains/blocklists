@@ -1506,6 +1506,7 @@ onestat.com
 onetag-sys.com
 onetag.io
 ongsono.com
+oniad.com
 onlinepbx.ru
 onlysix.co.uk
 onthe.io
@@ -2781,7 +2782,6 @@ staticsfs.host
 stonecalcom.com
 str1kee.com
 streambeam.io
-streamplay.to
 sumokoin.com
 supportxmr.com
 sushipool.com
@@ -3252,6 +3252,7 @@ reshin.de
 rightstats.com
 royalcount.de
 scriptil.com
+scw.systems
 sedotracker.de
 seitwert.de
 selfcampaign.com
@@ -3266,7 +3267,6 @@ speedcounter.net
 speedtracker.de
 spelar.org
 spider-mich.com
-spkrth.scw.systems
 sponsorcounter.de
 spring-tns.net
 srvtrck.com
@@ -4611,6 +4611,7 @@ scout.haymarketmedia.com
 scripts.psyma.com
 sdrive.skoda-auto.com
 secure.ifbyphone.com
+secure.merchantadvantage.com
 seg.sharethis.com
 segments.adap.tv
 session.timecommerce.net
@@ -4925,6 +4926,7 @@ analytics.gameforge.de
 analytics.loop-cloud.de
 analytics.pinpoll.com
 analytics.praetor.im
+beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cdntrf.de
 cgicounter.onlinehome.de
@@ -5211,6 +5213,7 @@ analytics.aasaam.com
 analytics.ceneo.pl
 analytics.greensender.pl
 cmp.dreamlab.pl
+dsg.interia.pl
 fab.interia.pl
 hit.interia.pl
 marketing.tr.netsalesmedia.pl
@@ -6161,6 +6164,7 @@ ttauri.loudersound.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttauri.whathifi.com
+twch.20min.ch
 wiltshiretimes-gb.wiltshiretimes.co.uk
 worcesternews-gb.worcesternews.co.uk
 yourlocalguardian-gb.yourlocalguardian.co.uk
@@ -6632,7 +6636,6 @@ pw.gigazine.net
 scis.tbs.co.jp
 sy.amebame.com
 sy.ameblo.jp
-tr.api.itmedia.jp
 wisteria-js.excite.co.jp
 x.allabout.co.jp
 yjtag.yahoo.co.jp
