@@ -4913,6 +4913,7 @@ uhytajrtpo-a.akamaihd.net
 zvsuhljiha-a.akamaihd.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
+howsmyssl.com
 nsg.symantec.com
 seal.godaddy.com
 seal.verisign.com
