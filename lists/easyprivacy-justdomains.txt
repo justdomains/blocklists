@@ -884,7 +884,6 @@ gbotvisit.com
 gear5.me
 geistm.com
 genieesspv.jp
-geo-targetly.com
 geobytes.com
 geoedge.be
 geoip-db.com
@@ -1109,6 +1108,7 @@ ipify.org
 ipinfo.info
 ipinfodb.com
 ipinyou.com.cn
+iplist.cc
 iplocationtools.com
 ipro.com
 iproanalytics.com
@@ -3656,6 +3656,7 @@ smart-counter.net
 smartnews-ads.com
 socdm.com
 speee-ad.jp
+taxel.jp
 team-rec.jp
 tgknt.com
 trackfeed.com
@@ -4966,7 +4967,6 @@ met.vgwort.de
 omniture.eaeurope.eu
 orbidder.otto.de
 px.staticfiles.at
-quiz.stroeermediabrands.de
 retrack.q-divisioncdn.de
 stat.clichehosting.de
 stat4.edev.at
