@@ -887,6 +887,7 @@ genieesspv.jp
 geobytes.com
 geoedge.be
 geoip-db.com
+geoip-js.com
 geojs.io
 geolid.com
 georiot.com
@@ -4108,6 +4109,7 @@ bid.g.doubleclick.net
 bitdash-reporting.appspot.com
 bizsolutions.strands.com
 blip.bizrate.com
+bmrg.reflected.net
 bonsai.internetbrands.com
 brain.foresee.com
 bright.bncnt.com
@@ -5531,6 +5533,7 @@ fast.forbes.com
 fathom.hakibenita.com
 felitb.rightinthebox.com
 firebaselogging.googleapis.com
+fp.measure.office.com
 fresh.techdirt.com
 frog.wix.com
 funn.graphiq.com
@@ -5571,7 +5574,6 @@ geoip.syracuse.com
 geoip.viamichelin.com
 gj.mmstat.com
 glassmoni.researchgate.net
-glean.pop6.com
 gmonitor.aliimg.com
 gnar.grammarly.com
 h.cliphunter.com
@@ -6678,7 +6680,6 @@ g.bitmag.com.br
 logger.rm.uol.com.br
 logger.uol.com.br
 metrics.uol.com.br
-tm.jsuol.com.br
 tm.uol.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt
