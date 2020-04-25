@@ -5028,6 +5028,7 @@ calotag.com
 cdn-analytics.ladmedia.fr
 collect.adback.co
 compteur.websiteout.net
+core.unit-sense.net
 e.funnymel.com
 email-reflex.com
 events.sk.ht
@@ -5046,6 +5047,7 @@ t.ofsys.com
 tag.goldenbees.fr
 tag.leadplace.fr
 testcddc.atclouddev.net
+tim.nextinpact.com
 tmgr.ccmbg.com
 track.byzon.swelen.net
 track.kyoads.com
@@ -5767,6 +5769,7 @@ s.youtube.com
 sa.bbc.co.uk
 sa.squareup.com
 sa135.macworld.co.uk
+sa135.wsbtv.com
 sana.newsinc.com.s3.amazonaws.com
 sayac.hurriyettv.com
 sc.cc.com
