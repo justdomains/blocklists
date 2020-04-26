@@ -144,6 +144,7 @@ affiliatly.com
 affinesystems.com
 affinitymatrix.com
 affistats.com
+afftrack.pro
 africal.info
 afsanalytics.com
 agentanalytics.com
@@ -210,6 +211,7 @@ apicit.net
 apollofind.com
 appboycdn.com
 appn.center
+appsflyer.com
 aprtn.com
 aprtx.com
 apsislead.com
@@ -684,6 +686,7 @@ easy-hit-counters.com
 easycounter.com
 easyhitcounters.com
 easyresearch.se
+eb4us.com
 ebtrk1.com
 ec-track.com
 eclampsialemontree.net
@@ -776,6 +779,7 @@ extreme-ip-lookup.com
 eyein.com
 eyereturn.com
 ezec.co.uk
+ezodn.com
 ezytrack.com
 f92j5.com
 fabricww.com
@@ -1046,6 +1050,7 @@ incentivesnetwork.net
 index.ru
 indexstats.com
 indextools.com
+indicative.com
 indicia.com
 individuad.net
 ineedhits.com
@@ -1662,6 +1667,7 @@ pureairhits.com
 purevideo.com
 putags.com
 px-cloud.net
+pxaction.com
 pxchk.net
 pxf.io
 pxi.pub
@@ -1677,6 +1683,7 @@ qlzn6i1l.com
 qoijertneio.com
 qsstats.com
 quadran.eu
+qualaroo.com
 quantcount.com
 quantummetric.com
 quartic.pl
@@ -2046,6 +2053,7 @@ sub2tech.com
 submitnet.net
 subtraxion.com
 successfultogether.co.uk
+sugodeku.com
 summerhamster.com
 summitemarketinganalytics.com
 sumo.com
@@ -2388,6 +2396,7 @@ webstats.com
 webstats4u.com
 webtraffic.se
 webtrafficagents.com
+webtrafficsource.com
 webtraffiq.com
 webtraxs.com
 webtrekk-asia.net
@@ -3974,6 +3983,7 @@ analytics-rhwg.rhcloud.com
 analytics-scripts.cablelabs.com
 analytics-static.ugc.bazaarvoice.com
 analytics.30m.com
+analytics.agoda.com
 analytics.amakings.com
 analytics.anvato.net
 analytics.apnewsregistry.com
@@ -4105,6 +4115,7 @@ beacon2.indieclick.com
 beacon2.indieclicktv.com
 beacons.brandads.net
 beacons.mediamelon.com
+bento.agoda.com
 bid.g.doubleclick.net
 bitdash-reporting.appspot.com
 bizsolutions.strands.com
@@ -4602,6 +4613,7 @@ rs.sinajs.cn
 rss.tmgrup.com.tr
 rtt.campanja.com
 rum.conde.io
+rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.uptime.com
 rva.outbrain.com
@@ -5150,6 +5162,7 @@ encoderfarmstatsnew.servicebus.windows.net
 evnt.iol.it
 fb_servpub-a.akamaihd.net
 fcstats.altervista.org
+heymatic.com
 instore.pagomeno.it
 livestats.matrix.it
 log.superweb.ws
@@ -5563,6 +5576,8 @@ geoip.al.com
 geoip.boredpanda.com
 geoip.cleveland.com
 geoip.gulflive.com
+geoip.hmageo.com
+geoip.ifunny.co
 geoip.inquirer.net
 geoip.lehighvalleylive.com
 geoip.masslive.com
@@ -5964,6 +5979,7 @@ t-ak.hulu.com
 t.9gag.com
 t.allmodern.com
 t.appsflyer.com
+t.av.st
 t.birchlane.com
 t.blinkist.com
 t.cinemablend.com
