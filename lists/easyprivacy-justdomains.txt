@@ -6710,6 +6710,7 @@ urchin.estadao.com.br
 ad7.bigmir.net
 analytics.carambatv.ru
 counter.drom.ru
+counter.sibnet.ru
 data.glamour.ru
 dot-stat.radikal.ru
 kiks.auto.ru
