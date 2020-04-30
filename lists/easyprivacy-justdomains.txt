@@ -3541,6 +3541,7 @@ netmonitor.fi
 stat.www.fi
 vihtori-analytics.fi
 linkwi.se
+analyti.io
 enter-system.com
 erate.co.il
 fortvision.com
@@ -3749,6 +3750,7 @@ cifraclub.com.br
 clearsale.com.br
 denakop.com
 engageya.com
+orquideassp.com
 percycle.com
 rdstation.com.br
 sambaads.com
@@ -4073,6 +4075,7 @@ ape-tagit.timeinc.net
 api.wipmania.com
 app.link
 apple.www.letv.com
+argos.citruserve.com
 ariane.abtasty.com
 aserve.directorym.com
 attributiontrackingga.googlecode.com
@@ -5213,6 +5216,7 @@ speee-ad.akamaized.net
 sstats.mora.jp
 sync.shinobi.jp
 t.adlpo.com
+t.felmat.net
 torimochi.line-apps.com
 track.thebase.in
 userdive.com
@@ -5389,6 +5393,7 @@ analytics.meaww.com
 analytics.mindjolt.com
 analytics.mouthshut.com
 analytics.ngfiles.com
+analytics.nike.com
 analytics.plex.tv
 analytics.posttv.com
 analytics.productreview.com.au
