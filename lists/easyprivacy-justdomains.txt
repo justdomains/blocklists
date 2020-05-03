@@ -3459,7 +3459,6 @@ hubpd.com
 i-mobile.co.jp
 ipinyou.com
 irs09.com
-iteye.com
 jiankongbao.com
 lndata.com
 logly.co.jp
@@ -4296,6 +4295,7 @@ d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
+d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
