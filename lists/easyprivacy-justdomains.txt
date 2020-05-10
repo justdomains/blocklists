@@ -5490,7 +5490,6 @@ cmstrendslog.timesnow.tv
 cnt.nicemix.com
 cnt.nuvid.com
 cnt.vivatube.com
-co.hltv.org
 collector-cdn.github.com
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
@@ -5583,7 +5582,6 @@ gc.newsweek.com
 gcpdata.telegraph.co.uk
 gekko.spiceworks.com
 geo.battle.net
-geo.hltv.org
 geo.homepage-web.com
 geo.metronews.ca
 geo.nbcsports.com
