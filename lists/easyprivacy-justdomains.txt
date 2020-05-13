@@ -3857,7 +3857,6 @@ ru.net
 rutarget.ru
 sarimsol.com
 sarov.ws
-sas.com
 sblftg.com
 semantiqo.com
 sensor.org.ua
@@ -5233,6 +5232,7 @@ track.thebase.in
 userdive.com
 webtracker.jp
 x9.shinobi.jp
+xr.shinobi.jp
 log.cizion.com
 mtag.mman.kr
 performanceplay.co.kr
