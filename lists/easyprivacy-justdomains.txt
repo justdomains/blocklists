@@ -5356,7 +5356,6 @@ informers.sinoptik.ua
 analytics.yomedia.vn
 aa.avvo.com
 aax-us-iad.amazon.com
-abeagle-public.buzzfeed.com
 acookie.alibaba.com
 activity.frequency.com
 activity.homescape.com
@@ -6700,6 +6699,7 @@ stat.tiara.kakao.com
 track.tiara.daum.net
 track.tiara.kakao.com
 tracker.cauly.co.kr
+uts.auction.co.kr
 veta.naver.com
 wcs.naver.com
 weblog.eseoul.go.kr
