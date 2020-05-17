@@ -2210,7 +2210,6 @@ trakzor.com
 transactionale.com
 traversedlp.com
 trbas.com
-treasuredata.com
 trekmedia.net
 trendcounter.com
 trendemon.com
@@ -3630,6 +3629,7 @@ bigmining.com
 blogranking.net
 ca-mpr.jp
 cetlog.jp
+cheqzone.com
 cosmi.io
 d-markets.net
 d2-apps.net
@@ -3667,6 +3667,7 @@ owldata.com
 pagoda56.com
 pdmp.jp
 polymorphicads.jp
+quant.jp
 r-ad.ne.jp
 rays-counter.com
 rentracks.jp
@@ -4396,6 +4397,7 @@ geo.ertya.com
 geo.gorillanation.com
 geo.kontagent.net
 geo.mezr.com
+geo.ngtv.io
 geo.q5media.net
 geobar.ziffdavisinternational.com
 geoip.nekudo.com
@@ -5211,6 +5213,7 @@ analysis.shinobi.jp
 analytics.liveact.cri-mw.jp
 analyzer51.fc2.com
 asumi.shinobi.jp
+bidder.mediams.mb.softbank.jp
 clickanalyzer.jp
 counter2.blog.livedoor.com
 imgstat.ameba.jp
@@ -5219,6 +5222,7 @@ kitchen.juicer.cc
 l.popin.cc
 lcs.livedoor.net
 log.codemarketing.cloud
+log.f-tra.com
 log.nordot.jp
 omt.shinobi.jp
 rcm.shinobi.jp
@@ -5230,6 +5234,7 @@ t.felmat.net
 torimochi.line-apps.com
 track.thebase.in
 userdive.com
+webbc.fivecdm.com
 webtracker.jp
 x9.shinobi.jp
 xr.shinobi.jp
