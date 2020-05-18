@@ -890,7 +890,6 @@ genieesspv.jp
 geobytes.com
 geoedge.be
 geoip-db.com
-geoip-js.com
 geojs.io
 geolid.com
 geolocation-db.com
