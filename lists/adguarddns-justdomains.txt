@@ -115,6 +115,7 @@ tracking.fsjmp.com
 tutonovip.com
 ver-pelis.net
 yestorrents.org
+csnem.ru
 kdkdkd.pro
 umcbbt.com
 starikanadstarikan.ru
@@ -3632,6 +3633,7 @@ zxrtn.com
 zycvyudt.com
 zz2017.ru
 cpm.wargaming.net
+rek1.gtorrent.org
 d31nb97nd8ha11.cloudfront.net
 advast.sibnet.ru
 nov.evmenov37.ru
@@ -3906,6 +3908,9 @@ spl.ztvx8.com
 qaops.jgwsmqx.com
 zhangguangzong.com
 kolsh.cn
+newsunads.com
+smart2cnjuh34jb.com
+pophahwot.com
 82448dceaaa13034.com
 ae21a0ad95016488.com
 ded733b374cc1c3f.com
@@ -3923,7 +3928,6 @@ onclickalgo.com
 refnippod.com
 gadspms.com
 youearrid.com
-acdcdn.com
 ashcdn.com
 eveteaemo.com
 terttalkinhitin.pro
@@ -5942,6 +5946,7 @@ i2.myapkcdn.in
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+iam.datasavannah.com
 a.f590906c3e6c07bb5f80801f2dfc4295.com
 a.eed1729eebe45b8cd49e10f2dd80e297.com
 ad.doublemax.net
@@ -6820,6 +6825,7 @@ absolubleldan.site
 accedenonre.club
 acceptiongere.site
 accompathych.site
+acdcdn.com
 acmsg.online
 acscdn.com
 acticgreasonsc.info
@@ -6873,6 +6879,7 @@ anybagant.club
 anycadark.site
 apearkcan.club
 apologixopyr.site
+apparentsav.club
 appropeanes.club
 appropolyfunt.site
 aptashant.club
@@ -6940,6 +6947,7 @@ beeashale.club
 beewanuk.net
 beiven.pw
 belgradualuna.site
+berningbegi.club
 bersmanatomic.site
 besiasmere.site
 bestvideo2019.xyz
@@ -6973,6 +6981,7 @@ busfarmum.com
 butashasp.site
 bwhjcwnbbwsd.com
 byhz.xyz
+c0z.xyz
 c26e9ccd4e063b.com
 c3t-system-err.club
 c50021876c67fd14.com
@@ -6991,6 +7000,7 @@ casinohacksforyou.com
 cauthuny.net
 cawsodpet.club
 cconseent.info
+cdcz.xyz
 cdn.rtclx.com
 cdn4ads.com
 cdnads.com
@@ -7159,6 +7169,7 @@ emembersm.site
 ememoricane.info
 encountryf.pro
 encoursejaso.site
+englingedrxa.club
 engppdoqrtivjd.com
 enormitteen.pro
 enseptedsome.info
@@ -7243,6 +7254,7 @@ frequestabure.site
 fryawlauk.com
 ftigholm.site
 fufoatch.com
+fundardsesaz.club
 futckgpfbgzfn.com
 fuyuap.xyz
 fz5akngy5o6r.com
@@ -7289,6 +7301,7 @@ gospecularavch.site
 gr8y7z1xaq30.com
 gragliapastri.info
 grampouz.net
+granticaffodily.club
 graunada.com
 greatvideos.xyz
 grementessenti.info
@@ -7317,6 +7330,7 @@ hedressive.info
 hesterinoc.info
 hgdy-hffb-ihgd-8hgf.wrkl.xyz
 himselvepostly.site
+himselveseg.club
 himselvesobr.club
 hincludingse.site
 histlingklakson.site
@@ -7366,6 +7380,7 @@ jincreasteregy.site
 jinsoopt.net
 joawapti.net
 jobhobfir.club
+jockeryfgtu.club
 jqk72ugyl2pz.com
 judaisydfs.club
 junmediadirect.com
@@ -7400,6 +7415,7 @@ ladsabz.com
 ladsdown.com
 laichaim.net
 lalaping.com
+lamberserer.club
 lassistslegisten.info
 lationwordsi.club
 latviancedef.site
@@ -7556,6 +7572,7 @@ nogerefron.info
 noglolra.com
 norakseemlyntr.info
 normugtog.com
+northeregikgf.club
 northyatters.site
 notification-centar.com
 notifysrv.com
@@ -7648,6 +7665,7 @@ phabsoun.net
 pharougn.com
 pheekrie.com
 pheevoug.com
+phenylketh.site
 phookree.com
 phsism.com
 pigaimhop.com
@@ -7770,6 +7788,7 @@ runmeethoomes.info
 rydresa.info
 ryhastille.info
 rywoments.info
+s3eds.s4d.xyz
 sacaharag.club
 sadorsagreeng.info
 sadsecz.com
@@ -7926,10 +7945,12 @@ uitabletublis.info
 ukcomparends.pro
 uluswozzel.info
 ummerciseha.info
+undedfracted.club
 undedsunbese.site
 underwards.site
 unlomblam.pro
 unreshiramor.com
+untabilityde.site
 untridrisa.cf
 upush.co
 urchrevening.info
@@ -24607,6 +24628,7 @@ api.appsflyer.com
 register.appsflyer.com
 events.appsflyer.com
 track.appsflyer.com
+analytics.datasavannah.com
 sq.requestads.com
 insight.ucweb.com
 gjapplog.ucweb.com
@@ -25858,7 +25880,6 @@ hitwebcounter.com
 hivps.xyz
 hlserve.com
 hmstats.com
-honeybadger.io
 hoood.info
 hopurl.org
 hospitality-optimizer.com
@@ -26150,7 +26171,6 @@ marketo.net
 marketperf.com
 marketshot.com
 marketshot.fr
-maropost.com
 masterstats.com
 matheranalytics.com
 mathtag.com
@@ -30865,6 +30885,9 @@ rituationscardb.info
 sacchaeleduk.com
 sukientraogiaizalo.com
 xmobliefacebook.com
+65tgh.com
+tyh887.com
+bzbsecs.cn
 0024aaaa.com
 00880808.com
 008844.cc
@@ -33897,9 +33920,9 @@ runkao.net
 stunninglover.com
 watakaw133.xyz
 cryptaloot.pro
-hesepd.cn
-0518dfgwert.xyz
-monimoni.top
+kkhuhct.cn
+xn--ddua45lfy1c.ink
+gralfusnzpo003.top
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -33915,6 +33938,7 @@ monimoni.top
 0413fsiuhwem.xyz
 0420zvnmljgfdsa.xyz
 0511qsfhknvz.xyz
+0518dfgwert.xyz
 0530hz.cn
 0532ci.com.cn
 0551zgz.com
@@ -34718,6 +34742,7 @@ hellogalaxy.cn
 helpinfo.cn
 henanlinyu.cn
 henduoqian.com
+hesepd.cn
 heylookhere.top
 hfyxdl.com
 hgdanbas.cn
@@ -35125,6 +35150,7 @@ mmpuh.cn
 mmwdwg.cn
 mnptinibfbv.com
 mobiorg8.com
+monimoni.top
 morningpiggy.com
 moshangflower.cn
 mouaa.com
