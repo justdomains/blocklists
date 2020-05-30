@@ -210,6 +210,7 @@ apextwo.com
 apicit.net
 apollofind.com
 appboycdn.com
+appcast.io
 appn.center
 appsflyer.com
 aprtn.com
@@ -2487,6 +2488,8 @@ zqtk.net
 zroitracker.com
 ztsrv.com
 zuzab.com
+guoshipartners.com
+push4site.com
 0x1f4b0.com
 1q2w3.fun
 1q2w3.website
@@ -3817,6 +3820,7 @@ musiccounter.ru
 mystat-in.net
 mytopf.com
 opentracking.ru
+otclick-adv.ru
 pmbox.biz
 proext.com
 quick-counter.net
@@ -4876,9 +4880,7 @@ ws.audioeye.com
 wstat.wibiya.com
 x.weather.com
 zdlogs.sphereup.com
-go.techtarget.com
 trk.techtarget.com
-users.techtarget.com
 aksb-a.akamaihd.net
 ds-aksb-a.akamaihd.net
 e77lmzbqou0n-a.akamaihd.net
@@ -5565,7 +5567,6 @@ intent.cbsi.com
 intg.snapchat.com
 ip.breitbart.com
 ip.pichunter.com
-kg.aws.mashable.com
 kinesisproxy.hearstlabs.com
 laas.americanexpress.com
 lh.secure.yahoo.com
@@ -6543,6 +6544,7 @@ tongji.mafengwo.cn
 tr.discuss.com.hk
 tr.price.com.hk
 track.sohu.com
+trackjay.cool3c.com
 uestat.video.qiyi.com
 utrack.hexun.com
 vatrack.hinet.net
