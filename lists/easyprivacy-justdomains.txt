@@ -1022,6 +1022,7 @@ i-stats.com
 i401xox.com
 iaudienc.com
 ib-ibi.com
+ibeat-analytics.com
 ibpxl.com
 ibpxl.net
 ic-live.com
@@ -1315,6 +1316,7 @@ media01.eu
 mediaarmor.com
 mediaforgews.com
 mediagauge.com
+mediaglacier.com
 mediametrics.ru
 mediaplex.com
 mediarithmics.com
@@ -1933,6 +1935,7 @@ smart-digital-solutions.com
 smart-dmp.com
 smart-ip.net
 smart-traffik.com
+smartclip-services.com
 smartctr.com
 smarterhq.io
 smarterremarketer.net
@@ -2189,6 +2192,7 @@ tradedoubler.com
 tradelab.fr
 tradescape.biz
 trafex.net
+traffer.net
 trafficby.net
 trafficengine.net
 trafficfacts.com
@@ -2488,8 +2492,26 @@ zqtk.net
 zroitracker.com
 ztsrv.com
 zuzab.com
+breaktime.com.tw
+brightedge.com
+citrusad.net
+clickguardian.app
+clickyab.com
+franecki.net
 guoshipartners.com
+hostpush.info
+ismatlab.com
+iwqzrm.com
+klangoo.com
+p30rank.ir
+ppcprotect.com
 push4site.com
+ravelin.net
+sabavision.com
+sealine.pro
+simility.com
+spideraf.com
+vtex.com.br
 0x1f4b0.com
 1q2w3.fun
 1q2w3.website
@@ -3516,7 +3538,6 @@ traffic4u.nl
 counter.ok.ee
 gallupnet.fi
 kavijaseuranta.fi
-leiki.com
 m-brain.fi
 netmonitor.fi
 stat.www.fi
@@ -3539,6 +3560,7 @@ ripost.services
 modernus.is
 analytic.rocks
 props.id
+rvkcpqz.com
 0stats.com
 accessi.it
 avstat.it
@@ -3736,6 +3758,7 @@ engageya.com
 orquideassp.com
 percycle.com
 rdstation.com.br
+retargeter.com.br
 sambaads.com
 trugaze.io
 2iui01.com
@@ -3934,6 +3957,7 @@ mycounter.ua
 uapoisk.net
 weblog.com.ua
 zmctrack.net
+adtimaserver.vn
 amcdn.vn
 contineljs.com
 gostats.vn
@@ -4155,6 +4179,7 @@ collect.rewardstyle.com
 collect.usefathom.com
 collector-api.99designs.com
 collector.automote.co.nz
+collector.clareity.net
 collector.contentexchange.me
 collector.mazeberry.com
 collector.roistat.com
@@ -4370,6 +4395,7 @@ glbdns.microsoft.com
 glogger.inspcloud.com
 go.optifuze.com
 go.toutapp.com
+go.trouter.skype.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
 gtrk.s3.amazonaws.com
@@ -4880,6 +4906,10 @@ ws.audioeye.com
 wstat.wibiya.com
 x.weather.com
 zdlogs.sphereup.com
+fyrsbckgi-c.global.ssl.fastly.net
+ref.dealerinspire.com
+risk.clearbit.com
+targeting.voxus.tv
 trk.techtarget.com
 aksb-a.akamaihd.net
 ds-aksb-a.akamaihd.net
@@ -5263,6 +5293,7 @@ stat.rum.cdnvideo.ru
 stat.sputnik.ru
 stat.tvigle.ru
 stats.seedr.com
+stats.tazeros.com
 target.mirtesen.ru
 target.smi2.net
 target.smi2.ru
@@ -5503,7 +5534,6 @@ felitb.rightinthebox.com
 firebaselogging.googleapis.com
 fp.measure.office.com
 fresh.techdirt.com
-frog.wix.com
 funn.graphiq.com
 g.ign.com
 g.mashable.com
@@ -5522,6 +5552,7 @@ geo.metronews.ca
 geo.nbcsports.com
 geo.play.it
 geo.yahoo.com
+geoapi.indiatimes.com
 geobeacon.ign.com
 geoip-lookup.vice.com
 geoip.al.com
