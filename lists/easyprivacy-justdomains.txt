@@ -3561,7 +3561,6 @@ ripost.services
 modernus.is
 analytic.rocks
 props.id
-rvkcpqz.com
 0stats.com
 accessi.it
 avstat.it
@@ -3717,6 +3716,7 @@ xtractor.no
 amarfa.ir
 persianstat.com
 persianstat.ir
+rvkcpqz.com
 tinystat.ir
 webgozar.com
 webgozar.ir
