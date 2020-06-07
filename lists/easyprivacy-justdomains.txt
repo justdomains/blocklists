@@ -1040,6 +1040,7 @@ igaming.biz
 iljmp.com
 illumenix.com
 ilogbox.com
+imhd.io
 immanalytics.com
 impactradius-event.com
 impcounter.com
@@ -4931,7 +4932,6 @@ seal.godaddy.com
 seal.verisign.com
 sealserver.trustwave.com
 websecurity.norton.com
-widgets.trustedshops.com
 connatix.com
 analytics.audionow.de
 analytics.cnd-motionmedia.de
