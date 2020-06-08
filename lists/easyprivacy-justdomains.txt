@@ -121,7 +121,6 @@ adsensedetective.com
 adservicemedia.dk
 adspsp.com
 adsrvx.com
-adswizz.com
 adsymptotic.com
 adtarget.me
 adtelligence.de
@@ -1538,7 +1537,6 @@ oribi.io
 os-data.com
 osdata.solutions
 ositracker.com
-ospserver.net
 otoshiana.com
 otracking.com
 ournet-analytics.com
