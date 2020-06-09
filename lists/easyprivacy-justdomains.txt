@@ -2409,6 +2409,7 @@ webtuna.com
 weesh.co.uk
 wemfbox.ch
 whackedmedia.com
+wheredoyoucomefrom.ovh
 whitepixel.com
 whizstats.com
 whoaremyfriends.com
@@ -3140,6 +3141,7 @@ die-rankliste.com
 digidip.net
 directcounter.de
 divolution.com
+dl8.me
 dreamcounter.de
 durocount.com
 eanalyzer.de
@@ -3204,7 +3206,6 @@ lumitos.com
 mairdumont.com
 marketing-page.de
 mateti.net
-md-nx.com
 meetrics.net
 mengis-linden.org
 metalyzer.com
@@ -4885,6 +4886,7 @@ uid.mavencoalition.io
 upt.graphiq.com
 urc.taboolasyndication.com
 usersegment.wpdigital.net
+utle.tech426.com
 v.shopify.com
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
