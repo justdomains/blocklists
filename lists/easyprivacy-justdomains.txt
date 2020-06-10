@@ -877,6 +877,7 @@ fuse-data.com
 fusestats.com
 fuziontech.net
 fyreball.com
+gaconnector.com
 gameanalytics.com
 gammachug.com
 gatorleads.co.uk
@@ -4932,7 +4933,6 @@ seal.godaddy.com
 seal.verisign.com
 sealserver.trustwave.com
 websecurity.norton.com
-connatix.com
 analytics.audionow.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
@@ -6097,6 +6097,7 @@ warp.prnewswire.co.uk
 watson.live.com
 wblt.oui.sncf
 web-t.9gag.com
+weblog.flyasiana.com
 weblog.strawberrynet.com
 webstats.thesoul-publishing.com
 wla.vivaldi.com
