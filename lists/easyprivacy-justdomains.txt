@@ -969,6 +969,7 @@ hexagon-analytics.com
 heyhelga.net
 heystaks.com
 hiconversion.com
+hif.to
 higherengine.com
 highmetrics.com
 hira-meki.jp
@@ -4931,7 +4932,6 @@ howsmyssl.com
 nsg.symantec.com
 seal.godaddy.com
 seal.verisign.com
-sealserver.trustwave.com
 websecurity.norton.com
 analytics.audionow.de
 analytics.cnd-motionmedia.de
