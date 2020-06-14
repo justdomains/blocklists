@@ -5139,6 +5139,7 @@ hottraffic.nl
 statistics.rbi-nl.com
 counter.zone.ee
 insight.fonecta.fi
+tags.op-palvelut.fi
 links.boom.ge
 analytics.dol.gr
 analyticsv2.dol.gr
@@ -5496,6 +5497,7 @@ desa.fkapi.net
 desb.fkapi.net
 desr.fkapi.net
 diamond.transfermarkt.de
+direct-events-collector.spot.im
 dl.meliacloud.com
 dmp.marketgid.com
 dmtracking2.alibaba.com
