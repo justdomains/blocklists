@@ -1823,7 +1823,6 @@ s3s-main.net
 s7target.ru
 safe-click.net
 sageanalyst.net
-sajari.com
 salecycle.com
 salemove.com
 salesgenius.com
@@ -2487,6 +2486,7 @@ zeerat.com
 zengenti.com
 zeotap.com
 zesep.com
+zeustechnology.com
 zoomanalytics.co
 zoomflow.com
 zoomino.com
