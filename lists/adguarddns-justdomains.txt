@@ -116,6 +116,7 @@ tracking.fsjmp.com
 tutonovip.com
 ver-pelis.net
 yestorrents.org
+ankunding.biz
 zismone.ru
 promoggaqjkd.ru
 rstbtmd.com
@@ -2578,7 +2579,6 @@ pgold.info
 pgold.org
 pgold.pro
 phinker.ru
-phoenix-widget.com
 phpteaser.ru
 piar-m.ru
 pidorg.ru
@@ -3953,6 +3953,10 @@ spl.ztvx8.com
 qaops.jgwsmqx.com
 zhangguangzong.com
 kolsh.cn
+eaes.2track.info
+ughhimtoy.com
+vg4u8rvq65t6.com
+ridferbad.com
 hadsokz.com
 bestdealfor20.life
 api.myhappyads.com
@@ -5479,6 +5483,7 @@ zptncsir.com
 stripe.rs-1028-a.com
 samsungads.com
 samsungtvads.com
+d36zfztxfflmqo.cloudfront.net
 dl5ft52dtazxd.cloudfront.net
 d3v3bqdndm4erx.cloudfront.net
 dkyp75kj7ldlr.cloudfront.net
@@ -5692,6 +5697,7 @@ dviixeyykyqjv.cloudfront.net
 js.bulkhentai.com
 script.hqpass.com
 d2t2on23g4lty1.cloudfront.net
+ref.gitadres.com
 basvformu5.xyz
 yfzbn.com
 adhouse.cubecdn.net
@@ -6907,6 +6913,7 @@ admiriam.club
 adreach.me
 adservi.com
 adsrv.me
+adstonesik.club
 adultterritory.net
 advancellsclo.site
 adziondin.club
@@ -7173,6 +7180,7 @@ councedvdvg.club
 counevan.pro
 countertrck.com
 courselfnorter.site
+courthereb.club
 cowbumply.com
 coysotown.com
 cp7gyw5w94c7.com
@@ -7404,6 +7412,7 @@ ffickiedisticre.site
 ffortyimagist.info
 fibpeeode.site
 fibusedie.site
+fimpromote.club
 findicaterperty.site
 fingahvf.top
 finized.co
@@ -7455,6 +7464,7 @@ gebralefukim.site
 gedmhqqipuz6wfon.pro
 gedspecificano.info
 geepwnfly.club
+gencehepatie.club
 geodestricy.site
 gesymphone.site
 gflnzl1vqntw.com
@@ -7696,6 +7706,7 @@ malharpossible.pro
 malharvoice.pro
 manatomicbru.site
 mancehostic.site
+marketeret.club
 martafatass.pro
 martyappear.pro
 marwinhitted.site
@@ -7727,6 +7738,7 @@ mewtenhah.com
 mftmyrzoxtfx.com
 mhj765.xyz
 mibsooks.net
+migatesbala.fun
 mikrairs.com
 millagesert.info
 minologyhesia.site
@@ -7884,6 +7896,7 @@ oratorsresente.info
 orcjagpox.com
 ordinggrandt.fun
 originedreting.site
+ornamedev.club
 ortantchangem.info
 oselyprepartie.info
 osmondards.pro
@@ -8118,6 +8131,7 @@ saturalerdax.site
 saumooly.net
 sbc7wfnaakau.com
 sbroughhig.info
+scientialy.club
 sculifinanthools.site
 sdhfbvd.com
 sdkfjxjertertry.com
@@ -8313,6 +8327,7 @@ ummerciseha.info
 undedfracted.club
 undedsunbese.site
 underwards.site
+unknowlejir.club
 unlomblam.pro
 unreshiramor.com
 untabilityde.site
@@ -8342,6 +8357,7 @@ vanmapdug.club
 vebadu.com
 veewakim.net
 verageousarra.site
+veralother.fun
 verdriusuref.site
 veremund-hon.com
 vfl81ea28aztw7y3.pro
@@ -8399,6 +8415,7 @@ withoughstors.club
 wityamdog.com
 wizliebeg.com
 wizwarsum.site
+wolvedfdg.club
 womentunyd.site
 woogoust.com
 woovooza.net
@@ -23354,6 +23371,9 @@ wbusiness.fr
 widebanner.com
 yobee.it
 zodiakactive.com
+ulclick.ru
+phoenix-widget.com
+collector.getyourguide.com
 5baf1288cf.dl8.me
 stat.sm-it.space
 collect.feefo.com
@@ -23585,7 +23605,6 @@ tanidigital.com
 0tracker.com
 100im.info
 200stran.ru
-actonsoftware.com
 addcontrol.net
 admdspc.com
 admeo.ru
@@ -24161,6 +24180,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+d5etv3akk3gsa.cloudfront.net
 ttauri.laptopmag.com
 d1rszqblq924lq.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
@@ -26205,7 +26225,6 @@ io1g.net
 iocnt.net
 iotechnologies.com
 ip-label.net
-ip2location.com
 ip2map.com
 ip2phrase.com
 ipaddresslabs.com
@@ -27571,6 +27590,7 @@ zeerat.com
 zengenti.com
 zeotap.com
 zesep.com
+zeustechnology.com
 zoomanalytics.co
 zoomflow.com
 zoomino.com
@@ -30669,7 +30689,6 @@ window-close.cf
 window-close.ga
 www.iwtserve.com
 www.olenation.org
-www.shqbsdjatunl.com
 yesads.com
 yhig.info
 yllix.com
@@ -30964,6 +30983,7 @@ log.giaoduc.net.vn
 log.infonet.vn
 log.kienthuc.net.vn
 log.ngaynay.vn
+log.nhipcaudautu.vn
 log.sggp.org.vn
 log.tapchitaichinh.vn
 log.thanhnien.vn
@@ -30990,6 +31010,7 @@ stat.headlines.pw
 staticad.thethao247.vn
 stats.bizweb.vn
 stats.dongphim.net
+stats.petrotimes.vn
 stats.vietnammoi.vn
 sv-api-event.headlines.pw
 thongke.24h.com.vn
@@ -31129,7 +31150,7 @@ rituationscardb.info
 sacchaeleduk.com
 sukientraogiaizalo.com
 xmobliefacebook.com
-1jsskipuf8sd.com
+3c3c3.com
 0024aaaa.com
 00880808.com
 008844.cc
@@ -31180,6 +31201,7 @@ xmobliefacebook.com
 1d1px.net
 1haosuo.com
 1i580.com
+1jsskipuf8sd.com
 1kmb.cn
 1kzh.com
 1l1.cc
@@ -33810,9 +33832,8 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
-yingjiawm.com
-ylkqw.com
-5zi5.top
+gralfusnzpo008.top
+abie18.top
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -33904,6 +33925,7 @@ ylkqw.com
 5x0f.cn
 5zi2.top
 5zi3.top
+5zi5.top
 605296.com
 606w.cn
 609623.com
@@ -35321,6 +35343,7 @@ yijuxie.com
 yikuaiqian.com.cn
 yimai51.cn
 yimeize.cn
+yingjiawm.com
 yinlt.com
 yinzantouzi.com
 yiqima.xyz
@@ -35330,6 +35353,7 @@ yiyuantian.com
 yizhijin.cn
 yjiaj.com
 yljmeishi.cn
+ylkqw.com
 ymmdpk.cn
 ynbzxh.com
 yndushi.cn

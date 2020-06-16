@@ -2515,7 +2515,6 @@ sabavision.com
 sealine.pro
 simility.com
 spideraf.com
-vtex.com.br
 0x1f4b0.com
 1q2w3.fun
 1q2w3.website
@@ -4913,6 +4912,7 @@ wstat.wibiya.com
 x.weather.com
 zdlogs.sphereup.com
 fyrsbckgi-c.global.ssl.fastly.net
+rc.vtex.com.br
 ref.dealerinspire.com
 risk.clearbit.com
 targeting.voxus.tv
