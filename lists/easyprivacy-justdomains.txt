@@ -817,6 +817,7 @@ flashtalking.com
 flcounter.com
 flixfacts.co.uk
 flixsyndication.net
+flocktory.com
 fluencymedia.com
 fluidsurveys.com
 flurry.com
@@ -1119,7 +1120,6 @@ iplocationtools.com
 ipro.com
 iproanalytics.com
 iprotrk.com
-ipstack.com
 ipstat.com
 ipv6monitoring.eu
 iqdata.ai
