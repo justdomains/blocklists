@@ -739,6 +739,7 @@ estrack.net
 etahub.com
 ethn.io
 ethnio.com
+etp-prod.com
 etracker.com
 etrafficcounter.com
 etrigue.com
@@ -2442,6 +2443,7 @@ wtp101.com
 wtstats.com
 wundercounter.com
 wunderloop.net
+www-google-analytics.l.google.com
 www-path.com
 wywy.com
 wzrk.co
@@ -2646,7 +2648,6 @@ flophous.cf
 formulawire.com
 freshrefresher.com
 g1thub.com
-gasolina.ml
 gay-hotvideo.net
 gitgrub.pro
 gobba.myeffect.net
@@ -2674,13 +2675,10 @@ ininmacerad.pro
 intellecthosting.net
 investhash.com
 istlandoll.com
-jqassets.download
 jquery-cdn.download
-jqwww.download
 jroqvbvw.info
 jscdndel.com
 jsecoin.com
-jwduahujge.ru
 jyhfuqoh.info
 kdowqlpt.info
 kedtise.com
@@ -3217,7 +3215,6 @@ mpwe.net
 mr-rank.de
 my-ranking.de
 my-stats.info
-mysumo.de
 netcounter.de
 netdebit-counter.de
 netupdater.info
@@ -4458,7 +4455,6 @@ livestats.kaltura.com
 log.aimtell.com
 log.artipbox.net
 log.invodo.com
-log.kcisa.kr
 log.kibboko.com
 log.kukuplay.com
 log.mediacategory.com
@@ -4494,6 +4490,7 @@ mc.webvisor.org
 mcs.delvenetworks.com
 mediametrics.mpsa.com
 metering.pagesuite.com
+metric.gstatic.com
 metric.nwsource.com
 metrics-api.librato.com
 metrics.api.drift.com
@@ -4504,7 +4501,6 @@ metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
 metrics.toptenreviews.com
-metrics.upcload.com
 metrics.wikinvest.com
 metrixlablw.customers.luna.net
 mlweb.dmlab.hu
@@ -4539,6 +4535,7 @@ pages-stats.rbl.ms
 pagesense-collect.zoho.com
 pagesocket.glam.com
 partner.cynapse.com
+pdc.dmleonyc.com
 pebed.dm.gg
 perf.dugout.com
 performance.typekit.net
@@ -5282,7 +5279,6 @@ g4p.redtram.com
 hubrus.com
 mediator.mail.ru
 metrics.aviasales.ru
-montblanc.rambler.ru
 piper.amocrm.ru
 rbc.magna.ru
 s.agava.ru
@@ -5624,7 +5620,6 @@ log.snapdeal.com
 log.wat.tv
 log.webnovel.com
 logg.kiwi.com
-logger.dailymotion.com
 logger.nerdwallet.com
 logging.goodgamestudios.com
 loggly.cheatsheet.com
@@ -6693,7 +6688,6 @@ dot-stat.radikal.ru
 kiks.auto.ru
 link.subscribe.ru
 log.ren.tv
-montblanc.lenta.ru
 radar.imgsmail.ru
 stat.api.2gis.ru
 stat.bankiros.ru
