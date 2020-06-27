@@ -5575,6 +5575,7 @@ geoip.pennlive.com
 geoip.silive.com
 geoip.syracuse.com
 geoip.viamichelin.com
+geolocation.forbes.com
 gj.mmstat.com
 glassmoni.researchgate.net
 gmonitor.aliimg.com
