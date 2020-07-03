@@ -3655,6 +3655,7 @@ i2ad.jp
 i2i.jp
 iid-network.jp
 im-apps.net
+interactive-circle.jp
 iogous.com
 kaizenplatform.net
 keyword-match.com
@@ -4567,6 +4568,7 @@ pixel.cdnwidget.com
 pixel.fanbridge.com
 pixel.glimr.io
 pixel.newscred.com
+pixel.parsely.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.solvemedia.com
@@ -5582,7 +5584,6 @@ geoip.silive.com
 geoip.syracuse.com
 geoip.viamichelin.com
 geolocation.forbes.com
-gj.mmstat.com
 glassmoni.researchgate.net
 gmonitor.aliimg.com
 gnar.grammarly.com
@@ -5696,7 +5697,6 @@ omni.nine.com.au
 omniture.stuff.co.nz
 omniture.theglobeandmail.com
 oms.expedia.com
-oneid.mmstat.com
 open.mkt1397.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
@@ -5766,6 +5766,7 @@ rt.prnewswire.com
 rta.dailymail.co.uk
 rta2.metro.co.uk
 rtn.thestar.com
+rum.kobo.com
 rv.modanisa.com
 s.infogram.com
 s.youtube.com
@@ -6113,6 +6114,8 @@ wtk.db.com
 ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
+gj.mmstat.com
+oneid.mmstat.com
 bournemouthecho-gb.bournemouthecho.co.uk
 bucksfreepress-gb.bucksfreepress.co.uk
 cdn-alliancegravity.s3.amazonaws.com
