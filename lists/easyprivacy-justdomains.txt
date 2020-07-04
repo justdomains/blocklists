@@ -1901,6 +1901,7 @@ silverpop.com
 silverpush.co
 simonsignal.com
 simpleanalytics.io
+simpleanalyticscdn.com
 simpleheatmaps.com
 simplehitcounter.com
 simplereach.com
@@ -4421,6 +4422,7 @@ hop.clickbank.net
 hpr.outbrain.com
 i.compendium.com
 i.viafoura.co
+iabusprivacy.pmc.com
 ib.adnxs.com
 icu.getstorybox.com
 imp.affiliator.com
@@ -4516,6 +4518,7 @@ mlweb.dmlab.hu
 mmi.bemobile.ua
 mormont.gamer-network.net
 mqs.ioam.de
+mtrcs.samba.tv
 mts.mansion.com
 mv.treehousei.com
 myscoop-tracking.googlecode.com
@@ -4549,6 +4552,7 @@ pebed.dm.gg
 perf.dugout.com
 performance.typekit.net
 perr.h-cdn.com
+perso.aws.arc.pub
 petitionermaster.appspot.com
 phantom.nudgespot.com
 phoenix.untd.com
@@ -5490,6 +5494,7 @@ counter.sina.com.cn
 counter.theconversation.edu.au
 counter.zerohedge.com
 cpt.itv.com
+crta.metro.co.uk
 d.ghostery.com
 d1.abtshield.com
 da.virginmedia.com
@@ -5772,6 +5777,7 @@ s.infogram.com
 s.youtube.com
 sa.bbc.co.uk
 sa.squareup.com
+sa135.kiro7.com
 sa135.macworld.co.uk
 sa135.wsbtv.com
 sana.newsinc.com.s3.amazonaws.com
