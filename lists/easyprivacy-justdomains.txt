@@ -4777,6 +4777,7 @@ track.bannedcelebs.com
 track.contently.com
 track.cordial.io
 track.digitalriver.com
+track.hubspot.com
 track.juno.com
 track.leadin.com
 track.mailerlite.com
@@ -5329,6 +5330,7 @@ leadzu.com
 pixel.zumby.io
 reachandrich.antevenio.com
 stats.miarroba.info
+tag.shopping-feed.com
 tracker.thinkindot.com
 collector.schibsted.io
 counter.mtgnewmedia.se
