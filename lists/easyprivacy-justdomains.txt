@@ -6677,6 +6677,7 @@ click.vgnett.no
 stats.proff.no
 webhit.aftenposten.no
 analytics.gazeta.pl
+collect.state.centrum24.pl
 dot.wp.pl
 entryhit.wp.pl
 mklik.gazeta.pl
