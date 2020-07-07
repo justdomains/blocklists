@@ -245,6 +245,7 @@ audienceiq.com
 audiencerate.com
 audiens.com
 audrte.com
+aufp.io
 authorinsights.com
 auto-ping.com
 autoaffiliatenetwork.com
@@ -1118,6 +1119,7 @@ ipinfodb.com
 ipinyou.com.cn
 iplist.cc
 iplocationtools.com
+ipqualityscore.com
 ipro.com
 iproanalytics.com
 iprotrk.com
@@ -1648,6 +1650,7 @@ proofpoint.com
 proofpositivemedia.com
 propeller-tracking.com
 provenpixel.com
+prprocess.com
 prtracker.com
 pstats.com
 pt-trx.com
