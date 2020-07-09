@@ -1348,6 +1348,7 @@ micpn.com
 mieru-ca.com
 millioncounter.com
 minewhat.com
+minkatu.com
 mixi.mn
 mkt3261.com
 mkt51.net
@@ -1599,6 +1600,7 @@ pingagenow.com
 pingdom.net
 pingil.com
 pingomatic.com
+pinpoll.com
 pipfire.com
 pippio.com
 piwik.pro
@@ -2267,6 +2269,7 @@ ub-analytics.com
 ubertags.com
 ubertracking.info
 uciservice.com
+udkcrj.com
 ugdturner.com
 uhygtf1.com
 umbel.com
@@ -2366,6 +2369,7 @@ voicefive.com
 volantix.com
 voodooalerts.com
 votistics.com
+vprza.com
 vtracker.net
 w3counter.com
 w55c.net
@@ -2416,7 +2420,6 @@ webtrends-optimize.com
 webtrends.com
 webtrendslive.com
 webtuna.com
-weesh.co.uk
 wemfbox.ch
 whackedmedia.com
 wheredoyoucomefrom.ovh
@@ -2532,6 +2535,7 @@ onesignal.com
 provesrc.com
 push-ad.com
 push-house.net
+pushalert.co
 pushengage.com
 reprocautious.com
 truepush.com
@@ -2689,14 +2693,12 @@ freshrefresher.com
 g1thub.com
 gay-hotvideo.net
 gitgrub.pro
-gobba.myeffect.net
 goldoffer.online
 googleanalytcs.com
 graftpool.ovh
 gramombird.com
 greengaming.de
 gus.host
-gustaver.ddns.net
 hallaert.online
 hashcoin.co
 hashforcash.us
@@ -2808,7 +2810,6 @@ proj2018.xyz
 rand.com.ru
 reauthenticator.com
 reauthenticator.com
-renhertfo.com
 rocks.io
 rtb-seller.com
 rtb.connatix.com
@@ -2849,8 +2850,6 @@ truemine.org
 tulip18.com
 turnsocial.com
 unrummaged.com
-uoldid.ru
-uoldid.ru
 usa.cc
 vcfs6ip5h6.bid
 verifier.live
@@ -2858,7 +2857,6 @@ verifypow.com
 verresof.com
 videoplayer2.xyz
 vkcdnservice.com
-vuryua.ru
 vzhjnorkudcxbiy.com
 wbmwss.beetv.net
 webassembly.stream
@@ -4032,9 +4030,7 @@ amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 an.yandex.ru
-analytic.pho.fm
 analytic.xingcloud.com
-analyticapi.pho.fm
 analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
@@ -4058,7 +4054,6 @@ analytics.clickpathmedia.com
 analytics.cmg.net
 analytics.codigo.se
 analytics.cohesionapps.com
-analytics.conmio.com
 analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
@@ -4381,7 +4376,6 @@ doug1izaerwt3.cloudfront.net
 dt1pxsve3tgas.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
-dufue2m4sondk.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
@@ -4945,7 +4939,6 @@ videoevents.outbrain.com
 visit.geocities.com
 visit.webhosting.yahoo.com
 vmstats.varrando.com
-vtracking.in.com
 web1.51.la
 webcare.byside.com
 weblog.livesport.eu
@@ -4988,7 +4981,6 @@ analytics.audionow.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
 analytics.loop-cloud.de
-analytics.pinpoll.com
 analytics.praetor.im
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
@@ -5585,7 +5577,6 @@ events.turbosquid.com
 evisit.exeter.ac.uk
 expbl2ro.xbox.com
 expdb2.msn.com
-extra.tvmaze.com
 f.staticlp.com
 fast.forbes.com
 felitb.rightinthebox.com
@@ -6007,7 +5998,6 @@ stats.ynet.co.il
 stats.zmags.com
 stats02.topix.com
 statstracker.celebrity-gossip.net
-stattrack.0catch.com
 stbt.coupons.com
 sugar.gameforge.com
 surveys.cnet.com
@@ -6477,7 +6467,6 @@ track.derbund.ch
 track.express.de
 track.mopo.de
 trackerstatistik.init-ag.de
-tracking.beilagen-prospekte.de
 tracking.finanzen.net
 tracking.hrs.de
 tracking.krone.at
