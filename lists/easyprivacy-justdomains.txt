@@ -46,6 +46,7 @@
 9nl.eu
 a-cast.jp
 a-counters.com
+a-mo.net
 a-pagerank.net
 a013.com
 a4b-tracking.com
@@ -780,7 +781,6 @@ extreme-ip-lookup.com
 eyein.com
 eyereturn.com
 ezec.co.uk
-ezodn.com
 ezytrack.com
 f92j5.com
 fabricww.com
@@ -915,6 +915,8 @@ giddyuptrk.com
 gigcount.com
 gim.co.il
 glanceguide.com
+glassboxcdn.com
+glassboxdigital.io
 glbtracker.com
 globalsiteanalytics.com
 globalviptraffic.com
@@ -2107,6 +2109,7 @@ td573.com
 tdsrmbl.net
 tdstats.com
 tealiumiq.com
+techlab-cdn.com
 tedioustooth.com
 telize.com
 teljari.is
@@ -4415,6 +4418,8 @@ evt.izooto.com
 exacttarget.com
 experience.contextly.com
 fast.appcues.com
+fcmatch.google.com
+fcmatch.youtube.com
 filament-stats.herokuapp.com
 flashstats.libsyn.com
 fog.pixual.co
@@ -4975,6 +4980,7 @@ dfapvmql-q.global.ssl.fastly.net
 howsmyssl.com
 nsg.symantec.com
 seal.godaddy.com
+seal.networksolutions.com
 seal.verisign.com
 websecurity.norton.com
 analytics.audionow.de
@@ -5579,6 +5585,7 @@ expbl2ro.xbox.com
 expdb2.msn.com
 f.staticlp.com
 fast.forbes.com
+fathom.pixeldrain.com
 felitb.rightinthebox.com
 firebaselogging.googleapis.com
 fp.measure.office.com
@@ -5990,6 +5997,7 @@ stats.townnews.com
 stats.uswitch.com
 stats.videodelivery.net
 stats.visistat.com
+stats.vk-portal.net
 stats.vulture.com
 stats.wordpress.com
 stats.wwd.com
