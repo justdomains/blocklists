@@ -886,6 +886,7 @@ gammachug.com
 gatorleads.co.uk
 gaug.es
 gbotvisit.com
+gc.zgo.at
 gear5.me
 geistm.com
 genieesspv.jp
@@ -927,6 +928,7 @@ gnpge.com
 go-mpulse.net
 go2link.net
 goadservices.com
+goatcounter.com
 godhat.com
 goingup.com
 goldstats.com
@@ -1015,6 +1017,7 @@ hotlog.ru
 hqhrt.com
 hs-analytics.net
 hsadspixel.net
+htlbid.com
 hubvisor.io
 hudb.pl
 humanclick.com
@@ -1630,6 +1633,7 @@ pntrs.com
 pointillist.com
 pointomatic.com
 polarcdn-pentos.com
+polarcdn-terrax.com
 popsample.com
 popt.in
 populr.me
@@ -2534,6 +2538,7 @@ getpushmonkey.com
 getsupernova.com
 gravitec.net
 heroesdom.com
+jeeng.com
 kattepush.com
 master-push.com
 master-push.net
@@ -2931,6 +2936,7 @@ butterbulb.com
 butterburst.com
 calculatorstatement.com
 callousbrake.com
+calmcactus.com
 cannontwin.com
 capriciouscorn.com
 capsquirrel.com
@@ -4292,6 +4298,7 @@ d.shareaholic.com
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
+d15kdpgjg3unno.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d16xpr36wrmcmk.cloudfront.net
@@ -5685,7 +5692,6 @@ log.mappy.net
 log.newsvine.com
 log.optimizely.com
 log.prezi.com
-log.quora.com
 log.snapdeal.com
 log.wat.tv
 log.webnovel.com
@@ -6761,6 +6767,7 @@ dot-stat.radikal.ru
 kiks.auto.ru
 link.subscribe.ru
 log.ren.tv
+pixels.boxberry.ru
 radar.imgsmail.ru
 stat.api.2gis.ru
 stat.bankiros.ru
