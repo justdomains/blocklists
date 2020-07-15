@@ -1115,6 +1115,7 @@ ip2map.com
 ip2phrase.com
 ipaddresslabs.com
 ipcatch.com
+ipdata.co
 iper2.com
 iperceptions.com
 ipfingerprint.com
@@ -1765,7 +1766,6 @@ repixel.co
 report-uri.com
 report-uri.io
 research-tool.com
-researchnow.co.uk
 reson8.com
 responsetap.com
 resulticks.com
@@ -4129,6 +4129,7 @@ analytics.themarketiq.com
 analytics.tiktok.com
 analytics.tout.com
 analytics.tribeca.vidavee.com
+analytics.unibuddy.co
 analytics.urx.io
 analytics.vanillaforums.com
 analytics.vendemore.com
@@ -5826,7 +5827,6 @@ request.issuu.com
 retargeting.vistaprint.com
 revsci.tvguide.com
 rok.com.com
-roll.bankofamerica.com
 rs.mail.ru
 rt.prnewswire.com
 rta.dailymail.co.uk
