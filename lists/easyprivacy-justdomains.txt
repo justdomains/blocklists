@@ -892,7 +892,6 @@ geistm.com
 genieesspv.jp
 geobytes.com
 geoedge.be
-geoip-db.com
 geojs.io
 geolid.com
 geolocation-db.com
@@ -2529,11 +2528,14 @@ centrpush.com
 cleverpush.com
 copush.com
 cracataum.com
+danorenius.com
 digitalpush.org
+edrone.me
 feraciumus.com
 fkondate.com
 foxpush.com
 foxpush.net
+getback.ch
 getpushmonkey.com
 getsupernova.com
 gravitec.net
@@ -2544,6 +2546,7 @@ master-push.com
 master-push.net
 misrepush.com
 moengage.com
+najva.com
 nativesubscribe.pro
 notifadz.com
 notifpush.com
