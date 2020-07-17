@@ -2983,6 +2983,7 @@ farshake.com
 fatcoil.com
 faultycanvas.com
 fearfulflag.com
+firstfrogs.com
 flakyfeast.com
 flockflame.com
 forecasttiger.com
@@ -5403,6 +5404,7 @@ stat.matichon.co.th
 st.tmgrup.com.tr
 informers.sinoptik.ua
 analytics.yomedia.vn
+tracking.aita.gov.vn
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -5615,6 +5617,7 @@ fathom.pixeldrain.com
 felitb.rightinthebox.com
 firebaselogging.googleapis.com
 fp.measure.office.com
+fpa-events.arstechnica.com
 fresh.techdirt.com
 funn.graphiq.com
 g.ign.com
