@@ -850,6 +850,7 @@ free-counters.co.uk
 free-website-hit-counters.com
 free-website-statistics.com
 freebloghitcounter.com
+freecounter.ovh
 freecountercode.com
 freecounterstat.com
 freegeoip.app
@@ -1615,6 +1616,7 @@ pixeleze.com
 pixelinteractivemedia.com
 pixelpop.co
 pixelrevenue.com
+pixfuture.com
 pizzaandads.com
 pjatr.com
 pjtra.com
@@ -2127,6 +2129,7 @@ testin.cn
 tetoolbox.com
 tgdaudience.com
 tglyr.co
+tgtag.io
 theadex.com
 theagency.com
 thebestlinks.com
@@ -2215,6 +2218,7 @@ trafficby.net
 trafficengine.net
 trafficfacts.com
 trafficfuel.com
+trafficguard.ai
 trafficjoint.com
 trafficregenerator.com
 traffikcntr.com
@@ -2970,6 +2974,7 @@ delegatediscussion.com
 desiredirt.com
 detectdiscovery.com
 diplomahawaii.com
+discreetfield.com
 distinctday.com
 dq95d35.com
 drydrum.com
@@ -3007,6 +3012,7 @@ horsenectar.com
 immensehoney.com
 importedincrease.com
 importedinsect.com
+impulsejewel.com
 innocentinvention.com
 inquisitiveinvention.com
 intelligentscissors.com
@@ -3021,6 +3027,7 @@ levelbehavior.com
 lizardslaugh.com
 lorenzourban.com
 loudlunch.com
+lovelydrum.com
 lowlocket.com
 lumberamount.com
 lumpylumber.com
@@ -3075,6 +3082,7 @@ scientificshirt.com
 scintillatingscissors.com
 scintillatingspace.com
 scrubswim.com
+seatsmoke.com
 secretturtle.com
 selectivesummer.com
 selfishsea.com
@@ -3086,7 +3094,9 @@ shockinggrass.com
 shockingship.com
 shyseed.com
 sicksmash.com
+sinceresubstance.com
 smashsurprise.com
+smoggystation.com
 somberscarecrow.com
 sombersurprise.com
 sortsummer.com
@@ -3125,6 +3135,7 @@ unarmedindustry.com
 unbecominghall.com
 unequalbrake.com
 untidyrice.com
+verseballs.com
 womanear.com
 zlp6s.pw
 123-counter.de
@@ -4486,6 +4497,7 @@ hits.informer.com
 hm.baidu.com
 hop.clickbank.net
 hpr.outbrain.com
+hspbotdetection.azurewebsites.net
 i.compendium.com
 i.viafoura.co
 iabusprivacy.pmc.com
@@ -6786,6 +6798,7 @@ sync.rambler.ru
 tracker.tiu.ru
 yast.rutube.ru
 tracker.azet.sk
+analytics.bolavip.com
 analytics.infobae.com
 analytics.redlink.com.ar
 audiencies.ccma.cat
@@ -6803,6 +6816,7 @@ ax.idg.se
 fusion.bonniertidskrifter.se
 gx.idg.se
 stat.nyheter24.se
+scribe.wongnai.com
 ta.sanook.com
 c.gazetevatan.com
 d.haberler.com
@@ -6811,5 +6825,6 @@ p.milliyet.com.tr
 counter.ukr.net
 hit.meta.ua
 target.ukr.net
+log.ttbc-hcm.gov.vn
 logsbin.dantri.com.vn
 ktracker.kumparan.com
