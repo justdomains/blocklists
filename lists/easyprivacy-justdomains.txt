@@ -1061,6 +1061,7 @@ immanalytics.com
 impactradius-event.com
 impcounter.com
 imrtrack.com
+imtwjwoasak.com
 inboxtag.com
 incentivesnetwork.net
 index.ru
@@ -2360,6 +2361,7 @@ virtualnet.co.uk
 visibility-stats.com
 visibli.com
 visioncriticalpanels.com
+visionsage.com
 visistat.com
 visitor-analytics.io
 visitor-analytics.net
@@ -2556,6 +2558,7 @@ getpushmonkey.com
 getsupernova.com
 gravitec.net
 heroesdom.com
+highfalutinhoney.com
 jeeng.com
 kattepush.com
 master-push.com
@@ -3649,7 +3652,6 @@ gallupnet.fi
 kavijaseuranta.fi
 m-brain.fi
 netmonitor.fi
-reactandshare.com
 stat.www.fi
 vihtori-analytics.fi
 linkwi.se
@@ -4185,6 +4187,7 @@ analyticsengine.s3.amazonaws.com
 analyze.full-marke.com
 ape-tagit.timeinc.net
 api.wipmania.com
+app.launchdarkly.com
 app.link
 apple.www.letv.com
 argos.citruserve.com
@@ -4295,7 +4298,6 @@ collector.sspinc.io
 comet.ibsrv.net
 control.cityofcairns.com
 conversions.genieventures.co.uk
-convsgmp.taboola.com
 cookies.livepartners.com
 cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
@@ -4637,7 +4639,6 @@ oda.markitondemand.com
 om.rogersmedia.com
 onespot-tracking.herokuapp.com
 open.delivery.net
-opps.taboola.com
 optimizely.appspot.com
 orts.wixawin.com
 p.adbrn.com
@@ -5000,7 +5001,6 @@ ttdetect.staticimgfarm.com
 ucounter.ucoz.net
 uid.mavencoalition.io
 upt.graphiq.com
-urc.taboolasyndication.com
 usersegment.wpdigital.net
 utle.tech426.com
 v.shopify.com
@@ -5017,7 +5017,6 @@ webservices.websitepros.com
 webstats.motigo.com
 webstats.thaindian.com
 webtracker.apicasystem.com
-wf.taboola.com
 widget.perfectmarket.com
 widget.quantcast.com
 win.staticstuff.net
@@ -5025,6 +5024,11 @@ ws.audioeye.com
 wstat.wibiya.com
 x.weather.com
 zdlogs.sphereup.com
+convsgmp.taboola.com
+la-sync.taboola.com
+opps.taboola.com
+urc.taboolasyndication.com
+wf.taboola.com
 fyrsbckgi-c.global.ssl.fastly.net
 rc.vtex.com.br
 ref.dealerinspire.com
@@ -5449,6 +5453,7 @@ st.tmgrup.com.tr
 informers.sinoptik.ua
 analytics.yomedia.vn
 tracking.aita.gov.vn
+a2-eng.spankbang.com
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -5684,7 +5689,6 @@ geo.metronews.ca
 geo.nbcsports.com
 geo.play.it
 geo.yahoo.com
-geoapi.indiatimes.com
 geobeacon.ign.com
 geoip-lookup.vice.com
 geoip.al.com
@@ -5822,6 +5826,7 @@ ophan.theguardian.com
 optimize-stats.voxmedia.com
 origin-tracking.trulia.com
 origin.chron.com
+p2-eng.spankbang.com
 page-events-ustats.udemy.com
 pageinfo.motorsport.com
 partners.badongo.com
@@ -6723,6 +6728,7 @@ sat.sanoma.fi
 stats.fd.nl
 webstatistieken.xs4all.nl
 analytics.sanoma.fi
+data.reactandshare.com
 events.il.fi
 stat.mtv3.fi
 bravo.israelweather.co.il
