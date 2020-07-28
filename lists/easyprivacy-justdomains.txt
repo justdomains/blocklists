@@ -2537,6 +2537,7 @@ aimtell.com
 alertme.news
 aswpsdkus.com
 bildirt.com
+bmfeed.ru
 bosspush.com
 browserpusher.com
 cdn-sitegainer.com
@@ -4187,7 +4188,6 @@ analyticsengine.s3.amazonaws.com
 analyze.full-marke.com
 ape-tagit.timeinc.net
 api.wipmania.com
-app.launchdarkly.com
 app.link
 apple.www.letv.com
 argos.citruserve.com
@@ -4481,7 +4481,6 @@ eventtracker.videostrip.com
 evt.izooto.com
 exacttarget.com
 experience.contextly.com
-fast.appcues.com
 fcmatch.google.com
 fcmatch.youtube.com
 filament-stats.herokuapp.com
@@ -5666,6 +5665,7 @@ expdb2.msn.com
 f.staticlp.com
 fast.forbes.com
 fathom.pixeldrain.com
+fathom.status.im
 felitb.rightinthebox.com
 firebaselogging.googleapis.com
 fp.measure.office.com
