@@ -359,6 +359,7 @@ brcdn.com
 bridgevine.com
 brightfunnel.com
 brilig.com
+britepool.com
 bronto.com
 browser-statistik.de
 browser-update.org
@@ -3063,6 +3064,7 @@ shockingship.com
 shyseed.com
 sicksmash.com
 sinceresubstance.com
+singroot.com
 smallbeginner.com
 smashsurprise.com
 smoggystation.com
@@ -4194,7 +4196,6 @@ caspionlog.appspot.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
 cdn.trafficexchangelist.com
-cdnbigdata.azureedge.net
 ce.lijit.com
 cf.overblog.com
 cgicounter.oneandone.co.uk
@@ -4274,7 +4275,6 @@ d11a2fzhgzqe7i.cloudfront.net
 d15kdpgjg3unno.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
-d16xpr36wrmcmk.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
@@ -4377,7 +4377,6 @@ duu8lzqdm8tsz.cloudfront.net
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
-ebay.northernhost.com
 ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
@@ -4534,7 +4533,6 @@ mc.webvisor.org
 mcs.delvenetworks.com
 mediametrics.mpsa.com
 metering.pagesuite.com
-metric.gstatic.com
 metric.nwsource.com
 metrics-api.librato.com
 metrics.api.drift.com
@@ -4551,7 +4549,6 @@ mlweb.dmlab.hu
 mmi.bemobile.ua
 mormont.gamer-network.net
 mqs.ioam.de
-mtrcs.samba.tv
 mts.mansion.com
 mv.treehousei.com
 myscoop-tracking.googlecode.com
@@ -4586,7 +4583,6 @@ performance.typekit.net
 perr.h-cdn.com
 perso.aws.arc.pub
 petitionermaster.appspot.com
-phantom.nudgespot.com
 phoenix.untd.com
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
@@ -4604,7 +4600,6 @@ pixel.cdnwidget.com
 pixel.fanbridge.com
 pixel.glimr.io
 pixel.newscred.com
-pixel.parsely.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.solvemedia.com
@@ -4637,7 +4632,6 @@ px.excitedigitalmedia.com
 px.marchex.io
 px.owneriq.net
 px.spiceworks.com
-px.topspin.net
 qubitanalytics.appspot.com
 r.mail.ru
 r.msn.com
@@ -4813,7 +4807,6 @@ track.cordial.io
 track.digitalriver.com
 track.hubspot.com
 track.juno.com
-track.leadin.com
 track.mailerlite.com
 track.mycliplister.com
 track.omg2.com
@@ -4826,7 +4819,6 @@ track.securedvisit.com
 track.shop2market.com
 track.sitetag.us
 track.social.com
-track.spots.im
 track.sprinklecontent.com
 track.strife.com
 track.tcppu.com
@@ -4862,7 +4854,6 @@ tracking.aegpresents.com
 tracking.badgeville.com
 tracking.brandmentions.com
 tracking.customerly.io
-tracking.dealerwebwatcher.com
 tracking.drsfostersmith.com
 tracking.dsmmadvantage.com
 tracking.edvisors.com
@@ -5029,7 +5020,6 @@ orbidder.otto.de
 px.staticfiles.at
 retrack.q-divisioncdn.de
 stat.clichehosting.de
-stat4.edev.at
 statistics.klicktel.de
 statistik.motorpresse.de
 statistik.simaja.de
@@ -5698,7 +5688,6 @@ marketing.dropbox.com
 marketing.kalahari.net
 marketing.nodesource.com
 merlin.abc.go.com
-metric-agent.i10c.net
 metric.inetcore.com
 metrics.apartments.com
 metrics.bangbros.com
@@ -5742,7 +5731,6 @@ ned.itv.com
 net.haier.com
 nm.newegg.com
 nmtracking.netflix.com
-nozem.tvmaze.com
 odin.mic.com
 oimg.m.cnbc.com
 oimg.mobile.cnbc.com
@@ -6623,7 +6611,6 @@ shrek.6.cn
 ssp.hinet.net
 stadig.ifeng.com
 stat.1688.com
-stat.55bbs.com
 stat.caijing.com.cn
 stat.funshion.net
 stat.iteye.com
@@ -6746,7 +6733,6 @@ metrics.uol.com.br
 tm.uol.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt
-urchin.estadao.com.br
 ad7.bigmir.net
 affilate.hh.ru
 analytics.carambatv.ru
