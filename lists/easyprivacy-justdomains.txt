@@ -668,6 +668,7 @@ dtc-v6t.com
 dti-ranker.com
 dtscout.com
 dtxngr.com
+durationmedia.net
 dwin1.com
 dwin2.com
 dynameex.com
@@ -2605,7 +2606,6 @@ analytics.blue
 andlache.com
 api.inwemo.com
 arizona-miner.tk
-assetscdn.stream
 authcaptcha.com
 authedmine.eu
 averoconnector.com
@@ -2675,7 +2675,6 @@ cryptobara.com
 cryptoloot.pro
 cryptomine.pro
 cryptonoter.com
-csgocpu.com
 darking07.tk
 datasecu.download
 de-mi-nis-ner.info
@@ -2707,7 +2706,6 @@ flophous.cf
 formulawire.com
 g1thub.com
 gay-hotvideo.net
-gitgrub.pro
 goldoffer.online
 googleanalytcs.com
 graftpool.ovh
@@ -2794,7 +2792,6 @@ notmining.org
 oei1.gq
 offerreality.com
 omine.org
-onlinereserchstatistics.online
 openguid.org
 p2poolmining.com
 pampopholf.com
@@ -2805,7 +2802,6 @@ pertholin.com
 play.mix.kinostuff.com
 poolmining.eu
 pr0gram.org
-proj2018.xyz
 rand.com.ru
 reauthenticator.com
 reauthenticator.com
@@ -3308,7 +3304,6 @@ ranking-counter.de
 ranking-hits.de
 ranking-links.de
 rankings24.de
-ranklink.de
 rawr.at
 redretarget.com
 refinedads.com
@@ -4057,6 +4052,7 @@ analytics.datahc.com
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.dvidshub.net
+analytics.erepublic.com
 analytics.favcy.com
 analytics.foresee.com
 analytics.groupe-seb.com
@@ -5376,7 +5372,6 @@ aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 acookie.alibaba.com
 activity.frequency.com
-activity.homescape.com
 adc-js.nine.com.au
 adc.9news.com.au
 adc.api.nine.com.au
@@ -5533,7 +5528,6 @@ counter.zerohedge.com
 cpt.itv.com
 crta.metro.co.uk
 d.ghostery.com
-d1.abtshield.com
 da.virginmedia.com
 data.mic.com
 data.younow.com
@@ -5569,7 +5563,6 @@ event-reporting-dot-webylytics.appspot.com
 eventlog.jackpot.de
 eventlogger.soundcloud.com
 events.avantisvideo.com
-events.godaddy.com
 events.jora.com
 events.practo.com
 events.privy.com
