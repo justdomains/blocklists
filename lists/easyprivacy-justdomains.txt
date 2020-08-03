@@ -2556,6 +2556,7 @@ reconditerespect.com
 reprocautious.com
 sendpulse.com
 shroughtened.com
+sm-epsilon.com
 snd.tc
 truepush.com
 urbanairship.com
@@ -3627,7 +3628,6 @@ gm-it.consulting
 hiperstat.com
 hitcountersonline.com
 imetrix.it
-iolam.it
 ipfrom.com
 italianadirectory.com
 keyxel.com
@@ -4221,6 +4221,7 @@ collector.mazeberry.com
 collector.roistat.com
 collector.sspinc.io
 comet.ibsrv.net
+confiant-integrations.global.ssl.fastly.net
 control.cityofcairns.com
 conversions.genieventures.co.uk
 cookies.livepartners.com
@@ -4606,6 +4607,7 @@ pixel.yabidos.com
 pixel.yola.com
 platform.communicatorcorp.com
 platform.iteratehq.com
+plumbus.minutemediaservices.com
 pmetrics.performancing.com
 postpixel.vindicosuite.com
 powersearch.us.com
@@ -6227,6 +6229,7 @@ yourlocalguardian-gb.yourlocalguardian.co.uk
 913nd.dieti-natura.es
 a8ht.hipp.fr
 ar.i-run.fr
+at.pagesjaunes.fr
 azg1.emalu-store.com
 bhu9.bankia.es
 c4dv.copinesdevoyage.com
@@ -6366,6 +6369,7 @@ vnl1.voyage-prive.nl
 vpf4.euskaltelofertas.com
 vry9.destinia.com
 vtf2f.banque-casino.fr
+wa.gmx.fr
 wdr9.inseec.com
 we.wecanimal.pt
 wph2.destinia.us
