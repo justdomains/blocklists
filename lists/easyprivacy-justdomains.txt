@@ -4915,7 +4915,6 @@ try.abtasty.com
 ts.tradetracker.net
 ttdetect.staticimgfarm.com
 ucounter.ucoz.net
-uid.mavencoalition.io
 upt.graphiq.com
 usersegment.wpdigital.net
 utle.tech426.com
@@ -5243,6 +5242,7 @@ sstats.mora.jp
 sync.shinobi.jp
 t.adlpo.com
 t.felmat.net
+t.seesaa.net
 torimochi.line-apps.com
 track.thebase.in
 userdive.com
