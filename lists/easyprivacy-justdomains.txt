@@ -6665,6 +6665,7 @@ stats.splinder.com
 track.tesiteca.it
 tracker.stileo.it
 tracking.gruppo.mps.it
+tracking.notizie.it
 trk.m.libero.it
 analytics.cocolog-nifty.com
 analyzer.fc2.com
