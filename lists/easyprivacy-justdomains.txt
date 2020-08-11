@@ -376,7 +376,6 @@ burstbeacon.com
 bux1le001.com
 buzzdeck.com
 bytemgdd.com
-byteoversea.net
 c-o-u-n-t.com
 c-rings.net
 c.adroll.com
@@ -5788,7 +5787,6 @@ pixel.newscgp.com
 pixel.newsdiscover.com.au
 pixel.pcworld.com
 pixel.propublica.org
-pixel.reddit.com
 pixel.spotify.com
 pixel.staging.tree.com
 pixel.tuko.co.ke
