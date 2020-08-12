@@ -1254,6 +1254,7 @@ livesession.io
 livestat.com
 livetrafficfeed.com
 lloogg.com
+lngtd.com
 localytics.com
 lockview.cn
 locotrack.net
@@ -2223,6 +2224,7 @@ trailheadapp.com
 trakken.de
 trakzor.com
 transactionale.com
+traq.li
 traversedlp.com
 trbas.com
 trekmedia.net
