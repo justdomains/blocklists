@@ -234,6 +234,7 @@ atatus.com
 athenainstitute.biz
 atoshonetwork.com
 atp.io
+atsptp.com
 atticwicket.com
 attracta.com
 attributionapp.com
@@ -269,6 +270,7 @@ b1img.com
 b1js.com
 b2c.com
 babator.com
+baikalize.com
 bam-x.com
 baptisttop1000.com
 baremetrics.com
@@ -882,6 +884,7 @@ g2377012020.co
 g2575096355.co
 g2773180690.co
 g2971265025.co
+g3169349360.co
 gaconnector.com
 gameanalytics.com
 gammachug.com
@@ -3720,7 +3723,6 @@ keyword-match.com
 kir.jp
 letro.jp
 macromill.com
-marsflag.com
 mobylog.jp
 msgs.jp
 nex8.net
@@ -4817,6 +4819,7 @@ tpx.tesseradigital.com
 tr.cloud-media.fr
 tr.connatix.com
 tr.interlake.net
+tr.marsflag.com
 tr.webantenna.info
 tr1.mailperformance.com
 traccoon.intellectsoft.net
