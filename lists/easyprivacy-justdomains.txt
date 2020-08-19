@@ -1256,6 +1256,7 @@ livesession.io
 livestat.com
 livetrafficfeed.com
 lloogg.com
+lmyiwaakn.com
 lngtd.com
 localytics.com
 lockview.cn
@@ -1753,6 +1754,7 @@ recosenselabs.com
 recoset.com
 recruitics.com
 redcounter.net
+redfastlabs.com
 redistats.com
 redstatcounter.com
 reedbusiness.net
@@ -5259,6 +5261,7 @@ bidder.mediams.mb.softbank.jp
 counter2.blog.livedoor.com
 imgstat.ameba.jp
 ip2c.landscape.co.jp
+ipcheck.blogsys.jp
 kitchen.juicer.cc
 l.popin.cc
 lcs.livedoor.net
@@ -5362,6 +5365,7 @@ stat.radar.imgsmail.ru
 stat.rum.cdnvideo.ru
 stat.sputnik.ru
 stat.tvigle.ru
+statistics.fppressa.ru
 stats.embedcdn.cc
 stats.seedr.com
 stats.tazeros.com
