@@ -1600,6 +1600,7 @@ performtracking.com
 perimeterx.net
 perion.com
 perk0mean.com
+permutive.app
 permutive.com
 personalicanvas.com
 personyze.com
@@ -1734,6 +1735,7 @@ rapidcounter.com
 rapidstats.net
 rapidtrk.net
 rating.in
+rdcdn.com
 reachforce.com
 reachlocalservices.com
 reachsocket.com
@@ -2944,6 +2946,7 @@ capsquirrel.com
 caringzinc.com
 carpentercomparison.com
 carscannon.com
+causecherry.com
 cautiouscrate.com
 cautiouscredit.com
 cloisteredcord.com
@@ -6339,6 +6342,7 @@ ttauri.creativebloq.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
+ttauri.nexttv.com
 ttauri.space.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
@@ -6803,7 +6807,6 @@ stats.splinder.com
 track.tesiteca.it
 tracker.stileo.it
 tracking.gruppo.mps.it
-tracking.notizie.it
 trk.m.libero.it
 analytics.cocolog-nifty.com
 analyzer.fc2.com
