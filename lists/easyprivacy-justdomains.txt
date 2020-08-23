@@ -2576,6 +2576,7 @@ pushbird.com
 pushbullet.com
 pushengage.com
 pushex.io
+pushible.com
 pushify.com
 pushwoosh.com
 reconditerespect.com
@@ -3742,6 +3743,7 @@ owldata.com
 pagoda56.com
 pdmp.jp
 polymorphicads.jp
+popin.cc
 quant.jp
 r-ad.ne.jp
 rays-counter.com
@@ -4477,7 +4479,6 @@ gtrk.s3.amazonaws.com
 gu-pix.appspot.com
 happen.spkt.io
 harvester.ext.square-enix-europe.com
-hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 heals.msgfocus.com
 hello.staticstuff.net
 hi.hellobar.com
@@ -4752,6 +4753,7 @@ stats.nebula.fi
 stats.netbopdev.co.uk
 stats.olark.com
 stats.ozwebsites.biz
+stats.phoenix-widget.com
 stats.polldaddy.com
 stats.sa-as.com
 stats.sawlive.tv
@@ -5004,6 +5006,7 @@ clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 howsmyssl.com
 nsg.symantec.com
+privacy-policy.truste.com
 seal.godaddy.com
 seal.networksolutions.com
 seal.verisign.com
@@ -5272,7 +5275,6 @@ imgstat.ameba.jp
 ip2c.landscape.co.jp
 ipcheck.blogsys.jp
 kitchen.juicer.cc
-l.popin.cc
 lcs.livedoor.net
 log.codemarketing.cloud
 log.f-tra.com
@@ -5293,6 +5295,7 @@ webtracker.jp
 x9.shinobi.jp
 xr.shinobi.jp
 log.cizion.com
+log.targetpush.co.kr
 mtag.mman.kr
 performanceplay.co.kr
 teralog.techhub.co.kr
@@ -6832,6 +6835,7 @@ yjtag.yahoo.co.jp
 count.munhwa.com
 hits.zdnet.co.kr
 l.m.naver.com
+log.etoday.co.kr
 log.sv.pandora.tv
 nil.naver.com
 pb.m.naver.com
