@@ -885,6 +885,7 @@ g2575096355.co
 g2773180690.co
 g2971265025.co
 g3169349360.co
+g3367433695.co
 gaconnector.com
 gameanalytics.com
 gammachug.com
@@ -3113,6 +3114,7 @@ spurioussteam.com
 squeakzinc.com
 squirrelhands.com
 staleshow.com
+stalesummer.com
 steadfastsound.com
 steepsquirrel.com
 stiffstem.com
@@ -4666,6 +4668,7 @@ ptracker.nurturehq.com
 ptsc.shoplocal.com
 pub.sheknows.com
 pulsar.ebay.com
+pv.pjtsu.com
 px.excitedigitalmedia.com
 px.marchex.io
 px.owneriq.net
@@ -5415,7 +5418,7 @@ st.tmgrup.com.tr
 informers.sinoptik.ua
 analytics.yomedia.vn
 tracking.aita.gov.vn
-a2-eng.spankbang.com
+a2x-eng.spankbang.com
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -5784,7 +5787,6 @@ ophan.theguardian.com
 optimize-stats.voxmedia.com
 origin-tracking.trulia.com
 origin.chron.com
-p2-eng.spankbang.com
 page-events-ustats.udemy.com
 pageinfo.motorsport.com
 partners.badongo.com
@@ -6350,6 +6352,7 @@ ttauri.loudersound.com
 ttauri.musicradar.com
 ttauri.nexttv.com
 ttauri.space.com
+ttauri.t3.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
 ttauri.whathifi.com
