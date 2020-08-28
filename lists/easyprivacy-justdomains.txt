@@ -5590,6 +5590,7 @@ data.younow.com
 dc.banggood.com
 dccss.banggood.com
 debug-vp.webmd.com
+deliver.oztam.com.au
 deliver.ptgncdn.com
 desa.fkapi.net
 desb.fkapi.net
