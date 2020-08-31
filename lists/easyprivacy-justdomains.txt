@@ -887,6 +887,7 @@ g2773180690.co
 g2971265025.co
 g3169349360.co
 g3367433695.co
+g3565518030.co
 gaconnector.com
 gameanalytics.com
 gammachug.com
@@ -2005,7 +2006,6 @@ sometrics.com
 sophi.io
 sophus3.com
 soska.us
-sp-prod.net
 spamanalyst.com
 spectate.com
 speed-trap.com
@@ -5015,7 +5015,6 @@ zvsuhljiha-a.akamaihd.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 privacy-center.org
-privacy-mgmt.com
 howsmyssl.com
 nsg.symantec.com
 privacy-policy.truste.com
