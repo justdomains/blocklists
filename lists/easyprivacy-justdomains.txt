@@ -4629,6 +4629,7 @@ perr.h-cdn.com
 perso.aws.arc.pub
 petitionermaster.appspot.com
 phoenix.untd.com
+pi.ispot.tv
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.hellobar.com
