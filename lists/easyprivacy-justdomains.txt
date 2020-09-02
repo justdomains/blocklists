@@ -199,6 +199,7 @@ anrdoezrs.net
 answerscloud.com
 anti-cheat.info
 antiblock.info
+anura.io
 ape78cn2.com
 apexstats.com
 apextag.com
@@ -1259,7 +1260,6 @@ livesession.io
 livestat.com
 livetrafficfeed.com
 lloogg.com
-lmyiwaakn.com
 lngtd.com
 localytics.com
 lockview.cn
@@ -4219,7 +4219,6 @@ bmrg.reflected.net
 bonsai.internetbrands.com
 brain.foresee.com
 bright.bncnt.com
-browser.sentry-cdn.com
 bs.yandex.ru
 btn.clickability.com
 btrace.video.qq.com
@@ -5015,7 +5014,6 @@ uhytajrtpo-a.akamaihd.net
 zvsuhljiha-a.akamaihd.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
-privacy-center.org
 howsmyssl.com
 nsg.symantec.com
 privacy-policy.truste.com
@@ -5350,6 +5348,7 @@ trk.absuite.com.br
 webstats.sapo.pt
 profiling.avandor.com
 top.skyzone.ro
+views.cancan.ro
 1l-hit.mail.ru
 a.tovarro.com
 awaps.yandex.ru
