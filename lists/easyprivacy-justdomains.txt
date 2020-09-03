@@ -570,6 +570,7 @@ crtx.info
 csdata1.com
 ctnsnet.com
 cttracking02.com
+cuberoot.co
 curalate.com
 customer.io
 customerconversio.com
@@ -5510,6 +5511,7 @@ atrack.art.com
 ats.alot.com
 audit.macworld.co.uk
 audit.pcadvisor.co.uk
+b.gemini.yahoo.com
 b.imwx.com
 b.myspace.com
 bat.adforum.com
@@ -5589,6 +5591,7 @@ cpt.itv.com
 crta.metro.co.uk
 d.ghostery.com
 da.virginmedia.com
+data.mail.yahoo.com
 data.mic.com
 data.younow.com
 dc.banggood.com
