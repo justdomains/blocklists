@@ -495,6 +495,7 @@ cnxweb.com
 cnzz.com
 cobaltgroup.com
 codata.ru
+coefficy.com
 cogmatch.net
 cognativex.com
 cognitivematch.com
@@ -5592,7 +5593,6 @@ cpt.itv.com
 crta.metro.co.uk
 d.ghostery.com
 da.virginmedia.com
-data.mail.yahoo.com
 data.mic.com
 data.younow.com
 dc.banggood.com
@@ -6342,6 +6342,7 @@ southendstandard-gb.southendstandard.co.uk
 southwalesargus-gb.southwalesargus.co.uk
 southwalesguardian-gb.southwalesguardian.co.uk
 southwestfarmer-gb.southwestfarmer.co.uk
+sp.news-journalonline.com
 stalbansreview-gb.stalbansreview.co.uk
 sthelensstar-gb.sthelensstar.co.uk
 stourbridgenews-gb.stourbridgenews.co.uk
