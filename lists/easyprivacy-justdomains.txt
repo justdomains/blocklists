@@ -79,7 +79,6 @@ acxiom-online.com
 acxiomapac.com
 ad-score.com
 ad-srv-track.com
-ad.gt
 adabra.com
 adalyser.com
 adblade.com
@@ -4624,6 +4623,7 @@ oda.markitondemand.com
 om.rogersmedia.com
 onespot-tracking.herokuapp.com
 open.delivery.net
+openxcdn.net
 optimizely.appspot.com
 orts.wixawin.com
 p.adbrn.com
@@ -5597,6 +5597,7 @@ collector.tescocompare.com
 collector.trendmd.com
 collector.wallapop.com
 compare.liligo.com
+confiant.msn.com
 confirm-referer.glrsales.com
 contadores.bolsamania.com
 coolertracks.emailroi.com
