@@ -1628,7 +1628,6 @@ pingomatic.com
 pinpoll.com
 pipfire.com
 pippio.com
-piwik.pro
 pixel.ad
 pixel.watch
 pixeleze.com
@@ -1898,6 +1897,7 @@ seevolution.com
 seewhy.com
 segmentify.com
 selaris.com
+selectmedia.asia
 sellebrity.com
 sellpoint.net
 sellpoints.com
@@ -4217,7 +4217,6 @@ beacon.thred.woven.com
 beacon.tingyun.com
 beacon.viewlift.com
 beacon2.indieclick.com
-beacon2.indieclicktv.com
 beacons.brandads.net
 beacons.mediamelon.com
 bento.agoda.com
@@ -4562,7 +4561,6 @@ log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
 log.seekda.com
-log000.goo.ne.jp
 logger.snackly.co
 logging.carambo.la
 logging.prefixbox.com
@@ -4570,6 +4568,7 @@ loggingapi.spingo.com
 loglady.skypicker.com
 logs-api.shoprunner.com
 logs.datadoghq.com
+logs.datadoghq.eu
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
@@ -5308,7 +5307,9 @@ kitchen.juicer.cc
 lcs.livedoor.net
 log.codemarketing.cloud
 log.f-tra.com
+log.gs3.goo.ne.jp
 log.nordot.jp
+log000.goo.ne.jp
 omt.shinobi.jp
 rcm.shinobi.jp
 speee-ad.akamaized.net
@@ -5745,7 +5746,6 @@ log.newsvine.com
 log.optimizely.com
 log.prezi.com
 log.snapdeal.com
-log.wat.tv
 log.webnovel.com
 logg.kiwi.com
 logger.nerdwallet.com
@@ -5800,6 +5800,7 @@ mms.splinternews.com
 mms.syracuse.com
 mms.theroot.com
 monitor.ebay.com
+ms-apps.haaretz.com
 mts-ws.rueducommerce.fr
 nb.myspace.com
 ned.itv.com
@@ -6860,7 +6861,6 @@ analyzer2.fc2.com
 astat.nikkei.com
 cgi.tbs.co.jp
 count.upc.rakuten.co.jp
-event.notifier.rakuten.co.jp
 ln.ameba.jp
 log.suumo.jp
 logql.yahoo.co.jp
