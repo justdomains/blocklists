@@ -893,6 +893,7 @@ g2971265025.co
 g3169349360.co
 g3367433695.co
 g3565518030.co
+g3763602365.co
 gaconnector.com
 gameanalytics.com
 gammachug.com
@@ -4470,6 +4471,7 @@ filament-stats.herokuapp.com
 flashstats.libsyn.com
 fog.pixual.co
 fourmtagservices.appspot.com
+fs-client-logger.herokuapp.com
 future-fie-assets.co.uk
 future-price.co.uk
 g.delivery.net
@@ -4478,8 +4480,6 @@ ga-beacon.appspot.com
 ga.kvideo.io
 ga.webdigi.co.uk
 gateway.foresee.com
-geo-eu.snigelweb.com
-geo-us.snigelweb.com
 geo.ertya.com
 geo.gorillanation.com
 geo.kontagent.net
