@@ -204,6 +204,7 @@ ape78cn2.com
 apexstats.com
 apextag.com
 apextwo.com
+api64.com
 apicit.net
 apollofind.com
 appboycdn.com
@@ -869,7 +870,6 @@ freeweblogger.com
 freshcounter.com
 freshmarketer.com
 freshplum.com
-friendbuy.com
 fruitflan.com
 fsd2.digital
 fstats.xyz
@@ -980,6 +980,7 @@ gwmtracking.com
 gxgydnhz.com
 h4k5.com
 halldata.com
+haloscan.com
 halstats.com
 haveamint.com
 hdmtools.com
@@ -1540,6 +1541,7 @@ ondu.ru
 onefeed.co.uk
 oneimpress.io
 onelink-translations.com
+onelink.me
 onestat.com
 onetag-sys.com
 onetag.io
@@ -2931,6 +2933,7 @@ aliveachiever.com
 alleyarm.com
 allowmailbox.com
 amazingairplane.com
+amlg.io
 anxiousapples.com
 attractivecap.com
 audioarctic.com
@@ -3068,6 +3071,7 @@ photographpan.com
 pietexture.com
 plantdigestion.com
 pleasantpump.com
+plotrabbit.com
 prepareplanes.com
 profusesupport.com
 puffyloss.com
@@ -4485,6 +4489,7 @@ geo.gorillanation.com
 geo.kontagent.net
 geo.mezr.com
 geo.q5media.net
+geo.thehindu.com
 geobar.ziffdavisinternational.com
 geoip.nekudo.com
 geoservice.curse.com
