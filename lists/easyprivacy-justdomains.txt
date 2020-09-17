@@ -1142,6 +1142,7 @@ ipinfodb.com
 ipinyou.com.cn
 iplist.cc
 iplocationtools.com
+ippen.space
 ipqualityscore.com
 ipro.com
 iproanalytics.com
@@ -4285,6 +4286,7 @@ collector.roistat.com
 collector.sspinc.io
 comet.ibsrv.net
 confiant-integrations.global.ssl.fastly.net
+config-vvs.glomex.com
 control.cityofcairns.com
 conversions.genieventures.co.uk
 cookies.livepartners.com
@@ -4605,6 +4607,7 @@ metrics.seenon.com
 metrics.sonymusicd2c.com
 metrics.toptenreviews.com
 metrics.wikinvest.com
+metrix.emagister.com
 metrixlablw.customers.luna.net
 mlweb.dmlab.hu
 mmi.bemobile.ua
