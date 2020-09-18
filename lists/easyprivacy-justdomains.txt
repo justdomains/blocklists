@@ -1840,6 +1840,7 @@ roispy.com
 roitesting.com
 rollingcounters.com
 roosterfirework.com
+rote8mino.com
 rp-rep.net
 rpdtrk.com
 rqtrk.eu
@@ -1956,6 +1957,7 @@ sitebro.com
 sitebro.net
 sitebro.tw
 sitecompass.com
+sitedataprocessing.com
 siteimprove.com
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -4286,7 +4288,6 @@ collector.roistat.com
 collector.sspinc.io
 comet.ibsrv.net
 confiant-integrations.global.ssl.fastly.net
-config-vvs.glomex.com
 control.cityofcairns.com
 conversions.genieventures.co.uk
 cookies.livepartners.com
@@ -4684,6 +4685,7 @@ pmetrics.performancing.com
 postpixel.vindicosuite.com
 powersearch.us.com
 pr.blogflux.com
+prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
@@ -4839,6 +4841,7 @@ t.sharethis.com
 t.signalayer.com
 t.smile.eu
 t2.t2b.click
+tag-manager.playbuzz.com
 tag.aumago.com
 tag.brandcdn.com
 tag.myplay.com
