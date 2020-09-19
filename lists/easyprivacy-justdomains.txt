@@ -591,7 +591,6 @@ dacounter.com
 dailycaller-alerts.com
 dapxl.com
 dashboard.io
-data-analytics.jp
 data-dynamic.net
 databrain.com
 datacaciques.com
@@ -1258,7 +1257,9 @@ lijit.com
 linezing.com
 link-smart.com
 linkconnector.com
+linkifier.com
 linkpulse.com
+linksnappy.com
 linksynergy.com
 linkxchanger.com
 liod1ours.com
@@ -1605,6 +1606,7 @@ peerius.com
 pepperjam.com
 percentmobile.com
 perfdrive.com
+perfect-privacy.com
 perfectaudience.com
 perfiliate.com
 performanceanalyser.net
@@ -2121,7 +2123,6 @@ synthasite.net
 sysomos.com
 t-analytics.com
 tag4arm.com
-tagifydiageo.com
 tagmngrs.com
 tagsrvcs.com
 tamgrt.com
@@ -2586,6 +2587,7 @@ onesignal.com
 provesrc.com
 psh.one
 push-ad.com
+push-free.com
 push-house.net
 pushalert.co
 pushbird.com
@@ -2640,7 +2642,6 @@ adless.io
 adminer.com
 adplusplus.fr
 adzjzewsma.cf
-aeros01.tk
 aeros02.tk
 aeros08.tk
 ajplugins.com
@@ -2651,7 +2652,6 @@ altpool.pro
 analytics.blue
 andlache.com
 api.inwemo.com
-arizona-miner.tk
 authcaptcha.com
 authedmine.eu
 averoconnector.com
@@ -2702,7 +2702,6 @@ coinhiveproxy.com
 coinminerz.com
 coinminingonline.com
 coinnebula.com
-coinpirate.cf
 coinpot.co
 coinwebmining.com
 coinwire.eu
@@ -2765,7 +2764,6 @@ hashnest.com
 hashvault.pro
 hashzone.io
 hemnes.win
-hhb123.tk
 hide.ovh
 hostcontent.live
 igg.biz
@@ -3551,6 +3549,7 @@ cnzz.net
 cr-nielsen.com
 ctags.cn
 datamaster.com.cn
+elevenmedia.cn
 emarbox.com
 eyeota.net
 fraudmetrix.cn
@@ -3577,6 +3576,7 @@ p0y.cn
 phpstat.com
 pixanalytics.com
 pp8.com
+prjslxhtx003.top
 pvmax.net
 qchannel03.cn
 qhupdate.com
@@ -4403,7 +4403,6 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 d8rk54i4mohrb.cloudfront.net
 dadi.technology
-dagda.vilynx.com
 daq0d0aotgq0f.cloudfront.net
 data.alexa.com
 data.circulate.com
@@ -4455,7 +4454,6 @@ eventapi.libring.com
 eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
 events.air.tv
-events.antenna.is
 events.apester.com
 events.brightline.tv
 events.demoup.com
@@ -4497,7 +4495,6 @@ geobar.ziffdavisinternational.com
 geoip.nekudo.com
 geoservice.curse.com
 glbdns.microsoft.com
-glogger.inspcloud.com
 go.optifuze.com
 go.toutapp.com
 green-griffin-860.appspot.com
@@ -4604,7 +4601,6 @@ metrics.brightcove.com
 metrics.ctvdigital.net
 metrics.readme.io
 metrics.scribblelive.com
-metrics.seenon.com
 metrics.sonymusicd2c.com
 metrics.toptenreviews.com
 metrics.wikinvest.com
@@ -4646,7 +4642,6 @@ partner.cynapse.com
 pdc.dmleonyc.com
 pebed.dm.gg
 perf.dugout.com
-performance.typekit.net
 perr.h-cdn.com
 perso.aws.arc.pub
 petitionermaster.appspot.com
@@ -5151,7 +5146,6 @@ bbtrack.net
 btstats.devtribu.fr
 calotag.com
 cdn-analytics.ladmedia.fr
-collect.adback.co
 compteur.websiteout.net
 core.unit-sense.net
 e.funnymel.com
@@ -5218,7 +5212,6 @@ pv.hd.sohu.com
 pv.sohu.com
 r.sax.sina.com.cn
 report.meituan.com
-soso.mymederback.com
 stat.ws.126.net
 sugs.m.sm.cn
 t.hypers.com.cn
@@ -5259,8 +5252,6 @@ counter.zone.ee
 insight.fonecta.fi
 tags.op-palvelut.fi
 links.boom.ge
-analytics.dol.gr
-analyticsv2.dol.gr
 rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
@@ -5305,6 +5296,7 @@ tracy.sadv.dadapro.com
 vppst.iltrovatore.it
 a.o2u.jp
 ad-beacon-v01.uliza.jp
+ad.daum.net
 analysis.shinobi.jp
 analytics.liveact.cri-mw.jp
 analyzer51.fc2.com
@@ -5457,7 +5449,6 @@ st.tmgrup.com.tr
 informers.sinoptik.ua
 analytics.yomedia.vn
 tracking.aita.gov.vn
-a2x-eng.spankbang.com
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -5499,7 +5490,6 @@ analytics.hindustantimes.com
 analytics.ifood.tv
 analytics.iraiser.eu
 analytics.islamicfinder.org
-analytics.jabong.com
 analytics.kaggle.io
 analytics.localytics.com
 analytics.meaww.com
@@ -5663,7 +5653,6 @@ events.practo.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
-events.secureserver.net
 events.turbosquid.com
 evisit.exeter.ac.uk
 expbl2ro.xbox.com
@@ -5693,7 +5682,6 @@ geo.battle.net
 geo.homepage-web.com
 geo.metronews.ca
 geo.nbcsports.com
-geo.play.it
 geo.yahoo.com
 geobeacon.ign.com
 geoip-lookup.vice.com
@@ -5783,7 +5771,6 @@ metrics.ee.co.uk
 metrics.extremetech.com
 metrics.ted.com
 metrics.washingtonpost.com
-metrigo.zalan.do
 mmm.theweek.co.uk
 mms.al.com
 mms.cbslocal.com
@@ -6182,7 +6169,6 @@ tracking.chacha.com
 tracking.christianpost.com
 tracking.conduit.com
 tracking.eurosport.com
-tracking.goodgamestudios.com
 tracking.hsn.com
 tracking.military.com
 tracking.mycapture.com
@@ -6374,7 +6360,6 @@ southendstandard-gb.southendstandard.co.uk
 southwalesargus-gb.southwalesargus.co.uk
 southwalesguardian-gb.southwalesguardian.co.uk
 southwestfarmer-gb.southwestfarmer.co.uk
-sp.news-journalonline.com
 stalbansreview-gb.stalbansreview.co.uk
 sthelensstar-gb.sthelensstar.co.uk
 stourbridgenews-gb.stourbridgenews.co.uk
@@ -6481,7 +6466,6 @@ ea.pixmania.fi
 ea.pixmania.ie
 ea.pixmania.it
 ea.pixmania.nl
-ea.pixmania.pl
 ea.pixmania.se
 ea.placedestendances.com
 ea.rentacar.fr
@@ -6605,7 +6589,6 @@ behave.noen.at
 behave.sn.at
 bt.mediaimpact.de
 c.perlentaucher.de
-c.t-online.de
 cc.zeit.de
 cct2.o2online.de
 cmp.channelpartner.de
@@ -6907,7 +6890,6 @@ weblog2.eseoul.go.kr
 stats.tunt.lv
 click.vgnett.no
 stats.proff.no
-webhit.aftenposten.no
 analytics.gazeta.pl
 collect.state.centrum24.pl
 dot.wp.pl
