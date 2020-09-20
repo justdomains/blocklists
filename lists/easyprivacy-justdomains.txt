@@ -893,6 +893,7 @@ g3169349360.co
 g3367433695.co
 g3565518030.co
 g3763602365.co
+g3961686700.co
 gaconnector.com
 gameanalytics.com
 gammachug.com
@@ -1998,6 +1999,7 @@ smileyhost.net
 smrk.io
 snapdeal.biz
 snapsmedia.io
+sni-dat.com
 sniperlog.ru
 sniphub.com
 snoobi.com
@@ -4707,6 +4709,7 @@ recs.atgsvcs.com
 referrer.disqus.com
 reporting.handll.net
 reporting.singlefeed.com
+reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
 res.rbl.ms
 researchintel.com
@@ -5883,7 +5886,6 @@ rtn.thestar.com
 rum.kobo.com
 rv.modanisa.com
 s.infogram.com
-s.youtube.com
 sa.bbc.co.uk
 sa.squareup.com
 sa135.kiro7.com
