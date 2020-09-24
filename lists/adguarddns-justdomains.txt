@@ -12,7 +12,6 @@ softspace.mobi
 jumpnews.pro
 kelopronto.com
 winmonero.club
-bot-checker.com
 oppressiveinterdependenthumanity.com
 sixloamsob.com
 achedgodroad.com
@@ -1928,6 +1927,7 @@ uptopopunder.com
 a.b.napiszar.com
 cfs1.uzone.id
 jor-el.net
+partner.pocketing.tv
 stream.spongead.com
 innorame.com
 adf.acrosspf.com
@@ -2171,6 +2171,7 @@ miner.nablabee.com
 4465ef53c8ffded.com
 448ff4fcfcd199a.com
 45f2373b26b8e2.com
+46a5e78eda.com
 4702fb341ddf276d.com
 473863a8ef28.com
 48331375c351e.com
@@ -2736,6 +2737,7 @@ areantaid.site
 areapebeg.club
 areasons.club
 areasonsimon.club
+arefusedfollo.club
 arejoysew.com
 arentpremi.space
 arfmdqwyztn.com
@@ -3114,6 +3116,7 @@ bordeded.pro
 bororango.com
 borotango.com
 bostoppa.club
+bot-checker.com
 boubeeth.com
 bouillerines.website
 boursnormaticm.info
@@ -3305,7 +3308,6 @@ cd87c85eb2890d048d2.com
 cdaz.icu
 cdcz.xyz
 cddjdjwatndgja.com
-cdn.jamcdn.pro
 cdn4ads.com
 cdnads.com
 cdnmr.net
@@ -3381,21 +3383,25 @@ chasteminihaunting.com
 chauksoa.net
 chdaismlykqep.com
 check-now.online
+checkyofeed.com
 cheeltee.net
 cheewait.net
 cheksoam.com
 chemicall.club
 chengaib.net
+chgilks.com
 chieving.club
 chinacobweb.com
 chinitnam.com
 chitereach.club
 chjriixbqmppwm.com
+chkfdt.com
 chkqqbpppcuihn.com
 chlekoyxrbi.com
 chocheligli.pro
 chocohjuanfhdhf.com
 chofezrj.com
+choinsiden.club
 choorgiw.net
 chootsod.net
 christingera.site
@@ -3682,6 +3688,7 @@ d31ea41705818c9.com
 d3b75cfc88a9.com
 d3e44a82c2df88.com
 d3ithbwcmjcxl7.cloudfront.net
+d409255ce88.com
 d4d48974197052ea.com
 d50285bff60edbb406.com
 d58bf31082fa97.com
@@ -4054,6 +4061,7 @@ eaiatlexsotxbh.com
 eaintrolled.info
 eajmyphr.com
 eaknxurdsogwr.com
+eardepth-prisists.com
 eardewova.com
 earlinggea.info
 earnestlybutcheritchy.com
@@ -4304,6 +4312,7 @@ erbjahuyn.com
 ercredici.info
 erdecisesgeorg.info
 erecommerchh.info
+eredincreaso.club
 eredmights.club
 eredunass.club
 ereintroductc.fun
@@ -4717,6 +4726,7 @@ francoistsjacqu.info
 frbyvuxzvmqpb.com
 frclyody.com
 freakspybad.com
+freeevpn.info
 freementgd.club
 freesoftforever.com
 frenchayan.club
@@ -5766,6 +5776,7 @@ jaihowgr.com
 jajbufmcl.com
 jajkgegza.com
 jakzpcgrxgda.com
+jamcdn.pro
 jamdomn.pro
 jamestop.xyz
 jannews.pro
@@ -7173,6 +7184,7 @@ netcatx.com
 netpatas.com
 netrosol.net
 neurishot.info
+neuronales.xyz
 neveralexpect.fun
 neverythin.club
 new-new-years.com
@@ -9286,6 +9298,7 @@ stream-all.com
 streamclub.best
 streamclub.fun
 streamspeedygreatlyapplication.best
+streamyourvid.com
 stremanp.com
 stressfulpyjamas.com
 strialcurity.site
@@ -10139,6 +10152,7 @@ visariomedia.com
 vitoryjober.club
 viunypnvhcw.com
 viurihkwo.com
+vivdq.com
 viwsqbbvfknp.com
 vixirtab.com
 vjcewkcjqu.com
@@ -10381,6 +10395,7 @@ wensoono.com
 weoukcpr.com
 wepmmzpypfwq.com
 wepyyttx.com
+weredadmitt.club
 westerdayeol.site
 westerdayeu.site
 westwarese.club
@@ -10888,6 +10903,7 @@ yajeaumd.com
 yanderthundr.fun
 yanskweqyuma.com
 yapparenalu.info
+yasmwesikz.com
 yassociallya.club
 yatgrotthyzpm.com
 yauatoyuhdb.com
@@ -11227,6 +11243,7 @@ zi8ivy4b0c7l.com
 zidqkapwgnsh.com
 zidtqsrzosud.com
 ziebgbikz.com
+zifjgjddpy.com
 zim-zim-zam.com
 zinfluentlyw.club
 zinhavnpak.com
@@ -16318,6 +16335,11 @@ i2.myapkcdn.in
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+adzfun.info
+adzfun.me
+painsko.com
+ad.jetx.info
+ad.snappea.com
 api.mediation.amberweather.com
 aqi.wd.amberweather.com
 adslog.apexinnotech.com
@@ -17155,6 +17177,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+fhits.xyz
 beak.bd.313.nl
 collector.appconsent.io
 tracker.durasite.net
@@ -17206,7 +17229,6 @@ telemetry.swe.quicinc.com
 st.onlygip.tech
 tracker.plerdy.com
 wtag.estlier.net
-ulclick.ru
 collector.getyourguide.com
 5baf1288cf.dl8.me
 stat.sm-it.space
@@ -19371,6 +19393,9 @@ api.appsflyer.com
 register.appsflyer.com
 events.appsflyer.com
 track.appsflyer.com
+sensors.snappea.com
+analytics.snappea.com
+analytics.snaptube.app
 px.ucweb.com
 collector1.afreecatv.com
 adtima-static.zadn.vn
@@ -20882,7 +20907,6 @@ link-smart.com
 linkconnector.com
 linkifier.com
 linkpulse.com
-linksnappy.com
 linkxchanger.com
 liod1ours.com
 listrakbi.com
@@ -24506,6 +24530,7 @@ tds.io
 tnative.ru
 tpm.pw
 uarating.com
+ulclick.ru
 uptolike.com
 uzrating.com
 variti.net
@@ -25116,6 +25141,7 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 zebestof.com
+hxguqogewaicf42s.in.net
 epaaab.com
 vendigamus.com
 7jzic2hylf.ru

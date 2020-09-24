@@ -4387,6 +4387,7 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+d33t3vvu2t2yu5.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
@@ -4581,7 +4582,6 @@ logging.prefixbox.com
 loggingapi.spingo.com
 loglady.skypicker.com
 logs-api.shoprunner.com
-logs.datadoghq.com
 logs.datadoghq.eu
 logs.spilgames.com
 logs.thebloggernetwork.com
@@ -5502,6 +5502,7 @@ analytics.ifood.tv
 analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.kaggle.io
+analytics.linktr.ee
 analytics.localytics.com
 analytics.meaww.com
 analytics.mindjolt.com
