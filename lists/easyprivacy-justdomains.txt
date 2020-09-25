@@ -1608,7 +1608,6 @@ peerius.com
 pepperjam.com
 percentmobile.com
 perfdrive.com
-perfect-privacy.com
 perfectaudience.com
 perfiliate.com
 performanceanalyser.net
@@ -4387,7 +4386,6 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
-d33t3vvu2t2yu5.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
@@ -6882,8 +6880,11 @@ sy.ameblo.jp
 wisteria-js.excite.co.jp
 x.allabout.co.jp
 yjtag.yahoo.co.jp
+ad-log.dable.io
+aem-collector.daumkakao.io
 count.munhwa.com
 hits.zdnet.co.kr
+kyson.kakao.com
 l.m.naver.com
 log.etoday.co.kr
 log.sv.pandora.tv
