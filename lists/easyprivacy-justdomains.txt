@@ -5717,6 +5717,7 @@ geolocation.forbes.com
 glassmoni.researchgate.net
 gmonitor.aliimg.com
 gnar.grammarly.com
+gql.reddit.com
 h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
@@ -5824,6 +5825,7 @@ omni.nine.com.au
 omniture.stuff.co.nz
 omniture.theglobeandmail.com
 oms.expedia.com
+oops.redditmedia.com
 open.mkt1397.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
@@ -6144,6 +6146,7 @@ track.dictionary.com
 track.engagesciences.com
 track.fxstreet.com
 track.hubspot.com
+track.lexico.com
 track.netzero.net
 track.ning.com
 track.searchiq.co
