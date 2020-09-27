@@ -69,6 +69,7 @@ acetrk.com
 acexedge.com
 acint.net
 acq.io
+acsbap.com
 active-trk7.com
 activeconversion.com
 activemeter.com
@@ -244,6 +245,7 @@ audience.systems
 audience.visiblemeasures.com
 audienceamplify.com
 audienceiq.com
+audiencepixel.com
 audiencerate.com
 audiens.com
 audrte.com
@@ -346,6 +348,7 @@ bm23.com
 bm324.com
 bmlmedia.com
 bmmetrix.com
+bnqt.com
 bntech.io
 boomerang.com.au
 boomtrain.com
@@ -1392,6 +1395,7 @@ mmccint.com
 mmi-agency.com
 mno.link
 mobalyzer.net
+mobee.xyz
 mochibot.com
 mockingfish.com
 momently.com
@@ -2051,6 +2055,7 @@ srv1010elan.com
 stack-sonar.com
 stadsvc.com
 star-cntr-5.com
+startsmajesty.com
 stat-track.com
 stat.social
 stat08.com
@@ -2324,6 +2329,7 @@ urlbrief.com
 urlself.com
 usabilitytools.com
 usabilla.com
+usablenet.com
 useinsider.com
 useitbetter.com
 useproof.com
@@ -2455,6 +2461,7 @@ webtrends.com
 webtrendslive.com
 webtuna.com
 wemfbox.ch
+wgsas.com
 wheredoyoucomefrom.ovh
 whitepixel.com
 whizstats.com
@@ -2596,6 +2603,7 @@ pushalert.co
 pushbird.com
 pushbullet.com
 pushengage.com
+pusher.com
 pushex.io
 pushible.com
 pushify.com
@@ -2943,6 +2951,7 @@ attractivecap.com
 audioarctic.com
 automaticside.com
 awakebird.com
+awarealley.com
 awzbijw.com
 axiomaticalley.com
 ayc0zsm69431gfebd.info
@@ -2993,6 +3002,7 @@ detectdiscovery.com
 diplomahawaii.com
 discreetfield.com
 distinctday.com
+distributiontomatoes.com
 divehope.com
 dq95d35.com
 drydrum.com
@@ -3135,6 +3145,7 @@ spottednoise.com
 spuriousbase.com
 spurioussteam.com
 squeakzinc.com
+squealingturn.com
 squirrelhands.com
 staleshow.com
 stalesummer.com
@@ -3151,6 +3162,7 @@ suddensidewalk.com
 sugarcurtain.com
 superficialsquare.com
 sweetslope.com
+tangibleteam.com
 tawdryson.com
 tendertest.com
 thirdrespect.com
@@ -4914,6 +4926,7 @@ track.yfret.com
 track.yieldsoftware.com
 tracker.affiliate.iqoption.com
 tracker.affirm.com
+tracker.arc.io
 tracker.beezup.com
 tracker.data-vp.com
 tracker.downdetector.com
@@ -5717,7 +5730,6 @@ geolocation.forbes.com
 glassmoni.researchgate.net
 gmonitor.aliimg.com
 gnar.grammarly.com
-gql.reddit.com
 h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
@@ -6069,7 +6081,6 @@ stats.pandora.com
 stats.paste2.org
 stats.piaggio.com
 stats.propublica.org
-stats.pusher.com
 stats.searchftps.net
 stats.searchftps.org
 stats.shoppydoo.com
