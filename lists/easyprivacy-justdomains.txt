@@ -2603,7 +2603,6 @@ pushalert.co
 pushbird.com
 pushbullet.com
 pushengage.com
-pusher.com
 pushex.io
 pushible.com
 pushify.com
@@ -4807,6 +4806,7 @@ stats.olark.com
 stats.ozwebsites.biz
 stats.phoenix-widget.com
 stats.polldaddy.com
+stats.pusher.com
 stats.sa-as.com
 stats.sawlive.tv
 stats.shopify.com
@@ -4928,6 +4928,7 @@ tracker.affiliate.iqoption.com
 tracker.affirm.com
 tracker.arc.io
 tracker.beezup.com
+tracker.cdnbye.com
 tracker.data-vp.com
 tracker.downdetector.com
 tracker.financialcontent.com
