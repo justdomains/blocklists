@@ -599,6 +599,7 @@ datacaciques.com
 datacoral.com
 datacoral.io
 datacygnal.io
+datadsk.com
 datafeedfile.com
 datafront.co
 datam.com
@@ -2526,6 +2527,7 @@ yldr.io
 ymetrica1.com
 youborafds01.com
 youboranqs01.com
+youboranqs02.com
 your-counter.be
 youramigo.com
 yu987.com
@@ -3783,7 +3785,6 @@ owldata.com
 pagoda56.com
 pdmp.jp
 polymorphicads.jp
-popin.cc
 quant.jp
 rays-counter.com
 rentracks.jp
