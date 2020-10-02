@@ -1093,7 +1093,6 @@ influid.co
 infopro-insight.com
 infoprodata.com
 informz.net
-ingratitudedaintyblockade.com
 inimbus.com.au
 inmoment.com
 innomdc.com
@@ -1666,6 +1665,7 @@ pntrs.com
 podfdch.com
 pointillist.com
 pointomatic.com
+polarbyte.com
 polarcdn-pentos.com
 polarcdn-terrax.com
 popsample.com
@@ -2056,7 +2056,6 @@ srv1010elan.com
 stack-sonar.com
 stadsvc.com
 star-cntr-5.com
-startsmajesty.com
 stat-track.com
 stat.social
 stat08.com
@@ -4375,6 +4374,7 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
+d1yu67rmchodpo.cloudfront.net
 d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
@@ -6241,6 +6241,7 @@ visit.dealspwn.com
 visit.mobot.net
 visit.theglobeandmail.com
 visitors.sourcingmap.com
+vortex.hulu.com
 vs.target.com
 vstats.digitaltrends.com
 w88.espn.com
