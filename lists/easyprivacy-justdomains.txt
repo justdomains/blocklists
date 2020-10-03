@@ -1314,6 +1314,7 @@ lytics.io
 lytiks.com
 m-pathy.com
 m-t.io
+m0mentum.net
 m1ll1c4n0.com
 m6r.eu
 mabipa.com
@@ -1609,6 +1610,7 @@ pcspeedup.com
 pdbu.net
 peep1alea.com
 peerius.com
+pendo.io
 pepperjam.com
 percentmobile.com
 perfdrive.com
@@ -3764,6 +3766,7 @@ f-counter.net
 genieedmp.com
 genieessp.jp
 gmodmp.jp
+gmossp-sp.jp
 gsspcln.jp
 hitgraph.jp
 i2ad.jp
@@ -4280,6 +4283,7 @@ cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 chartaca.com.s3.amazonaws.com
+check.ddos-guard.net
 click.appinthestore.com
 click.aristotle.net
 click.rssfwd.com
@@ -4289,6 +4293,7 @@ clickthru.lefbc.com
 clicktracker.iscan.nl
 client-analytics.braintreegateway.com
 client.tahono.com
+clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cm.g.doubleclick.net
 cnt.3dmy.net
@@ -4306,6 +4311,7 @@ collector.roistat.com
 collector.sspinc.io
 comet.ibsrv.net
 confiant-integrations.global.ssl.fastly.net
+contents-tracking.beop.io
 control.cityofcairns.com
 conversions.genieventures.co.uk
 cookies.livepartners.com
@@ -4612,6 +4618,7 @@ mc.webvisor.com
 mc.webvisor.org
 mcs.delvenetworks.com
 measure.refinery89.com
+medallia.com
 mediametrics.mpsa.com
 metering.pagesuite.com
 metric.nwsource.com
@@ -4840,6 +4847,7 @@ sync.outbrain.com
 systemmonitoring.badgeville.com
 t-staging.powerreviews.com
 t.a3cloud.net
+t.beop.io
 t.beopinion.com
 t.bimvid.com
 t.brand-server.com
@@ -5332,6 +5340,7 @@ imgstat.ameba.jp
 ip2c.landscape.co.jp
 ipcheck.blogsys.jp
 kitchen.juicer.cc
+l.popin.cc
 lcs.livedoor.net
 log.codemarketing.cloud
 log.f-tra.com
@@ -5340,6 +5349,7 @@ log.nordot.jp
 log000.goo.ne.jp
 omt.shinobi.jp
 rcm.shinobi.jp
+rlog.popin.cc
 speee-ad.akamaized.net
 sstats.mora.jp
 sync.shinobi.jp
