@@ -6796,7 +6796,6 @@ dmtracking.1688.com
 dwtracking.sdo.com
 eclick.baidu.com
 imgstat.baidu.com
-jcm.jd.com
 lg.tr.pandora.tv
 log.51cto.com
 log.bitauto.com
