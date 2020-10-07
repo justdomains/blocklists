@@ -128,6 +128,7 @@ adrizer.com
 adrta.com
 adsensedetective.com
 adspsp.com
+adsrvr.org
 adsrvx.com
 adsymptotic.com
 adtarget.me
@@ -1977,6 +1978,7 @@ sitelinktrack.com
 sitemeter.com
 siteplug.com
 sitereport.org
+sitescout.com
 sitestat.com
 siteswithcontent.com
 sitetag.us
@@ -2057,6 +2059,7 @@ srmdata.com
 srpx.net
 srv1010elan.com
 stack-sonar.com
+stackadapt.com
 stadsvc.com
 star-cntr-5.com
 stat-track.com
@@ -2136,6 +2139,7 @@ tag4arm.com
 tagmngrs.com
 tagsrvcs.com
 tamgrt.com
+tapad.com
 tapfiliate.com
 taplytics.com
 taps.io
@@ -2296,8 +2300,10 @@ tsk4.com
 tsk5.com
 tst14netreal.com
 tsw0.com
+tubemogul.com
 tuinfra.com
 tunnl.com
+turn.com
 tvpixel.com
 twcount.com
 twopointo.io
@@ -2533,6 +2539,7 @@ youboranqs01.com
 youboranqs02.com
 your-counter.be
 youramigo.com
+youvisit.com
 yu987.com
 z444o.com
 zanox-affiliate.de
@@ -4286,7 +4293,6 @@ cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 chartaca.com.s3.amazonaws.com
-check.ddos-guard.net
 click.appinthestore.com
 click.aristotle.net
 click.rssfwd.com
@@ -4440,6 +4446,7 @@ data.marketgid.com
 data.minute.ly
 data.queryly.com
 data.studybreakmedia.com
+data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
 dc8na2hxrj29i.cloudfront.net
@@ -4466,6 +4473,7 @@ duu8lzqdm8tsz.cloudfront.net
 dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
+dyv1bugovvq1g.cloudfront.net
 ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
@@ -4483,6 +4491,7 @@ eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
 events.air.tv
 events.apester.com
+events.attentivemobile.com
 events.brightline.tv
 events.demoup.com
 events.izooto.com
@@ -5349,6 +5358,7 @@ log.codemarketing.cloud
 log.f-tra.com
 log.gs3.goo.ne.jp
 log.nordot.jp
+log.popin.cc
 log000.goo.ne.jp
 omt.shinobi.jp
 rcm.shinobi.jp
@@ -5675,6 +5685,7 @@ edw.edmunds.com
 eec.crunchyroll.com
 ekg.riotgames.com
 emarketing.rmauctions.com
+engagefront.meteomedia.com
 engagefront.theweathernetwork.com
 enlightenment.secureshoppingbasket.com
 eproof.drudgereport.com
