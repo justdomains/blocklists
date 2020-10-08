@@ -1696,6 +1696,7 @@ promotionengine.com
 proofpoint.com
 proofpositivemedia.com
 propeller-tracking.com
+propermessage.io
 provenpixel.com
 prprocess.com
 prtracker.com
@@ -2038,6 +2039,7 @@ spectate.com
 speed-trap.com
 speedcurve.com
 spklw.com
+splitbee.io
 splittag.com
 splyt.com
 spn-twr-14.com
