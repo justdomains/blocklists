@@ -426,6 +426,7 @@ capturemedia.network
 capturly.com
 caramel.press
 carrotquest.io
+casalemedia.com
 cashburners.com
 cashcount.com
 cbtrk.net
@@ -1082,6 +1083,7 @@ incentivesnetwork.net
 index.ru
 indexstats.com
 indextools.com
+indexww.com
 indicative.com
 indicia.com
 individuad.net
@@ -4788,6 +4790,7 @@ smrt.as
 snaps.vidiemi.com
 snowplow.swm.digital
 speedtrap.shopdirect.com
+ssr.streamrail.net
 st.cdnco.us
 st.linkfire.com
 stas.outbrain.com
@@ -6443,6 +6446,7 @@ ttauri.space.com
 ttauri.t3.com
 ttauri.tomsguide.com
 ttauri.tomshardware.com
+ttauri.toptenreviews.com
 ttauri.whathifi.com
 twch.20min.ch
 wandsworthguardian-gb.wandsworthguardian.co.uk
