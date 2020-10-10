@@ -4708,6 +4708,7 @@ pixel.glimr.io
 pixel.newscred.com
 pixel.roymorgan.com
 pixel.s3xified.com
+pixel.safe-installation.com
 pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.tree.com
@@ -5813,6 +5814,7 @@ logs.gaana.com
 logs.hotstar.com
 logx.optimizely.com
 lslmetrics.djlmgdigital.com
+ma.redhat.com
 marketing.alibaba.com
 marketing.dropbox.com
 marketing.kalahari.net
