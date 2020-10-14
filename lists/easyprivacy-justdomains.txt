@@ -1193,7 +1193,6 @@ jwmstats.com
 k-analytix.com
 k3node.com
 kameleoon.com
-kameleoon.eu
 kampyle.com
 kantartns.lt
 kaxsdc.com
@@ -5044,6 +5043,7 @@ try.abtasty.com
 ts.tradetracker.net
 ttdetect.staticimgfarm.com
 ucounter.ucoz.net
+units.knotch.it
 upt.graphiq.com
 usersegment.wpdigital.net
 utle.tech426.com
