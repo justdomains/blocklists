@@ -1195,7 +1195,6 @@ k3node.com
 kameleoon.com
 kampyle.com
 kantartns.lt
-kaxsdc.com
 keet1liod.com
 keyade.com
 keymetric.net
@@ -1233,6 +1232,7 @@ lansrv030.com
 lasagneandands.com
 lead-123.com
 lead-converter.com
+leadbi.com
 leadboxer.com
 leadchampion.com
 leaddyno.com
@@ -3752,6 +3752,7 @@ vivistats.com
 webads.eu
 webmeter.ws
 webmobile.ws
+websanalytic.com
 whoseesyou.com
 wstatslive.com
 accesstrade.net
