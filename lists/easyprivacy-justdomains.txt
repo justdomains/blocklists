@@ -904,6 +904,7 @@ fusestats.com
 fuziontech.net
 fwpixel.com
 fyreball.com
+ga-analytics.com
 gaconnector.com
 gameanalytics.com
 gammachug.com
@@ -1713,6 +1714,7 @@ ptmind.com
 pto-slb-09.com
 ptrk-wn.com
 pubdream.com
+pubexchange.com
 publicgood.com
 publicidees.com
 publishflow.com
@@ -2347,6 +2349,7 @@ urlself.com
 usabilitytools.com
 usabilla.com
 usablenet.com
+usefathom.com
 useinsider.com
 useitbetter.com
 useproof.com
@@ -2361,6 +2364,7 @@ userreplay.net
 userreport.com
 users-api.com
 userzoom.com
+usesfathom.com
 usuarios-online.com
 uuxnwoevyb.com
 v12group.com
@@ -4321,7 +4325,6 @@ cnt.mastorage.net
 cod.bitrec.com
 collect.igodigital.com
 collect.rewardstyle.com
-collect.usefathom.com
 collector-api.99designs.com
 collector.automote.co.nz
 collector.clareity.net
@@ -5284,6 +5287,7 @@ track.ra.icast.cn
 tracking.cat898.com
 useg.nextdigital.com.hk
 v.emedia.cn
+videostats.kakao.com
 tracking.vid4u.org
 bisko.mall.tv
 bnr.alza.cz
@@ -5388,6 +5392,7 @@ t.felmat.net
 t.seesaa.net
 torimochi.line-apps.com
 track.thebase.in
+tracker.520call.me
 userdive.com
 webbc.fivecdm.com
 webtracker.jp
@@ -6180,6 +6185,7 @@ tck.bangbros.com
 ted.dailymail.co.uk
 ted.metro.co.uk
 telegraph.api.hbo.com
+telemetry.art19.com
 telemetry.tradingview.com
 tempo.inc.com
 timeslogtn.timesnow.tv
