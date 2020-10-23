@@ -4329,6 +4329,7 @@ collector-api.99designs.com
 collector.automote.co.nz
 collector.clareity.net
 collector.contentexchange.me
+collector.getyourguide.com
 collector.mazeberry.com
 collector.roistat.com
 collector.sspinc.io
