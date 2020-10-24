@@ -2205,7 +2205,6 @@ tmvtp.com
 tnctrx.com
 tns-counter.ru
 tns-cs.net
-tooso.ai
 top100bloggers.com
 top100webshops.com
 top10sportsites.com
@@ -4207,6 +4206,7 @@ analytics.strangeloopnetworks.com
 analytics.supplyframe.com
 analytics.themarketiq.com
 analytics.tiktok.com
+analytics.tooso.ai
 analytics.tout.com
 analytics.tribeca.vidavee.com
 analytics.unibuddy.co
@@ -4784,6 +4784,7 @@ rva.outbrain.com
 s-vop.sundaysky.com
 s.clickability.com
 s.sniphub.com
+s.srvsynd.com
 s3-tracking.synthasite.net.s3.amazonaws.com
 sadv.dadapro.com
 scout.haymarketmedia.com
