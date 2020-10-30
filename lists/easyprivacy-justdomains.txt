@@ -1466,6 +1466,7 @@ naj.sk
 nakanohito.jp
 nalook.com
 nanovisor.io
+narrativ.com
 natero.com
 native.ai
 natpal.com
@@ -4437,6 +4438,7 @@ d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
 d3l3lkinz3f56t.cloudfront.net
+d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
@@ -4854,6 +4856,7 @@ stats.topofblogs.com
 stats.twistage.com
 stats.varrando.com
 stats.viddler.com
+stats.vliplatform.com
 stats.webs.com
 stats.webstarts.com
 stats.wp.com
@@ -5630,6 +5633,7 @@ bulb.76.my
 c.ipaddress.com
 c.wort-suche.com
 c.x.oanda.com
+capture.crutchfield.com
 cbs.wondershare.com
 cdnstats.tube8.com
 cem.hotelsapi.io
