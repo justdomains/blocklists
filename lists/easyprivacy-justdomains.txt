@@ -4333,7 +4333,6 @@ collector.getyourguide.com
 collector.mazeberry.com
 collector.roistat.com
 collector.sspinc.io
-comet.ibsrv.net
 confiant-integrations.global.ssl.fastly.net
 contents-tracking.beop.io
 control.cityofcairns.com
@@ -5512,6 +5511,7 @@ leadzu.com
 pixel.zumby.io
 reachandrich.antevenio.com
 stats.miarroba.info
+stats.sec.telefonica.com
 tag.shopping-feed.com
 tracker.thinkindot.com
 collector.schibsted.io
