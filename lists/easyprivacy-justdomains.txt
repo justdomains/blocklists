@@ -11,6 +11,7 @@ g3961686700.co
 g4159771035.co
 g4357855370.co
 g4555939705.co
+g4754024040.co
 0emm.com
 1-cl0ud.com
 103bees.com
@@ -2070,6 +2071,7 @@ srv1010elan.com
 ssm.codes
 stack-sonar.com
 stackadapt.com
+stackvaults.com
 stadsvc.com
 star-cntr-5.com
 stat-track.com
@@ -2333,6 +2335,7 @@ uhygtf1.com
 umbel.com
 unicaondemand.com
 uniqodo.com
+united-infos.net
 unknowntray.com
 upapi.net
 upscore.com
@@ -5522,6 +5525,7 @@ vizzit.se
 sal.isanook.com
 stat.matichon.co.th
 st.tmgrup.com.tr
+tracking.venturify.at
 informers.sinoptik.ua
 analytics.yomedia.vn
 tracking.aita.gov.vn
@@ -5708,6 +5712,7 @@ dl.meliacloud.com
 dmp.marketgid.com
 dmtracking2.alibaba.com
 dp.shoprunner.com
+dumpster.cam4.com
 dw.cnet.com
 dwh-tracking.it.auth0.com
 edw.edmunds.com
@@ -5938,6 +5943,7 @@ pixel.staging.tree.com
 pixel.tuko.co.ke
 pixels.livingsocial.com
 pixiedust.buzzfeed.com
+player-telemetry.vimeo.com
 presentationtracking.netflix.com
 proac.nationwide.com
 production.airswap.io
@@ -6755,6 +6761,7 @@ vv.ricardo.ch
 wdm.map24.com
 web-track.telekom-dienste.de
 webts.adac.de
+ymprove.web.de
 ia.ekstrabladet.dk
 jppolid-track.trackprod.integration.jppol.dk
 a.20minutes.fr
