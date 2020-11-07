@@ -384,7 +384,6 @@ britepool.com
 bronto.com
 browser-statistik.de
 browser-update.org
-brsrvr.com
 bstn-14-ma.com
 btbuckets.com
 btserve.com
@@ -1871,6 +1870,7 @@ rs6.net
 rstg.io
 rsvpgenius.com
 rtb123.com
+rtbiq.com
 rtmark.net
 rtox.net
 rtrk.co.nz
@@ -2383,6 +2383,7 @@ velaro.com
 vendri.io
 ventivmedia.com
 vepxl1.net
+vercel-analytics.com
 vertical-leap.co.uk
 vertical-leap.net
 verticalscope.com
@@ -6432,6 +6433,7 @@ newsshopper-gb.newsshopper.co.uk
 northwichguardian-gb.northwichguardian.co.uk
 orionis.techradar.com
 oxfordmail-gb.oxfordmail.co.uk
+pcgamer-gb.pcgamer.com
 penarthtimes-gb.penarthtimes.co.uk
 prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 redditchadvertiser-gb.redditchadvertiser.co.uk
@@ -6470,6 +6472,7 @@ thurrockgazette-gb.thurrockgazette.co.uk
 times-series-gb.times-series.co.uk
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.guitarworld.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
