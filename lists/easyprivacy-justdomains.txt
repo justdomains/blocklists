@@ -4510,6 +4510,7 @@ event-api.contactatonce.com
 event-listener.air.tv
 event.api.drift.com
 event.getblue.io
+event.syndigo.cloud
 eventapi.libring.com
 eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
@@ -5094,6 +5095,7 @@ zdlogs.sphereup.com
 convsgmp.taboola.com
 la-sync.taboola.com
 opps.taboola.com
+sync.taboola.com
 urc.taboolasyndication.com
 wf.taboola.com
 fyrsbckgi-c.global.ssl.fastly.net
