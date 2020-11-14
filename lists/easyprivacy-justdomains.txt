@@ -2073,7 +2073,6 @@ srv1010elan.com
 ssm.codes
 stack-sonar.com
 stackadapt.com
-stackvaults.com
 stadsvc.com
 star-cntr-5.com
 stat-track.com
@@ -2567,6 +2566,7 @@ zdtag.com
 zedwhyex.com
 zeerat.com
 zeotap.com
+zeronaught.com
 zesep.com
 zeustechnology.com
 zoomanalytics.co
@@ -3145,6 +3145,7 @@ ritzykey.com
 roofrelation.com
 rusticprice.com
 ruthlessdegree.com
+satisfycork.com
 savoryorange.com
 scientificshirt.com
 scintillatingscissors.com
@@ -4139,6 +4140,7 @@ amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 an.yandex.ru
+analyse.bcovery.com
 analytic.xingcloud.com
 analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
@@ -4368,6 +4370,7 @@ counter.tldw.me
 counter.top.ge
 counter.yadro.ru
 counters.freewebs.com
+countly.stackvaults.com
 country.yepshare.com
 creator.zmags.com
 crta.dailymail.co.uk
@@ -4750,6 +4753,7 @@ powersearch.us.com
 pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+processor.asccommunications.com
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
 projop.dnsalias.com
