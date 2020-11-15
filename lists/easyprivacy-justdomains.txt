@@ -182,6 +182,7 @@ alexametrics.com
 alltagcloud.info
 alltracked.com
 alocdn.com
+alpixtrack.com
 altabold1.com
 altastat.com
 alvenda.com
@@ -328,6 +329,7 @@ beusable.net
 bfmio.com
 bfoleyinteractive.com
 bgpng.me
+bidphysics.com
 bidr.io
 bidsimulator.com
 bidswitch.net
@@ -5060,6 +5062,7 @@ trakksocial.googlecode.com
 trc.pushnami.com
 tree-pixel-log.s3.amazonaws.com
 tremorhub.com
+trends.newsmaxwidget.com
 trf.intuitwebsites.com
 triggers.wfxtriggers.com
 trk.bhs4.com
