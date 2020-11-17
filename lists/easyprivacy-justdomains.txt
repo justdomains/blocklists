@@ -383,6 +383,7 @@ brcdn.com
 bridgevine.com
 brightfunnel.com
 brilig.com
+brilliantcollector.com
 britepool.com
 bronto.com
 browser-statistik.de
@@ -646,6 +647,7 @@ devatics.com
 devatics.io
 device9.com
 dgmsearchlab.com
+di-capt.com
 dialogtech.com
 did-it.com
 didit.com
@@ -1201,6 +1203,7 @@ k3node.com
 kameleoon.com
 kampyle.com
 kantartns.lt
+kaptcha.com
 keet1liod.com
 keyade.com
 keymetric.net
@@ -4218,6 +4221,7 @@ analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.supplyframe.com
 analytics.themarketiq.com
+analytics.threedeepmarketing.com
 analytics.tiktok.com
 analytics.tooso.ai
 analytics.tout.com
@@ -5132,6 +5136,7 @@ seal.godaddy.com
 seal.networksolutions.com
 seal.verisign.com
 secure.trust-guard.com
+siteintercept.allegiancetech.com
 siteintercept.qualtrics.com
 websecurity.norton.com
 widget.trustpilot.com
@@ -5643,6 +5648,7 @@ beacon.netflix.com
 beacon.nuskin.com
 beacon.shazam.com
 beacon.toyota.co.jp
+beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
 beap-bc.yahoo.com
@@ -6489,12 +6495,14 @@ thurrockgazette-gb.thurrockgazette.co.uk
 times-series-gb.times-series.co.uk
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.digitalcameraworld.com
 ttauri.guitarworld.com
 ttauri.laptopmag.com
 ttauri.livescience.com
 ttauri.loudersound.com
 ttauri.musicradar.com
 ttauri.nexttv.com
+ttauri.realhomes.com
 ttauri.space.com
 ttauri.t3.com
 ttauri.tomsguide.com
