@@ -3231,7 +3231,6 @@ adc-serv.net
 adclear.net
 adcrowd.com
 admeira.ch
-adnz.co
 adquality.ch
 adrank24.de
 adtraxx.de
@@ -3270,7 +3269,6 @@ blogtraffic.de
 bluecounter.de
 bonitrust.de
 bonuscounter.de
-businessclick.ch
 checkeffect.at
 clickmap.ch
 count.im
@@ -4727,6 +4725,7 @@ ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.hellobar.com
 ping.smyte.com
+ping.staticmoly.me
 pings.conviva.com
 pings.vidpulse.com
 pipe-collect.ebu.io
