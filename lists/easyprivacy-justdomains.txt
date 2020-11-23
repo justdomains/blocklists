@@ -2687,6 +2687,8 @@ spideraf.com
 1q2w3.fun
 1q2w3.website
 2giga.download
+a-calc.com
+a-calc.de
 aalbbh84.info
 abc.pema.cl
 acbp0020171456.page.tl
@@ -2725,7 +2727,12 @@ binarybusiness.de
 binarybusiness.de
 bitclub.network
 bitclubnetwork.com
+bitcoin-cashcard.com
+bitcoin-cashcard.de
+bitcoin-cashcard.eu
 bitcoin-pay.eu
+bitcoin-pocket.de
+bitcoin-pocket.eu
 bmcm.pw
 bmnr.pw
 bmst.pw
@@ -2782,6 +2789,7 @@ de-nis-ner-mi-5.info
 deepc.cc
 devphp.org.ua
 directprimal.com
+dontbeevils.de
 dzizsih.ru
 easyhash.de
 easyhash.io
@@ -2790,6 +2798,10 @@ etacontent.com
 eth-pocket.com
 eth-pocket.de
 eth-pocket.eu
+ethereum-cashcard.com
+ethereum-cashcard.de
+ethereum-cashcard.eu
+ethereum-pocket.com
 ethereum-pocket.de
 ethereum-pocket.eu
 ethtrader.de
@@ -2939,6 +2951,8 @@ traffic.tc-clicks.com
 traviilo.com
 trk.connatix.com
 truemine.org
+trustiseverything.de
+trustmeiamapro.de
 tulip18.com
 turnsocial.com
 unrummaged.com
@@ -3024,6 +3038,7 @@ cloisteredcord.com
 colorfulafterthought.com
 complextoad.com
 conditioncrush.com
+confesschairs.com
 consciouschairs.com
 coordinatedcoat.com
 coordinatedcub.com
