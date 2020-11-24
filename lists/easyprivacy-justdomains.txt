@@ -229,7 +229,6 @@ apextwo.com
 api64.com
 apicit.net
 apollofind.com
-appboycdn.com
 appcast.io
 appn.center
 appsflyer.com
@@ -6178,6 +6177,7 @@ stats.dnaindia.com
 stats.extremetech.com
 stats.fs.com
 stats.harpercollins.com
+stats.hfet.org
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
 stats.nimiq-network.com
