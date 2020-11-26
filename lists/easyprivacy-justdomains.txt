@@ -371,6 +371,7 @@ bm324.com
 bmlmedia.com
 bmmetrix.com
 bnqt.com
+bnster.com
 bntech.io
 boomerang.com.au
 boomtrain.com
@@ -394,6 +395,7 @@ browser-statistik.de
 browser-update.org
 bstn-14-ma.com
 btbuckets.com
+btloader.com
 btserve.com
 btstatic.com
 btttag.com
@@ -678,6 +680,7 @@ dmanalytics1.com
 dmclick.cn
 dmd53.com
 dmpcounter.com
+dmpprof.com
 dmpxs.com
 dmtracker.com
 dmtry.com
@@ -943,6 +946,7 @@ getrockerbox.com
 getsmartcontent.com
 getsmartlook.com
 getstatistics.se
+getviously.com
 gez.io
 gglscr.online
 giddyuptrk.com
@@ -1388,6 +1392,7 @@ mercadoclics.com
 mercent.com
 meteorsolutions.com
 metricool.com
+metrics0.com
 metricsdirect.com
 mezzobit.com
 mfadsrvr.com
@@ -1585,6 +1590,7 @@ openstat.net
 opentracker.net
 openvenue.com
 oproi.com
+opstag.com
 optify.net
 optimahub.com
 optimix.asia
@@ -1641,6 +1647,7 @@ performtracking.com
 perimeterx.net
 perion.com
 perk0mean.com
+perljs.com
 permutive.app
 permutive.com
 personalicanvas.com
@@ -3015,6 +3022,7 @@ bandborder.com
 basketballbelieve.com
 baskettexture.com
 boilingbeetle.com
+borderbrush.com
 breakfastboat.com
 broadcastbed.com
 broaddoor.com
@@ -3059,10 +3067,12 @@ diplomahawaii.com
 discreetfield.com
 distinctday.com
 distributiontomatoes.com
+disturbedquiet.com
 divehope.com
 dq95d35.com
 drydrum.com
 ejyymghi.com
+enormousearth.com
 enviousshape.com
 fadedsnow.com
 falseframe.com
@@ -3140,10 +3150,13 @@ perceivequarter.com
 petiteumbrella.com
 photographpan.com
 pietexture.com
+placidperson.com
 plantdigestion.com
 pleasantpump.com
 plotrabbit.com
 prepareplanes.com
+producecopy.com
+profitrumour.com
 profusesupport.com
 puffyloss.com
 puffypull.com
@@ -3159,6 +3172,7 @@ readymoon.com
 realizerecess.com
 realizevacation.com
 receptivereaction.com
+regularplants.com
 rejectfairies.com
 repeatsweater.com
 resonantbrush.com
@@ -3170,8 +3184,10 @@ ritzykey.com
 roofrelation.com
 rusticprice.com
 ruthlessdegree.com
+sablesong.com
 satisfycork.com
 savoryorange.com
+scaredsnake.com
 scientificshirt.com
 scintillatingscissors.com
 scintillatingspace.com
@@ -3961,6 +3977,7 @@ zontera.com
 3wnp9.ru
 a-counter.com.ua
 a-counter.kiev.ua
+a4st.club
 adblockmetrics.ru
 admile.ru
 adx.com.ru
@@ -3991,6 +4008,7 @@ giraff.io
 gnezdo.ru
 gostats.ru
 hitmir.ru
+hobbi.xyz
 hsdn.org
 idntfy.ru
 imrk.net
@@ -4140,6 +4158,7 @@ amcdn.vn
 contineljs.com
 gostats.vn
 100widgets.com
+2fuc4clr7gvcn.cloudfront.net
 51network.com
 a.mobify.com
 aan.amazon.com
@@ -4778,6 +4797,7 @@ powersearch.us.com
 pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+prd-collector-auth.playbuzz.com
 processor.asccommunications.com
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
@@ -4949,6 +4969,7 @@ tag.rmp.rakuten.com
 tag.sonymusic.com
 tagger.opecloud.com
 tags.cdn.circlesix.co
+tags.creativille.co.uk
 tags.master-perf-tools.com
 tags.newscgp.com
 tags.refinery89.com
@@ -4959,6 +4980,7 @@ tcheck.outbrainimg.com
 te.supportfreecontent.com
 telemetry.reembed.com
 telemetry.soundcloud.com
+telemetry.tableausoftware.com
 thetradedesk-tags.s3.amazonaws.com
 tk.storetail.io
 tl.tradetracker.net
@@ -5399,6 +5421,7 @@ tag.triboomedia.it
 tr.bt.matrixspa.it
 track.adintend.com
 track.cedsdigital.it
+track.eadv.it
 track.veedio.it
 track.youniversalmedia.com
 tracker.bestshopping.com
