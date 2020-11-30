@@ -2640,6 +2640,7 @@ notifpush.com
 notify.solutions
 olgtex.com
 on-push.com
+onepush.app
 onesignal.com
 provesrc.com
 psh.one
@@ -5588,6 +5589,8 @@ stats.sec.telefonica.com
 tag.shopping-feed.com
 track.sunmedia.tv
 tracker.thinkindot.com
+tracking.smartmeapp.com
+webpixel.smartmeapp.com
 collector.schibsted.io
 counter.mtgnewmedia.se
 vizzit.se
@@ -6019,7 +6022,6 @@ proac.nationwide.com
 production.airswap.io
 proxypage.msn.com
 ps.ecosia.org
-purr.nytimes.com
 pvstat.china.cn
 px.mvfglobal.com
 px.wayfair.com
