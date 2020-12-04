@@ -1,5 +1,5 @@
 # DOMAIN-ONLY Filter Lists
-**Last Updated:** 2020-12-03 11:21:17
+**Last Updated:** 2020-12-04 11:22:50
 
 - [Details](#details)
 - [Usage](#usage)
@@ -41,8 +41,8 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 | Converted List | License | Domains | Domain List | Last Updated |
 :- | - | - | :-: | - |
-| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 17695 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 03 Dec 2020 07:42 UTC |
-| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 7148 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 03 Dec 2020 07:42 UTC |
+| [EasyList](#easylist-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 17738 | [**Download**](https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt) | 04 Dec 2020 06:32 UTC |
+| [EasyPrivacy](#easyprivacy-domains-only) | [GPL3 / CC BY-SA 3.0](https://easylist.to/pages/licence.html) | 7151 | [**Download**](https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt) | 04 Dec 2020 06:32 UTC |
 | [AdGuard Simplified Domain Names Filter](#adguard-simplified-domain-names-filter-domains-only) | [GPL3](https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE) | 38363 | [**Download**](https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt) | 2020-12-02T16:03:06.688Z |
 | [NoCoin Filter List](#nocoin-filter-list-domains-only) | [MIT](https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/LICENSE) | 688 | [**Download**](https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt) | 18 Mar 2020 |
 
@@ -56,19 +56,19 @@ The converted lists are provided in a "Raw Domain List" format that contains onl
 
 **Source:** [https://easylist.to/easylist/easylist.txt](https://easylist.to/easylist/easylist.txt)
 - Title: EasyList
-- Version: 202012030742
-- Last Modified: 03 Dec 2020 07:42 UTC
+- Version: 202012040632
+- Last Modified: 04 Dec 2020 06:32 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 61458
+Total Lines Processed: 61506
 Comment Lines: 337
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 41775
-Domain-only Rules Excluded (unsupported options): 1581
+Non-Domain-only Rules Excluded: 41774
+Domain-only Rules Excluded (unsupported options): 1587
 Domain-only Rules Excluded (exception conflict): 70
-Domain-only Rules Output: 17695
+Domain-only Rules Output: 17738
 ```
 
 &nbsp;
@@ -81,19 +81,19 @@ Domain-only Rules Output: 17695
 
 **Source:** [https://easylist.to/easylist/easyprivacy.txt](https://easylist.to/easylist/easyprivacy.txt)
 - Title: EasyPrivacy
-- Version: 202012030742
-- Last Modified: 03 Dec 2020 07:42 UTC
+- Version: 202012040632
+- Last Modified: 04 Dec 2020 06:32 UTC
 - Homepage: [https://easylist.to/](https://easylist.to/)
 
 **Conversion Details:**
 ```
-Total Lines Processed: 18364
+Total Lines Processed: 18369
 Comment Lines: 313
 Empty Lines: 0
-Non-Domain-only Rules Excluded: 10571
+Non-Domain-only Rules Excluded: 10573
 Domain-only Rules Excluded (unsupported options): 207
 Domain-only Rules Excluded (exception conflict): 125
-Domain-only Rules Output: 7148
+Domain-only Rules Output: 7151
 ```
 
 &nbsp;
