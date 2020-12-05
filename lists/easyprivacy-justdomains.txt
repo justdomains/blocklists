@@ -404,6 +404,7 @@ btstatic.com
 btttag.com
 bubblestat.com
 bugherd.com
+bugsnag.com
 bunchbox.co
 burstbeacon.com
 bux1le001.com
@@ -2059,6 +2060,7 @@ softonic-analytics.net
 sojern.com
 soko.ai
 sokrati.com
+solosegment.com
 solutionshindsight.net
 sometrics.com
 sophi.io
@@ -5185,6 +5187,7 @@ seal.godaddy.com
 seal.networksolutions.com
 seal.verisign.com
 secure.trust-guard.com
+shopperapproved.com
 siteintercept.allegiancetech.com
 siteintercept.qualtrics.com
 websecurity.norton.com
