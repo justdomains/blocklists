@@ -4492,6 +4492,7 @@ d2tgfbvjf3q6hn.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d34ko97cxuv4p7.cloudfront.net
+d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
@@ -5081,6 +5082,7 @@ tracking.legacyoffers.com
 tracking.lengow.com
 tracking.listhub.net
 tracking.livingsocial.com
+tracking.magnetmail.net
 tracking.maxcdn.com
 tracking.menamarketplace.com
 tracking.monsido.com
@@ -6216,6 +6218,7 @@ stats.harpercollins.com
 stats.hfet.org
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
+stats.nctm.org
 stats.nimiq-network.com
 stats.nymag.com
 stats.opoloo.de
