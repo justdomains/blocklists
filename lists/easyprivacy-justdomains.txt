@@ -875,6 +875,7 @@ foreseeresults.com
 forkcdn.com
 formalyzer.com
 formisimo.com
+fouanalytics.com
 foundry42.com
 fout.jp
 fpctraffic2.com
@@ -2039,6 +2040,7 @@ smartzonessva.com
 smct.co
 smileyhost.net
 smrk.io
+smtrk.net
 snapdeal.biz
 snapsmedia.io
 sni-dat.com
@@ -2469,6 +2471,7 @@ waust.at
 wbdx.fr
 wbtrk.net
 wdfl.co
+wdsvc.net
 we-stats.com
 web-boosting.net
 web-counter.net
@@ -2522,6 +2525,7 @@ wikia-beacon.com
 wikiodeliv.com
 wildxtraffic.com
 wiredminds.de
+wirewuss.com
 wisetrack.net
 wishloop.com
 withcubed.com
@@ -4916,7 +4920,6 @@ stats.olark.com
 stats.ozwebsites.biz
 stats.phoenix-widget.com
 stats.polldaddy.com
-stats.pusher.com
 stats.sa-as.com
 stats.sawlive.tv
 stats.shopify.com
