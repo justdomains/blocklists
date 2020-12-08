@@ -1657,6 +1657,7 @@ permutive.app
 permutive.com
 personalicanvas.com
 personyze.com
+peruse.ai
 petametrics.com
 pgs.io
 phonalytics.com
@@ -3142,6 +3143,7 @@ lumpylumber.com
 magnetairport.com
 markedmeasure.com
 massivemark.com
+materialmoon.com
 meatydime.com
 memorizeneck.com
 movemeal.com
@@ -3170,6 +3172,7 @@ producecopy.com
 profitrumour.com
 profusesupport.com
 puffyloss.com
+puffypaste.com
 puffypull.com
 puffypurpose.com
 q20jqurls0y7gk8.info
@@ -3237,6 +3240,7 @@ stalesummer.com
 steadfastsound.com
 steepsquirrel.com
 stepplane.com
+stiffgame.com
 stiffstem.com
 storesurprise.com
 stormyachiever.com
@@ -3964,6 +3968,7 @@ denakop.com
 engageya.com
 orquideassp.com
 percycle.com
+premiumads.com.br
 rdstation.com.br
 retargeter.com.br
 sambaads.com
@@ -6412,6 +6417,8 @@ xtrack.capetown.gov.za
 ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
+as01.overbuff.com
+uuqz.overbuff.com
 gj.mmstat.com
 oneid.mmstat.com
 andoveradvertiser-gb.andoveradvertiser.co.uk
