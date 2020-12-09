@@ -225,6 +225,7 @@ answerscloud.com
 anti-cheat.info
 antiblock.info
 anura.io
+anymind360.com
 ape78cn2.com
 apexstats.com
 apextag.com
@@ -5980,8 +5981,10 @@ mts-ws.rueducommerce.fr
 nb.myspace.com
 ned.itv.com
 net.haier.com
+nj1r.valorbuff.com
 nm.newegg.com
 nmtracking.netflix.com
+nvea.valorbuff.com
 odin.mic.com
 oimg.m.cnbc.com
 oimg.mobile.cnbc.com
