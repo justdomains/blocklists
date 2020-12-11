@@ -1121,6 +1121,7 @@ influid.co
 infopro-insight.com
 infoprodata.com
 informz.net
+ingage.tech
 inimbus.com.au
 inmoment.com
 innomdc.com
@@ -1780,6 +1781,7 @@ questionpro.com
 questradeaffiliates.com
 quillion.com
 quintelligence.com
+quintesse.io
 quitsnap-blue.com
 qzlog.com
 r7ls.net
@@ -3676,6 +3678,7 @@ lndata.com
 logly.co.jp
 mediav.com
 miaozhen.com
+mmstat.com
 oadz.com
 p0y.cn
 phpstat.com
@@ -5225,6 +5228,7 @@ d.finative.eu
 d.nativendo.de
 d.omsnative.de
 data.econa.com
+datalayer.p7s1.io
 et.twyn.com
 events.kaloo.ga
 fc.webmasterpro.de
@@ -5349,6 +5353,7 @@ d17m68fovwmgxj.cloudfront.net
 da.netease.com
 dup.baidustatic.com
 epro.sogou.com
+fourier.taobao.com
 g.yccdn.com
 haostat.qihoo.com
 hyrankhit.meldingcloud.com
@@ -5981,10 +5986,8 @@ mts-ws.rueducommerce.fr
 nb.myspace.com
 ned.itv.com
 net.haier.com
-nj1r.valorbuff.com
 nm.newegg.com
 nmtracking.netflix.com
-nvea.valorbuff.com
 odin.mic.com
 oimg.m.cnbc.com
 oimg.mobile.cnbc.com
@@ -6421,6 +6424,13 @@ ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
 as01.overbuff.com
+gk3o.trackdota.com
+k9v7.dotabuff.com
+mqzy.dotabuff.com
+nj1r.valorbuff.com
+nkeq.speedrun.com
+nvea.valorbuff.com
+pqoz.trackdota.com
 uuqz.overbuff.com
 gj.mmstat.com
 oneid.mmstat.com
