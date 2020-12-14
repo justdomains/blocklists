@@ -2610,6 +2610,11 @@ zqtk.net
 zroitracker.com
 ztsrv.com
 zuzab.com
+pphwrevr.com
+protectcrev.com
+protectsubrev.com
+revcatch.com
+revprotect.com
 accengage.net
 actirinius.com
 aimtell.com
@@ -5218,6 +5223,7 @@ blacktri-a.akamaihd.net
 cdntrf.de
 cgicounter.onlinehome.de
 cnt2.stroeerdp.de
+collector.rn.de
 com.econa.com
 counter.1i.kz
 counter.blogoscoop.net
@@ -6294,7 +6300,6 @@ target.nejm.org
 tck.bangbros.com
 ted.dailymail.co.uk
 ted.metro.co.uk
-telegraph.api.hbo.com
 telemetry.art19.com
 telemetry.tradingview.com
 tempo.inc.com
