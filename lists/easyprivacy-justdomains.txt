@@ -2589,6 +2589,7 @@ your-counter.be
 youramigo.com
 youvisit.com
 yu987.com
+ywxi.net
 z444o.com
 zanox-affiliate.de
 zanox.com
@@ -4594,6 +4595,7 @@ eventlog.inspsearchapi.com
 events.air.tv
 events.apester.com
 events.attentivemobile.com
+events.audiate.me
 events.brightline.tv
 events.demoup.com
 events.izooto.com
@@ -5943,6 +5945,7 @@ loglady.publicbroadcasting.net
 logs.dashlane.com
 logs.gaana.com
 logs.hotstar.com
+logs.naukri.com
 logx.optimizely.com
 lslmetrics.djlmgdigital.com
 ma.redhat.com
