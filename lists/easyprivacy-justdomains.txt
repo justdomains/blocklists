@@ -15,6 +15,7 @@ g4754024040.co
 g4952108375.co
 g5150192710.co
 g5348277045.co
+g5546361380.co
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -5626,6 +5627,7 @@ webpixel.smartmeapp.com
 collector.schibsted.io
 counter.mtgnewmedia.se
 vizzit.se
+pixel.smartmedia.tj
 sal.isanook.com
 stat.matichon.co.th
 st.tmgrup.com.tr
@@ -5915,6 +5917,7 @@ imonitor.dhgate.com
 imp-media-lab.thenewslens.com
 imx.comedycentral.com
 inquiries.redhat.com
+intake-analytics.wikimedia.org
 intelli.ageuk.org.uk
 intent.cbsi.com
 intg.snapchat.com
