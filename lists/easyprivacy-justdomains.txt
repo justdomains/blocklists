@@ -93,6 +93,7 @@ acexedge.com
 acint.net
 acq.io
 acsbap.com
+acsbapp.com
 active-trk7.com
 activeconversion.com
 activemeter.com
@@ -886,6 +887,7 @@ fpjs.io
 fprnt.com
 fqsecure.com
 fqtag.com
+fraudjs.io
 free-counter.co.uk
 free-counter.com
 free-counters.co.uk
@@ -1437,6 +1439,7 @@ monitis.com
 monitus.net
 monstat.com
 monu.delivery
+mooo.com
 mooseway.com
 mopinion.com
 motrixi.com
@@ -4337,6 +4340,7 @@ bc.marfeelcache.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.errorception.com
+beacon.flow.io
 beacon.gcion.com
 beacon.gu-web.net
 beacon.heliumnetwork.com
