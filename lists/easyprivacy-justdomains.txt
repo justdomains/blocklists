@@ -2839,7 +2839,6 @@ ethereum-pocket.eu
 ethtrader.de
 etzbnfuigipwvs.ru
 eucsoft.com
-exdynsrv.com
 f1tbit.com
 feesocrald.com
 filmoljupci.com
@@ -4994,6 +4993,7 @@ t.sgc.io
 t.sharethis.com
 t.signalayer.com
 t.smile.eu
+t.spot.im
 t2.t2b.click
 tag-manager.playbuzz.com
 tag.aumago.com
@@ -5806,6 +5806,7 @@ cpt.itv.com
 crta.metro.co.uk
 cstats.sankakucomplex.com
 d.ghostery.com
+d.skk.moe
 da.virginmedia.com
 data.mic.com
 data.younow.com
