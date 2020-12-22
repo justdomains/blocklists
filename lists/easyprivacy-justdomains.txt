@@ -4703,6 +4703,7 @@ imp.pvnsolutions.com
 impress.vcita.com
 infinityid.condenastdigital.com
 informer.yandex.ru
+ingest.sentry.io
 insight.mintel.com
 insight.rapid7.com
 insights.plista.com
