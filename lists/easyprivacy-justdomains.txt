@@ -6838,6 +6838,7 @@ acl.stayfriends.de
 adtm.chip.de
 analytics.arz.at
 analytics.industriemagazin.net
+analytics.mbga.jp
 analytics.moviepilot.de
 analytics.proxer.me
 analytics.solidbau.at
