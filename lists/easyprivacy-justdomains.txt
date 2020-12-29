@@ -511,6 +511,7 @@ clickprotector.com
 clickreport.com
 clicksagent.com
 clicksen.se
+clicksgate.com
 clickshift.com
 clickstream.co.za
 clicktracks.com
@@ -1542,6 +1543,7 @@ ngmco.net
 nicequest.com
 niftymaps.com
 nik.io
+ninjacat.io
 nitropay.com
 noibu.com
 noowho.com
@@ -1657,6 +1659,7 @@ peerius.com
 pendo.io
 pepperjam.com
 percentmobile.com
+perf-serving.com
 perfdrive.com
 perfectaudience.com
 perfiliate.com
@@ -4552,6 +4555,7 @@ d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d34ko97cxuv4p7.cloudfront.net
@@ -5649,6 +5653,7 @@ telemetry.jivosite.com
 tms-st.cdn.ngenix.net
 top.elec.ru
 track.recreativ.ru
+tracking.gpm-rtv.ru
 tracking.retailrocket.net
 upstats.yadro.ru
 webtrack.biz
