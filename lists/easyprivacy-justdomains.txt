@@ -4543,6 +4543,7 @@ d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
+d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
@@ -4731,6 +4732,7 @@ js-agent.newrelic.com
 k.streamrail.com
 kalstats.kaltura.com
 keyword.daumdn.com
+keywords.complex.com
 l.fairblocker.com
 l.ooyala.com
 l.player.ooyala.com
@@ -5058,6 +5060,7 @@ targeting.perso.aws.arc.pub
 tc.airfrance.com
 tcheck.outbrainimg.com
 te.supportfreecontent.com
+telemetry.api.wmcdp.io
 telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
@@ -6073,6 +6076,7 @@ page-events-ustats.udemy.com
 pageinfo.motorsport.com
 partners.badongo.com
 partners.mysavings.com
+pci3oo5mg4mn-a.akamaihd.net
 pclick.europe.yahoo.com
 pclick.internal.yahoo.com
 pclick.yahoo.com
@@ -6490,15 +6494,11 @@ xtrack.capetown.gov.za
 ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
-as01.overbuff.com
-gk3o.trackdota.com
-k9v7.dotabuff.com
-mqzy.dotabuff.com
-nj1r.valorbuff.com
-nkeq.speedrun.com
-nvea.valorbuff.com
-pqoz.trackdota.com
-uuqz.overbuff.com
+eu1l.dotabuff.com
+eu1l.overbuff.com
+eu1l.speedrun.com
+eu1l.trackdota.com
+eu1l.valorbuff.com
 gj.mmstat.com
 oneid.mmstat.com
 andoveradvertiser-gb.andoveradvertiser.co.uk
