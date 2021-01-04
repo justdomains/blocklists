@@ -24332,6 +24332,7 @@ critictruck.com
 cubchannel.com
 culturedcrayon.com
 curvycry.com
+cushionpig.com
 damdoor.com
 dampdock.com
 dapperdiscussion.com
@@ -25027,6 +25028,7 @@ informer.yandex.ru
 ingest.sentry.io
 insight.mintel.com
 insight.rapid7.com
+insights.algolia.io
 insights.plista.com
 insights.sitesearch360.com
 insitez.blob.core.windows.net
@@ -25035,6 +25037,7 @@ invitejs.trustpilot.com
 ipapi.tmbi.com
 irqs.ioam.de
 itracking.fccinteractive.com
+jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
 js-agent.newrelic.com
@@ -25564,6 +25567,7 @@ rndntpmgnj-a.akamaihd.net
 sgphctileh-a.akamaihd.net
 uhytajrtpo-a.akamaihd.net
 zvsuhljiha-a.akamaihd.net
+7q1z79gxsi.global.ssl.fastly.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 cyveillance.com
@@ -32123,6 +32127,7 @@ newtentionassets.net
 nonstoppartner.net
 notenpartner.de
 nwave.de
+onlymega.com
 paidlinkz.net
 paidsolution.de
 performance-netzwerk.de
@@ -32158,6 +32163,7 @@ shareifyoulike.com
 siyl.net
 smartaffiliate.de
 software-archiv.com
+solads.media
 sparkads.ws
 sparkassen-partner.de
 special-sponsor.de
@@ -32633,14 +32639,12 @@ cityadstrack.com
 cleverads.vn
 clevernet.vn
 clickbuy.bz
-cokhach.com
 contineljs.com
 d2ox6x0y9xhicd.cloudfront.net
 discovery.api.zaloapp.com
 donglogs.com
 eclick.vn
 ezimar.com
-fff.com.vn
 flygame.io
 fuseplatform.net
 gammaplatform.com
@@ -32655,8 +32659,8 @@ ladicdn.com
 ladipage.com
 ladipage.net
 ladipage.vn
+ladisales.com
 lavanetwork.net
-laydata.com
 log.api.zaloapp.com
 log.o2o.service.zaloapp.com
 mangoads.vn
@@ -32728,6 +32732,7 @@ zminer.zaloapp.com
 zplayer-trk.zdn.vn
 zplayer.trk.zapps.vn
 ztevents.zaloapp.com
+5734a40f2d.vws.vegacdn.vn
 703531862.vws.vegacdn.vn
 ad-admin.vnay.vn
 ad.24h.com.vn
@@ -32773,10 +32778,12 @@ ads.tiki.vn
 ads.vietbao.vn
 ads.vkool.info
 ads.vovlive.vn
+ads.xedoisong.vn
 ads.xemphimso.com
 ads1.careerbuilder.vn
 adserver.lag.vn
 adserver.luzu.vn
+adserver.trangphim.net
 adsgo.nhipcaudautu.vn
 adsplus.vn
 adsv2.autodaily.vn
@@ -32789,6 +32796,7 @@ advertisement-nhatanh.com
 advserver.cgv.vn
 adx.baolongan.vn
 adx.edutimes.com.vn
+adx.hongtinnhanh.com
 adx.kul.vn
 adx.xemvtv.net
 affiliate.k4.tinhte.vn
@@ -32809,6 +32817,7 @@ banhtv.org
 banner.5giay.vn
 banner.vietnamfinance.vn
 bgadx.com
+bluemaulpuffs.com
 boxpr.aiservice.vn
 cdn-ads.thesaigontimes.vn
 cdn2.cache.vn
@@ -32826,7 +32835,9 @@ delivery.vtc.vn
 delivery.vtcnew.com.vn
 deltago.com
 demopage.me
+deqik.com
 dt.vnecdn.com
+duamilsyr.com
 ff.imacdn.com
 financial-agent.headlines.pw
 fptad.com
@@ -32852,6 +32863,7 @@ qc.designervn.net
 qcv5.blogtruyen.vn
 quangcao.24h.com.vn
 quangcao.baovannghe.com.vn
+quangcao.fff.com.vn
 quangcao.thanhnien.vn
 quangcao.tuoitre.vn
 quangcao247.com.vn
@@ -32891,6 +32903,7 @@ analytics.bkav.com.vn
 analytics.easyvideo.vn
 analytics.explus.vn
 analytics.hub-js.com
+analytics.nhattao.com
 analytics.sohatv.vn
 analytics.thethao247.org
 analytics.tiki.vn
@@ -32900,7 +32913,8 @@ analytics.vnreview.vn
 apl.headlines.pw
 clientinfo.phimmoizz.net
 counter.ntdvn.com
-deqik.com
+crm.bizfly.vn
+crmbizfly.todo.vn
 elogs.vnexpress.net
 event.headlines.pw
 event.vntoday.news
@@ -32940,6 +32954,7 @@ log.viettimes.vn
 log.vnay.vn
 log.vntoday.news
 log.vov.vn
+log.zamba.vn
 log4x.nixcdn.com
 logg4u.cnnd.vn
 logging.galaxypub.vn
@@ -32957,6 +32972,7 @@ s.soha.vn
 s.tuoitre.vn
 sharefb.cnnd.vn
 stat.headlines.pw
+static.accesstrade.vn
 static.subiz.com
 staticad.thethao247.vn
 statistics.vov.vn
@@ -32984,6 +33000,8 @@ tracker.tintucvietnam.vn
 tracking.appwifi.com
 tracking.dantri.com.vn
 tracking.fado.vn
+tracking.fff.com.vn
+tracking.hongtinnhanh.com
 tracking.vht.com.vn
 tracking.vietbao.vn
 tracking.vtc.vn
@@ -32996,6 +33014,8 @@ trk.staging.123c.vn
 userstats.shopee.vn
 vn.alexajstrack.com
 vtrack.vht.com.vn
+webpush.bizfly.vn
+webpush.todo.vn
 widget.sbz.vn
 widget.subiz.xyz
 11bet.com
@@ -35726,7 +35746,6 @@ dm.taobaojuhuasuan.cn
 dm.wenshenxiu.com
 dm.zuowenku.net
 dm1.ddwk8.cn
-dm1.dnpz123.com
 dm1.guanwawa.com
 dm1.zjydt.com
 dmm.aizhan.com
@@ -36132,7 +36151,6 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
-wfaffwshop.xyz
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -37990,6 +38008,7 @@ welted.cn
 wenbangsh.com.cn
 wenzhougy.cn
 wervp.com
+wfaffwshop.xyz
 wfslj.cn
 wfxoi.xyz
 wfyqc.com

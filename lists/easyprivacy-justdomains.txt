@@ -3119,6 +3119,7 @@ critictruck.com
 cubchannel.com
 culturedcrayon.com
 curvycry.com
+cushionpig.com
 damdoor.com
 dampdock.com
 dapperdiscussion.com
@@ -4718,6 +4719,7 @@ informer.yandex.ru
 ingest.sentry.io
 insight.mintel.com
 insight.rapid7.com
+insights.algolia.io
 insights.plista.com
 insights.sitesearch360.com
 insitez.blob.core.windows.net
@@ -4726,6 +4728,7 @@ invitejs.trustpilot.com
 ipapi.tmbi.com
 irqs.ioam.de
 itracking.fccinteractive.com
+jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
 js-agent.newrelic.com
@@ -5254,6 +5257,7 @@ rndntpmgnj-a.akamaihd.net
 sgphctileh-a.akamaihd.net
 uhytajrtpo-a.akamaihd.net
 zvsuhljiha-a.akamaihd.net
+7q1z79gxsi.global.ssl.fastly.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 cyveillance.com
