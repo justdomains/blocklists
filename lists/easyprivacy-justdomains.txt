@@ -476,6 +476,7 @@ chickensaladandads.com
 christiantop1000.com
 christmalicious.com
 chrumedia.com
+chtbl.com
 cint.com
 cintnetworks.com
 circular-counters.com
@@ -1662,6 +1663,7 @@ perf-serving.com
 perfdrive.com
 perfectaudience.com
 perfiliate.com
+perfops.io
 performanceanalyser.net
 performancerevenues.com
 performtracking.com
@@ -2603,7 +2605,6 @@ your-counter.be
 youramigo.com
 youvisit.com
 yu987.com
-ywxi.net
 z444o.com
 zanox-affiliate.de
 zanox.com
@@ -4543,6 +4544,7 @@ d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
+d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -4568,6 +4570,7 @@ d3a2okcloueqyx.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
+d3j1weegxvu8ns.cloudfront.net
 d3kyk5bao1crtw.cloudfront.net
 d3l3lkinz3f56t.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
@@ -4627,6 +4630,7 @@ ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
 edge.sqweb.com
+entitlement.auth.adobe.com
 epl.paypal-communication.com
 errors.snackly.co
 event-api.contactatonce.co.uk
@@ -4636,6 +4640,7 @@ event-listener.air.tv
 event.api.drift.com
 event.getblue.io
 event.syndigo.cloud
+event.webcollage.net
 eventapi.libring.com
 eventgateway.soundcloud.com
 eventlog.inspsearchapi.com
@@ -5063,6 +5068,7 @@ targeting.perso.aws.arc.pub
 tc.airfrance.com
 tcheck.outbrainimg.com
 te.supportfreecontent.com
+telemetrics.klaviyo.com
 telemetry.api.wmcdp.io
 telemetry.reembed.com
 telemetry.soundcloud.com
@@ -5867,6 +5873,7 @@ data.mic.com
 data.younow.com
 dc.banggood.com
 dccss.banggood.com
+dcf.espn.com
 dd.nytimes.com
 debug-vp.webmd.com
 deliver.oztam.com.au
