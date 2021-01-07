@@ -1,3 +1,4 @@
+app-department.report
 saguvacu.xyz
 adcryp.to
 bitcointraffic.ltd
@@ -20264,7 +20265,6 @@ analytics.cinematoday.jp
 log.cinematoday.jp
 et.nytimes.com
 adlog.shopping.naver.com
-signal-collector.gemaltodigitalbankingidcloud.com
 analytics.bi.encuentra24.com
 sl-h-statistics-ch-1.storeland.ru
 hc-analytics.idp.clogin.att.com
@@ -20830,7 +20830,6 @@ external-promo-metrics.yandex.net
 cnt.xhamster.com
 d1uy7uzra011au.cloudfront.net
 top.hsdn.org
-mtrcs.samba.tv
 stats.persgroep.be
 l.m.naver.com
 tivan.naver.com
@@ -21005,6 +21004,15 @@ tracker.rqmob.com
 plbslog.umeng.com
 analysys.cn
 logs.supersonic.com
+datacollector-drru.dt.hicloud.com
+app-analytics-ru.huami.com
+metrics.spbtv.com
+sas53netbynet.visualon.info
+android-stat.acestream.net
+privatestats.whatsapp.net
+usage.influxdata.com
+stats.grafana.org
+rumstat.cdnvideo.ru
 telemetry.api.swiftkey.com
 telemetry.swiftkey.com
 analytics.qoqa.ninja
@@ -21019,6 +21027,12 @@ api.appsflyer.com
 register.appsflyer.com
 events.appsflyer.com
 track.appsflyer.com
+analytics.prod.mybuddy.ai
+logs.amap.com
+edmanalytics.pandahall.com
+applogs.pixelfederation.com
+applogs-v2.pixelfederation.com
+analytics.dns-shop.ru
 smetrics.aem.playstation.com
 telemetry.api.playstation.com
 trk2.pinterest.com
@@ -25139,6 +25153,7 @@ mlweb.dmlab.hu
 mmi.bemobile.ua
 mormont.gamer-network.net
 mqs.ioam.de
+mtrcs.samba.tv
 mts.mansion.com
 mv.treehousei.com
 mx.technolutions.net
@@ -27013,6 +27028,8 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 zebestof.com
+prod.html5-ads.vk-apps.com
+3kbktygzr5.ru
 betemolgar.com
 mp3dance.today
 lidplay.net
@@ -34326,6 +34343,7 @@ mingboxieye.com
 mingysh.com
 minwear.com.cn
 minyaartcrafts.cn
+mitao17.com
 mjx123.com
 mkaqh.cn
 mlt01.com
@@ -36185,6 +36203,7 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
+ygnoqu.cn
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -36914,6 +36933,7 @@ gbeik.com
 gbzumh.cn
 gc8fjz.cn
 gcaog.com
+gcctqal.cn
 gdfc0563.com
 gdlbdzkj.com
 gdlvbiaokeji.cn
@@ -37724,6 +37744,7 @@ rxxdq.cn
 rzxlszy.vip
 s7ww2.cn
 s9wp1.cn
+saastt.com
 sachbs.club
 sakuraquant.com
 sanitwealth.com
