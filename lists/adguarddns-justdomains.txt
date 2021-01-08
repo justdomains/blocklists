@@ -1,3 +1,9 @@
+deligrassdull.com
+sitefeytout.com
+hubzozo.com
+volthamfondue.com
+pailridarm.com
+didpuprat.com
 app-department.report
 saguvacu.xyz
 adcryp.to
@@ -18841,7 +18847,6 @@ eue.d-teknoloji.com.tr
 track.thevtk.com
 track.mp3vizor.com
 track.mp3bars.com
-hs-scripts.com
 telemetry.swe.quicinc.com
 st.onlygip.tech
 tracker.plerdy.com
@@ -20242,6 +20247,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+prod-collector.bigbasket.com
 tracking.game8.jp
 lcs.modoo.at
 check.tadapi.info
@@ -22380,6 +22386,7 @@ hotjar.com
 hotjar.io
 hotlog.ru
 hs-analytics.net
+hs-scripts.com
 hsadspixel.net
 hscta.net
 htlbid.com
@@ -26799,6 +26806,7 @@ banstat.nadavi.net
 browser-updater.yandex.net
 c.bigmir.net
 cnstats.cdev.eu
+cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.nov.ru
 cnt.rambler.ru
@@ -32058,6 +32066,7 @@ bauernative.com
 biallo1.de
 biallo2.de
 biallo3.de
+big7.com
 bitcoinpara.de
 blogads.de
 blogpay.eu
@@ -35013,6 +35022,7 @@ yangdasen.cn
 yanglaopt.net
 yaohq.com
 yaoxiaoli.com
+yapusheji.com
 yatemy.cn
 ycfgnau.cn
 ychml.com
@@ -36203,7 +36213,7 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
-ygnoqu.cn
+dacedsfa.cn
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -36387,6 +36397,7 @@ ygnoqu.cn
 9d7in.cn
 9pb0h.cn
 9ucm.com
+9uh94c.cn
 9y88.com
 a3pz36.cn
 a7t89g4a.cn
@@ -37796,6 +37807,7 @@ shenhao258.top
 shenyunkeji.com
 shffcy.cn
 shforu.com
+shidaikejivip.cn
 shidailw.com
 shiguangyx.cn
 shjrwh.cn
@@ -37870,6 +37882,7 @@ sxljldh.top
 sxmdxy.com
 sxmutan.com
 sxtyhl.top
+sxxfmc.com
 sxying.top
 sxzcrq.com
 sxzzhj.com
@@ -38242,6 +38255,7 @@ yfyoyo.com
 yg10x.cn
 ygblogtag.cn
 ygiqfnn.cn
+ygnoqu.cn
 ygqczh.com
 yicang8.com
 yicuntian.cn

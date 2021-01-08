@@ -1072,6 +1072,7 @@ hotjar.com
 hotjar.io
 hotlog.ru
 hs-analytics.net
+hs-scripts.com
 hsadspixel.net
 htlbid.com
 hubvisor.io
@@ -4905,7 +4906,6 @@ px.marchex.io
 px.owneriq.net
 px.spiceworks.com
 qubitanalytics.appspot.com
-r.mail.ru
 r.msn.com
 ramp.purch.com
 rc.rlcdn.com
@@ -5629,6 +5629,7 @@ banstat.nadavi.net
 browser-updater.yandex.net
 c.bigmir.net
 cnstats.cdev.eu
+cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.nov.ru
 cnt.rambler.ru
