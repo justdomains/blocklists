@@ -18312,7 +18312,6 @@ adtech.de
 adtilt.com
 adtrack.king.com
 adultadworld.com
-adups.com
 adv.mxmcdn.net
 adversal.com
 adverticum.net
@@ -18749,6 +18748,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+visilabs.com
 log.perfecttitspics.com
 analytics.mbga.jp
 herald.loginside.co.kr
@@ -20291,7 +20291,6 @@ counter.web.money
 stat.videonow.ru
 insight.bellmetric.net
 t.afi-b.com
-tag.cribnotes.jp
 metrics.news.com.au
 clientlog.midomi.com
 t.webjavaskript.net
@@ -20961,7 +20960,6 @@ hit.mynet.com
 hitweb2.chosun.com
 hrumpoc.hotels.com
 ibeat.indiatimes.com
-lgr.visilabs.net
 log-live.direct.ly
 log.adap.tv
 log.rutube.ru
@@ -20978,7 +20976,6 @@ put.qostore.daumkakao.io
 qlog.adap.tv
 qnajplxtvz-a.akamaihd.net
 r.remarketingpixel.com
-rt.visilabs.net
 s.frida.vse42.ru
 saber.srvcs.tumblr.com
 smetrics.uhc.com
@@ -25279,6 +25276,7 @@ rlinks.one.in
 rs.sinajs.cn
 rss.tmgrup.com.tr
 rt.flix360.com
+rtg-endpoint.global.ssl.fastly.net
 rtt.campanja.com
 rum.azion.com
 rum.azioncdn.net
@@ -25433,6 +25431,7 @@ tk.storetail.io
 tl.tradetracker.net
 tm.tradetracker.net
 tm.vendemore.com
+to.getnitropack.com
 top-fwz1.mail.ru
 tpx.tesseradigital.com
 tr.cloud-media.fr
@@ -25629,6 +25628,7 @@ nsg.symantec.com
 privacy-policy.truste.com
 scanverify.com
 seal.digicert.com
+seal.globalsign.com
 seal.godaddy.com
 seal.networksolutions.com
 seal.qualys.com
@@ -25637,6 +25637,7 @@ secure.trust-guard.com
 securitymetrics.com
 shopperapproved.com
 siteintercept.allegiancetech.com
+trusted-web-seal.cybertrust.ne.jp
 verify.authorize.net
 websecurity.norton.com
 widget.trustpilot.com
@@ -26191,10 +26192,13 @@ websanalytic.com
 whoseesyou.com
 wstatslive.com
 admatrix.jp
+adplan7.com
 adpon.jp
 af-z.jp
 aid-ad.jp
 analyticsip.net
+ar-x.site
+aspservice.jp
 bigmining.com
 blogranking.net
 cetlog.jp
@@ -26203,6 +26207,7 @@ cosmi.io
 d-markets.net
 deteql.net
 docodoco.jp
+e-click.jp
 e-kaiseki.com
 ebis.ne.jp
 ec-concier.com
@@ -26210,6 +26215,8 @@ ec-optimizer.com
 eltex.co.jp
 f-counter.jp
 f-counter.net
+fspark-ap.com
+fw-ad.jp
 genieessp.jp
 gmodmp.jp
 gsspcln.jp
@@ -26223,12 +26230,14 @@ keyword-match.com
 kir.jp
 letro.jp
 mobylog.jp
+moshimo.com
 msgs.jp
 nex8.net
 omiki.com
 owldata.com
 pagoda56.com
 pdmp.jp
+performancefirst.jp
 polymorphicads.jp
 quant.jp
 rays-counter.com
@@ -26475,6 +26484,7 @@ realist.gen.tr
 sayyac.com
 sayyac.net
 sitetistik.com
+visilabs.net
 webservis.gen.tr
 zirve100.com
 getaim.info
@@ -26737,6 +26747,9 @@ analytics.liveact.cri-mw.jp
 analyzer51.fc2.com
 asumi.shinobi.jp
 bidder.mediams.mb.softbank.jp
+bvr.ast.snva.jp
+bvr.snva.jp
+cookie.sync.usonar.jp
 imgstat.ameba.jp
 ip2c.landscape.co.jp
 ipcheck.blogsys.jp
@@ -26747,13 +26760,16 @@ log.gs3.goo.ne.jp
 log.nordot.jp
 log000.goo.ne.jp
 omt.shinobi.jp
+ranking.apis.sankei-digital.co.jp
 rcm.shinobi.jp
 sstats.mora.jp
 sync.shinobi.jp
 t.adlpo.com
 t.felmat.net
 t.seesaa.net
+tag.cribnotes.jp
 torimochi.line-apps.com
+tr.reco.combz.jp
 track.thebase.in
 tracker.520call.me
 userdive.com
@@ -31502,8 +31518,6 @@ trackocean.com
 ukbet99.com
 uzmanreklam.com
 videoustu.com
-visilabs.com
-visilabs.net
 winaffiliates.com
 xpornoizlex.net
 xyztanitim.com
@@ -33254,6 +33268,8 @@ smilitygorb.club
 ucesreferre.club
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
+yzbqz.com
+tlmybj.cn
 00-gov.cn
 0024aaaa.com
 00880808.com
@@ -35780,6 +35796,7 @@ cspb1.5w5w.com
 css.juqingba.cn
 ctc.weather.com.cn
 cxy88.friok.com
+d.8181zx.com
 d.ab126.com
 d.dgzj.com
 d.ziyuanm.com
@@ -36227,8 +36244,6 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
-huosuniao.com
-mohaijishu.cn
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -37143,6 +37158,7 @@ huigoushop.com
 huixingcheng.cn
 hunpp.com
 huodiyun.cn
+huosuniao.com
 huoyiad1.cn
 hvie6u.cn
 hwertd.xyz
@@ -37495,6 +37511,7 @@ mmpuh.cn
 mmszxc.top
 mmwdwg.cn
 mnptinibfbv.com
+mohaijishu.cn
 monimoni.top
 moolkv.cn
 morningpiggy.com
