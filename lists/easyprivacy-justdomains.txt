@@ -1028,6 +1028,7 @@ hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
 heyhelga.net
+heyloyalty.com
 heystaks.com
 hiconversion.com
 hif.to
@@ -1644,6 +1645,7 @@ pagefair.com
 pages05.net
 pagesense.io
 paidstats.com
+parametre.online
 parklogic.com
 parrable.com
 pass-1234.com
@@ -3947,6 +3949,7 @@ rentracks.jp
 research-artisan.com
 rtoaster.jp
 seesaa.jp
+segs.jp
 sibulla.com
 smart-counter.net
 smartnews-ads.com
@@ -5564,6 +5567,7 @@ bvr.ast.snva.jp
 bvr.snva.jp
 cookie.sync.usonar.jp
 counter2.blog.livedoor.com
+delivery.satr.jp
 imgstat.ameba.jp
 ip2c.landscape.co.jp
 ipcheck.blogsys.jp
@@ -7167,13 +7171,16 @@ analytics.cocolog-nifty.com
 analyzer.fc2.com
 analyzer2.fc2.com
 astat.nikkei.com
+beacon.watch.impress.co.jp
 cgi.tbs.co.jp
 count.upc.rakuten.co.jp
+jen.jiji.com
 ln.ameba.jp
 log.suumo.jp
 logql.yahoo.co.jp
 measure.ameblo.jp
 mtc.nhk.or.jp
+pr.ameba.jp
 pvtag.yahoo.co.jp
 pw.gigazine.net
 rat.rakuten.co.jp
