@@ -5076,6 +5076,7 @@ tags.creativille.co.uk
 tags.master-perf-tools.com
 tags.newscgp.com
 tags.refinery89.com
+tagtracking.vibescm.com
 target.mixi.media
 targeting.perso.aws.arc.pub
 tc.airfrance.com
@@ -5195,6 +5196,7 @@ tracking.rightmessage.com
 tracking.scenepass.com
 tracking.searchmarketing.com
 tracking.sembox.it
+tracking.sezzle.com
 tracking.skyword.com
 tracking.sokrati.com
 tracking.sponsorpay.com
