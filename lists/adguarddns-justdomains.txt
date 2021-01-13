@@ -1,7 +1,8 @@
+selfswayjay.com
+0x01n2ptpuz3.com
+spyglass.reklamko.pro
 hosupshunk.com
 download-file.ml
-resumersvo.fun
-yiatelychur.top
 blastcahs.com
 deligrassdull.com
 sitefeytout.com
@@ -119,7 +120,6 @@ apcats.ddns.net
 srtrak.com
 horacomerciar.com
 yogar2ti8nf09.com
-bulletprofitpop.com
 bulletprofitadclick.com
 tombspyelates.com
 nwa88nx9uxzh.com
@@ -1725,6 +1725,8 @@ wsp.steepto.com
 xpostx.com
 yesadvertising.com
 zeti.com
+resumersvo.fun
+yiatelychur.top
 stripe.rs-1028-a.com
 analyticsq.com
 cb8717377086c72d.com
@@ -3570,6 +3572,7 @@ bulldogdemocracy.com
 bulletfeedspy.com
 bulletindualpartial.com
 bulletprofitads.com
+bulletprofitpop.com
 bullionyield.com
 bulovuni.pro
 bumblecash.com
@@ -8957,6 +8960,7 @@ padslims.com
 padspms.com
 padsreds.com
 paegcsvchsdlbj.com
+pafovocg.bid
 pagaynrbee.com
 paginw.com
 pagiwp.com
@@ -10808,7 +10812,6 @@ stroublederaa.club
 stroublederel.club
 strychninique.site
 stsunfulnoth.top
-studentloan.host
 stumbledabetsuburb.com
 sturdyinvaluable.com
 sturgeonlibel.com
@@ -12260,6 +12263,7 @@ wv63l89etbhe.com
 wvahelphpfnhyx.com
 wvbdtcyhgwy.com
 wvesvozyuoxg.com
+wvgrpwdaol.bid
 wvhsouzoan.com
 wvlveodsvygn.com
 wvoahyehtvj.com
@@ -13373,7 +13377,6 @@ adnet.com
 adnet.de
 adnet.lt
 adnet.ru
-adnet.vn
 adnetworkme.com
 adnetworkperformance.com
 adneutralads.com
@@ -17152,7 +17155,6 @@ vianadserver.com
 vibrant.co
 vibrantmedia.com
 vidcoin.com
-vidcpm.com
 video-loader.com
 videoadex.com
 videoclick.ru
@@ -18760,6 +18762,8 @@ ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
 visilabs.com
+tracker.metricool.com
+stats.myangular.life
 counter.daara.kr
 tr.line.me
 log22.makeshop.co.kr
@@ -20267,6 +20271,7 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+x.babe.today
 prod-collector.bigbasket.com
 tracking.game8.jp
 lcs.modoo.at
@@ -21050,6 +21055,7 @@ api.appsflyer.com
 register.appsflyer.com
 events.appsflyer.com
 track.appsflyer.com
+digianalytics.airtel.in
 ad-creative.projectcarmen.com
 analytics.projectcarmen.com
 monitoring-sdk.experimentation.intuit.com
@@ -22650,7 +22656,6 @@ logcounter.com
 logdy.com
 logger.pw
 loggly.com
-loginfra.com
 loginhood.io
 logmatic.io
 lognormal.net
@@ -25172,6 +25177,7 @@ metrics.api.drift.com
 metrics.brightcove.com
 metrics.ctvdigital.net
 metrics.el-mundo.net
+metrics.getvitals.io
 metrics.readme.io
 metrics.scribblelive.com
 metrics.sonymusicd2c.com
@@ -25557,6 +25563,7 @@ tracking.rightmessage.com
 tracking.scenepass.com
 tracking.searchmarketing.com
 tracking.sembox.it
+tracking.sezzle.com
 tracking.skyword.com
 tracking.sokrati.com
 tracking.sponsorpay.com
@@ -27082,6 +27089,10 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 zebestof.com
+tiz.jsite.top
+news-network.ru
+alboist7crphfrg.ru
+boostingads.com
 prod.html5-ads.vk-apps.com
 3kbktygzr5.ru
 betemolgar.com
@@ -27441,7 +27452,6 @@ virnews.club
 prfctmney.com
 knwekg.com
 vftbnl.com
-spyglass.reklamko.pro
 patroposalun.pro
 wrfiwa.ru
 swnmuh.ru
@@ -32126,6 +32136,7 @@ ci-marketing.de
 codes.wai.it
 comads.de
 conative.de
+connects.ch
 contentfeed.net
 cowana-adserver.de
 cuiron.de
@@ -32683,6 +32694,7 @@ uieoogjarimcey.com
 uoarbhxfyygn.com
 uofmnbkm.com
 useads.com
+vidcpm.com
 vrewpywootyu.com
 wbaogaqvrukprx.com
 webiklan.com
@@ -32706,6 +32718,7 @@ adbro.me
 adflex.vn
 adfly.vn
 admicro.vn
+adnet.vn
 adnetwork.vn
 adpia.vn
 adrealclick.com
@@ -32868,6 +32881,7 @@ admin.sothuchi.vn
 adpostback.headlines.pw
 ads-cdn.fptplay.net
 ads.1thegioi.vn
+ads.baoangiang.com.vn
 ads.baobinhduong.vn
 ads.baodatviet.vn
 ads.baotainguyenmoitruong.vn
@@ -32909,10 +32923,12 @@ advert-admin.vnay.vn
 advertisement-nhatanh.com
 advserver.cgv.vn
 adx.baolongan.vn
+adx.chinmedia.vn
 adx.edutimes.com.vn
 adx.hongtinnhanh.com
 adx.kul.vn
 adx.xemvtv.net
+adx.xtv.vn
 affiliate.k4.tinhte.vn
 ailamtrieuphu.com
 ak9.6895588.com
@@ -33116,6 +33132,7 @@ tka.tiki.vn
 track-srv.vietnamnet.vn
 track.accesstrade.vn
 track.icheck.com.vn
+track.kyna.vn
 track.lapa.pub
 track.pregmomvietnam.com
 track.sendo.vn
@@ -33313,6 +33330,7 @@ smilitygorb.club
 ucesreferre.club
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
+iwwacgx.cn
 00-gov.cn
 0024aaaa.com
 00880808.com
@@ -34001,8 +34019,10 @@ gotoniubiurl.pw
 gouhei.top
 gouweida.cn
 gouzhibao.cn
+govbeijing.cn
 govgift.com
 govhunan.cn
+govjiangsu.cn
 gowin01.com
 gqswg.com
 greenbetterkids.com
@@ -36289,7 +36309,8 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
-gongxifacai21.top
+daylskg.cn
+weinin99.cn
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
@@ -37057,6 +37078,7 @@ gnmbd.top
 gnncc.cc
 gobali.cn
 gongfanglong.cn
+gongxifacai21.top
 goodkee.cn
 goodwold.top
 googlespider1.cn

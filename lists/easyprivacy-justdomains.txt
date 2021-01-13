@@ -2345,6 +2345,7 @@ trkjmp.com
 trklvs.com
 trkn.us
 trksrv44.com
+trmads.eu
 trmnsite.com
 trovus.co.uk
 trs.cn
@@ -4811,6 +4812,7 @@ metrics-api.librato.com
 metrics.api.drift.com
 metrics.brightcove.com
 metrics.ctvdigital.net
+metrics.getvitals.io
 metrics.readme.io
 metrics.scribblelive.com
 metrics.sonymusicd2c.com
@@ -5066,6 +5068,7 @@ t2.t2b.click
 tag-manager.playbuzz.com
 tag.aumago.com
 tag.brandcdn.com
+tag.elevaate.io
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
