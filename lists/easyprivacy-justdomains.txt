@@ -1980,6 +1980,7 @@ semanticverses.com
 semasio.net
 sematext.com
 sendtraffic.com
+sentry.io
 seomonitor.ro
 seomoz.org
 seoparts.net
@@ -4733,7 +4734,6 @@ imp.pvnsolutions.com
 impress.vcita.com
 infinityid.condenastdigital.com
 informer.yandex.ru
-ingest.sentry.io
 insight.mintel.com
 insight.rapid7.com
 insights.algolia.io
@@ -5908,7 +5908,6 @@ data.mic.com
 data.younow.com
 dc.banggood.com
 dccss.banggood.com
-dcf.espn.com
 dd.nytimes.com
 debug-vp.webmd.com
 deliver.oztam.com.au
@@ -7011,6 +7010,7 @@ k.rueducommerce.fr
 kbn.korben.info
 lem.nouvelobs.com
 logs-qos.tf1.fr
+p.kolplay.com
 p.pagesjaunes.fr
 pixel.ionos.fr
 pwa.telephoneannuaire.fr
