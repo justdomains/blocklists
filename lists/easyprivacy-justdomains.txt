@@ -1072,7 +1072,6 @@ hotjar.com
 hotjar.io
 hotlog.ru
 hs-analytics.net
-hs-scripts.com
 hsadspixel.net
 htlbid.com
 hubvisor.io
@@ -3311,6 +3310,7 @@ superficialsquare.com
 sweetslope.com
 tangibleteam.com
 tawdryson.com
+teenytinycellar.com
 tendertest.com
 thirdrespect.com
 thirstytwig.com
