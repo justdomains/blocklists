@@ -2536,6 +2536,7 @@ webtrends-optimize.com
 webtrends.com
 webtrendslive.com
 webtuna.com
+wecantrack.com
 wemfbox.ch
 wgsas.com
 wheredoyoucomefrom.ovh
@@ -3240,6 +3241,7 @@ quietknowledge.com
 quizzicalzephyr.com
 railwayreason.com
 raintwig.com
+rangecake.com
 raresummer.com
 readymoon.com
 realizerecess.com
@@ -3651,6 +3653,7 @@ fogl1onf.com
 galaxiemedia.fr
 geocompteur.com
 geovisite.ovh
+getjad.io
 goutee.top
 graphinsider.com
 hunkal.com
