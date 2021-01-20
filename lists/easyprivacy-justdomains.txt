@@ -410,7 +410,6 @@ btstatic.com
 btttag.com
 bubblestat.com
 bugherd.com
-bugsnag.com
 bunchbox.co
 burstbeacon.com
 bux1le001.com
@@ -696,6 +695,7 @@ dmpxs.com
 dmtracker.com
 dmtry.com
 dmxleo.com
+dnsdelegation.io
 doceree.com
 doclix.com
 dojomojo.com
