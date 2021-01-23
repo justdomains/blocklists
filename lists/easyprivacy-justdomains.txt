@@ -450,6 +450,7 @@ carrotquest.io
 casalemedia.com
 cashburners.com
 cashcount.com
+cbdatatracker.com
 cbtrk.net
 cccpmo.com
 ccgateway.net
@@ -5266,6 +5267,7 @@ win.staticstuff.net
 wren.condenastdigital.com
 ws.audioeye.com
 wstat.wibiya.com
+x.disq.us
 x.weather.com
 zdlogs.sphereup.com
 convsgmp.taboola.com
