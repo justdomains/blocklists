@@ -1168,6 +1168,7 @@ invoca.solutions
 io1g.net
 iocnt.net
 iotechnologies.com
+iovation.com
 ip-label.net
 ip2location.com
 ip2map.com
@@ -1619,6 +1620,7 @@ optimahub.com
 optimix.asia
 optimizelydata.com
 optimost.com
+optimove.net
 optin-machine.com
 optorb.com
 oracleinfinity.io
@@ -1719,6 +1721,7 @@ pntrac.com
 pntrs.com
 podfdch.com
 pointillist.com
+pointmediatracker.com
 pointomatic.com
 polarbyte.com
 polarcdn-pentos.com
@@ -5051,6 +5054,7 @@ sync.outbrain.com
 systemmonitoring.badgeville.com
 t-staging.powerreviews.com
 t.a3cloud.net
+t.auditedmedia.org.au
 t.beop.io
 t.beopinion.com
 t.bimvid.com
@@ -5848,6 +5852,7 @@ beacon.wikia-services.com
 beacon.www.theguardian.com
 beap-bc.yahoo.com
 bench.uc.cn
+bfp.capitalone.com
 bi.medscape.com
 bit.ehow.com
 bn.adultempire.com
@@ -5918,6 +5923,7 @@ data.mic.com
 data.younow.com
 dc.banggood.com
 dccss.banggood.com
+dd.lendup.com
 dd.nytimes.com
 debug-vp.webmd.com
 deliver.oztam.com.au
@@ -6135,6 +6141,7 @@ pci3oo5mg4mn-a.akamaihd.net
 pclick.europe.yahoo.com
 pclick.internal.yahoo.com
 pclick.yahoo.com
+perf.mouser.com
 performances.bestofmedia.com
 pf.newegg.com
 phar.gu-web.net
@@ -7248,6 +7255,7 @@ geoip.ativo.com
 logger.rm.uol.com.br
 logger.uol.com.br
 metrics.uol.com.br
+tags.globo.com
 tm.uol.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt

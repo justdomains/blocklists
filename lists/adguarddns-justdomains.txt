@@ -22572,6 +22572,7 @@ invoca.solutions
 io1g.net
 iocnt.net
 iotechnologies.com
+iovation.com
 ip-label.net
 ip2map.com
 ip2phrase.com
@@ -23003,6 +23004,7 @@ optimahub.com
 optimix.asia
 optimizelydata.com
 optimost.com
+optimove.net
 optin-machine.com
 optorb.com
 oracleinfinity.io
@@ -23100,6 +23102,7 @@ pntrac.com
 pntrs.com
 podfdch.com
 pointillist.com
+pointmediatracker.com
 pointomatic.com
 polarbyte.com
 polarcdn-pentos.com
@@ -25479,6 +25482,7 @@ sync.outbrain.com
 systemmonitoring.badgeville.com
 t-staging.powerreviews.com
 t.a3cloud.net
+t.auditedmedia.org.au
 t.beop.io
 t.beopinion.com
 t.bimvid.com
@@ -25696,6 +25700,7 @@ win.staticstuff.net
 wren.condenastdigital.com
 ws.audioeye.com
 wstat.wibiya.com
+x.disq.us
 x.weather.com
 zdlogs.sphereup.com
 convsgmp.taboola.com
@@ -33437,6 +33442,7 @@ ucesreferre.club
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+metro114.com
 00-gov.cn
 0024aaaa.com
 00880808.com
@@ -36425,6 +36431,11 @@ yi71.com.cn
 runkao.net
 stunninglover.com
 watakaw133.xyz
+meishi0554.com
+quxiandu.com
+nancyface.com
+8yauhcv.cn
+yfygs.cn
 01w47q.cn
 0217qpineuxbcdhopswkvf.xyz
 0224fqpowiuxybnmvdfghj.xyz
