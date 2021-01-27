@@ -1228,7 +1228,6 @@ justuno.com
 jwmstats.com
 k-analytix.com
 k3node.com
-kameleoon.com
 kampyle.com
 kantartns.lt
 kaptcha.com
@@ -4655,7 +4654,6 @@ ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
 edge.sqweb.com
-epl.paypal-communication.com
 errors.snackly.co
 event-api.contactatonce.co.uk
 event-api.contactatonce.com.au
@@ -5322,6 +5320,7 @@ trusted-web-seal.cybertrust.ne.jp
 verify.authorize.net
 websecurity.norton.com
 widget.trustpilot.com
+ablida.net
 analytics.audionow.de
 analytics.cnd-motionmedia.de
 analytics.gameforge.de
