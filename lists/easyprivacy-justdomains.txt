@@ -4162,6 +4162,7 @@ stattds.club
 targetix.net
 tbex.ru
 tds.io
+theactivetag.com
 tnative.ru
 toptracker.ru
 tpm.pw
@@ -4757,6 +4758,7 @@ itracking.fccinteractive.com
 jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
+jill.fc.yahoo.com
 js-agent.newrelic.com
 k.streamrail.com
 kalstats.kaltura.com
@@ -4959,6 +4961,7 @@ rum.uptime.com
 rva.outbrain.com
 s-vop.sundaysky.com
 s.clickability.com
+s.clickiocdn.com
 s.sniphub.com
 s.srvsynd.com
 s3-tracking.synthasite.net.s3.amazonaws.com
@@ -5700,6 +5703,7 @@ scnt.rambler.ru
 scounter.rambler.ru
 sepyra.com
 service-stat.tbn.ru
+st.hbrd.io
 stat.eagleplatform.com
 stat.radar.imgsmail.ru
 stat.rum.cdnvideo.ru
@@ -5717,6 +5721,7 @@ telemetry.jivosite.com
 tms-st.cdn.ngenix.net
 top.elec.ru
 track.recreativ.ru
+track.spacepush.ru
 tracking.gpm-rtv.ru
 tracking.retailrocket.net
 upstats.yadro.ru
