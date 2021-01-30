@@ -1255,6 +1255,7 @@ knowledgevine.net
 koddi.com
 kokos.click
 komtrack.com
+konduit.me
 kontagent.net
 kopsil.com
 kqzyfj.com
@@ -1547,6 +1548,7 @@ niftymaps.com
 nik.io
 ninjacat.io
 nitropay.com
+nmrodam.com
 noibu.com
 noowho.com
 nordicresearch.com
@@ -2406,7 +2408,6 @@ urlbrief.com
 urlself.com
 usabilitytools.com
 usabilla.com
-usablenet.com
 usefathom.com
 useitbetter.com
 useproof.com
@@ -4092,6 +4093,7 @@ clubcollector.com
 cnstats.ru
 cpaevent.ru
 cszz.ru
+culturaltracking.ru
 dircont3.com
 directcrm.ru
 e-kuzbass.ru
@@ -4485,7 +4487,6 @@ collector.getyourguide.com
 collector.mazeberry.com
 collector.roistat.com
 collector.sspinc.io
-confiant-integrations.global.ssl.fastly.net
 contents-tracking.beop.io
 control.cityofcairns.com
 conversions.genieventures.co.uk
@@ -4680,6 +4681,7 @@ events.matterport.com
 events.medio.com
 events.ocdn.eu
 events.realgravity.com
+events.shareably.net
 events.tubecup.org
 events.whisk.com
 events.yourcx.io
@@ -4770,6 +4772,7 @@ l.player.ooyala.com
 l.sharethis.com
 laurel.macrovision.com
 laurel.rovicorp.com
+lciapi.ninthdecimal.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
 licensing.bitmovin.com
@@ -5737,6 +5740,7 @@ hits.eluniversal.com.mx
 leadzu.com
 pixel.zumby.io
 reachandrich.antevenio.com
+stats.bitban.com
 stats.miarroba.info
 stats.sec.telefonica.com
 tag.shopping-feed.com
@@ -7027,7 +7031,6 @@ eultech.fnac.com
 events.guesttoguest.com
 fsm.lapresse.ca
 g.itespresso.fr
-geo.6play.fr
 k.kolplay.com
 k.rueducommerce.fr
 kbn.korben.info
