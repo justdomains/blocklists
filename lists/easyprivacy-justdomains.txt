@@ -4717,6 +4717,7 @@ geoip.nekudo.com
 geoservice.curse.com
 glbdns.microsoft.com
 go.optifuze.com
+go.pardot.com
 go.toutapp.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
