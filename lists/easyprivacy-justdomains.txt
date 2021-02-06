@@ -4586,7 +4586,6 @@ d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d34ko97cxuv4p7.cloudfront.net
@@ -5932,6 +5931,7 @@ cstats.sankakucomplex.com
 cupid.socialblade.com
 d.ghostery.com
 d.skk.moe
+d2p3zdq8vjvnxd.cloudfront.net
 da.virginmedia.com
 data.mic.com
 data.younow.com
@@ -6569,6 +6569,7 @@ wla.vivaldi.com
 ws.yellowpages.ca
 wstats.e-wok.tv
 wtk.db.com
+xstats.evoload.io
 xtrack.capetown.gov.za
 ynuf.alibaba.com
 zeus.slader.com
@@ -6730,6 +6731,7 @@ services.hmhost.co.uk
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
+sourcepoint.theguardian.com
 sourcepoint.vice.com
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
@@ -6986,6 +6988,7 @@ subpixel.4players.de
 t.wayfair.de
 tdf.ringier.ch
 te.mytoys.de
+tm.dl.dewezet.de
 tp.deawm.com
 tr.werkenntwen.de
 track.bazonline.ch
