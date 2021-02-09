@@ -4581,6 +4581,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2p3zdq8vjvnxd.cloudfront.net
 d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
@@ -6717,6 +6718,7 @@ cmp.techhive.com
 commsvc.stern.de
 consent.api.osano.com
 consent.inm.ie
+d.sourcepoint.capitalfm.com
 ep00.epimg.net
 fuse.forbes.com
 gamesradar-gb.gamesradar.com
