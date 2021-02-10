@@ -4057,9 +4057,11 @@ trugaze.io
 2iui01.com
 2parale.ro
 2performant.com
+aghtag.tech
 best-top.ro
 gtop.ro
 hit100.ro
+pahtag.tech
 profitshare.ro
 retargeting.biz
 statistics.ro
@@ -4577,6 +4579,7 @@ d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
+d2j1fszo1axgmp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -4709,6 +4712,7 @@ ga-beacon.appspot.com
 ga.kvideo.io
 ga.webdigi.co.uk
 gateway.foresee.com
+gemius.mgr.consensu.org
 geo.ertya.com
 geo.gorillanation.com
 geo.kontagent.net
@@ -4774,6 +4778,7 @@ l.fairblocker.com
 l.ooyala.com
 l.player.ooyala.com
 l.sharethis.com
+l.typesquare.com
 laurel.macrovision.com
 laurel.rovicorp.com
 lciapi.ninthdecimal.com
