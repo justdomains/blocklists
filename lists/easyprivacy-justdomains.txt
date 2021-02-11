@@ -3942,7 +3942,6 @@ interactive-circle.jp
 iogous.com
 kaizenplatform.net
 keyword-match.com
-kir.jp
 letro.jp
 macromill.com
 mobylog.jp
@@ -5812,6 +5811,7 @@ analytics.ifood.tv
 analytics.iraiser.eu
 analytics.islamicfinder.org
 analytics.kaggle.io
+analytics.kraken.com
 analytics.linktr.ee
 analytics.localytics.com
 analytics.meaww.com
