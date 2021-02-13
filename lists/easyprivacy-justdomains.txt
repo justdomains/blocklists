@@ -1667,7 +1667,6 @@ pdbu.net
 peep1alea.com
 peerius.com
 pendo.io
-pepperjam.com
 percentmobile.com
 perf-serving.com
 perfdrive.com
@@ -3393,6 +3392,7 @@ bonitrust.de
 bonuscounter.de
 checkeffect.at
 clickmap.ch
+content-garden.com
 count.im
 count24.de
 countar.de
@@ -4494,6 +4494,7 @@ collector.getyourguide.com
 collector.mazeberry.com
 collector.roistat.com
 collector.sspinc.io
+container.pepperjam.com
 contents-tracking.beop.io
 control.cityofcairns.com
 conversions.genieventures.co.uk
@@ -4860,6 +4861,7 @@ n.mailfire.io
 neocounter.neoworx-blog-tools.net
 newsanalytics.com.au
 noflake-aggregator-http.narvar.com
+nojscontainer.pepperjam.com
 nol.yahoo.com
 nova.dice.net
 ns.rvmkitt.com
@@ -5193,6 +5195,7 @@ trackerapi.truste.com
 trackicollect.ibase.fr
 tracking.adalyser.com
 tracking.aegpresents.com
+tracking.americaneagle.com
 tracking.badgeville.com
 tracking.brandmentions.com
 tracking.customerly.io
@@ -6585,11 +6588,6 @@ xtrack.capetown.gov.za
 ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
-eu1l.dotabuff.com
-eu1l.overbuff.com
-eu1l.speedrun.com
-eu1l.trackdota.com
-eu1l.valorbuff.com
 gj.mmstat.com
 oneid.mmstat.com
 a02342.andoveradvertiser.co.uk
