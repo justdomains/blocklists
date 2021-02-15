@@ -5852,6 +5852,7 @@ analytics.yahoo.com
 analytics.zg-api.com
 analyzer52.fc2.com
 anon-stats.eff.org
+appanalysis.banggood.com
 atax.gamermetrics.com
 atax.teamxbox.com
 athenatmpbeacon.theglobeandmail.ca
