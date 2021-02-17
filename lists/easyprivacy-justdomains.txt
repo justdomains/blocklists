@@ -2445,6 +2445,7 @@ vendri.io
 ventivmedia.com
 vepxl1.net
 vercel-analytics.com
+vercel-insights.com
 vertical-leap.co.uk
 vertical-leap.net
 verticalscope.com
