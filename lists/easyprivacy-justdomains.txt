@@ -415,6 +415,7 @@ btstatic.com
 btttag.com
 bubblestat.com
 bugherd.com
+buildkiteanalytics.com
 bunchbox.co
 burstbeacon.com
 bux1le001.com
@@ -6060,7 +6061,6 @@ i.pokernews.com
 ibeat.indiatimes.com
 ibs.indiatimes.com
 iedc.fitbit.com
-imgprx.livejournal.net
 imgtrack.domainmarket.com
 immassets.s3.amazonaws.com
 imonitor.dhgate.com
