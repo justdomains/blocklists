@@ -1295,6 +1295,7 @@ leadpages.net
 leadsius.com
 leadsmonitor.io
 leadsrx.com
+leafmedia.io
 leanplum.com
 legolas-media.com
 leokross.com
@@ -2610,6 +2611,7 @@ yext-pixel.com
 ygsm.com
 yieldbot.com
 yieldify.com
+yieldlift.com
 yieldsoftware.com
 yjtag.jp
 yldr.io
@@ -2740,6 +2742,7 @@ sendpulse.com
 shroughtened.com
 sm-epsilon.com
 snd.tc
+subscribers.com
 truenat.bid
 truepush.com
 urbanairship.com
@@ -3471,6 +3474,7 @@ hitmaster.de
 hot-count.com
 hotcounter.de
 hstrck.com
+htm1.ch
 hung.ch
 iivt.com
 imcht.net
