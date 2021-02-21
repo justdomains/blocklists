@@ -22,6 +22,7 @@ g6140614385.co
 g6338698720.co
 g6536783055.co
 g6734867390.co
+g6932951725.co
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -1564,7 +1565,6 @@ notifyvisitors.com
 nowinteract.com
 npario-inc.net
 nprove.com
-nr-data.net
 nr7.us
 nrich.ai
 ns1p.net
@@ -4781,7 +4781,6 @@ jac.yahoosandbox.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
 jill.fc.yahoo.com
-js-agent.newrelic.com
 k.streamrail.com
 kalstats.kaltura.com
 keyword.daumdn.com
