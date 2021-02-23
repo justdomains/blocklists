@@ -2486,7 +2486,6 @@ visto1.net
 visualdna.com
 visualrevenue.com
 visx.net
-vivocha.com
 vizisense.net
 vizury.com
 vlitag.com
@@ -4715,6 +4714,7 @@ fkrkkmxsqeb5bj9r.s3.amazonaws.com
 flashstats.libsyn.com
 fog.pixual.co
 fourmtagservices.appspot.com
+fresh.inlinkz.com
 fs-client-logger.herokuapp.com
 future-fie-assets.co.uk
 future-price.co.uk
@@ -4916,6 +4916,7 @@ pixel.blivenyc.com
 pixel.cdnwidget.com
 pixel.fanbridge.com
 pixel.glimr.io
+pixel.mintigo.com
 pixel.newscred.com
 pixel.roymorgan.com
 pixel.s3xified.com
