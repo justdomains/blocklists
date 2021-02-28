@@ -23,6 +23,7 @@ g6338698720.co
 g6536783055.co
 g6734867390.co
 g6932951725.co
+g7131036060.co
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -1222,6 +1223,7 @@ hitwebcounter.com
 hivps.xyz
 hlserve.com
 hmstats.com
+hockeystack.com
 hoood.info
 horzrb.com
 hospitality-optimizer.com
@@ -4093,6 +4095,7 @@ tgknt.com
 trackfeed.com
 triver.jp
 ukw.jp
+uncn.jp
 wonder-ma.com
 ziyu.net
 adpick.co.kr
@@ -6019,6 +6022,7 @@ click2.cafepress.com
 clicks.hurriyet.com.tr
 clicks.traffictrader.net
 client-event-reporter.twitch.tv
+client-log.box.com
 clk.about.com
 clkstat.china.cn
 clog.go.com
@@ -6123,6 +6127,7 @@ funn.graphiq.com
 g.ign.com
 g.mashable.com
 g.msn.com
+g.pcmag.com
 g.vev.io
 ga.canoe.ca
 ga.nsimg.net
@@ -6159,6 +6164,7 @@ geolocation.forbes.com
 glassmoni.researchgate.net
 gmonitor.aliimg.com
 gnar.grammarly.com
+gurgle.pcmag.com
 h.cliphunter.com
 harvester.eu.square-enix.com
 harvester.hbpl.co.uk
@@ -6834,28 +6840,6 @@ a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
 cb-mms.carbuyer.co.uk
 cdn-alliancegravity.s3.amazonaws.com
-cmp.arnnet.com.au
-cmp.cio.com.au
-cmp.cio.com
-cmp.cmo.com.au
-cmp.computerworld.com.au
-cmp.cso.com.au
-cmp.csoonline.com
-cmp.digitalartsonline.co.uk
-cmp.greenbot.com
-cmp.idginsiderpro.com
-cmp.infoworld.com
-cmp.javaworld.com
-cmp.macworld.co.uk
-cmp.macworld.com
-cmp.osano.com
-cmp.pcworld.co.nz
-cmp.pcworld.com
-cmp.pcworld.idg.com.au
-cmp.tech426.com
-cmp.techadvisor.co.uk
-cmp.techconnect.com
-cmp.techhive.com
 commsvc.stern.de
 consent.api.osano.com
 consent.inm.ie
@@ -6863,10 +6847,9 @@ d.sourcepoint.capitalfm.com
 fuse.forbes.com
 gamesradar-gb.gamesradar.com
 h-bid.com
-mmm.carbuyer.co.uk
+itpuk-mms.itpro.co.uk
 mms.blick.ch
 mms.gocomics.com
-mms.itpro.co.uk
 mms.wwe.com
 orionis.techradar.com
 pcgamer-gb.pcgamer.com
@@ -7251,6 +7234,7 @@ dj.renren.com
 dmtracking.1688.com
 dwtracking.sdo.com
 eclick.baidu.com
+gia.jd.com
 imgstat.baidu.com
 lg.tr.pandora.tv
 log.51cto.com
@@ -7266,7 +7250,6 @@ logx.mtime.cn
 logx.mtime.com
 mar.vip.com
 p-log.ykimg.com
-pass.1688.com
 pb.i.sogou.com
 pingback.sogou.com
 pingjs.qq.com
@@ -7299,7 +7282,6 @@ statistic.qzone.qq.com
 statistic.takungpao.com
 stats.autohome.com.cn
 stats.yinyuetai.com
-tbskip.taobao.com
 tf.360.cn
 tongji.mafengwo.cn
 tr.discuss.com.hk
