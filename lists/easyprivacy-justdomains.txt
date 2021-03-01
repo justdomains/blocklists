@@ -6186,6 +6186,7 @@ intake-analytics.wikimedia.org
 intelli.ageuk.org.uk
 intent.cbsi.com
 intg.snapchat.com
+intuitvisitorid.api.intuit.com
 ip.breitbart.com
 ip.pichunter.com
 kinesisproxy.hearstlabs.com
