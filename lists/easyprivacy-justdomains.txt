@@ -6709,6 +6709,7 @@ xtrack.capetown.gov.za
 ynuf.alibaba.com
 zeus.slader.com
 zion.api.cnn.io
+dns.whatleaks.com
 apollo.plein.be
 app1.maatwerkonline.nl
 bc.semwerkt.nl
@@ -6878,7 +6879,6 @@ ttauri.tomshardware.com
 ttauri.toptenreviews.com
 ttauri.whathifi.com
 twch.20min.ch
-klaviyo.map.fastly.net
 0sbm.consobaby.co.uk
 319dn.dieti-natura.com
 5ijo.01net.com
