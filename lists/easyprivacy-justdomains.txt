@@ -576,6 +576,7 @@ core-cen-54.com
 coremotives.com
 cost1action.com
 countby.com
+counter.dev
 counter.gd
 counter.top.kg
 counter160.com
@@ -3034,6 +3035,7 @@ additionant.com
 afraidlanguage.com
 agreeabletouch.com
 aheadday.com
+aheadmachine.com
 alikeaddition.com
 aliveachiever.com
 allowmailbox.com
@@ -6032,6 +6034,7 @@ log.mappy.net
 log.newsvine.com
 log.optimizely.com
 log.prezi.com
+log.quora.com
 log.snapdeal.com
 log.webnovel.com
 logg.kiwi.com
