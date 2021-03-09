@@ -2417,7 +2417,6 @@ vantage-media.net
 vbanalytics.com
 vdna-assets.com
 veduy.com
-vee24.com
 veille-referencement.com
 veinteractive.com
 velaro.com
@@ -3921,6 +3920,7 @@ rtoaster.jp
 seesaa.jp
 segs.jp
 sibulla.com
+smart-bdash.com
 smart-counter.net
 smartnews-ads.com
 socdm.com
@@ -5149,6 +5149,7 @@ tracking.feedperfect.com
 tracking.fits.me
 tracking.g2crowd.com
 tracking.godatafeed.com
+tracking.hivecloud.net
 tracking.html5games.com
 tracking.interweave.com
 tracking.jotform.com
