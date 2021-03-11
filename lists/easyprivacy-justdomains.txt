@@ -24,6 +24,7 @@ g6536783055.co
 g6734867390.co
 g6932951725.co
 g7131036060.co
+g7329120395.co
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -1850,7 +1851,6 @@ relevant-digital.com
 reliablecounter.com
 relmaxtop.com
 remailtarget.com
-remarketingpixel.com
 remarketstats.com
 remind.me
 rep0pkgr.com
@@ -4919,6 +4919,7 @@ rum.conde.io
 rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.uptime.com
+rum.vhwrz.net
 rva.outbrain.com
 s-vop.sundaysky.com
 s.clickability.com
@@ -5701,10 +5702,12 @@ datanoticias.prisasd.com
 g-stats.openhost.es
 hits.eluniversal.com.mx
 leadzu.com
+mtm.qdqmedia.com
 pixel.zumby.io
 reachandrich.antevenio.com
 stats.bitban.com
 stats.miarroba.info
+stats.qdq.com
 stats.sec.telefonica.com
 tag.shopping-feed.com
 track.sunmedia.tv
