@@ -4397,6 +4397,7 @@ carl.pubsvs.com
 caspionlog.appspot.com
 cc.swiftype.com
 ccexperimentsstatic.oracleoutsourcing.com
+cdn-channels-pixel.ex.co
 cdn.trafficexchangelist.com
 cdn.usefathom.com
 ce.lijit.com
