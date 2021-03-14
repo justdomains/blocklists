@@ -2112,6 +2112,7 @@ stadsvc.com
 star-cntr-5.com
 stat-track.com
 stat.social
+stat.ustore.bz
 statcount.com
 statcounterfree.com
 stathat.com
@@ -3840,6 +3841,7 @@ websanalytic.com
 whoseesyou.com
 wstatslive.com
 accesstrade.net
+adgainersolutions.com
 admatrix.jp
 adplan7.com
 adpon.jp
@@ -6657,6 +6659,9 @@ a8.print-netsquare.com
 a8clk.xserver.ne.jp
 a8cv.amiami.jp
 afi.ssl.gmobb.jp
+custom.plausible.io
+ms.markosaric.com
+stats.twhl.xyz
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 a.20minutes.fr
 a.pourquoidocteur.fr
