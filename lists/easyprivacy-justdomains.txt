@@ -1436,6 +1436,7 @@ mobee.xyz
 mochibot.com
 mockingfish.com
 momently.com
+monetate.net
 mongoosemetrics.com
 monitis.com
 monitus.net
@@ -1561,6 +1562,7 @@ nuconomy.com
 nuggad.net
 nuloox.com
 numerino.cz
+nvidia.partners
 nyltx.com
 nytlog.com
 o-s.io
@@ -3284,6 +3286,7 @@ unbecominghall.com
 unequalbrake.com
 unknowncrate.com
 untidyrice.com
+unwieldyhealth.com
 verseballs.com
 womanear.com
 zlp6s.pw
@@ -4293,6 +4296,7 @@ analytics.salesanalytics.io
 analytics.shareaholic.com
 analytics.sitewit.com
 analytics.sleeknote.com
+analytics.snidigital.com
 analytics.sonymusic.com
 analytics.springboardvideo.com
 analytics.staticiv.com
@@ -4508,6 +4512,7 @@ d1uanozc5el74n.cloudfront.net
 d1wirc5qsdb1y5.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
+d1z2jf7jlzjs58.cloudfront.net
 d20kffh39acpue.cloudfront.net
 d21o24qxwf7uku.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
@@ -5219,6 +5224,7 @@ win.staticstuff.net
 wren.condenastdigital.com
 ws.audioeye.com
 wstat.wibiya.com
+wtbevents.pricespider.com
 x.disq.us
 x.weather.com
 zdlogs.sphereup.com
