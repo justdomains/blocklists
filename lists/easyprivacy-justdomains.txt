@@ -458,6 +458,7 @@ cdnanalytics.xyz
 cdnmaster.com
 cdnopw.com
 cdntrf.com
+cedexis.com
 cedexis.net
 celebros-analytics.com
 celebrus.com
@@ -2255,6 +2256,7 @@ topofblogs.com
 topstat.cn
 torbit.com
 toro-tags.com
+touchclarity.com
 tracc.it
 trace-2000.com
 trace.events
@@ -3768,6 +3770,7 @@ synovite-scripts.com
 traffic4u.nl
 counter.ok.ee
 gallupnet.fi
+inpref.com
 kavijaseuranta.fi
 m-brain.fi
 netmonitor.fi
@@ -4632,6 +4635,7 @@ events.ocdn.eu
 events.realgravity.com
 events.shareably.net
 events.splash-screen.net
+events.split.io
 events.tubecup.org
 events.whisk.com
 events.yourcx.io
@@ -4863,6 +4867,7 @@ pr.blogflux.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
+prd-collector-platform.ex.co
 processor.asccommunications.com
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
@@ -6457,6 +6462,7 @@ tracking.teamskeet.com
 tracking.tidalhifi.com
 tracking.ukwm.co.uk
 tracking.unitednaturals.com
+tracking.unrealengine.com
 trackpm.shop2market.com
 traffic.buyservices.com
 trezor.efscle.com
