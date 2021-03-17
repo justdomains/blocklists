@@ -50,6 +50,7 @@ z0uolej1qnxzub1.info
 24counter.com
 24log.com
 2cnt.net
+2o7.net
 2smt6mfgo.de
 33across.com
 360i.com
@@ -420,6 +421,7 @@ c-rings.net
 c.adroll.com
 c.hit.ua
 c1exchange.com
+c212.net
 c3metrics.com
 c3tag.com
 c4tracking01.com
@@ -659,6 +661,7 @@ deepchannel.com
 defacto-analytics.net
 dejavu.mlapps.com
 demandbase.com
+demdex.net
 departapp.com
 deqwas.net
 devatics.com
@@ -709,6 +712,7 @@ dotomi.com
 doubleverify.com
 dpbolvw.net
 dps-reach.com
+driv-analytics.com
 dsmmadvantage.com
 dsparking.com
 dsply.com
@@ -2076,6 +2080,7 @@ softonic-analytics.net
 sojern.com
 soko.ai
 sokrati.com
+sol-data.com
 solosegment.com
 solutionshindsight.net
 sometrics.com
@@ -2657,7 +2662,6 @@ bmfeed.ru
 bosspush.com
 browserpusher.com
 cdn-sitegainer.com
-cleverpush.com
 copush.com
 cracataum.com
 danorenius.com
@@ -4262,6 +4266,7 @@ analytics.datahc.com
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.dvidshub.net
+analytics.edgesuite.net
 analytics.erepublic.com
 analytics.favcy.com
 analytics.foresee.com
@@ -5896,6 +5901,7 @@ desb.fkapi.net
 desr.fkapi.net
 diamond.transfermarkt.de
 direct-events-collector.spot.im
+discover-metrics.cloud.seek.com.au
 dl.meliacloud.com
 dmp.marketgid.com
 dmtracking2.alibaba.com
@@ -6444,6 +6450,7 @@ tracking.carsales.com.au
 tracking.chacha.com
 tracking.christianpost.com
 tracking.conduit.com
+tracking.engineering.cloud.seek.com.au
 tracking.epicgames.com
 tracking.eurosport.com
 tracking.hsn.com
@@ -6834,6 +6841,7 @@ metrics.mysanantonio.com
 metrics.nba.com
 metrics.necn.com
 metrics.nintendo.com
+metrics.nissanusa.com
 metrics.nook.com
 metrics.nutrisystem.com
 metrics.optimum.net
@@ -7308,6 +7316,7 @@ hulu-ios.hb-api.omtrdc.net
 hulu-lr.hb-api.omtrdc.net
 hulu.hb-api.omtrdc.net
 info.m.seek.com.au
+info.seek.com
 info.telstra.com.au
 info.vodafone.com.au
 infos.anz.com.au
@@ -7383,6 +7392,7 @@ metrics.cars.com
 metrics.cbn.com
 metrics.centurylink.com
 metrics.chapters.indigo.ca
+metrics.consumerreports.org
 metrics.converse.com
 metrics.copart.com
 metrics.cort.com
@@ -7466,6 +7476,7 @@ metrics.mcafee.com
 metrics.meiers-weltreisen.de
 metrics.motortrend.com
 metrics.myprime.com
+metrics.nationwide.co.uk
 metrics.nero.com
 metrics.net-a-porter.com
 metrics.newcars.com
@@ -7518,6 +7529,7 @@ metrics.thelott.com
 metrics.themercury.com.au
 metrics.thinkgeek.com
 metrics.three.co.uk
+metrics.ticketmaster.com
 metrics.tim.it
 metrics.time.com
 metrics.timewarnercable.com
@@ -8128,6 +8140,7 @@ smetrics.three.ie
 smetrics.thrivent.com
 smetrics.tiaa-cref.org
 smetrics.tiaa.org
+smetrics.ticketmaster.com
 smetrics.ticketsatwork.com
 smetrics.tienda.telcel.com
 smetrics.tiffany.kr
@@ -8233,6 +8246,7 @@ smtx.belfius.be
 smy.iheart.com
 so.swisscom.ch
 so8.hyatt.com
+som.aeroplan.com
 som.athenahealth.com
 som.cbsi.com
 som.hotwire.com
@@ -8539,6 +8553,7 @@ sut.dailyfx.com
 sw88.abc.com
 sw88.disney.be
 sw88.disney.co.il
+sw88.disney.co.jp
 sw88.disney.co.uk
 sw88.disney.de
 sw88.disney.dk
