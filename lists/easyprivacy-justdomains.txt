@@ -609,6 +609,7 @@ crmmetrixwris.com
 crosspixel.net
 crosswalkmail.com
 crowdscience.com
+crowdtwist.com
 crsspxl.com
 crtx.info
 csdata1.com
@@ -1074,6 +1075,7 @@ hotjar.io
 hotlog.ru
 hs-analytics.net
 hsadspixel.net
+hscta.net
 htlbid.com
 hubvisor.io
 hudb.pl
@@ -1909,7 +1911,6 @@ rpdtrk.com
 rqtrk.eu
 rrimpl.com
 rs0.co.uk
-rs6.net
 rstg.io
 rsvpgenius.com
 rtb123.com
@@ -1964,6 +1965,7 @@ seehits.com
 seeip.org
 seevolution.com
 seewhy.com
+segment.io
 segmentify.com
 selaris.com
 selectmedia.asia
@@ -4956,6 +4958,7 @@ stat.pladform.ru
 stat.segitek.hu
 stat.web-regie.com
 statdb.pressflex.com
+static.parsely.com
 statistics.tattermedia.com
 statistics.wibiya.com
 statm.the-adult-company.com
@@ -8019,6 +8022,7 @@ smetrics.rolex.com
 smetrics.roomandboard.com
 smetrics.rovia.com
 smetrics.royalcaribbean.com
+smetrics.rtl.nl
 smetrics.rubbernews.com
 smetrics.ryanair.com
 smetrics.sainsburysbank.co.uk
