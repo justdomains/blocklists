@@ -725,7 +725,6 @@ durationmedia.net
 dwin1.com
 dwin2.com
 dynameex.com
-dynatrace.com
 dynatracesaas.com
 dyntrk.com
 e-contenta.com
@@ -2440,6 +2439,7 @@ vilynx.com
 vinlens.com
 vinub.com
 viralninjas.com
+viraltrackings.com
 virgul.com
 virool.com
 virtualnet.co.uk
@@ -4248,6 +4248,7 @@ analytics-sg.tiktok.com
 analytics-static.ugc.bazaarvoice.com
 analytics.30m.com
 analytics.agoda.com
+analytics.aimtell.com
 analytics.amakings.com
 analytics.anvato.net
 analytics.apnewsregistry.com
