@@ -4464,6 +4464,7 @@ counter.bloke.com
 counter.cam-content.com
 counter.digits.com
 counter.hyipexplorer.com
+counter.jdi5.com
 counter.maases.com
 counter.packa2.cz
 counter.powweb.com
@@ -10956,6 +10957,7 @@ livestats.la7.tv
 ma.register.it
 sa.sky.it
 siteinfo.libero.it
+stats.dreamsub.cc
 stats.splinder.com
 stats.stylight.it
 track.tesiteca.it
