@@ -286,7 +286,6 @@ aufp.io
 authorinsights.com
 auto-ping.com
 autoaffiliatenetwork.com
-autoaudience.com
 autoid.com
 autoline-top.com
 avantlink.com
@@ -414,6 +413,7 @@ bubblestat.com
 bugherd.com
 buildkiteanalytics.com
 bunchbox.co
+burpee.xyz
 burstbeacon.com
 buzzdeck.com
 bytemgdd.com
@@ -10747,6 +10747,7 @@ pixel.bild.de
 pixel.prosieben.de
 powercount.jswelt.de
 proactive.base.de
+px.derstandard.at
 pxc.otto.de
 rem-track.bild.de
 responder.wt.heise.de
