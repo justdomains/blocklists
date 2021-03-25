@@ -4619,6 +4619,7 @@ dyv1bugovvq1g.cloudfront.net
 ecomm.events
 ecommstats.s3.amazonaws.com
 edge.bredg.com
+eel.transistor.fm
 errors.snackly.co
 event-api.contactatonce.co.uk
 event-api.contactatonce.com.au
