@@ -1569,7 +1569,6 @@ nuconomy.com
 nuggad.net
 nuloox.com
 numerino.cz
-nvidia.partners
 nyltx.com
 nytlog.com
 o-s.io
@@ -2807,7 +2806,6 @@ coin-cube.com
 coin-have.com
 coin-hive.com
 coin-service.com
-coincheck.com
 coinerra.com
 coinhive.com
 coinhiveproxy.com
@@ -4686,7 +4684,6 @@ geoservice.curse.com
 glbdns.microsoft.com
 go.optifuze.com
 go.pardot.com
-go.techtarget.com
 go.toutapp.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
@@ -4726,6 +4723,7 @@ ipapi.tmbi.com
 irqs.ioam.de
 itracking.fccinteractive.com
 jac.yahoosandbox.com
+jas.indeednps.com
 javascriptcounter.appspot.com
 jelly.mdhv.io
 jill.fc.yahoo.com
@@ -4833,6 +4831,7 @@ pagesense-collect.zoho.com
 pagesocket.glam.com
 partner.cynapse.com
 pdc.dmleonyc.com
+pegasus.unifygroup.com
 perf.dugout.com
 perr.h-cdn.com
 perso.aws.arc.pub
@@ -4869,6 +4868,7 @@ pixel.wp.com
 pixel.xmladfeed.com
 pixel.yabidos.com
 pixel.yola.com
+pixels.afcdn.com
 platform.communicatorcorp.com
 platform.iteratehq.com
 plumbus.minutemediaservices.com
@@ -5944,6 +5944,7 @@ events.privy.com
 events.reddit.com
 events.redditmedia.com
 events.turbosquid.com
+events.uber.com
 evisit.exeter.ac.uk
 expbl2ro.xbox.com
 expdb2.msn.com
