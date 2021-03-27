@@ -1870,7 +1870,6 @@ reussissonsensemble.fr
 revenuepilot.com
 revenuescience.com
 revenuewire.net
-revjet.com
 revoffers.com
 revolvermaps.com
 rewardtv.com
@@ -4848,6 +4847,7 @@ pings.vidpulse.com
 pipe-collect.ebu.io
 pipedream.wistia.com
 pix.impdesk.com
+pix.revjet.com
 pix.speedbit.com
 pixel-a.basis.net
 pixel.ampry.com
@@ -4897,6 +4897,7 @@ px.excitedigitalmedia.com
 px.marchex.io
 px.owneriq.net
 px.spiceworks.com
+pxt.daz3d.com
 qubitanalytics.appspot.com
 r.msn.com
 ramp.purch.com
@@ -5245,6 +5246,7 @@ wstat.wibiya.com
 wtbevents.pricespider.com
 x.disq.us
 x.weather.com
+xt.persosa.com
 zdlogs.sphereup.com
 convsgmp.taboola.com
 la-sync.taboola.com
@@ -6020,6 +6022,7 @@ intent.cbsi.com
 intg.snapchat.com
 intuitvisitorid.api.intuit.com
 ip.breitbart.com
+ip.cliphunter.com
 ip.pichunter.com
 kinesisproxy.hearstlabs.com
 laas.americanexpress.com
