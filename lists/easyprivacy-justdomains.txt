@@ -991,7 +991,6 @@ goldstats.com
 goneviral.com
 goodcounter.org
 googleadservices.com
-googleoptimize.com
 googlerank.info
 gooo.al
 gopjn.com
@@ -2376,6 +2375,7 @@ udkcrj.com
 ugdturner.com
 uhygtf1.com
 umbel.com
+unblockia.com
 unicaondemand.com
 uniqodo.com
 united-infos.net
@@ -4388,7 +4388,6 @@ bento.agoda.com
 bid.g.doubleclick.net
 bitdash-reporting.appspot.com
 bizsolutions.strands.com
-blip.bizrate.com
 bmrg.reflected.net
 bonsai.internetbrands.com
 brain.foresee.com
