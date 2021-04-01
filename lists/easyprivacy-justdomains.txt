@@ -104,7 +104,6 @@ acexedge.com
 acint.net
 acq.io
 acsbap.com
-acsbapp.com
 active-trk7.com
 activeconversion.com
 activemeter.com
@@ -5906,7 +5905,6 @@ dc.banggood.com
 dccss.banggood.com
 dd.lendup.com
 dd.nytimes.com
-debug-vp.webmd.com
 deliver.oztam.com.au
 deliver.ptgncdn.com
 desa.fkapi.net
