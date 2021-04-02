@@ -2555,6 +2555,8 @@ wpfc.ml
 wrating.com
 wt-eu02.net
 wt-safetag.com
+wtastats.com
+wtastats.ro
 wtp101.com
 wts.one
 wtstats.com
