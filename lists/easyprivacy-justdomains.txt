@@ -5877,6 +5877,7 @@ collector.fiverr.com
 collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
+collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.statowl.com
 collector.tescocompare.com
@@ -10980,8 +10981,8 @@ analyzer.fc2.com
 analyzer2.fc2.com
 astat.nikkei.com
 beacon.watch.impress.co.jp
-cgi.tbs.co.jp
 count.upc.rakuten.co.jp
+j1.ax.xrea.com
 jen.jiji.com
 ln.ameba.jp
 log.suumo.jp
