@@ -224,7 +224,6 @@ analyticswizard.com
 analytk.com
 anametrix.com
 anametrix.net
-andagainanotherthing.com
 andyetanotherthing.com
 angelfishstats.com
 angorch-cdr7.com
@@ -1937,7 +1936,6 @@ sapha.com
 sas15k01.com
 sayutracking.co.uk
 sbbanalytics.com
-sbdtds.com
 sc-static.net
 scaledb.com
 scarabresearch.com
@@ -2234,7 +2232,6 @@ thespecialsearch.com
 thingswontend.com
 thinktot.com
 thisisacoolthing.com
-thisisanothercoolthing.com
 threat-analytics.com
 thrtle.com
 tinb.net
@@ -2750,7 +2747,6 @@ simility.com
 spideraf.com
 0x1f4b0.com
 1q2w3.website
-2giga.download
 a-calc.com
 a-calc.de
 abc.pema.cl
@@ -2759,7 +2755,6 @@ ad-miner.com
 adless.io
 adminer.com
 aleinvest.xyz
-altavista.ovh
 altpool.pro
 analytics.blue
 andlache.com
@@ -2957,7 +2952,6 @@ reauthenticator.com
 rocks.io
 rtb-seller.com
 s7ven.com
-scaleway.ovh
 serie-vostfr.com
 serv1swork.com
 silimbompom.com
@@ -2985,7 +2979,6 @@ thismetric.com
 tidafors.xyz
 tmmp.io
 traffic.tc-clicks.com
-traviilo.com
 truemine.org
 trustiseverything.de
 trustmeiamapro.de
@@ -3002,7 +2995,6 @@ webassembly.stream
 webmine.cz
 webmine.pro
 webminepool.com
-webminepool.tk
 webminerpool.com
 webmining.co
 webxmr.com
@@ -3324,7 +3316,6 @@ audiencemanager.de
 audienzz.ch
 avencio.de
 backlink-test.de
-backlink-umsonst.de
 backlinkdino.de
 bekannt-im-web.de
 belboon.de
@@ -3400,7 +3391,6 @@ etrust.eu
 euro-pr.eu
 eurocounter.com
 exapxl.de
-exmarkt.de
 faibl.org
 fastcounter.de
 fixcounter.com
@@ -4032,7 +4022,6 @@ zontera.com
 24smi.info
 24smi.net
 2ip.ua
-3wnp9.ru
 a-counter.com.ua
 a-counter.kiev.ua
 a4st.club
@@ -4109,7 +4098,6 @@ retag.xyz
 rnet.plus
 ru.net
 rutarget.ru
-sarimsol.com
 sarov.ws
 sblftg.com
 semantiqo.com
@@ -4325,7 +4313,6 @@ analytics.unibuddy.co
 analytics.urx.io
 analytics.vanillaforums.com
 analytics.vendemore.com
-analytics.video.meredithcorp.io
 analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
@@ -4424,7 +4411,6 @@ cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 chartaca.com.s3.amazonaws.com
 click.appinthestore.com
-click.aristotle.net
 click.rssfwd.com
 clicks.dealer.com
 clicktale.pantherssl.com
@@ -4438,7 +4424,6 @@ cm.g.doubleclick.net
 cnt.3dmy.net
 cnt.mastorage.net
 cod.bitrec.com
-collect.igodigital.com
 collect.rewardstyle.com
 collect.usefathom.com
 collector-api.99designs.com
@@ -4681,8 +4666,6 @@ geo.thehindu.com
 geobar.ziffdavisinternational.com
 geoip.nekudo.com
 geoservice.curse.com
-glbdns.microsoft.com
-go.optifuze.com
 go.pardot.com
 go.toutapp.com
 green-griffin-860.appspot.com
@@ -4873,7 +4856,6 @@ pixel.yola.com
 pixels.afcdn.com
 platform.communicatorcorp.com
 platform.iteratehq.com
-plumbus.minutemediaservices.com
 pmetrics.performancing.com
 postpixel.vindicosuite.com
 powersearch.us.com
@@ -5016,7 +4998,6 @@ stats3.unrulymedia.com
 statsadv.dadapro.com
 statsapi.screen9.com
 statsd.zmags.com
-statsdev.treesd.com
 statt-collect.herokuapp.com
 stg-data-collector.playbuzz.com
 sts.eccmp.com
@@ -5038,7 +5019,6 @@ t.castle.io
 t.cfjump.com
 t.clic2buy.com
 t.dgm-au.com
-t.kelkoogroup.net
 t.menepe.com
 t.powerreviews.com
 t.pswec.com
@@ -5133,7 +5113,6 @@ tracker.icerocket.com
 tracker.iqnomy.com
 tracker.keywordintent.com
 tracker.marinsoftware.com
-tracker.neon-images.com
 tracker.roitesting.com
 tracker.softcube.com
 tracker.timesgroup.com
@@ -5158,7 +5137,6 @@ tracking.fits.me
 tracking.g2crowd.com
 tracking.godatafeed.com
 tracking.hivecloud.net
-tracking.html5games.com
 tracking.interweave.com
 tracking.jotform.com
 tracking.keywee.co
@@ -5202,6 +5180,7 @@ traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 trakksocial.googlecode.com
+trap.skype.com
 trc.pushnami.com
 tree-pixel-log.s3.amazonaws.com
 tremorhub.com
@@ -5249,7 +5228,6 @@ wtbevents.pricespider.com
 x.disq.us
 x.weather.com
 xt.persosa.com
-zdlogs.sphereup.com
 convsgmp.taboola.com
 la-sync.taboola.com
 opps.taboola.com
