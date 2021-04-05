@@ -2405,6 +2405,7 @@ usesfathom.com
 usuarios-online.com
 uuxnwoevyb.com
 v12group.com
+v1sts.me
 v3cdn.net
 va-endpoint.com
 valuedopinions.co.uk
@@ -6048,6 +6049,7 @@ metrics.bangbros.com
 metrics.cbslocal.com
 metrics.extremetech.com
 metrics.slite.com
+metrics.spkt.io
 metrics.ted.com
 mmm.theweek.co.uk
 mms.al.com
