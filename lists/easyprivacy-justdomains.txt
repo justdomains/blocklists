@@ -1,3 +1,4 @@
+apxl.io
 g2178927685.co
 g2377012020.co
 g2575096355.co
@@ -4416,6 +4417,7 @@ cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 chartaca.com.s3.amazonaws.com
+check.deadlinefunnel.com
 click.appinthestore.com
 click.rssfwd.com
 clicks.dealer.com
@@ -5142,6 +5144,7 @@ tracking.fits.me
 tracking.g2crowd.com
 tracking.godatafeed.com
 tracking.hivecloud.net
+tracking.hyros.com
 tracking.interweave.com
 tracking.jotform.com
 tracking.keywee.co
@@ -5151,6 +5154,7 @@ tracking.lengow.com
 tracking.listhub.net
 tracking.livingsocial.com
 tracking.magnetmail.net
+tracking.markethero.io
 tracking.maxcdn.com
 tracking.menamarketplace.com
 tracking.monsido.com
