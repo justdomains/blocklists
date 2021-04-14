@@ -1694,6 +1694,7 @@ pingomatic.com
 pinpoll.com
 pipfire.com
 pippio.com
+piratepx.com
 pixel.ad
 pixel.watch
 pixeleze.com
@@ -2598,6 +2599,7 @@ ymetrica1.com
 youborafds01.com
 youboranqs01.com
 youboranqs02.com
+your-analytics.org
 your-counter.be
 youramigo.com
 youvisit.com
