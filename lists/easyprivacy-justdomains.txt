@@ -1032,6 +1032,7 @@ hellosherpa.com
 hentaicounter.com
 hexagon-analytics.com
 heyhelga.net
+heylink.com
 heyloyalty.com
 heystaks.com
 hiconversion.com
@@ -5493,6 +5494,7 @@ ubt.berlingskemedia.net
 analytics.belgacom.be
 cookies.reedbusiness.nl
 hottraffic.nl
+sp.dpgmedia.net
 statistics.rbi-nl.com
 counter.zone.ee
 insight.fonecta.fi
@@ -5897,6 +5899,7 @@ d2p3zdq8vjvnxd.cloudfront.net
 da.virginmedia.com
 data.mic.com
 data.younow.com
+datagroup-reporting.shopeemobile.com
 dc.banggood.com
 dccss.banggood.com
 dd.lendup.com
@@ -10735,6 +10738,7 @@ ens.nzz.ch
 ens.tagblatt.ch
 event.dkb.de
 fc.vodafone.de
+froglytics.eventfrog.ch
 g.silicon.de
 gets.faz.net
 is.base.de
@@ -10778,6 +10782,7 @@ track.cinestar.de
 track.derbund.ch
 track.express.de
 track.mopo.de
+track.rundschau-online.de
 trackerstatistik.init-ag.de
 tracking.finanzen.net
 tracking.hrs.de
@@ -10945,6 +10950,7 @@ analytics.rambla.be
 logs.ggweb.nl
 sat.sanoma.fi
 stats.fd.nl
+temptation.ad.nl
 webstatistieken.xs4all.nl
 analytics.sanoma.fi
 data.reactandshare.com
