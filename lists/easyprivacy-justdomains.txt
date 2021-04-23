@@ -1599,7 +1599,6 @@ onaudience.com
 ondu.ru
 onefeed.co.uk
 oneimpress.io
-onelink-translations.com
 onelink.me
 onestat.com
 onetag-sys.com
@@ -2578,7 +2577,6 @@ xdisctracking.pw
 xg4ken.com
 xiti.com
 xlisting.jp
-xref.io
 xtraffstat.com
 xtremline.com
 xxxcounter.com
