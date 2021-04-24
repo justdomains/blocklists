@@ -4677,7 +4677,6 @@ geo.thehindu.com
 geobar.ziffdavisinternational.com
 geoip.nekudo.com
 geoservice.curse.com
-go.pardot.com
 go.toutapp.com
 green-griffin-860.appspot.com
 gsp1.baidu.com
@@ -6000,6 +5999,7 @@ geolocation.forbes.com
 glassmoni.researchgate.net
 gmonitor.aliimg.com
 gnar.grammarly.com
+go.pardot.com
 gurgle.pcmag.com
 h.cliphunter.com
 harvester.eu.square-enix.com
