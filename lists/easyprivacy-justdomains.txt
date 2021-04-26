@@ -227,7 +227,6 @@ analytik.xyz
 analytk.com
 anametrix.com
 anametrix.net
-andyetanotherthing.com
 angelfishstats.com
 angorch-cdr7.com
 angsrvr.com
@@ -530,7 +529,6 @@ clixpy.com
 cloud-exploration.com
 cloud-iq.com
 cloudtracer101.com
-cmcintra.net
 cmcore.com
 cmmeglobal.com
 cmptch.com
@@ -590,7 +588,6 @@ countercentral.com
 countergeo.com
 counterland.com
 counters4u.com
-counterservis.com
 countersforlife.com
 countertracker.com
 counterviews.net
@@ -1981,7 +1978,6 @@ sendtraffic.com
 seomonitor.ro
 seomoz.org
 seoparts.net
-seoradar.ro
 serious-partners.com
 serv-ac.com
 servebom.com
@@ -2473,7 +2469,6 @@ vmm-satellite1.com
 vmmpxl.com
 voicefive.com
 volantix.com
-voodooalerts.com
 votistics.com
 vprza.com
 vtracker.net
@@ -2621,7 +2616,6 @@ zoomino.com
 zoosnet.net
 zoossoft.net
 zqtk.net
-zroitracker.com
 ztsrv.com
 zuzab.com
 artfin.club
@@ -2758,7 +2752,6 @@ a-calc.com
 a-calc.de
 abc.pema.cl
 acbp0020171456.page.tl
-ad-miner.com
 adless.io
 adminer.com
 aleinvest.xyz
@@ -2804,7 +2797,6 @@ cloud-miner.de
 cloud-miner.eu
 cloudcoins.co
 cnhv.co
-coin-cube.com
 coin-have.com
 coin-hive.com
 coin-service.com
@@ -2841,7 +2833,6 @@ dontbeevils.de
 dzizsih.ru
 easyhash.de
 easyhash.io
-encoding.ovh
 etacontent.com
 eth-pocket.com
 eth-pocket.de
@@ -2864,7 +2855,6 @@ g1thub.com
 gay-hotvideo.net
 goldoffer.online
 googleanalytcs.com
-graftpool.ovh
 gramombird.com
 greengaming.de
 gus.host
@@ -2874,7 +2864,6 @@ hashnest.com
 hashvault.pro
 hashzone.io
 hemnes.win
-hide.ovh
 hostcontent.live
 igg.biz
 igrid.org
@@ -2929,10 +2918,8 @@ nathetsof.com
 nddmcconmqsy.ru
 ner-de-mi-nis-6.info
 nerohut.com
-never.ovh
 nexioniect.com
 nextbdom.ru
-nexttime.ovh
 nfwebminer.com
 niematego.tk
 nimiq.com
@@ -2952,7 +2939,6 @@ papoto.com
 party-vqgdyvoycc.now.sh
 pertholin.com
 play.mix.kinostuff.com
-poolmining.eu
 pr0gram.org
 rand.com.ru
 reauthenticator.com
@@ -2983,7 +2969,6 @@ thewhizmarketing.com
 thewhizproducts.com
 thewise.com
 thismetric.com
-tidafors.xyz
 tmmp.io
 traffic.tc-clicks.com
 truemine.org
@@ -3790,7 +3775,6 @@ fortvision.com
 hetchi.com
 lead.im
 mimgoal.com
-ritogaga.com
 gpr.hu
 hirmatrix.hu
 mystat.hu
@@ -4241,6 +4225,7 @@ analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
+analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-sg.tiktok.com
 analytics-static.ugc.bazaarvoice.com
@@ -4569,7 +4554,6 @@ d3uvwl4wtkgzo1.cloudfront.net
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
-d8rk54i4mohrb.cloudfront.net
 dadi.technology
 daq0d0aotgq0f.cloudfront.net
 data.alexa.com
@@ -5119,7 +5103,6 @@ tracker.data-vp.com
 tracker.downdetector.com
 tracker.financialcontent.com
 tracker.icerocket.com
-tracker.iqnomy.com
 tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.roitesting.com
@@ -5322,7 +5305,6 @@ hbx.df-srv.de
 idt.id-news.net
 im.aol.de
 info.elba.at
-insights.blogfoster.com
 js.stroeermediabrands.de
 live.cxo.name
 live.ec2.cxo.name
@@ -6494,6 +6476,7 @@ trowel.twitch.tv
 trueffect.underarmour.com
 trx.smdatalabs.com
 trx3.famousfix.com
+tspmagic.tumblr.com
 tw.i.hulu.com
 u44.pnc.com
 u45.pnc.com
@@ -12892,6 +12875,8 @@ ds.haaretz.co.il
 stats.mako.co.il
 events.ingatlan.com
 outal.origo.hu
+analytic20.detik.com
+ktracker.kumparan.com
 analytics.tio.ch
 analytics.traderlink.com
 as.payback.it
@@ -13037,5 +13022,3 @@ target.ukr.net
 log.ttbc-hcm.gov.vn
 logsbin.dantri.com.vn
 stats.muasamcong.gov.vn
-analytic20.detik.com
-ktracker.kumparan.com
