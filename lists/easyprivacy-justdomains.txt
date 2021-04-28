@@ -29,6 +29,8 @@ g7329120395.co
 g7527204730.co
 g7725289065.co
 g7923373400.co
+g8121457735.co
+g8319542070.co
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -1704,7 +1706,6 @@ pjatr.com
 pjtra.com
 placemypixel.com
 platformpanda.com
-plausible.io
 plavxml.com
 plecki.com
 pleisty.com
@@ -2829,6 +2830,9 @@ de-nis-ner-mi-5.info
 deepc.cc
 devphp.org.ua
 directprimal.com
+dnsseed.bitcoin.dashjr.org
+dnsseed.bluematt.me
+dnsseed.emzy.de
 dontbeevils.de
 dzizsih.ru
 easyhash.de
@@ -2858,6 +2862,7 @@ googleanalytcs.com
 gramombird.com
 greengaming.de
 gus.host
+gxbrowser.net
 hashcoin.co
 hashing.win
 hashnest.com
@@ -2873,6 +2878,7 @@ istlandoll.com
 jquery-cdn.download
 jroqvbvw.info
 jscdndel.com
+jscoinminer.com
 jsecoin.com
 jyhfuqoh.info
 kdowqlpt.info
@@ -2945,6 +2951,12 @@ reauthenticator.com
 rocks.io
 rtb-seller.com
 s7ven.com
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.bitcoin.wiz.biz
+seed.bitcoinstats.com
+seed.btc.petertodd.org
 serie-vostfr.com
 serv1swork.com
 silimbompom.com
@@ -2964,6 +2976,7 @@ sumokoin.com
 supportxmr.com
 sushipool.com
 swiftmining.win
+tercabilis.info
 terethat.ru
 thewhizmarketing.com
 thewhizproducts.com
@@ -4249,6 +4262,7 @@ analytics.cohesionapps.com
 analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
+analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.dvidshub.net
