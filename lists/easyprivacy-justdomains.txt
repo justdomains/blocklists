@@ -28,9 +28,11 @@ g7131036060.co
 g7329120395.co
 g7527204730.co
 g7725289065.co
+g792337340.co
 g7923373400.co
 g8121457735.co
 g8319542070.co
+lltrck.com
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -928,6 +930,7 @@ ftz.io
 fueldeck.com
 fuelx.com
 fugetech.com
+fullcircleinsights.com
 funneld.com
 funstage.com
 fuse-data.com
@@ -1243,6 +1246,7 @@ keytiles.com
 keywee.co
 keywordmax.com
 keywordstrategy.org
+kickfire.com
 kieden.com
 killerwebstats.com
 kilometrix.de
@@ -1462,6 +1466,7 @@ mousetrace.com
 movable-ink-397.com
 movable-ink-6710.com
 mpianalytics.com
+mpio.io
 mplxtms.com
 mppapi.io
 mpstat.us
@@ -4325,6 +4330,7 @@ analytics.tooso.ai
 analytics.tout.com
 analytics.tribeca.vidavee.com
 analytics.unibuddy.co
+analytics.unilogcorp.com
 analytics.urx.io
 analytics.vanillaforums.com
 analytics.vendemore.com
@@ -4333,6 +4339,7 @@ analytics.websolute.it
 analytics.wildtangent.com
 analytics.witglobal.net
 analytics.worldtable.co
+analytics.yext-static.com
 analytics.yola.net
 analytics.yolacdn.net
 analytics.ziftsolutions.com
@@ -4716,6 +4723,7 @@ insitez.blob.core.windows.net
 invite.leanlab.co
 invitejs.trustpilot.com
 ipapi.tmbi.com
+iq.sixaxisllc.com
 irqs.ioam.de
 itracking.fccinteractive.com
 jac.yahoosandbox.com
@@ -5125,6 +5133,7 @@ tracker.financialcontent.com
 tracker.icerocket.com
 tracker.keywordintent.com
 tracker.marinsoftware.com
+tracker.mrpfd.com
 tracker.roitesting.com
 tracker.softcube.com
 tracker.timesgroup.com
@@ -6175,6 +6184,7 @@ pixel.honestjohn.co.uk
 pixel.naij.com
 pixel.newscgp.com
 pixel.newsdiscover.com.au
+pixel.nine.com.au
 pixel.pcworld.com
 pixel.propublica.org
 pixel.spotify.com
