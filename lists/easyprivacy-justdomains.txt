@@ -72,7 +72,6 @@ z0uolej1qnxzub1.info
 3gl.net
 404tracker.com
 40nuggets.com
-44-trk-srv.com
 4oney.com
 55labs.com
 6sc.co
@@ -81,7 +80,6 @@ z0uolej1qnxzub1.info
 7bpeople.com
 7eer.net
 8020solutions.net
-88infra-strat.com
 99counters.com
 99stats.com
 9nl.eu
@@ -808,7 +806,6 @@ eum-appdynamics.com
 europagerank.com
 europuls.eu
 europuls.net
-eventcapture03.com
 everestjs.net
 everesttech.net
 evergage.com
@@ -1414,6 +1411,7 @@ mediarithmics.com
 mediaseeding.com
 mediego.com
 mega-stats.com
+megastats.net
 memecounter.com
 memo.co
 mercadoclics.com
@@ -1859,7 +1857,6 @@ relmaxtop.com
 remailtarget.com
 remarketstats.com
 remind.me
-rep0pkgr.com
 repixel.co
 report-uri.com
 report-uri.io
@@ -2100,7 +2097,6 @@ spklw.com
 splitbee.io
 splittag.com
 splyt.com
-spn-twr-14.com
 spn.ee
 sponsored.com
 spotmx.com
@@ -2358,7 +2354,6 @@ trysera.com
 tscounter.com
 tsk4.com
 tsk5.com
-tst14netreal.com
 tubemogul.com
 tuinfra.com
 tunnl.com
@@ -2379,7 +2374,6 @@ ubertracking.info
 uciservice.com
 udkcrj.com
 ugdturner.com
-uhygtf1.com
 umbel.com
 unblockia.com
 unicaondemand.com
@@ -4445,6 +4439,7 @@ client-analytics.braintreegateway.com
 client.tahono.com
 clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
+cltgtstor001.blob.core.windows.net
 cnt.3dmy.net
 cnt.mastorage.net
 cod.bitrec.com
@@ -4792,7 +4787,6 @@ mcs.delvenetworks.com
 measure.refinery89.com
 mediametrics.mpsa.com
 metering.pagesuite.com
-metric.nwsource.com
 metrics-api.librato.com
 metrics.api.drift.com
 metrics.brightcove.com
@@ -5070,7 +5064,6 @@ tags.newscgp.com
 tags.refinery89.com
 tagtracking.vibescm.com
 target.mixi.media
-targeting.perso.aws.arc.pub
 tcheck.outbrainimg.com
 te.supportfreecontent.com
 telemetrics.klaviyo.com
@@ -5355,6 +5348,7 @@ d.omsnative.de
 data.econa.com
 et.twyn.com
 events.kaloo.ga
+events.onet.pl
 fc.webmasterpro.de
 geo.mtvnn.com
 geo.xcel.io
@@ -6105,7 +6099,6 @@ marketing.nodesource.com
 mcs-va.tiktokv.com
 merlin.abc.go.com
 metric.inetcore.com
-metrics.apartments.com
 metrics.bangbros.com
 metrics.cbslocal.com
 metrics.extremetech.com
@@ -6149,7 +6142,6 @@ nm.newegg.com
 nmtracking.netflix.com
 odin.mic.com
 oimg.m.cnbc.com
-oimg.mobile.cnbc.com
 omniture.theglobeandmail.com
 oops.redditmedia.com
 open.mkt1397.com
@@ -6176,7 +6168,6 @@ pingback.issuu.com
 pings.blip.tv
 pipeline.realtime.active.com
 pistyll.bleacherreport.com
-pix.eads.com
 pix.gfycat.com
 pix.nbcuni.com
 pixel-static.spotify.com
@@ -6233,7 +6224,6 @@ sa135.macworld.co.uk
 sa135.wsbtv.com
 sana.newsinc.com.s3.amazonaws.com
 sayac.hurriyettv.com
-sc.cc.com
 scluster3.cliphunter.com
 scout.lexisnexis.com
 scout.rollcall.com
@@ -6247,7 +6237,6 @@ sitelife.ehow.com
 slipstream.skyscanner.net
 smetrics.att.com
 smetrics.delta.com
-somniture.theglobeandmail.com
 sourcepoint.dexerto.com
 sp-mms.weather.com
 sp.app.com
@@ -6391,7 +6380,6 @@ stats.harpercollins.com
 stats.hfet.org
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
-stats.nctm.org
 stats.nimiq-network.com
 stats.nymag.com
 stats.opoloo.de
@@ -13615,7 +13603,6 @@ act.acotedemoi.com
 analytics.allovoisins.com
 c0011.boursorama.com
 cfcn.allocine.net
-clk.boulanger.com
 compteur.developpez.com
 dm.commentcamarche.net
 dm.journaldunet.com
@@ -13624,7 +13611,6 @@ events.guesttoguest.com
 fsm.lapresse.ca
 g.itespresso.fr
 k.kolplay.com
-k.rueducommerce.fr
 kbn.korben.info
 logs-qos.tf1.fr
 p.kolplay.com
@@ -13640,7 +13626,6 @@ stats.sexemodel.com
 stats1x1.kapaza.be
 t.blablacar.com
 tc.hometogo.net
-tdep.vacansoleil.fr
 tesla.oscaro.com
 track.24heures.ch
 tracker-id.cdiscount.com
@@ -13759,6 +13744,7 @@ logs.ggweb.nl
 sat.sanoma.fi
 stats.fd.nl
 temptation.ad.nl
+topspin.npo.nl
 webstatistieken.xs4all.nl
 analytics.sanoma.fi
 data.reactandshare.com
