@@ -160,6 +160,7 @@ adspsp.com
 adsrvr.org
 adsymptotic.com
 adtarget.me
+adtector.com
 adtelligence.de
 adtrackers.net
 adultblogtoplist.com
@@ -4273,6 +4274,7 @@ analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.dvidshub.net
 analytics.edgesuite.net
+analytics.eggoffer.com
 analytics.erepublic.com
 analytics.facebook.com
 analytics.favcy.com
@@ -4298,6 +4300,7 @@ analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.paddle.com
+analytics.pagefly.io
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
@@ -5270,6 +5273,7 @@ metrics.mzstatic.com
 mistat.xiaomi.com
 open.oneplus.net
 sa.api.intl.miui.com
+smetrics.samsung.com
 stat.xiaomi.com
 stats.redditmedia.com
 supportmetrics.apple.com
