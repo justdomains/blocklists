@@ -3138,6 +3138,7 @@ guiltlessbasketball.com
 gulliblecamp.com
 haltingbadge.com
 hammerhearing.com
+hearthorn.com
 hilariouszinc.com
 historicalbeam.com
 hocgeese.com
@@ -6195,6 +6196,7 @@ pixels.livingsocial.com
 pixiedust.buzzfeed.com
 player-telemetry.vimeo.com
 presentationtracking.netflix.com
+privacy-api.9gag.com
 proac.nationwide.com
 production.airswap.io
 proxypage.msn.com
