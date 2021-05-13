@@ -422,6 +422,7 @@ bunchbox.co
 burpee.xyz
 burstbeacon.com
 buzzdeck.com
+byside.com
 bytemgdd.com
 c-o-u-n-t.com
 c-rings.net
@@ -3684,11 +3685,13 @@ cnzz.net
 cr-nielsen.com
 ctags.cn
 datamaster.com.cn
+datayi.cn
 elevenmedia.cn
 emarbox.com
 eyeota.net
 fraudmetrix.cn
 ggxt.net
+giocdn.com
 gm99.com
 gostats.cn
 gridsum.com
@@ -3877,7 +3880,6 @@ cosmi.io
 d-markets.net
 d2-apps.net
 deteql.net
-digitiminimi.com
 e-click.jp
 e-kaiseki.com
 ebis.ne.jp
@@ -3920,7 +3922,6 @@ quant.jp
 rays-counter.com
 rentracks.jp
 research-artisan.com
-seesaa.jp
 segs.jp
 sibulla.com
 smart-bdash.com
@@ -5790,6 +5791,7 @@ ai.iol.io
 alb.reddit.com
 als-svc.nytimes.com
 analytic.imlive.com
+analytics-proxy.springboard.com
 analytics.adfreetime.com
 analytics.archive.org
 analytics.bloomberg.com
@@ -5797,6 +5799,7 @@ analytics.brave.com
 analytics.chase.com
 analytics.ecosia.org
 analytics.eip.telegraph.co.uk
+analytics.faceitanalytics.com
 analytics.footballdb.com
 analytics.getshogun.com
 analytics.global.sky.com
@@ -6396,6 +6399,7 @@ stats.pandora.com
 stats.paste2.org
 stats.piaggio.com
 stats.propublica.org
+stats.pstream.net
 stats.searchftps.net
 stats.searchftps.org
 stats.shoppydoo.com
