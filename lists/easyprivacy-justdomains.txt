@@ -3321,6 +3321,7 @@ ubiquitousyard.com
 unarmedindustry.com
 unbecominghall.com
 unequalbrake.com
+uninterestedquarter.com
 unknowncrate.com
 untidyrice.com
 unwieldyhealth.com
@@ -4644,6 +4645,7 @@ dl1d2m8ri9v3j.cloudfront.net
 dlvkf5067xruv.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dnn506yrbagrg.cloudfront.net
+doppler-reporting.cbsivideo.com
 dotaudiences.com
 doug1izaerwt3.cloudfront.net
 drlimmode9ddd.cloudfront.net
@@ -5099,6 +5101,7 @@ tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.sonymusic.com
 tagger.opecloud.com
+tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
@@ -5326,6 +5329,7 @@ sync.taboola.com
 urc.taboolasyndication.com
 wf.taboola.com
 fyrsbckgi-c.global.ssl.fastly.net
+mjca-yijws.global.ssl.fastly.net
 rc.vtex.com.br
 ref.dealerinspire.com
 risk.clearbit.com
@@ -6265,6 +6269,7 @@ reporting.theonion.com
 request.issuu.com
 retargeting.vistaprint.com
 revsci.tvguide.com
+rfk.biglots.com
 rok.com.com
 rs.mail.ru
 rt.prnewswire.com
