@@ -2211,8 +2211,10 @@ synthasite.net
 sysomos.com
 t-analytics.com
 tag4arm.com
+tagdatax.com
 tagmngrs.com
 tagsrvcs.com
+tagstaticx.com
 tamgrt.com
 tapad.com
 tapfiliate.com
@@ -3688,6 +3690,7 @@ circle.am
 call-tracking.by
 trafit.com
 tyxo.bg
+365dmp.com
 50bang.org
 51yes.com
 99click.com
