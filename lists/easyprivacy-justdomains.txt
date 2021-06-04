@@ -104,6 +104,7 @@ absolstats.co.za
 abtrcking.com
 abtshield.com
 acc-hd.de
+accdab.net
 acceptableserver.com
 access-analyze.org
 accessintel.com
@@ -2495,7 +2496,6 @@ volantix.com
 votistics.com
 vprza.com
 vtracker.net
-vuukle.com
 w3counter.com
 w55c.net
 walmeric.com
