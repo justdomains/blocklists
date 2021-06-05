@@ -499,6 +499,7 @@ clarity.ms
 claritytag.com
 clarivoy.com
 cleananalytics.com
+clearbitjs.com
 cleveritics.com
 clevi.com
 click-url.com
@@ -1210,6 +1211,7 @@ ipro.com
 iproanalytics.com
 iprotrk.com
 ipstat.com
+iptrack.io
 ipv6monitoring.eu
 iqdata.ai
 iqfp1.com
@@ -6425,6 +6427,7 @@ stat.kbs.co.kr
 stat.pubhtml5.com
 stat.ruvr.ru
 stat.tildacdn.com
+stat.vulkanvegas.com
 stat.xhamsterpremium.com
 statistics.crowdynews.com
 stats.aplus.com
