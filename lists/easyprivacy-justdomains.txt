@@ -4881,6 +4881,7 @@ pap.qualityunit.com
 partner.cynapse.com
 pdc.dmleonyc.com
 pegasus.unifygroup.com
+perf-events.cloud.unity3d.com
 perf.dugout.com
 perr.h-cdn.com
 perso.aws.arc.pub
