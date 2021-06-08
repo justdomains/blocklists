@@ -1,4 +1,5 @@
 apxl.io
+cloudwp.io
 g2178927685.co
 g2377012020.co
 g2575096355.co
@@ -40,6 +41,7 @@ mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
 sbgsodufuosmmvsdf.info
+site24x7rum.eu
 truffle.bid
 wknd.ai
 z0uolej1qnxzub1.info
@@ -2614,7 +2616,6 @@ yieldbot.com
 yieldify.com
 yieldlift.com
 yieldsoftware.com
-yjtag.jp
 yldr.io
 ymetrica1.com
 youborafds01.com
@@ -3099,6 +3100,7 @@ cautiouscrate.com
 cautiouscredit.com
 cloisteredcord.com
 colorfulafterthought.com
+colossalcoat.com
 complextoad.com
 conditioncrush.com
 confesschairs.com
@@ -3908,7 +3910,6 @@ cheqzone.com
 cosmi.io
 d-markets.net
 d2-apps.net
-deteql.net
 docomo-analytics.com
 e-click.jp
 e-kaiseki.com
@@ -4445,7 +4446,6 @@ bs.yandex.ru
 btn.clickability.com
 btrace.video.qq.com
 business.sharedcount.com
-c.cloudwp.io
 c.imedia.cz
 c.live.com
 c.mgid.com
@@ -4788,7 +4788,6 @@ laurel.rovicorp.com
 lciapi.ninthdecimal.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
-licensing.bitmovin.com
 lift.acquia.com
 link.informer.com
 links.voyeurweb.com
@@ -4995,6 +4994,7 @@ secure.ifbyphone.com
 secure.merchantadvantage.com
 seg.sharethis.com
 segments.adap.tv
+sentry.arc.io
 session.timecommerce.net
 sftrack.searchforce.net
 shared.65twenty.com
@@ -5028,7 +5028,6 @@ stats.big-boards.com
 stats.bitgravity.com
 stats.bluebillywig.com
 stats.clickability.com
-stats.cloudwp.io
 stats.cmcigroup.com
 stats.datahjaelp.net
 stats.edicy.com
