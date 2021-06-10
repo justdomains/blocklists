@@ -3357,6 +3357,7 @@ analysis.fi
 analytics.rechtslupe.org
 andyhoppe.com
 anormal-tracker.de
+asadcdn.com
 atsfi.de
 audiencemanager.de
 audienzz.ch
@@ -4688,6 +4689,7 @@ events.attentivemobile.com
 events.audiate.me
 events.brightline.tv
 events.demoup.com
+events.jokerly.com
 events.jotform.com
 events.launchdarkly.com
 events.matterport.com
@@ -4925,7 +4927,9 @@ pixel.yola.com
 pixels.afcdn.com
 platform.communicatorcorp.com
 platform.iteratehq.com
+plausibleio.workers.dev
 pmetrics.performancing.com
+porpoise.azettl.net
 postpixel.vindicosuite.com
 powersearch.us.com
 pr.blogflux.com
@@ -4940,6 +4944,7 @@ production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
 projop.dnsalias.com
 providence.voxmedia.com
+proxy.dzeio.com
 prstats.postrelease.com
 pt.crossmediaservices.com
 pt.ispot.tv
@@ -5818,6 +5823,7 @@ tracker.esputnik.com
 analytics.yomedia.vn
 f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
+a4xo-eng.spankbang.com
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -5993,6 +5999,7 @@ counter.sina.com.cn
 counter.theconversation.edu.au
 counter.zerohedge.com
 cpt.itv.com
+crayfish.thingelstad.com
 crta.metro.co.uk
 cstats.sankakucomplex.com
 cupid.socialblade.com
@@ -6056,8 +6063,10 @@ expdb2.msn.com
 f.schemeflood.com
 f.staticlp.com
 fast.forbes.com
+fathom.app.silverbeak.com
 fathom.pixeldrain.com
 fathom.status.im
+fathom.tdvm.net
 felitb.rightinthebox.com
 firebaselogging.googleapis.com
 fp.measure.office.com
@@ -6258,6 +6267,7 @@ pixel.staging.tree.com
 pixel.tuko.co.ke
 pixels.livingsocial.com
 pixiedust.buzzfeed.com
+plausible.nuqu.org
 player-telemetry.vimeo.com
 presentationtracking.netflix.com
 privacy-api.9gag.com
@@ -6447,6 +6457,7 @@ stats.cardschat.com
 stats.cheddar.com
 stats.christianpost.com
 stats.clear-media.com
+stats.comovee.com
 stats.digg.com
 stats.dnaindia.com
 stats.extremetech.com
@@ -6455,7 +6466,9 @@ stats.harpercollins.com
 stats.hfet.org
 stats.ibtimes.co.in
 stats.ibtimes.co.uk
+stats.jacksellwood.com
 stats.nimiq-network.com
+stats.nrcaknights.com
 stats.nymag.com
 stats.opoloo.de
 stats.pandora.com
@@ -6469,7 +6482,9 @@ stats.searchftps.org
 stats.shoppydoo.com
 stats.slideshare.net
 stats.someecards.com
+stats.suenicholls.com
 stats.townnews.com
+stats.trimbles.ie
 stats.uswitch.com
 stats.videodelivery.net
 stats.visistat.com
@@ -6479,6 +6494,7 @@ stats.wordpress.com
 stats.wwd.com
 stats.wwitv.com
 stats.ynet.co.il
+stats.zeitimpuls.at
 stats.zmags.com
 stats02.topix.com
 statstracker.celebrity-gossip.net
@@ -6630,6 +6646,7 @@ vstats.digitaltrends.com
 wa.ui-portal.de
 wal.wolfram.com
 warp.prnewswire.co.uk
+wasp.frenchtogether.com
 watson.live.com
 wblt.oui.sncf
 web-t.9gag.com
@@ -13700,6 +13717,7 @@ sa.tf1.fr
 sgmnt.ticketswap.com
 stat.ouedkniss.com
 stat.webevolutis.com
+stats.biblionumericus.fr
 stats.grafikart.fr
 stats.sexemodel.com
 stats1x1.kapaza.be
