@@ -5823,6 +5823,7 @@ tracker.esputnik.com
 analytics.yomedia.vn
 f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
+a.electerious.com
 a4xo-eng.spankbang.com
 aa.avvo.com
 aax-eu-dub.amazon.com
@@ -5932,6 +5933,8 @@ beacon.toyota.co.jp
 beacon.walmart.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
+beam-ws.giraffe360.com
+beam.giraffe360.com
 beap-bc.yahoo.com
 bench.uc.cn
 bfp.capitalone.com
@@ -6271,6 +6274,7 @@ plausible.nuqu.org
 player-telemetry.vimeo.com
 presentationtracking.netflix.com
 privacy-api.9gag.com
+privacyfriendly.brainbits.in
 proac.nationwide.com
 production.airswap.io
 proxypage.msn.com
