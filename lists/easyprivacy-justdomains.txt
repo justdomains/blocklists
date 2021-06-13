@@ -5378,6 +5378,7 @@ securitymetrics.com
 shopperapproved.com
 siteintercept.allegiancetech.com
 siteintercept.qualtrics.com
+smart-widget-assets.ekomiapps.de
 trusted-web-seal.cybertrust.ne.jp
 verify.authorize.net
 verify.safesigned.com
@@ -5753,6 +5754,7 @@ counter.star.lg.ua
 counter.tovarro.com
 counter.wapstart.ru
 crm-analytics.imweb.ru
+d.wi-fi.ru
 dbex-tracker-v2.driveback.ru
 error.videonow.ru
 g4p.redtram.com
@@ -5775,12 +5777,14 @@ statistics.fppressa.ru
 stats.embedcdn.cc
 stats.seedr.com
 stats.tazeros.com
+stats2.videonow.ru
 target.mirtesen.ru
 target.smi2.net
 target.smi2.ru
 tbe.tom.ru
 telemetry.jivosite.com
 tms-st.cdn.ngenix.net
+tms.dmp.wi-fi.ru
 top.elec.ru
 track.recreativ.ru
 track.spacepush.ru
@@ -6617,6 +6621,7 @@ tracking.unitednaturals.com
 tracking.unrealengine.com
 trackpm.shop2market.com
 traffic.buyservices.com
+tredir.go.com
 trezor.efscle.com
 trk.flazio.com
 trk.freepik.com
