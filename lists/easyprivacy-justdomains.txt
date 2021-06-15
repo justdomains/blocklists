@@ -6079,6 +6079,7 @@ firebaselogging.googleapis.com
 fp.measure.office.com
 fpa-events.arstechnica.com
 fresh.techdirt.com
+fresnel-events.vimeocdn.com
 funn.graphiq.com
 g.ign.com
 g.mashable.com
