@@ -989,6 +989,7 @@ gglscr.online
 giddyuptrk.com
 gigcount.com
 gim.co.il
+glancecdn.net
 glanceguide.com
 glassboxcdn.com
 glassboxdigital.io
@@ -1382,6 +1383,7 @@ m-pathy.com
 m-t.io
 m0mentum.net
 m1ll1c4n0.com
+m365log.com
 m6r.eu
 mabipa.com
 macandcheeseandads.com
@@ -2486,6 +2488,7 @@ visitorinspector.com
 visitorjs.com
 visitorpath.com
 visitorprofiler.com
+visitorqueue.com
 visitortracklog.com
 visitorville.com
 visitstreamer.com
@@ -5604,6 +5607,7 @@ videostat.index.hu
 analytics.bhaskar.com
 analytics.competitoor.com
 analytics00.meride.tv
+audit.shaa.it
 click.kataweb.it
 counter.ksm.it
 counter2.condenast.it
