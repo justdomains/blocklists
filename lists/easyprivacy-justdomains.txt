@@ -4631,6 +4631,7 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 dadi.technology
 daq0d0aotgq0f.cloudfront.net
+dash.getsitecontrol.com
 data.alexa.com
 data.beop.io
 data.circulate.com
@@ -5593,6 +5594,7 @@ statistics.jfmedier.dk
 trckr.nordiskemedier.dk
 ubt.berlingskemedia.net
 analytics.belgacom.be
+apm.tnet.nl
 cookies.reedbusiness.nl
 hottraffic.nl
 sp.dpgmedia.net
