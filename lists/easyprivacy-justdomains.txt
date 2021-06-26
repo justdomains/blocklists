@@ -6166,6 +6166,7 @@ loc.rediff.com
 localads-statistics.maps.me
 log-api.newrelic.com
 log.china.cn
+log.genyt.net
 log.go.com
 log.hypebeast.com
 log.mappy.net
