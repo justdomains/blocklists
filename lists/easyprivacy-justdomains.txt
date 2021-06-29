@@ -1368,6 +1368,7 @@ losstrack.com
 lp4.io
 lpbeta.com
 lporirxe.com
+lr-ingest.io
 lsfinteractive.com
 lucidel.com
 luckyorange.com
@@ -5181,6 +5182,7 @@ track.td3x.com
 track.uc.cn
 track.untd.com
 track.vdo.ai
+track.venatusmedia.com
 track.vscash.com
 track.wayin.com
 track.written.com
@@ -13629,6 +13631,7 @@ analytics.solidbau.at
 as.base.de
 as.mirapodo.de
 as.mytoys.de
+as.saechsische.de
 as.yomonda.de
 beacon.gutefrage.net
 behave.noen.at
