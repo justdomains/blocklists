@@ -4833,6 +4833,7 @@ logs-api.shoprunner.com
 logs.psm.wmcdp.io
 logs.spilgames.com
 logs.thebloggernetwork.com
+logs.viadata.store
 logs.vmixcore.com
 lore.circulate.com
 loxodo-analytics.ext.nile.works
