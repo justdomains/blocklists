@@ -2715,7 +2715,6 @@ foxpush.net
 getback.ch
 getpush.net
 getpushmonkey.com
-getsupernova.com
 gravitec.net
 heroesdom.com
 highfalutinhoney.com
@@ -5174,6 +5173,7 @@ track.pnicnik.live
 track.pricespider.com
 track.qcri.org
 track.qoof.com
+track.realtimeboard.com
 track.searchignite.com
 track.securedvisit.com
 track.shop2market.com
@@ -5844,7 +5844,6 @@ analytics.yomedia.vn
 f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
 a.electerious.com
-a5xo-eng.spankbang.com
 aa.avvo.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
@@ -6686,6 +6685,7 @@ wla.vivaldi.com
 ws.yellowpages.ca
 wstats.e-wok.tv
 wtk.db.com
+xoxo5-eng.spankbang.com
 xstats.evoload.io
 xtrack.capetown.gov.za
 ynuf.alibaba.com
