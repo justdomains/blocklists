@@ -4836,6 +4836,7 @@ logs.viadata.store
 logs.vmixcore.com
 lore.circulate.com
 loxodo-analytics.ext.nile.works
+lps.qantas.com
 lt.tritondigital.com
 lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
@@ -5347,7 +5348,7 @@ stat.xiaomi.com
 stats.redditmedia.com
 supportmetrics.apple.com
 tracking.miui.com
-trackingshipment.apple.com
+xp.apple.com
 yandexadexchange.net
 convsgmp.taboola.com
 la-sync.taboola.com
@@ -13684,6 +13685,7 @@ pxc.otto.de
 rem-track.bild.de
 responder.wt.heise.de
 rl.heise.de
+rt.bunte.de
 s.edeka.de
 statistics.raiffeisen.ch
 statistics.riskommunal.net
@@ -13938,6 +13940,7 @@ nil.naver.com
 pb.m.naver.com
 prism.pandora.tv
 sp.naver.com
+stat.tiara.daum.net
 stat.tiara.kakao.com
 track.tiara.daum.net
 track.tiara.kakao.com
