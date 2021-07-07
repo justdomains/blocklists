@@ -247,6 +247,7 @@ anrdoezrs.net
 answerscloud.com
 anti-cheat.info
 antiblock.info
+antillephone.com
 anura.io
 anymind360.com
 apexstats.com
@@ -6036,7 +6037,6 @@ datagroup-reporting.shopeemobile.com
 dc.banggood.com
 dccss.banggood.com
 dd.lendup.com
-dd.nytimes.com
 deliver.oztam.com.au
 deliver.ptgncdn.com
 desa.fkapi.net
@@ -6554,7 +6554,6 @@ t2.hulu.com
 t2.huluim.com
 tagger.ope.scmp.com
 tags.msnbc.com
-tagx.nytimes.com
 target.nejm.org
 tck.bangbros.com
 ted.dailymail.co.uk
@@ -6658,7 +6657,6 @@ u47.pnc.com
 ua.indianexpress.com
 uie.data.cbc.ca
 up.boston.com
-up.nytimes.com
 uptpro.homestead.com
 urs.metacritic.com
 user-metrics.onthemarket.com
