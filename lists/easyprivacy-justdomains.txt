@@ -137,7 +137,6 @@ adclickstats.net
 addfreestats.com
 adelixir.com
 adfox.ru
-adgjl13.com
 adgreed.com
 adheart.de
 adhslx.com
@@ -768,7 +767,6 @@ ekmpinpoint.com
 ela-3-tnk.com
 elastx.net
 electusdigital.com
-elite-s001.com
 elitics.com
 eluxer.net
 email-match.com
@@ -1289,7 +1287,6 @@ l2.io
 ladsp.com
 lanchaeanly.pro
 landingpg.com
-lansrv030.com
 lasagneandands.com
 lead-123.com
 lead-converter.com
@@ -1378,7 +1375,6 @@ lytiks.com
 m-pathy.com
 m-t.io
 m0mentum.net
-m1ll1c4n0.com
 m365log.com
 m6r.eu
 mabipa.com
@@ -2137,7 +2133,6 @@ sqate.io
 squidanalytics.com
 srmdata.com
 srpx.net
-srv1010elan.com
 ssm.codes
 stack-sonar.com
 stackadapt.com
@@ -2206,7 +2201,6 @@ surfertracker.com
 surveyscout.com
 surveywriter.com
 survicate.com
-svr-prc-01.com
 swcs.jp
 swfstats.com
 swiss-counter.com
@@ -2306,7 +2300,6 @@ trackcb.com
 trackcdn.com
 trackcmp.net
 trackconsole.com
-trackdiscovery.net
 trackeame.com
 trackedlink.net
 trackedweb.net
@@ -2364,7 +2357,6 @@ triptease.net
 trkjmp.com
 trklvs.com
 trkn.us
-trksrv44.com
 trmads.eu
 trmnsite.com
 trovus.co.uk
@@ -4812,7 +4804,6 @@ lunametrics.wpengine.netdna-cdn.com
 m.addthisedge.com
 magnify360-cdn.s3.amazonaws.com
 make.cohesionapps.com
-marketing.net.jumia.com.ng
 mas.nth.ch
 mc.webvisor.com
 mc.webvisor.org
@@ -5076,6 +5067,7 @@ t.cfjump.com
 t.clic2buy.com
 t.dgm-au.com
 t.menepe.com
+t.pointandplace.com
 t.powerreviews.com
 t.pswec.com
 t.raptorsmartadvisor.com
@@ -5306,7 +5298,6 @@ metrics.mzstatic.com
 mistat.xiaomi.com
 open.oneplus.net
 sa.api.intl.miui.com
-smetrics.samsung.com
 stat.xiaomi.com
 stats.redditmedia.com
 supportmetrics.apple.com
@@ -6438,7 +6429,6 @@ stats.cardschat.com
 stats.cheddar.com
 stats.christianpost.com
 stats.clear-media.com
-stats.comovee.com
 stats.digg.com
 stats.dnaindia.com
 stats.extremetech.com
@@ -6871,7 +6861,6 @@ a8trck.aisatsujo.jp
 a8trck.worldone.to
 afi.ssl.gmobb.jp
 analytics.villagehouse.jp
-cart.matsuzaka-steak.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cv.online.ysroad.co.jp
@@ -15876,7 +15865,6 @@ sa.tf1.fr
 sgmnt.ticketswap.com
 stat.ouedkniss.com
 stat.webevolutis.com
-stats.biblionumericus.fr
 stats.grafikart.fr
 stats.sexemodel.com
 stats1x1.kapaza.be

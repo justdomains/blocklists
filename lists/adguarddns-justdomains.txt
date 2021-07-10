@@ -1,3 +1,11 @@
+faster-trk.com
+embogsoarers.com
+rozumotterer.com
+xpbbyiqbcawamy.com
+ipmbnqqaon.com
+nkwintenc.biz
+jarvispopsu.com
+viamariller.com
 ad4point.nyc3.digitaloceanspaces.com
 rawirymi.xyz
 armiesgaspclue.com
@@ -17146,6 +17154,8 @@ criteo.com
 criteo.net
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 a.76674bdad304297eda3d325f449f6f49.com
+geoloc.yospace.com
+video-ads-module.ad-tech.nbcuni.com
 banner.hpmdnetwork.ru
 hybrid.ai
 ad.auditude.com
@@ -17713,6 +17723,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+analytics.chase.com
+scripttags.jst.ai
 trace21.dsb-ebusiness.com
 a.ddli.jp
 b92.yahoo.co.jp
@@ -23242,7 +23254,6 @@ analytics.qoqa.ninja
 analytics-sprint.qoqa.com
 analytics.qoqa.ch
 analytics.qoqa.com
-us04logfiles.zoom.us
 us04logfiles-va.zoom.us
 costco-adbutler.com
 adbutler.costco.com
@@ -23600,7 +23611,6 @@ acxiomapac.com
 adabra.com
 adalyser.com
 adblockrelief.com
-adgjl13.com
 adhslx.com
 adinte.jp
 adoric-om.com
@@ -23917,7 +23927,6 @@ kokos.click
 konduit.me
 ktxtr.com
 l2.io
-lansrv030.com
 leadbi.com
 leadchampion.com
 leaddyno.com
@@ -24166,7 +24175,6 @@ splitbee.io
 sprinklecontent.com
 spycounter.net
 sqate.io
-srv1010elan.com
 ssm.codes
 stackadapt.com
 stadsvc.com
@@ -24228,7 +24236,6 @@ tribl.io
 trilogyed.com
 triptease.io
 triptease.net
-trksrv44.com
 trmads.eu
 trmnsite.com
 trs.cn
@@ -25204,6 +25211,7 @@ t.cfjump.com
 t.clic2buy.com
 t.dgm-au.com
 t.menepe.com
+t.pointandplace.com
 t.powerreviews.com
 t.pswec.com
 t.raptorsmartadvisor.com
@@ -26067,7 +26075,6 @@ tracker.esputnik.com
 f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
 lyricslocusvaried.com
-viamariller.com
 zcp.zwame.pt
 ads.enrt.eu
 19bk5lo5q2.com
@@ -26187,6 +26194,8 @@ tutonovip.com
 ver-pelis.net
 xclk-integracion.com
 yestorrents.org
+verwvy.com
+5xanz2dxcn.ru
 gldlwt.com
 nasrispit.com
 bmddea.com
@@ -32423,6 +32432,9 @@ vongquaymienphi.net
 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+30mksr.cn
+njzyjy.cn
+hbzhenquan.cn
 00-gov.cn
 0024aaaa.com
 008844.cc
@@ -32603,6 +32615,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 860010.com
 88-baidu.com
 887251.com
+887591.com
 88818122.cn
 8881919.cc
 88rpg.net
@@ -35622,6 +35635,7 @@ dnjszp.cn
 dodolive.cn
 dodomo.info
 dofkfhv.cn
+doujl.cn
 doulaihai.top
 downcdn.top
 dpbyc.com
@@ -36250,6 +36264,7 @@ mhdnspro.com
 mhi9da.cn
 miaos11.com
 micreative-china.cn
+miniholiday.cn
 mitjg.xyz
 mituir.xyz
 miyaluorenliziuan.cn
@@ -36406,6 +36421,7 @@ pos68.cn
 ppee.xyz
 pppxia.com
 pqezdo.cn
+prfuxl.xyz
 ptgezc.com
 puqer.cn
 pwjmzqx.cn
@@ -36951,6 +36967,7 @@ yongshengtongda.com
 yoobest.cn
 yosjob.cn
 you6ka.cn
+youlejia.xyz
 youngalsobeautiful.com
 youpukeji.cn
 youshouge513.cn
@@ -37022,6 +37039,7 @@ zhangyiqian.top
 zhanjiangletian.com
 zhanlan5.cn
 zhaoyafang.cn
+zhcps.cn
 zhekoudajie.com
 zhengzhoupengbo.com
 zhiboiot.cn
