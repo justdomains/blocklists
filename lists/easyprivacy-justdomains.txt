@@ -2511,7 +2511,6 @@ webengage.com
 webeyez.com
 webflowmetrics.com
 webforensics.co.uk
-webgains.com
 webglstats.com
 webiqonline.com
 webleads-tracker.com
@@ -4037,6 +4036,7 @@ retargeting.biz
 statistics.ro
 top-ro.ro
 trafix.ro
+wtstats.ro
 zontera.com
 1dmp.io
 24log.ru
@@ -5261,6 +5261,7 @@ videoevents.outbrain.com
 visit.geocities.com
 visit.webhosting.yahoo.com
 vmstats.varrando.com
+wco.crownpeak.com
 web1.51.la
 weblog.livesport.eu
 weblogger-dynamic-lb.playdom.com
@@ -6212,6 +6213,7 @@ pexa.realestate.com.au
 pf.newegg.com
 phar.gu-web.net
 pi.feedsportal.com
+ping.hashnode.com
 ping.hungama.com
 pingback.giphy.com
 pingback.issuu.com
@@ -6267,6 +6269,7 @@ rok.com.com
 rs.mail.ru
 rt.prnewswire.com
 rta.dailymail.co.uk
+rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
 rtn.thestar.com
