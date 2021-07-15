@@ -116,6 +116,7 @@ acexedge.com
 acint.net
 acq.io
 acsbap.com
+acstat.com
 active-trk7.com
 activeconversion.com
 activemeter.com
@@ -4073,6 +4074,7 @@ exe.bid
 faststart.ru
 ftrack.ru
 gdeslon.ru
+get4click.ru
 giraff.io
 gnezdo.ru
 gostats.ru
@@ -5301,7 +5303,6 @@ stat.xiaomi.com
 stats.redditmedia.com
 supportmetrics.apple.com
 tracking.miui.com
-xp.apple.com
 yandexadexchange.net
 convsgmp.taboola.com
 la-sync.taboola.com
