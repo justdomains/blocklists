@@ -5176,6 +5176,7 @@ tracking.aegpresents.com
 tracking.americaneagle.com
 tracking.badgeville.com
 tracking.brandmentions.com
+tracking.cerdmann.com
 tracking.customerly.io
 tracking.drsfostersmith.com
 tracking.drum.io
@@ -6751,6 +6752,13 @@ a02342.yeovilexpress.co.uk
 a02342.yourlocalguardian.co.uk
 cb-mms.carbuyer.co.uk
 cdn-alliancegravity.s3.amazonaws.com
+cmp.courrierinternational.com
+cmp.finn.no
+cmp.huffingtonpost.fr
+cmp.netzwelt.de
+cmp.nouvelobs.com
+cmp.tek.no
+cmp.telerama.fr
 commsvc.stern.de
 consent.api.osano.com
 consent.inm.ie
@@ -16130,6 +16138,7 @@ geo.emol.cl
 hits.antena3.com
 pixel.europapress.net
 rvv.emol.com
+stats.gruporeforma.com
 statsmp2.emol.com
 t-pan.triodos.com
 wssgmstats.vibbo.com
