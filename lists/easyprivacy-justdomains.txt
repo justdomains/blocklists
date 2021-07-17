@@ -1955,6 +1955,7 @@ salesmanago.pl
 salesviewer.com
 salesviewer.org
 saletrack.co.uk
+salsify-ecdn.com
 san-spr-01.net
 sapha.com
 sas15k01.com
@@ -5974,8 +5975,8 @@ counter.zerohedge.com
 cpt.itv.com
 crayfish.thingelstad.com
 crta.metro.co.uk
+cryo.socialblade.com
 cstats.sankakucomplex.com
-cupid.socialblade.com
 d.ghostery.com
 d.skk.moe
 d2p3zdq8vjvnxd.cloudfront.net
@@ -15934,6 +15935,7 @@ gia.jd.com
 imgstat.baidu.com
 lg.tr.pandora.tv
 log.51cto.com
+log.aliyuncs.com
 log.bitauto.com
 log.flight.qunar.com
 log.kuwo.cn
