@@ -38,6 +38,7 @@ g8715710740.co
 g8913795075.co
 g9111879410.co
 lltrck.com
+loloclicks.biz
 mors22.com
 nxakpj4ac8gkd53.info
 propeller-tracking.com
@@ -1036,6 +1037,7 @@ gxgydnhz.com
 h4k5.com
 halldata.com
 haloscan.com
+havasedge.com
 haveamint.com
 hdmtools.com
 heapanalytics.com
@@ -1826,6 +1828,7 @@ qzlog.com
 r7ls.net
 radarstats.com
 radarurl.com
+radiateb2b.com
 rampanel.com
 rampmetrics.com
 rank-hits.com
@@ -4419,6 +4422,7 @@ bizsolutions.strands.com
 bmrg.reflected.net
 bonsai.internetbrands.com
 brain.foresee.com
+branch.io
 bright.bncnt.com
 bs.yandex.ru
 btn.clickability.com
@@ -4529,6 +4533,7 @@ d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
+d1af033869koo7.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
@@ -5330,6 +5335,7 @@ zvsuhljiha-a.akamaihd.net
 7q1z79gxsi.global.ssl.fastly.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
+vwonwkaqvq-a.global.ssl.fastly.net
 beyondsecurity.com
 cyveillance.com
 howsmyssl.com
@@ -5915,6 +5921,7 @@ binocule21c.merriam-webster.com
 bit.ehow.com
 bn.adultempire.com
 boomerang.dell.com
+browser.mi-img.com
 bulb.76.my
 c.ipaddress.com
 c.wort-suche.com
@@ -13850,7 +13857,6 @@ explore.att.com
 explore.firstnet.com
 feedback.vegasgoldenknights.com
 food.informaengage.com
-form.ict-toshiba.jp
 forms.b.oncourselearning.com
 forms.embarcadero.com
 forms.enterprisenews.telstra.com
@@ -15993,6 +15999,7 @@ webstat.kuwo.cn
 wkctj.baidu.com
 wl.jd.com
 zhihu-web-analytics.zhihu.com
+zio.xcar.com.cn
 zz.bdstatic.com
 report.novinky.cz
 stat.novinky.cz
@@ -16021,6 +16028,7 @@ analytics.traderlink.com
 as.payback.it
 click.tv.repubblica.it
 compare.easyviaggio.com
+data.segugio.it
 emng.libero.it
 execution-ci360.rai.it
 insights.cdt.ch
