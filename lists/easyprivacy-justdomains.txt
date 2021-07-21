@@ -2565,6 +2565,7 @@ wisetrack.net
 wishloop.com
 withcubed.com
 wizaly.com
+wmcdp.io
 womtp.com
 woopra-ns.com
 woopra.com
@@ -3041,7 +3042,6 @@ aliveachiever.com
 allowmailbox.com
 aloofvest.com
 amazingairplane.com
-amlg.io
 ancientact.com
 annoyedairport.com
 anxiousapples.com
@@ -3060,6 +3060,7 @@ baskettexture.com
 bawdybalance.com
 boilingbeetle.com
 borderbrush.com
+boredcrown.com
 breakfastboat.com
 broadcastbed.com
 broaddoor.com
@@ -3085,6 +3086,7 @@ complextoad.com
 conditioncrush.com
 confesschairs.com
 consciouschairs.com
+consciousdirt.com
 coordinatedcoat.com
 coordinatedcub.com
 copycarpenter.com
@@ -4236,6 +4238,7 @@ amcdn.vn
 contineljs.com
 gostats.vn
 100widgets.com
+3p-geo.yahoo.com
 51network.com
 a.mobify.com
 aan.amazon.com
@@ -4361,6 +4364,7 @@ analytics.websolute.it
 analytics.wildtangent.com
 analytics.witglobal.net
 analytics.worldtable.co
+analytics.yahoo.com
 analytics.yext-static.com
 analytics.yola.net
 analytics.yolacdn.net
@@ -4803,7 +4807,6 @@ logging.prefixbox.com
 loggingapi.spingo.com
 loglady.skypicker.com
 logs-api.shoprunner.com
-logs.psm.wmcdp.io
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.viadata.store
@@ -4901,6 +4904,7 @@ pixel.newscred.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel.safe-installation.com
+pixel.snapsmedia.io
 pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.tree.com
@@ -5112,7 +5116,6 @@ target.mixi.media
 tcheck.outbrainimg.com
 te.supportfreecontent.com
 telemetrics.klaviyo.com
-telemetry.api.wmcdp.io
 telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
@@ -5532,6 +5535,7 @@ log.tagtic.cn
 m.lolvsdota.cn
 msg.71.am
 n.yunshipei.com
+nos.netease.com
 p.aty.sohu.com
 p.tencentmind.com
 pos.baidu.com
@@ -5838,6 +5842,7 @@ analytics.ecosia.org
 analytics.faceitanalytics.com
 analytics.footballdb.com
 analytics.getshogun.com
+analytics.global.sky.com
 analytics.kaggle.io
 analytics.kraken.com
 analytics.mouthshut.com
@@ -5854,34 +5859,17 @@ anon-stats.eff.org
 appanalysis.banggood.com
 atrack.allposters.com
 ats.alot.com
-b.imwx.com
-b.myspace.com
-bat.adforum.com
+bat.maydream.com
 bats.video.yahoo.com
 bdt.123rf.com
-beacon-1.newrelic.com
-beacon.ehow.com
-beacon.examiner.com
-beacon.indieclicktv.com
-beacon.lycos.com
-beacon.netflix.com
-beacon.nuskin.com
 beacon.shazam.com
-beacon.toyota.co.jp
-beacon.walmart.com
 beacon.wikia-services.com
-beacon.www.theguardian.com
 beam-ws.giraffe360.com
 beam.giraffe360.com
-bench.uc.cn
 bfp.capitalone.com
-bi.medscape.com
 binocule21c.merriam-webster.com
-bit.ehow.com
-bn.adultempire.com
 boomerang.dell.com
 browser.mi-img.com
-bulb.76.my
 c.ipaddress.com
 c.wort-suche.com
 c.x.oanda.com
@@ -6079,7 +6067,6 @@ intuitvisitorid.api.intuit.com
 ip.breitbart.com
 ip.cliphunter.com
 ip.pichunter.com
-jac.yahoosandbox.com
 jumbo.zomato.com
 kinesisproxy.hearstlabs.com
 laas.americanexpress.com
@@ -6125,6 +6112,7 @@ metrics.extremetech.com
 metrics.slite.com
 metrics.spkt.io
 metrics.ted.com
+miao.baidu.com
 mmm.theweek.co.uk
 mms.al.com
 mms.cbslocal.com
@@ -6155,11 +6143,11 @@ monitor.channel4.com
 monitor.ebay.com
 ms-apps.haaretz.com
 mts-ws.rueducommerce.fr
+mybbc-analytics.files.bbci.co.uk
 nb.myspace.com
 ned.itv.com
 net.haier.com
 nm.newegg.com
-nmtracking.netflix.com
 noodle.backmarket.io
 odin.mic.com
 oimg.m.cnbc.com
@@ -6208,7 +6196,6 @@ pixels.livingsocial.com
 pixiedust.buzzfeed.com
 plausible.nuqu.org
 player-telemetry.vimeo.com
-presentationtracking.netflix.com
 privacy-api.9gag.com
 privacyfriendly.brainbits.in
 proac.nationwide.com
@@ -6603,6 +6590,7 @@ substation.confection.io
 dns.whatleaks.com
 gj.mmstat.com
 oneid.mmstat.com
+tilt.bankofamerica.com
 cb-mms.carbuyer.co.uk
 cdn-alliancegravity.s3.amazonaws.com
 cmp.courrierinternational.com
@@ -15738,6 +15726,7 @@ adgeo.163.com
 al.autohome.com.cn
 analy.qq.com
 analyse.weather.com.cn
+analytics.126.net
 analytics.163.com
 analytics.oneplus.cn
 analytics.shop.hisense.com
