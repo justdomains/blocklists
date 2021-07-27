@@ -1709,6 +1709,7 @@ personalicanvas.com
 personyze.com
 peruse.ai
 petametrics.com
+pghub.io
 pgs.io
 phonalytics.com
 phone-analytics.com
@@ -4153,6 +4154,7 @@ tbex.ru
 tds.io
 theactivetag.com
 tnative.ru
+tophitbit.com
 toptracker.ru
 tpm.pw
 ttrace.ru
@@ -4160,6 +4162,7 @@ uarating.com
 ulclick.ru
 upravel.com
 uptolike.com
+utraff.com
 uzrating.com
 variti.net
 vidigital.ru
@@ -5758,6 +5761,7 @@ counter.wapstart.ru
 crm-analytics.imweb.ru
 d.wi-fi.ru
 dbex-tracker-v2.driveback.ru
+delivery.hunterycity.com
 error.videonow.ru
 g4p.redtram.com
 hubrus.com
