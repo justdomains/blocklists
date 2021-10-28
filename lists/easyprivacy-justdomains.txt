@@ -91,6 +91,7 @@ mt48.net
 ns1p.net
 nxakpj4ac8gkd53.info
 omappapi.com
+ostrichesica.com
 p2r14.com
 pdflive.org
 permutive.app
@@ -929,6 +930,7 @@ filitrac.com
 finalid.com
 find-ip-address.org
 finderlocator.com
+fireworkanalytics.com
 firstpromoter.com
 fishhoo.com
 fitanalytics.com
@@ -6104,6 +6106,7 @@ pixel.nine.com.au
 pixel.tuko.co.ke
 pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
+plausible.mangadex.org
 plausible.omgapi.org
 player-telemetry.vimeo.com
 prairiedog.hashnode.com
@@ -6248,6 +6251,7 @@ stats.cardschat.com
 stats.clear-media.com
 stats.dnaindia.com
 stats.fs.com
+stats.gateio.ch
 stats.ibtimes.co.in
 stats.pandora.com
 stats.paste2.org
