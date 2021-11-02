@@ -413,7 +413,6 @@ basilic.io
 baynote.net
 baztrack.com
 bc0a.com
-bdash-cloud.com
 beacon.kmi-us.com
 beaconstreetservices.com
 beampulse.com
@@ -894,6 +893,7 @@ exclusiveclicks.com
 exelator.com
 exitbee.com
 exitmonitor.com
+exorigos.com
 exovueplatform.com
 experianmarketingservices.digital
 explore-123.com
@@ -3324,6 +3324,7 @@ spurioussteam.com
 squeakzinc.com
 squealingturn.com
 squirrelhands.com
+stakingsmile.com
 staleshow.com
 stalesummer.com
 steadfastsound.com
@@ -4069,7 +4070,6 @@ refericon.pl
 rejestr.org
 sare25.com
 snrbox.com
-spolecznosci.net
 stat.4u.pl
 stat.pl
 tagcdn.com
