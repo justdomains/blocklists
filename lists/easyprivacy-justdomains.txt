@@ -3201,6 +3201,7 @@ lameletters.com
 lamplow.com
 laughcloth.com
 leaplunchroom.com
+leftliquid.com
 levelbehavior.com
 livelylaugh.com
 lizardslaugh.com
@@ -4448,6 +4449,7 @@ axislogger.appspot.com
 az693360.vo.msecnd.net
 b-aws.aol.com
 b.bedop.com
+b7tp47v2nb3x-a.akamaihd.net
 bab.frb.io
 backstage.funnelenvy.com
 bacon.getcarro.com
@@ -5901,6 +5903,7 @@ alb.reddit.com
 als-svc.nytimes.com
 amethyst.zappos.com
 analyselog.dx.com
+analytics-api.dvdfab.cn
 analytics-proxy.springboard.com
 analytics.academy.com
 analytics.adfreetime.com
