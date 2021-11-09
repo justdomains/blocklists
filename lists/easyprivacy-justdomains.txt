@@ -3061,6 +3061,7 @@ aloofvest.com
 amazingairplane.com
 ancientact.com
 annoyedairport.com
+annoyingacoustics.com
 anxiousapples.com
 attractivecap.com
 audioarctic.com
@@ -5972,6 +5973,7 @@ cnt.vivatube.com
 collect.alipay.com
 collector-px0py5pczn.octopart.com
 collector.githubapp.com
+collector.megaxh.com
 collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.statowl.com
@@ -15796,7 +15798,9 @@ collect.tianya.cn
 count5.pconline.com.cn
 counter.people.cn
 dlswbr.baidu.com
+dolphin.deliver.ifeng.com
 eclick.baidu.com
+err.ifengcloud.ifeng.com
 event.csdn.net
 flog.pressplay.cc
 gia.jd.com
