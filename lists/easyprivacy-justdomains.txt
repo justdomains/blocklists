@@ -5983,6 +5983,7 @@ collector.xhamster.desi
 collector.xhamster2.com
 colvk.viki.io
 confiant.msn.com
+console-telemetry.oci.oraclecloud.com
 contents2.00110.citi.com
 count.rin.ru
 cpt.itv.com
@@ -6055,6 +6056,7 @@ go.pardot.com
 gtreus.aliexpress.com
 gurgle.pcmag.com
 hanaana.socialblade.com
+heap.drop.com
 i.pokernews.com
 iedc.fitbit.com
 indmetric.rediff.com
