@@ -22,6 +22,7 @@ cxt.ms
 czx5eyk0exbhwp43ya.biz
 demdex.net
 dispatchunique.com
+dispatchvegasplus.com
 dm-event.net
 dmpxs.com
 e1e.io
@@ -101,6 +102,7 @@ permutive.app
 pixrealm.com
 progmxs.com
 propeller-tracking.com
+pubtm.com
 quickanalytics.ca
 r42tag.com
 rezync.com
@@ -662,6 +664,7 @@ convertcart.com
 convertexperiments.com
 convertglobal.com
 convertro.com
+cookieless-data.com
 cooladata.com
 copperegg.com
 coralogix.com
@@ -4317,6 +4320,7 @@ analyse.bcovery.com
 analytic.rollout.io
 analytic.xingcloud.com
 analyticcdn.globalmailer.com
+analytics-1.cavai.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
@@ -4786,7 +4790,6 @@ ga.webdigi.co.uk
 gateway.foresee.com
 gemius.mgr.consensu.org
 geo.ertya.com
-geo.gorillanation.com
 geo.kontagent.net
 geo.mezr.com
 geo.q5media.net
