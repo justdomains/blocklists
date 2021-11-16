@@ -3162,6 +3162,7 @@ fatcoil.com
 faultycanvas.com
 firstfrogs.com
 flakyfeast.com
+flimsythought.com
 flockflame.com
 forecasttiger.com
 frailoffer.com
@@ -3194,6 +3195,7 @@ hystericalcloth.com
 immensehoney.com
 importedincrease.com
 importedinsect.com
+impossibleexpansion.com
 impulsejewel.com
 innocentinvention.com
 inquisitiveinvention.com
@@ -5994,6 +5996,7 @@ cpt.itv.com
 crayfish.thingelstad.com
 crta.metro.co.uk
 cstats.sankakucomplex.com
+d.getpocket.com
 d.skk.moe
 data.younow.com
 dc.banggood.com
@@ -6005,6 +6008,7 @@ desr.fkapi.net
 discover-metrics.cloud.seek.com.au
 dp.shoprunner.com
 dumpster.cam4.com
+e377.thestar.com
 ekg.riotgames.com
 engagefront.meteomedia.com
 engagefront.theweathernetwork.com
@@ -6121,6 +6125,8 @@ pixel.anyclip.com
 pixel.archive.is
 pixel.archive.ph
 pixel.archive.vn
+pixel.archivecaslytosk.onion
+pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.convertize.io
 pixel.digitalspy.co.uk
 pixel.facebook.com
