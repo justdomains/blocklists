@@ -4449,6 +4449,7 @@ audienceapi.newsdiscover.com.au
 audienceinsights.net
 audit.303br.net
 audit.median.hu
+aurora-d3.herokuapp.com
 awaps.yandex.net
 awesome.section.io
 awseukpi.whisbi.com
@@ -4790,6 +4791,7 @@ g2insights-cdn.azureedge.net
 ga-beacon.appspot.com
 ga.kvideo.io
 ga.webdigi.co.uk
+ganon.yahoo.com
 gateway.foresee.com
 gemius.mgr.consensu.org
 geo.ertya.com
@@ -6100,6 +6102,7 @@ marketing.dropbox.com
 mcs-va.tiktokv.com
 metrics.bangbros.com
 metrics.hackerrank.com
+metrics.roblox.com
 metrics.spkt.io
 metricsishare.rediff.com
 miao.baidu.com
