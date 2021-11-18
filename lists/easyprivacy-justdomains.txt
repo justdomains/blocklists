@@ -343,7 +343,6 @@ apollofind.com
 apolloprogram.io
 appcast.io
 appn.center
-appsflyer.com
 aprtn.com
 aprtx.com
 apsis1.com
@@ -3188,6 +3187,7 @@ hearthorn.com
 hilariouszinc.com
 historicalbeam.com
 hocgeese.com
+hollowafterthought.com
 homelycrown.com
 honorableland.com
 horsenectar.com
@@ -5353,6 +5353,7 @@ wco.crownpeak.com
 web1.51.la
 weblog.livesport.eu
 weblogger-dynamic-lb.playdom.com
+websdk.appsflyer.com
 webservices.websitepros.com
 webstats.motigo.com
 webstats.thaindian.com
@@ -5942,6 +5943,7 @@ analytics.ovh.com
 analytics.plex.tv
 analytics.productreview.com.au
 analytics.realestate.com.au
+analytics.send.cm
 analytics.slashdotmedia.com
 analytics.synedat.com
 anon-stats.eff.org
@@ -6019,6 +6021,7 @@ eproof.drudgereport.com
 error-collector.ted.com
 error.fc2.com
 et.nytimes.com
+et.tidal.com
 etui.fs.ml.com
 etx.indiatimes.com
 eu.groupondata.com
@@ -6402,7 +6405,6 @@ services.hmhost.co.uk
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
-sourcepoint.theguardian.com
 twus-mms.theweek.com
 usgamer-us.usgamer.net
 cdn1.pebx.pl
@@ -15768,6 +15770,7 @@ track.express.de
 track.noz.de
 track.rundschau-online.de
 tracking.finanzen.net
+tracking.fupa.net
 tracking.krone.at
 tracking.noen.at
 tracking.oe24.at
