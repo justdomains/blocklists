@@ -2420,7 +2420,6 @@ usesfathom.com
 usuarios-online.com
 uuxnwoevyb.com
 v12group.com
-v1sts.me
 v3cdn.net
 va-endpoint.com
 valuedopinions.co.uk
@@ -2559,6 +2558,7 @@ womtp.com
 woopra-ns.com
 woopra.com
 wootric.com
+workers.dev
 worldflagcounter.com
 worldlogger.com
 wowanalytics.co.uk
@@ -4614,6 +4614,7 @@ kavijaseuranta.fi
 m-brain.fi
 netmonitor.fi
 stat.www.fi
+userneeds.com
 vihtori-analytics.fi
 linkwi.se
 analyti.io
@@ -5548,6 +5549,7 @@ geo.thehindu.com
 geobar.ziffdavisinternational.com
 geoip.cookieyes.com
 geoip.nekudo.com
+geoip.spotpass.io
 geolocation.outreach.com
 geoservice.curse.com
 gi-client-tracking.goodgamestudios.com
@@ -5744,7 +5746,6 @@ pixel.yabidos.com
 pixel.yola.com
 pixels.afcdn.com
 platform.iteratehq.com
-plausibleio.workers.dev
 pmetrics.performancing.com
 porpoise.azettl.net
 pr.blogflux.com
@@ -5922,7 +5923,6 @@ tag.flagship.io
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
-tag.search.sensefuel.live
 tag.sonymusic.com
 tagger.opecloud.com
 tags.catapultx.com
@@ -6702,7 +6702,6 @@ beam-ws.giraffe360.com
 beam.giraffe360.com
 bfp.capitalone.com
 binocule21c.merriam-webster.com
-blue.abc27.com
 boomerang.dell.com
 browser.mi-img.com
 c.wort-suche.com
@@ -6769,6 +6768,7 @@ eu.groupondata.com
 euclid.kuula.co
 event-api.reverb.com
 eventlog.jackpot.de
+events-service.coinbase.com
 events.api.godaddy.com
 events.practo.com
 events.privy.com
