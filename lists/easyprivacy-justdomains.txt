@@ -2558,7 +2558,6 @@ womtp.com
 woopra-ns.com
 woopra.com
 wootric.com
-workers.dev
 worldflagcounter.com
 worldlogger.com
 wowanalytics.co.uk
@@ -5184,6 +5183,7 @@ analyze.full-marke.com
 ao-freegeoip.herokuapp.com
 aorta.clickagy.com
 ape-tagit.timeinc.net
+api.autopilothq.com
 api.carrottrack.io
 api.wipmania.com
 apple.www.letv.com
@@ -5746,6 +5746,7 @@ pixel.yabidos.com
 pixel.yola.com
 pixels.afcdn.com
 platform.iteratehq.com
+plausibleio.workers.dev
 pmetrics.performancing.com
 porpoise.azettl.net
 pr.blogflux.com
@@ -5756,6 +5757,7 @@ prd-collector-platform.ex.co
 prf.vagnt.com
 privacy.outdoorsg.com
 processor.asccommunications.com
+prod.ew.srp.navigacloud.com
 proxy.dzeio.com
 pt.crossmediaservices.com
 pt.ispot.tv
@@ -5794,6 +5796,7 @@ rum.layer0.co
 rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.uptime.com
+s.autopilotapp.com
 s.beop.io
 s.clickability.com
 s.clickiocdn.com
@@ -5920,6 +5923,7 @@ tag.aumago.com
 tag.brandcdn.com
 tag.elevaate.io
 tag.flagship.io
+tag.mtrcs.samba.tv
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
@@ -7105,6 +7109,7 @@ umami.wakarimasen.moe
 urs.metacritic.com
 userfly.com
 usmetric.rediff.com
+views.arabnews.com
 visit.theglobeandmail.com
 visitors.sourcingmap.com
 vortex.hulu.com
