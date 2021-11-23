@@ -4,6 +4,8 @@ affvantage.com
 agkn.com
 altopd.com
 analysis.fi
+apeagle.io
+apenterprise.io
 apxl.io
 ayc0zsm69431gfebd.info
 ayc0zsm69431gfebd.xyz
@@ -15,6 +17,8 @@ bluekai.com
 bmcdn2.com
 bonne-terre-data-layer.com
 bounceexchange.com
+briskeagle.io
+briskpelican.io
 bydst.com
 cloudwp.io
 cpx.to
@@ -32,7 +36,11 @@ enthusiastgaming.net
 everesttech.net
 experianmatch.info
 ezodn.com
+fastemu.co
 faster-trk.com
+fastfinch.co
+fastgull.io
+fasttiger.io
 fn-pz.com
 g1584674682.co
 g2178927685.co
@@ -53,6 +61,7 @@ id5-sync.com
 impactcdn.com
 impactradius-event.com
 innerskinresearch.com
+instantfox.co
 irs01.com
 krxd.net
 ldnlyap.com
@@ -65,6 +74,9 @@ mdhv.io
 mors22.com
 mt48.net
 n0909.com
+niblewren.co
+nimblebird.co
+nimbleswan.io
 ns1p.net
 nxakpj4ac8gkd53.info
 omappapi.com
@@ -77,7 +89,10 @@ progmxs.com
 propeller-tracking.com
 pubtm.com
 quickanalytics.ca
+quickkoala.io
 r42tag.com
+rapidpanda.io
+rapidzebra.io
 rezync.com
 rkdms.com
 rlcdn.com
@@ -89,6 +104,8 @@ seoab.io
 site24x7rum.eu
 sjpf.io
 solutionshindsight.net
+speedyfox.io
+speedyrhino.co
 stat.ovh
 summerhamster.com
 syteapi.com
@@ -99,14 +116,18 @@ trkbc.com
 tru.am
 truffle.bid
 tryzens-analytics.com
+turboeagle.co
+turbolion.io
 tvpixel.com
 ugdturner.com
 videoplayerhub.com
 wknd.ai
 wmgroup.us
+woodpeckerlog.com
 z0uolej1qnxzub1.info
 zdbb.net
 zhctrack.net
+zippyfrog.co
 zoomhead.xyz
 zqtk.net
 0emm.com
@@ -306,6 +327,7 @@ antiblock.info
 antillephone.com
 anura.io
 anymind360.com
+anytrack.io
 apexstats.com
 apextag.com
 apextwo.com
@@ -5249,6 +5271,7 @@ cahf4eed.mooo.com
 camel.headfarming.com
 canvas-ping.conduit-data.com
 canvas-usage-v2.conduit-data.com
+capture-api.ap3prod.com
 capture.condenastdigital.com
 capture.trackjs.com
 carl.pubsvs.com
@@ -6033,6 +6056,7 @@ tracking.feedperfect.com
 tracking.fits.me
 tracking.g2crowd.com
 tracking.godatafeed.com
+tracking.graphly.io
 tracking.hivecloud.net
 tracking.hyros.com
 tracking.interweave.com
