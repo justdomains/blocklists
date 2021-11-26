@@ -1,3 +1,4 @@
+520886.xyz
 adnext.co
 adrtx.net
 affvantage.com
@@ -109,6 +110,8 @@ speedyrhino.co
 stat.ovh
 summerhamster.com
 syteapi.com
+tagcachedataxrt.com
+tagcachestaticx.com
 tatpek.com
 the-ozone-project.com
 thefontzone.com
@@ -5509,6 +5512,7 @@ errors.snackly.co
 event-api.contactatonce.co.uk
 event-api.contactatonce.com.au
 event-api.contactatonce.com
+event-api.rdstation.com.br
 event-listener.air.tv
 event.api.drift.com
 event.getblue.io
@@ -16694,6 +16698,7 @@ sat.sanoma.fi
 stats.fd.nl
 temptation.ad.nl
 topspin.npo.nl
+track.pexi.nl
 webstatistieken.xs4all.nl
 analytics.sanoma.fi
 data.reactandshare.com
