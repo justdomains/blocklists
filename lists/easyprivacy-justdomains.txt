@@ -54,6 +54,7 @@ g8913795075.co
 g9111879410.co
 geoedge.be
 glimr.io
+glookup.info
 go-mpulse.net
 hs-analytics.net
 hsadspixel.net
@@ -1241,6 +1242,7 @@ iocnt.net
 iotechnologies.com
 iovation.com
 ip-label.net
+ip-tracker.org
 ip2c.org
 ip2location.com
 ip2map.com
@@ -6758,6 +6760,7 @@ ats.alot.com
 bat.maydream.com
 bats.video.yahoo.com
 bdt.123rf.com
+beacon.samsclub.com
 beacon.shazam.com
 beacon.shutterfly.com
 beacon.walmart.com
@@ -6887,6 +6890,7 @@ intuitvisitorid.api.intuit.com
 ip.cliphunter.com
 ip.pichunter.com
 isharemetric.rediff.com
+j927.statnews.com
 jumbo.zomato.com
 link.kogan.com
 log-api.newrelic.com
