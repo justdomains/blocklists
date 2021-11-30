@@ -52,6 +52,7 @@ g792337340.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+gbqofs.com
 geoedge.be
 glimr.io
 glookup.info
@@ -125,6 +126,7 @@ turboeagle.co
 turbolion.io
 tvpixel.com
 ugdturner.com
+v1sts.me
 videoplayerhub.com
 wknd.ai
 wmgroup.us
@@ -5720,6 +5722,7 @@ metering.pagesuite.com
 metrics-api.librato.com
 metrics-logger.spot.im
 metrics.api.drift.com
+metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
 metrics.getvitals.io
@@ -6397,6 +6400,7 @@ c.holmesmind.com
 cdn.hiido.cn
 click.bokecc.com
 cms.grandcloud.cn
+collector2c.zhihuishu.com
 counter.pixplug.in
 csbew.com
 d17m68fovwmgxj.cloudfront.net
@@ -16700,6 +16704,7 @@ statistic.qzone.qq.com
 statistic.takungpao.com
 stats.autohome.com.cn
 stats.yinyuetai.com
+sugar.zhihu.com
 tf.360.cn
 tongji.mafengwo.cn
 tongji.xinmin.cn
