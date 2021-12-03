@@ -6838,6 +6838,7 @@ etui.fs.ml.com
 etx.indiatimes.com
 eu.groupondata.com
 euclid.kuula.co
+eurogamer-uk.eurogamer.net
 event-api.reverb.com
 eventlog.jackpot.de
 events-service.coinbase.com
@@ -16646,6 +16647,7 @@ gia.jd.com
 gk.sina.cn
 hhytrace.sogoucdn.com
 imgstat.baidu.com
+improving.wuzhuiso.com
 lg.tr.pandora.tv
 log.51cto.com
 log.aliyuncs.com
