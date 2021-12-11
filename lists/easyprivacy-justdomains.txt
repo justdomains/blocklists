@@ -5989,6 +5989,7 @@ t.castle.io
 t.cfjump.com
 t.clic2buy.com
 t.dgm-au.com
+t.irtyc.com
 t.jobsyn.org
 t.menepe.com
 t.pointandplace.com
@@ -6433,6 +6434,7 @@ dup.baidustatic.com
 epro.sogou.com
 fourier.taobao.com
 g.yccdn.com
+ga.giuem.com
 haostat.qihoo.com
 hyrankhit.meldingcloud.com
 ia.51.la
@@ -6481,6 +6483,7 @@ log.idnes.cz
 pixel.cpex.cz
 ssp.seznam.cz
 stat.cncenter.cz
+stat.kununu.cz
 stat.ringier.cz
 t.leady.com
 t.leady.cz
@@ -16676,6 +16679,7 @@ dolphin.deliver.ifeng.com
 eclick.baidu.com
 err.ifengcloud.ifeng.com
 event.csdn.net
+fclog.baidu.com
 flog.pressplay.cc
 gia.jd.com
 gk.sina.cn
