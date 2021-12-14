@@ -1423,7 +1423,6 @@ losstrack.com
 lp4.io
 lpbeta.com
 lporirxe.com
-lr-ingest.io
 lsfinteractive.com
 lucidel.com
 luckyorange.com
@@ -16683,6 +16682,7 @@ fclog.baidu.com
 flog.pressplay.cc
 gia.jd.com
 gk.sina.cn
+h5log.zongheng.com
 hhytrace.sogoucdn.com
 imgstat.baidu.com
 improving.wuzhuiso.com
@@ -16694,6 +16694,7 @@ log.flight.qunar.com
 log.kuwo.cn
 log.m.sm.cn
 log.sina.cn
+log.zongheng.com
 log1.17173.com
 log2.sina.cn
 loginlog.sdo.com
