@@ -688,3 +688,11 @@ srcip.com
 srcips.com
 gxbrowser.net
 contribute.to-support.me
+turtlecoin.herominers.com
+de.turtlecoin.herominers.com
+tr.turtlecoin.herominers.com
+fi.turtlecoin.herominers.com
+ca.turtlecoin.herominers.com
+us.turtlecoin.herominers.com
+hk.turtlecoin.herominers.com
+sg.turtlecoin.herominers.com
