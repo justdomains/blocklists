@@ -2077,7 +2077,9 @@ signup-way.com
 silverpop.com
 silverpush.co
 simonsignal.com
+simpleanalytics.com
 simpleanalytics.io
+simpleanalyticsbadge.com
 simpleanalyticscdn.com
 simpleheatmaps.com
 simplehitcounter.com
@@ -5411,6 +5413,7 @@ csi.gstatic.com
 csp-collector.appspot.com
 csp.archant.co.uk
 csr.onet.pl
+ct.corpusapp.com
 ct.eid.co.nz
 ct.itbusinessedge.com
 ct.needlive.com
@@ -5639,6 +5642,7 @@ gsp1.baidu.com
 gtrk.s3.amazonaws.com
 gu-pix.appspot.com
 happen.spkt.io
+hb.vhsrv.com
 hello.staticstuff.net
 hi.hellobar.com
 hit.mybestpro.com
@@ -5915,6 +5919,7 @@ stat.moevideo.net
 stat.segitek.hu
 stat.web-regie.com
 statdb.pressflex.com
+static-tracking.klaviyo.com
 static.parsely.com
 statistics.tattermedia.com
 statistics.wibiya.com
@@ -6927,6 +6932,7 @@ ip.pichunter.com
 isharemetric.rediff.com
 j927.statnews.com
 jumbo.zomato.com
+l9bjkkhaycw6f8f4.soundcloud.com
 link.kogan.com
 log-api.newrelic.com
 log.china.cn
@@ -6962,6 +6968,7 @@ net.haier.com
 netu.wiztube.xyz
 nm.newegg.com
 noodle.backmarket.io
+nwuoxwthvak3.stoic.ai
 ophan.theguardian.com
 optimize-stats.voxmedia.com
 perf.mouser.com
@@ -6995,6 +7002,7 @@ privacy-api.9gag.com
 privacyfriendly.netlify.app
 pulsar.ebay.com
 pulse.delta.com
+pwt.soundcloud.com
 python.jacksellwood.com
 r.bbci.co.uk
 r.my.com
@@ -16904,6 +16912,7 @@ log.ren.tv
 pixels.boxberry.ru
 pulsarback.mail.ru
 radar.imgsmail.ru
+stat.5-tv.ru
 stat.api.2gis.ru
 stat.bankiros.ru
 stat.pravmir.ru
