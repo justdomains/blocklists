@@ -1,6 +1,4 @@
 cnhv.co
-coin-hive.com
-coinhive.com
 authedmine.com
 api.jsecoin.com
 load.jsecoin.com
@@ -272,14 +270,6 @@ bmcm.pw
 bmcm.ml
 videoplayer2.xyz
 play.video2.stream.vidzi.tv
-001.0x1f4b0.com
-002.0x1f4b0.com
-003.0x1f4b0.com
-004.0x1f4b0.com
-005.0x1f4b0.com
-006.0x1f4b0.com
-007.0x1f4b0.com
-008.0x1f4b0.com
 authedwebmine.cz
 www.authedwebmine.cz
 skencituer.com
@@ -688,11 +678,3 @@ srcip.com
 srcips.com
 gxbrowser.net
 contribute.to-support.me
-turtlecoin.herominers.com
-de.turtlecoin.herominers.com
-tr.turtlecoin.herominers.com
-fi.turtlecoin.herominers.com
-ca.turtlecoin.herominers.com
-us.turtlecoin.herominers.com
-hk.turtlecoin.herominers.com
-sg.turtlecoin.herominers.com
