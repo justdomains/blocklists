@@ -824,6 +824,7 @@ datam.com
 datamilk.app
 datamind.ru
 dataperforma.com
+dataroid.com
 datasteam.io
 dataunlocker.com
 dataxpand.com
@@ -1395,6 +1396,7 @@ janrain.xyz
 jirafe.com
 jixie.io
 journity.com
+js-delivr.com
 jstracker.com
 jump-time.net
 jumplead.com
@@ -6407,6 +6409,7 @@ d11a2fzhgzqe7i.cloudfront.net
 d15kdaxu5c0hfw.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
+d1733r3id7jrw5.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d196fri2z18sm.cloudfront.net
@@ -6510,6 +6513,7 @@ dl1d2m8ri9v3j.cloudfront.net
 dn0qt3r0xannq.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dnn506yrbagrg.cloudfront.net
+dnxlgencstz4.cloudfront.net
 dp64mxip2za0c.cloudfront.net
 drlimmode9ddd.cloudfront.net
 dsbahmgppc0j4.cloudfront.net
@@ -7275,6 +7279,7 @@ isc-tracking.eventim.com
 isharemetric.rediff.com
 ivx.lacompagnie.com
 j927.statnews.com
+jfapiprod.optimonk.com
 jumbo.zomato.com
 link.kogan.com
 log-api.newrelic.com
@@ -7346,6 +7351,7 @@ pixiedust.buzzfeed.com
 plausible.mangadex.org
 plausible.omgapi.org
 player-telemetry.vimeo.com
+pm.dailykos.com
 prairiedog.hashnode.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
