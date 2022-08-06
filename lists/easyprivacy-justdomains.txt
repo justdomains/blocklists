@@ -21,7 +21,6 @@ apenterprise.io
 apxl.io
 ayc0zsm69431gfebd.info
 ayc0zsm69431gfebd.xyz
-azury.gg
 bfmio.com
 bidswitch.net
 bkrtx.com
@@ -75,6 +74,7 @@ fpavx.net
 fpaxu.net
 fpcdn.io
 fpxau.net
+fzlnk.com
 g11686975765.co
 g1188506010.co
 g11885060100.co
@@ -85,10 +85,7 @@ g1584674682.co
 g1782759015.co
 g1782759016.co
 g1980843350.co
-g2178927685.co
-g2377012020.co
 g2575096355.co
-g2773180690.co
 g792337340.co
 g792337342.co
 g792337343.co
@@ -148,6 +145,7 @@ p2r14.com
 pdflive.org
 permutive.app
 pix.pub
+pixel-tracker.com
 pixrealm.com
 pjstat.com
 procroanalytics.com
@@ -224,7 +222,6 @@ zqtk.net
 123count.com
 123stat.com
 15gifts.com
-168logger.com
 1freecounter.com
 1pel.com
 200summit.com
@@ -301,7 +298,6 @@ adalyser.com
 adara.com
 adblade.com
 adblockrelief.com
-adchemix.com
 adchemy-content.com
 adchemy.com
 addfreestats.com
@@ -399,7 +395,6 @@ amikay.com
 amnet.tw
 ampush.io
 amung.us
-amxdt.com
 analitits.com
 analitycs.net
 analoganalytics.com
@@ -457,7 +452,6 @@ atatus.com
 athenainstitute.biz
 atp.io
 atsptp.com
-atticwicket.com
 attracta.com
 attributionapp.com
 audience.systems
@@ -508,7 +502,6 @@ beampulse.com
 beanstalkdata.com
 beanstock.com
 bebj.com
-beeftransmission.com
 beemray.com
 beemrdwn.com
 beencounter.com
@@ -656,9 +649,7 @@ chartbeat.net
 checkstat.nl
 christiantop1000.com
 christmalicious.com
-chrumedia.com
 cintnetworks.com
-circular-counters.com
 cityadstrack.com
 clarity.ms
 claritytag.com
@@ -695,7 +686,6 @@ clicksgate.com
 clickshift.com
 clickstream.co.za
 clicktracks.com
-clicktrkservices.com
 clickx.io
 clickzs.com
 clickzzs.nl
@@ -782,7 +772,6 @@ cpmstar.com
 cquotient.com
 craftkeys.com
 craktraffic.com
-crashfootwork.com
 crazyclickstats.com
 crazyegg.com
 criteo.com
@@ -808,7 +797,6 @@ cybermonitor.com
 cytoclause.com
 d-1.co
 dacounter.com
-dailycaller-alerts.com
 dapxl.com
 dashboard.io
 data-dynamic.net
@@ -1018,7 +1006,6 @@ fastly-insights.com
 fastonlineusers.com
 fastwebcounter.com
 fathomseo.com
-fbgpnk.com
 fcs.ovh
 fdxstats.xyz
 feathr.co
@@ -1157,7 +1144,6 @@ glassboxdigital.io
 glbtracker.com
 glia.com
 globalsiteanalytics.com
-globalviptraffic.com
 globalwebindex.net
 globase.com
 globel.co.uk
@@ -1198,7 +1184,6 @@ guanoo.net
 gvisit.com
 gweini.com
 gwmtracking.com
-gxgydnhz.com
 h4k5.com
 halldata.com
 haloscan.com
@@ -1513,7 +1498,6 @@ loopfuse.net
 lopley.com
 losstrack.com
 lp4.io
-lpbeta.com
 lporirxe.com
 lsfinteractive.com
 lucidel.com
@@ -1577,7 +1561,6 @@ mediarithmics.com
 mediaseeding.com
 mediego.com
 mega-stats.com
-megastats.net
 memecounter.com
 memo.co
 mercadoclics.com
@@ -1641,7 +1624,6 @@ msgfocus.com
 msgtag.com
 msparktrk.com
 mstat.ga
-mstracker.net
 mstrlytcs.com
 mtracking.com
 murdoog.com
@@ -2187,7 +2169,6 @@ simplymeasured.com
 singlefeed.com
 sirdata.io
 site24x7rum.com
-siteanaliz.org
 sitebro.com
 sitebro.net
 sitebro.tw
@@ -2266,7 +2247,6 @@ splittag.com
 splyt.com
 spn.ee
 sponsored.com
-spotmx.com
 spring.de
 springmetrics.com
 sptag.com
@@ -2398,7 +2378,6 @@ thermstats.com
 thesearchagency.net
 thespecialsearch.com
 thinktot.com
-thisisacoolthing.com
 thoughtmetric.io
 threat-analytics.com
 thrtle.com
@@ -2449,7 +2428,6 @@ trackeame.com
 trackedlink.net
 trackedweb.net
 trackertest.org
-tracking100.com
 tracking202.com
 trackingca.com
 trackinglabs.com
@@ -2543,7 +2521,6 @@ uptain.de
 uptracs.com
 uptrendsdata.com
 uralweb.ru
-uriuridfg.com
 urlbrief.com
 urlself.com
 usabilitytools.com
@@ -2562,7 +2539,6 @@ users-api.com
 userzoom.com
 usesfathom.com
 usuarios-online.com
-uuxnwoevyb.com
 v12group.com
 v3cdn.net
 va-endpoint.com
@@ -2604,7 +2580,6 @@ visitor-analytics.io
 visitor-analytics.net
 visitor-track.com
 visitorglobe.com
-visitorinspector.com
 visitorjs.com
 visitorpath.com
 visitorprofiler.com
@@ -2776,27 +2751,6 @@ ztsrv.com
 zuyapixel.com
 zuzab.com
 zx-adnet.com
-artfin.club
-bemarts.club
-bogglecool.club
-bosetoo.club
-chanelventure.club
-cyrstalventure.club
-docileyellow.club
-elevagant.club
-halospring.club
-hollydeal.club
-iconstab.club
-kungfupan.club
-leono.club
-localbeige.club
-lomeldeer.club
-makedosupport.club
-mandatebright.club
-morozhko.club
-muatui.com
-polobook.club
-vicspendig.club
 pphwrevr.com
 protectcrev.com
 protectsubrev.com
@@ -2881,7 +2835,6 @@ urbanairship.com
 viapush.com
 webpu.sh
 whiteclick.biz
-wnpbdan.bid
 wonderpush.com
 wpshsdk.com
 wwclickserv.club
@@ -2903,7 +2856,6 @@ ravelin.net
 sabavision.com
 simility.com
 spideraf.com
-0x1f4b0.com
 a-calc.com
 a-calc.de
 abc.pema.cl
@@ -2923,7 +2875,6 @@ baiduccdn1.com
 becanium.com
 berateveng.ru
 besstahete.info
-besti.ga
 bewaslac.com
 biberukalap.com
 binarybusiness.de
@@ -2968,7 +2919,6 @@ cryptobara.com
 cryptoloot.pro
 cryptomine.pro
 cryptonoter.com
-datasecu.download
 de-mi-nis-ner.info
 de-ner-mi-nis4.info
 de-nis-ner-mi-5.info
@@ -2981,7 +2931,6 @@ dnsseed.emzy.de
 dontbeevils.de
 easyhash.de
 easyhash.io
-etacontent.com
 eth-pocket.com
 eth-pocket.de
 eth-pocket.eu
@@ -3059,7 +3008,6 @@ nametraff.com
 nathetsof.com
 ner-de-mi-nis-6.info
 nerohut.com
-nexioniect.com
 nfwebminer.com
 niematego.tk
 nimiq.com
@@ -3073,13 +3021,11 @@ omine.org
 openguid.org
 p2poolmining.com
 pampopholf.com
-panelsave.com
 papoto.com
 party-vqgdyvoycc.now.sh
 pertholin.com
 play.mix.kinostuff.com
 pool.nimiq.watch
-pool.nimiqchain.info
 pr0gram.org
 rand.com.ru
 reauthenticator.com
@@ -3292,7 +3238,6 @@ broadcastbed.com
 broaddoor.com
 brothersbucket.com
 bruisebaseball.com
-brushdaughter.com
 btez8.xyz
 bucketbean.com
 bulbbait.com
@@ -3661,7 +3606,6 @@ honorablehall.com
 honorablehydrant.com
 honorableland.com
 hoplaugh.com
-horsenectar.com
 hosenews.com
 humdrumhat.com
 hurtgrape.com
@@ -4021,7 +3965,6 @@ scintillatingscissors.com
 scintillatingsilver.com
 scintillatingspace.com
 scratchsofa.com
-scrawnystart.com
 screechingfurniture.com
 screechingslip.com
 screechingstove.com
@@ -4453,7 +4396,6 @@ directcounter.de
 divolution.com
 dl8.me
 dreamcounter.de
-durocount.com
 eanalyzer.de
 easytracking.de
 econda-monitor.de
@@ -4478,7 +4420,6 @@ generaltracking.de
 gezaehlt.de
 gft2.de
 giga-abs.de
-google-rank.org
 gostats.de
 gratis-besucherzaehler.de
 gratis-counter-gratis.de
@@ -4612,7 +4553,6 @@ trkme.net
 txt.eu
 undom.net
 uniconsent.com
-universaltrackingcontainer.com
 up-rank.com
 urstats.de
 usage.seibert-media.io
@@ -4719,7 +4659,6 @@ webcompteur.com
 winitout.com
 wysistat.com
 x-traceur.com
-ywywjrlbsuv.com
 circle.am
 mobtop.az
 call-tracking.by
@@ -4941,7 +4880,6 @@ amoad.com
 analyticsip.net
 ar-x.site
 aspservice.jp
-beanscattering.jp
 bigmining.com
 blogranking.net
 canem-auris.com
@@ -5049,7 +4987,6 @@ xtractor.no
 amarfa.ir
 persianstat.com
 persianstat.ir
-rvkcpqz.com
 tinystat.ir
 yektanet.com
 adschoom.com
@@ -5118,7 +5055,6 @@ zontera.com
 2ip.ua
 a-counter.com.ua
 a-counter.kiev.ua
-a4st.club
 adblockmetrics.ru
 admile.ru
 adx.com.ru
@@ -5317,7 +5253,6 @@ ad-shield.io
 ad.aloodo.com
 adlog.com.com
 ads-trk.vidible.tv
-affiliates.mgmmirage.com
 affiliates.minglematch.com
 air.audioeye.com
 akatracking.esearchvision.com
@@ -5334,21 +5269,18 @@ analyticcdn.globalmailer.com
 analytics-1.cavai.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
-analytics-rhwg.rhcloud.com
 analytics-scripts.cablelabs.com
 analytics-sg.tiktok.com
 analytics.30m.com
 analytics.agoda.com
 analytics.aimtell.com
 analytics.amakings.com
-analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.atomiconline.com
 analytics.audioeye.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.bestreviews.com
-analytics.bigcommerce.com
 analytics.bitrix.info
 analytics.brandcrumb.com
 analytics.carambo.la
@@ -5402,14 +5334,11 @@ analytics.orenshmu.com
 analytics.ostr.io
 analytics.paddle.com
 analytics.pagefly.io
-analytics.performable.com
-analytics.photorank.me
 analytics.piksel.com
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
 analytics.pop2watch.com
 analytics.prezly.com
-analytics.prod.aws.ecnext.net
 analytics.qualityunit.com
 analytics.radiatemedia.com
 analytics.recruitics.com
@@ -5420,7 +5349,6 @@ analytics.shareaholic.com
 analytics.sitewit.com
 analytics.sleeknote.com
 analytics.snidigital.com
-analytics.sonymusic.com
 analytics.springboardvideo.com
 analytics.staticiv.com
 analytics.stg.springboardvideo.com
@@ -5431,7 +5359,6 @@ analytics.test.cheggnet.com
 analytics.themarketiq.com
 analytics.threedeepmarketing.com
 analytics.tiktok.com
-analytics.tooso.ai
 analytics.tout.com
 analytics.tribeca.vidavee.com
 analytics.unibuddy.co
@@ -5463,23 +5390,18 @@ apple.www.letv.com
 argos.citruserve.com
 ariane.abtasty.com
 attributiontrackingga.googlecode.com
-audience.atex.com
 audience.newscgp.com
-audienceapi.newsdiscover.com.au
 audienceinsights.net
 audit.303br.net
 audit.median.hu
 aurora-d3.herokuapp.com
 awaps.yandex.net
 awesome.section.io
-awseukpi.whisbi.com
 axislogger.appspot.com
 az693360.vo.msecnd.net
-b-aws.aol.com
 b.bedop.com
 b7tp47v2nb3x-a.akamaihd.net
 bab.frb.io
-backstage.funnelenvy.com
 bacon.getcarro.com
 bacon.section.io
 barium.cheezdev.com
@@ -5490,16 +5412,13 @@ beacon.aimtell.com
 beacon.cdnma.com
 beacon.errorception.com
 beacon.flow.io
-beacon.nrholding.net
 beacon.riskified.com
-beacon.rum.dynapis.com
 beacon.s.llnwi.net
 beacon.searchspring.io
 beacon.securestudies.com
 beacon.sojern.com
 beacon.squixa.net
 beacon.statful.com
-beacon.thred.woven.com
 beacon.tingyun.com
 beacon.vertebrae-axis.com
 beacon.viewlift.com
@@ -5526,8 +5445,6 @@ c3metrics.medifast1.com
 cache2.delvenetworks.com
 cahf4eed.mooo.com
 camel.headfarming.com
-canvas-ping.conduit-data.com
-canvas-usage-v2.conduit-data.com
 capture-api.ap3prod.com
 capture.condenastdigital.com
 capture.trackjs.com
@@ -5549,10 +5466,8 @@ chicoryapp.com
 cimage.adobe.com
 ck.connatix.com
 click.appinthestore.com
-click.rssfwd.com
 click360v2-ingest.azurewebsites.net
 clicks.dealer.com
-clickstream.odysee.com
 clicktale.pantherssl.com
 clickthru.lefbc.com
 clicktracker.iscan.nl
@@ -5593,7 +5508,6 @@ count.me.uk
 count.paycounter.com
 counter.bloke.com
 counter.cam-content.com
-counter.digits.com
 counter.hyipexplorer.com
 counter.jdi5.com
 counter.maases.com
@@ -5607,8 +5521,6 @@ counter.tldw.me
 counter.top.ge
 counter.yadro.ru
 counters.freewebs.com
-countly.stackvaults.com
-country.yepshare.com
 creator.zmags.com
 crta.dailymail.co.uk
 csi.gstatic.com
@@ -5638,11 +5550,9 @@ data.imakenews.com
 data.minute.ly
 data.nexxt.com
 data.queryly.com
-data.studybreakmedia.com
 data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
-deepknow.egoid.me
 demandmedia.s3.amazonaws.com
 deprecated-custom-domains.b-cdn.net
 detect.ergebnis-dienst.de
@@ -5651,7 +5561,6 @@ dgcollector.evidon.com
 diagnose.igstatic.com
 dig.ultimedia.com
 direct-events-collector.spot.im
-dirt.dennis.co.uk
 distillery.wistia.com
 djibeacon.djns.com
 doppler-reporting.cbsivideo.com
@@ -5667,7 +5576,6 @@ eel.transistor.fm
 ele26126.jscrambler.com
 errors.snackly.co
 event-api.contactatonce.co.uk
-event-api.contactatonce.com.au
 event-api.contactatonce.com
 event-api.rdstation.com.br
 event-listener.air.tv
@@ -5768,7 +5676,6 @@ i.viafoura.co
 iabusprivacy.pmc.com
 icu.getstorybox.com
 iddu1vvb7sk8-a.akamaihd.net
-imp.affiliator.com
 imp.clickability.com
 imp.constantcontact.com
 imp.pvnsolutions.com
@@ -5796,7 +5703,6 @@ jly24aw29n5m-a.akamaihd.net
 k.keyade.com
 k.streamrail.com
 kalstats.kaltura.com
-keyword.daumdn.com
 kiwi.mdldb.net
 klm-ea.jscrambler.com
 l.fairblocker.com
@@ -5823,13 +5729,11 @@ log.artipbox.net
 log.go.com
 log.invodo.com
 log.kibboko.com
-log.kukuplay.com
 log.mediacategory.com
 log.olark.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
-log.plinga.de
 log.reformal.ru
 log.seekda.com
 logger.snackly.co
@@ -5845,9 +5749,7 @@ logs.thebloggernetwork.com
 logs.viadata.store
 logs.vmixcore.com
 lore.circulate.com
-loxodo-analytics.ext.nile.works
 lps.qantas.com
-lt.tritondigital.com
 lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
 m.addthisedge.com
@@ -5858,7 +5760,6 @@ mc.webvisor.com
 mc.webvisor.org
 mc.yandex.com
 mcs-va.tiktok.com
-mcs.delvenetworks.com
 measure.refinery89.com
 mediametrics.mpsa.com
 metering.pagesuite.com
@@ -5868,7 +5769,6 @@ metrics.api.drift.com
 metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
-metrics.getvitals.io
 metrics.kmsmep.com
 metrics.pico.tools
 metrics.readme.io
@@ -5885,7 +5785,6 @@ mts.mansion.com
 munchkin.marketo.net
 mv.treehousei.com
 myscoop-tracking.googlecode.com
-n.mailfire.io
 neocounter.neoworx-blog-tools.net
 newsanalytics.com.au
 noflake-aggregator-http.narvar.com
@@ -5903,9 +5802,7 @@ open.delivery.net
 openxcdn.net
 optimizely.appspot.com
 orts.wixawin.com
-p.adbrn.com
 p.delivery.net
-p.eyebuydirect-cmr.net
 p.placed.com
 p.yotpo.com
 page-events-ustats.udemy.com
@@ -5914,10 +5811,8 @@ pagesense-collect.zoho.com
 pagesocket.glam.com
 pap.qualityunit.com
 partner.cynapse.com
-pdc.dmleonyc.com
 pegasus.unifygroup.com
 perf-events.cloud.unity3d.com
-perf.dugout.com
 perf.hsforms.com
 perr.h-cdn.com
 perso.aws.arc.pub
@@ -5926,9 +5821,7 @@ pi.ispot.tv
 ping-admin.ru
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
-ping.hellobar.com
 ping.instantsearchplus.com
-ping.smyte.com
 pings.conviva.com
 pings.vidpulse.com
 pipe-collect.ebu.io
@@ -5952,7 +5845,6 @@ pixel.s3xified.com
 pixel.safe-installation.com
 pixel.solvemedia.com
 pixel.sprinklr.com
-pixel.tree.com
 pixel.videohub.tv
 pixel.widgetly.com
 pixel.wp.com
@@ -5961,7 +5853,6 @@ pixel.yola.com
 pixels.afcdn.com
 platform.iteratehq.com
 plausibleio.workers.dev
-pmetrics.performancing.com
 porpoise.azettl.net
 pr.blogflux.com
 prd-collector-anon.ex.co
@@ -5984,7 +5875,6 @@ px.marchex.io
 px.mountain.com
 px.owneriq.net
 px.spiceworks.com
-pxt.daz3d.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
 r.skimresources.com
@@ -5996,7 +5886,6 @@ refer.wordpress.com
 referrer.disqus.com
 removeads.workers.dev
 reporting.cdndex.io
-reporting.handll.net
 reporting.singlefeed.com
 reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
@@ -6005,7 +5894,6 @@ res.rbl.ms
 response.pure360.com
 rest.wildstar-online.com
 retargeting.newsmanapp.com
-rlinks.one.in
 rs.sinajs.cn
 rt.flix360.com
 rtxpx-a.akamaihd.net
@@ -6021,7 +5909,6 @@ s.beop.io
 s.clickability.com
 s.clickiocdn.com
 s.logsss.com
-s.sniphub.com
 s.srvsynd.com
 sa.scorpion.co
 scripts.psyma.com
@@ -6050,7 +5937,6 @@ st.cdnco.us
 st.linkfire.com
 starman.fathomdns.com
 stas.outbrain.com
-stat.belonnanotservice.ga
 stat.boredomtherapy.com
 stat.glaze.ai
 stat.mixi.media
@@ -6080,7 +5966,6 @@ stats.fomo.com
 stats.geegain.com
 stats.gifs.com
 stats.heyoya.com
-stats.highwire.com
 stats.inergizedigitalmedia.com
 stats.itweb.co.za
 stats.kaltura.com
@@ -6122,12 +6007,10 @@ surveywall-api.survata.com
 sync.adap.tv
 sync.outbrain.com
 systemmonitoring.badgeville.com
-t-staging.powerreviews.com
 t.91syun.com
 t.a3cloud.net
 t.auditedmedia.org.au
 t.beop.io
-t.beopinion.com
 t.bimvid.com
 t.brand-server.com
 t.c4tw.net
@@ -6143,7 +6026,6 @@ t.pointandplace.com
 t.powerreviews.com
 t.pswec.com
 t.raptorsmartadvisor.com
-t.sgc.io
 t.sharethis.com
 t.signalayer.com
 t.skimresources.com
@@ -6161,7 +6043,6 @@ tag.mtrcs.samba.tv
 tag.myplay.com
 tag.rightmessage.com
 tag.rmp.rakuten.com
-tag.sonymusic.com
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
@@ -6192,7 +6073,6 @@ tpx.tesseradigital.com
 tr-op.datatrics.com
 tr.cloud-media.fr
 tr.datatrics.com
-tr.interlake.net
 tr.marsflag.com
 tr.outbrain.com
 tr.snapchat.com
@@ -6201,7 +6081,6 @@ tr1.mailperformance.com
 traccoon.intellectsoft.net
 track.91app.io
 track.99acres.com
-track.addevent.com
 track.atgstores.com
 track.bannedcelebs.com
 track.coherentpath.com
@@ -6233,11 +6112,9 @@ track.tcppu.com
 track.td3x.com
 track.uc.cn
 track.untd.com
-track.vdo.ai
 track.venatusmedia.com
 track.vscash.com
 track.wayin.com
-track.written.com
 track.yfret.com
 track.yieldsoftware.com
 tracker.affiliate.iqoption.com
@@ -6279,7 +6156,6 @@ tracking.dsmmadvantage.com
 tracking.edvisors.com
 tracking.fanbridge.com
 tracking.feedperfect.com
-tracking.fits.me
 tracking.g2crowd.com
 tracking.godatafeed.com
 tracking.graphly.io
@@ -6296,8 +6172,6 @@ tracking.listhub.net
 tracking.livingsocial.com
 tracking.magnetmail.net
 tracking.markethero.io
-tracking.maxcdn.com
-tracking.menamarketplace.com
 tracking.monsido.com
 tracking.musixmatch.com
 tracking.olx-st.com
@@ -6342,7 +6216,6 @@ try.abtasty.com
 ts.tradetracker.net
 ucounter.ucoz.net
 units.knotch.it
-upt.graphiq.com
 userexperience.thehut.net
 usersegment.wpdigital.net
 utle.tech426.com
@@ -6350,7 +6223,6 @@ v.shopify.com
 vdrn.redplum.com
 video-ad-stats.googlesyndication.com
 videoevents.outbrain.com
-visit.geocities.com
 visit.webhosting.yahoo.com
 vmstats.varrando.com
 vortex.data.microsoft.com
@@ -6359,11 +6231,9 @@ w4o7aea80ss3-a.akamaihd.net
 wco.crownpeak.com
 web1.51.la
 webcare.byside.com
-weblog.livesport.eu
 weblogger-dynamic-lb.playdom.com
 websdk.appsflyer.com
 webservices.websitepros.com
-webstats.motigo.com
 webstats.thaindian.com
 webtracker.apicasystem.com
 widget-pixels.outbrain.com
@@ -6377,14 +6247,12 @@ wtbevents.pricespider.com
 x.babe.today
 x.disq.us
 x.weather.com
-xt.persosa.com
 adsdk.yandex.ru
 analytics-api.samsunghealthcn.com
 analytics.mobile.yandex.net
 analytics.samsungknox.com
 app.chat.xiaomi.net
 appmetrica.yandex.com
-bigdata.ssp.samsung.com
 click.oneplus.cn
 data.hicloud.com
 extmaps-api.yandex.net
@@ -6398,7 +6266,6 @@ mistat.xiaomi.com
 open.oneplus.net
 sa.api.intl.miui.com
 stat.xiaomi.com
-stats.redditmedia.com
 supportmetrics.apple.com
 tracking.miui.com
 trk.pinterest.com
@@ -6446,8 +6313,6 @@ d24cze5sab2jwg.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
 d25ezbwokoefx6.cloudfront.net
 d28g9g3vb08y70.cloudfront.net
-d2as12kgjg8gw5.cloudfront.net
-d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -6457,7 +6322,6 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
-d2r7bmv6l6bnd1.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -6472,7 +6336,6 @@ d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d36u3psykfwy91.cloudfront.net
-d36upaw912d02q.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
 d3bj8nkfly20uo.cloudfront.net
 d3bo67muzbfgtl.cloudfront.net
@@ -6487,7 +6350,6 @@ d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
-d3qfdthu9f51gu.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3qztsm17pgxue.cloudfront.net
 d3r7h55ola878c.cloudfront.net
@@ -6506,7 +6368,6 @@ dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dd6zx4ibq538k.cloudfront.net
 ddrvjrfwnij7n.cloudfront.net
-de5v6rb80m4j1.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
@@ -6517,7 +6378,6 @@ dnxlgencstz4.cloudfront.net
 dp64mxip2za0c.cloudfront.net
 drlimmode9ddd.cloudfront.net
 dsbahmgppc0j4.cloudfront.net
-dt1pxsve3tgas.cloudfront.net
 du4rq1xqh3i1k.cloudfront.net
 du8783wkf05yr.cloudfront.net
 duu8lzqdm8tsz.cloudfront.net
@@ -6603,13 +6463,11 @@ ctr-iwb.nmg.de
 ctr-opc.nmg.de
 ctr.nmg.de
 d.adlpo.com
-d.adrolays.de
 d.finative.eu
 d.nativendo.de
 d.omsnative.de
 data.econa.com
 et.twyn.com
-events.kaloo.ga
 events.onet.pl
 fc.webmasterpro.de
 geo.mtvnn.com
@@ -6654,7 +6512,6 @@ tracking.base.de
 tracking.emsmobile.de
 tracking.gameforge.de
 tracking.hannoversche.de
-tracking.hi-pi.com
 tracking.ladies.de
 tracking.mindshare.de
 tracking.netzathleten-media.de
@@ -6675,16 +6532,12 @@ zs.dhl.de
 abs.proxistore.com
 affiliation.planethoster.info
 analytics.freespee.com
-analytics.ladmedia.fr
 analytics.valiuz.com
-bbtrack.net
 btstats.devtribu.fr
 calotag.com
-cdn-analytics.ladmedia.fr
 collect-v6.51.la
 compteur.websiteout.net
 core.unit-sense.net
-e.funnymel.com
 e.viously.com
 email-reflex.com
 events.newsroom.bi
@@ -6694,7 +6547,6 @@ offer.slgnt.eu
 osd.oxygem.it
 piximedia.com
 rs.smc.tf
-securite.01net.com
 stat.prsmedia.fr
 stats-dc1.frz.io
 stats-factory.digitregroup.io
@@ -6735,7 +6587,6 @@ dup.baidustatic.com
 epro.sogou.com
 fourier.taobao.com
 g.yccdn.com
-ga.giuem.com
 haostat.qihoo.com
 hyrankhit.meldingcloud.com
 ia.51.la
@@ -6744,7 +6595,6 @@ imp.go.sohu.com
 imp.optaim.com
 log.hiiir.com
 log.tagtic.cn
-m.lolvsdota.cn
 msg.71.am
 p.aty.sohu.com
 p.tencentmind.com
@@ -6768,7 +6618,6 @@ track.ra.icast.cn
 track.tomwx.net
 tracking.cat898.com
 useg.nextdigital.com.hk
-v.emedia.cn
 videostats.kakao.com
 web-trace.ksapisrv.com
 tracking.vid4u.org
@@ -6794,7 +6643,6 @@ counter.nope.dk
 log.ecgh.dk
 statistics.jfmedier.dk
 trckr.nordiskemedier.dk
-ubt.berlingskemedia.net
 analytics.belgacom.be
 apm.tnet.nl
 cookies.reedbusiness.nl
@@ -6804,7 +6652,6 @@ rmgdapfnccsharpprd.azurewebsites.net
 sp.dpgmedia.net
 stat.24liveplus.com
 statistics.rbi-nl.com
-counter.zone.ee
 dnt-userreport.com
 insight.fonecta.fi
 tags.op-palvelut.fi
@@ -6818,8 +6665,6 @@ analytics00.meride.tv
 audit.shaa.it
 click.kataweb.it
 cnt.iol.it
-counter.ksm.it
-counter2.condenast.it
 d32hwlnfiv2gyn.cloudfront.net
 dmpcdn.el-mundo.net
 encoderfarmstatsnew.servicebus.windows.net
@@ -6827,7 +6672,6 @@ evnt.iol.it
 fb_servpub-a.akamaihd.net
 fcstats.altervista.org
 heymatic.com
-instore.pagomeno.it
 limone.iltrovatore.it
 livestats.matrix.it
 log.superweb.ws
@@ -6836,11 +6680,9 @@ nanostats.nanopress.it
 rd.alice.it
 sem.triboomedia.it
 stat.acca.it
-stat.freetool.it
 stat.valica.it
 stats.itsol.it
 stats.rcsobjects.it
-stats.technopia.it
 tag.triboomedia.it
 tr.bt.matrixspa.it
 track.cedsdigital.it
@@ -6856,7 +6698,6 @@ tracy.sadv.dadapro.com
 vppst.iltrovatore.it
 a.o2u.jp
 ac.prism-world.jp.net
-ad-beacon-v01.uliza.jp
 ad.daum.net
 analytics.contents.by-fw.jp
 analytics.liveact.cri-mw.jp
@@ -6875,14 +6716,12 @@ ip2c.landscape.co.jp
 ipcheck.blogsys.jp
 kitchen.juicer.cc
 l.popin.cc
-lcs.livedoor.net
 log.codemarketing.cloud
 log.f-tra.com
 log.gs3.goo.ne.jp
 log.popin.cc
 omt.shinobi.jp
 panda.kasika.io
-ranking.apis.sankei-digital.co.jp
 rcm.shinobi.jp
 reproio.com
 rlog.popin.cc
@@ -6895,7 +6734,6 @@ t.felmat.net
 t.seesaa.net
 tag.cribnotes.jp
 torimochi.line-apps.com
-tr.reco.combz.jp
 tr.slvrbullet.com
 track.span-smt.jp
 track.thebase.in
@@ -6907,8 +6745,6 @@ userdive.com
 webbc.fivecdm.com
 webtracker.jp
 x9.shinobi.jp
-xr.shinobi.jp
-zucks.net.zimg.jp
 cm-exchange.toast.com
 log.adplex.co.kr
 log.cizion.com
@@ -6925,11 +6761,7 @@ tracker.adbinead.com
 tracker.digitalcamp.co.kr
 tracking.adweb.co.kr
 counter.hackers.lv
-top.chebra.lt
-top.dating.lt
-top.dkd.lt
 collect.adplogger.no
-engage-cdn.schibsted.media
 ish.tumedia.no
 log.medietall.no
 webhit.snd.no
@@ -6955,7 +6787,6 @@ nctrk.abmail.com.br
 neurotrack.neurolake.io
 track.e7r.com.br
 track.noddus.com
-trk.absuite.com.br
 webstats.sapo.pt
 pixel.biano.ro
 profiling.avandor.com
@@ -6963,14 +6794,12 @@ top.skyzone.ro
 views.cancan.ro
 vlogs.deja.media
 1l-hit.mail.ru
-a.tovarro.com
 awaps.yandex.ru
 banstat.nadavi.net
 browser-updater.yandex.net
 c.bigmir.net
 cdn-rum.ngenix.net
 cnstats.cdev.eu
-cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.nov.ru
 cnt.rambler.ru
@@ -6982,7 +6811,6 @@ counter.nn.ru
 counter.photopulse.ru
 counter.pr-cy.ru
 counter.star.lg.ua
-counter.wapstart.ru
 crm-analytics.imweb.ru
 d.wi-fi.ru
 dbex-tracker-v2.driveback.ru
@@ -6991,7 +6819,6 @@ error.videonow.ru
 g4p.redtram.com
 hubrus.com
 logs.viavideo.digital
-mediator.mail.ru
 metrics.aviasales.ru
 piper.amocrm.ru
 rbc.magna.ru
@@ -6999,7 +6826,6 @@ s.agava.ru
 scnt.rambler.ru
 scounter.rambler.ru
 sepyra.com
-service-stat.tbn.ru
 sp.aviasales.com
 sp.aviasales.ru
 st.hbrd.io
@@ -7008,7 +6834,6 @@ stat.rum.cdnvideo.ru
 stat.sputnik.ru
 stat.tvigle.ru
 statistics.fppressa.ru
-stats.embedcdn.cc
 stats.seedr.com
 stats.tazeros.com
 stats2.videonow.ru
@@ -7040,10 +6865,8 @@ datanoticias.prisasd.com
 g-stats.openhost.es
 hits.eluniversal.com.mx
 mtm.qdqmedia.com
-pixel.zumby.io
 reachandrich.antevenio.com
 stats.administrarweb.es
-stats.bitban.com
 stats.miarroba.info
 stats.qdq.com
 stats.sec.telefonica.com
@@ -7058,7 +6881,6 @@ vizzit.se
 pixel.smartmedia.tj
 sal.isanook.com
 stat.matichon.co.th
-st.tmgrup.com.tr
 statistics.daktilo.com
 tracking.venturify.at
 informers.sinoptik.ua
@@ -7095,8 +6917,6 @@ analytics.chase.com
 analytics.designspiration.com
 analytics.ecosia.org
 analytics.faceitanalytics.com
-analytics.faw.sky.com
-analytics.feedly.com
 analytics.footballdb.com
 analytics.freemake.com
 analytics.getshogun.com
@@ -7135,19 +6955,16 @@ bfp.capitalone.com
 binocule21c.merriam-webster.com
 blitz-analytics-batch-server.blitz.gg
 boomerang.dell.com
-browser.mi-img.com
 c.wort-suche.com
 c.x.oanda.com
 c.xbox.com
 cc-api-data.adobe.io
 cl.canva.com
-clancy.spiceworks.com
 click.nudevista.com
 click.oneplus.com
 click.sinx.com
 click.udimg.com
 clicks.hurriyet.com.tr
-clicks.traffictrader.net
 client-log.box.com
 clp-mms.cloudpro.co.uk
 cm-mms.coachmag.co.uk
@@ -7157,7 +6974,6 @@ cnt.nuvid.com
 cnt.viptube.com
 cnt.vivatube.com
 collect.alipay.com
-collect.f5.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
 collector.github.com
@@ -7186,7 +7002,6 @@ data.guide.photobucket.com
 data.younow.com
 dc.banggood.com
 dd.auspost.com.au
-dd.lendup.com
 deliver.ptgncdn.com
 desa.fkapi.net
 desb.fkapi.net
@@ -7213,6 +7028,7 @@ euclid.kuula.co
 eurogamer-uk.eurogamer.net
 event-api.reverb.com
 eventlog.jackpot.de
+events-prod.autolist.com
 events-service.coinbase.com
 events-tracker.deliveroo.net
 events.api.godaddy.com
@@ -7239,11 +7055,9 @@ fresnel-events.vimeocdn.com
 g.ign.com
 g.mashable.com
 g.pcmag.com
-g.vev.io
 ga.dx.com
 ga.nsimg.net
 gak.webtoons.com
-gala.spiceworks.com
 gekko.spiceworks.com
 geo.gfycat.com
 geo.nbcsports.com
@@ -7254,7 +7068,6 @@ geoip.ifunny.co
 geoip.viamichelin.com
 geolocation.forbes.com
 glassmoni.researchgate.net
-gmonitor.aliimg.com
 gnar.grammarly.com
 go.pardot.com
 gotie.tunein.com
@@ -7288,8 +7101,6 @@ log.ctrl.blog
 log.genyt.net
 log.hypebeast.com
 log.mappy.net
-log.mgtv.com
-log.optimizely.com
 log.quora.com
 log.snapdeal.com
 log.webnovel.com
@@ -7321,16 +7132,12 @@ net.haier.com
 nm.newegg.com
 no9pldds1lmn3.soundcloud.com
 noodle.backmarket.io
-nwuoxwthvak3.stoic.ai
 ohm-dot-hackster-io.appspot.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
 pac.thesun.co.uk
 perf.mouser.com
 pf.newegg.com
-phar.gu-web.net
-pi.feedsportal.com
-ping.hashnode.com
 ping.hungama.com
 pingback.giphy.com
 pingback.issuu.com
@@ -7341,14 +7148,12 @@ pixel.archive.vn
 pixel.archivecaslytosk.onion
 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.convertize.io
-pixel.digitalspy.co.uk
 pixel.facebook.com
 pixel.honestjohn.co.uk
 pixel.nine.com.au
 pixel.tuko.co.ke
 pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
-plausible.mangadex.org
 plausible.omgapi.org
 player-telemetry.vimeo.com
 pm.dailykos.com
@@ -7359,7 +7164,6 @@ pulsar.ebay.com
 pulse.delta.com
 pumpkin.abine.com
 pxl.indeed.com
-python.jacksellwood.com
 r.bbci.co.uk
 r.my.com
 rankhit.china.com
@@ -7389,7 +7193,6 @@ sp.app.com
 sp.argusleader.com
 sp.azcentral.com
 sp.battlecreekenquirer.com
-sp.baxterbulletin.com
 sp.bucyrustelegraphforum.com
 sp.burlingtonfreepress.com
 sp.caller.com
@@ -7490,8 +7293,6 @@ spade.twitch.tv
 spanids.dictionary.com
 spanids.thesaurus.com
 spectrum.gettyimages.com
-squirrel.ethanelientz.com
-squirrel.honeysqueeze.app
 squirrel.malaynahocker.com
 srtb.msn.com
 ss.photospecialist.co.uk
@@ -7507,7 +7308,6 @@ stats.cardschat.com
 stats.clear-media.com
 stats.davidickedelivery.com
 stats.dnaindia.com
-stats.dreamsub.me
 stats.fs.com
 stats.gateio.ch
 stats.hd24.watch
@@ -7529,7 +7329,6 @@ t.allmodern.com
 t.appsflyer.com
 t.av.st
 t.birchlane.com
-t.blinkist.com
 t.dailymail.co.uk
 t.freelancer.com
 t.imgur.com
@@ -7674,14 +7473,12 @@ eurogamer-pt.eurogamer.pt
 fuse.forbes.com
 h-bid.com
 mms.wwe.com
-services.hmhost.co.uk
 sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 twus-mms.theweek.com
 usgamer-us.usgamer.net
 cdn1.pebx.pl
-de-mi-nis-ner2.info
 piti.bplaced.net
 primate.dmarcdigests.com
 1kpv4njzilv.community.intersystems.com
