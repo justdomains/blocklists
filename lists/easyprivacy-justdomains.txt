@@ -1027,6 +1027,7 @@ flagcounter.com
 flaghit.com
 flash-counter.com
 flashadengine.com
+flashb.id
 flcounter.com
 flexlinkspro.com
 flixfacts.co.uk
@@ -5146,6 +5147,7 @@ stattds.club
 targetix.net
 tbex.ru
 tds.io
+teletarget.ru
 theactivetag.com
 tnative.ru
 tophitbit.com
@@ -6745,6 +6747,7 @@ userdive.com
 webbc.fivecdm.com
 webtracker.jp
 x9.shinobi.jp
+zucks.net.zimg.jp
 cm-exchange.toast.com
 log.adplex.co.kr
 log.cizion.com
@@ -6821,6 +6824,7 @@ hubrus.com
 logs.viavideo.digital
 metrics.aviasales.ru
 piper.amocrm.ru
+prime.rambler.ru
 rbc.magna.ru
 s.agava.ru
 scnt.rambler.ru
@@ -6837,6 +6841,7 @@ statistics.fppressa.ru
 stats.seedr.com
 stats.tazeros.com
 stats2.videonow.ru
+t1.trex.media
 target.mirtesen.ru
 target.smi2.net
 target.smi2.ru
@@ -7101,6 +7106,7 @@ log.ctrl.blog
 log.genyt.net
 log.hypebeast.com
 log.mappy.net
+log.mgtv.com
 log.quora.com
 log.snapdeal.com
 log.webnovel.com
@@ -7136,6 +7142,7 @@ ohm-dot-hackster-io.appspot.com
 ophan.theguardian.com
 optimize-stats.voxmedia.com
 pac.thesun.co.uk
+pappagallu.onefootball.com
 perf.mouser.com
 pf.newegg.com
 ping.hungama.com
@@ -7397,6 +7404,7 @@ views.arabnews.com
 visit.theglobeandmail.com
 visitors.sourcingmap.com
 vortex.hulu.com
+w3-reporting.reddit.com
 wa.gmx.co.uk
 wa.ui-portal.de
 wal.wolfram.com
