@@ -5610,6 +5610,7 @@ events.realgravity.com
 events.shareably.net
 events.splash-screen.net
 events.split.io
+events.statsigapi.net
 events.tubecup.org
 events.whisk.com
 events.yourcx.io
@@ -6979,6 +6980,7 @@ cnt.nuvid.com
 cnt.viptube.com
 cnt.vivatube.com
 collect.alipay.com
+collect.banggood.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
 collector.github.com
@@ -7171,6 +7173,7 @@ pulsar.ebay.com
 pulse.delta.com
 pumpkin.abine.com
 pxl.indeed.com
+qm.redbull.com
 r.bbci.co.uk
 r.my.com
 rankhit.china.com
