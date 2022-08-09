@@ -1848,6 +1848,7 @@ pixeleze.com
 pixelinteractivemedia.com
 pixelpop.co
 pixelrevenue.com
+pixels.ai
 pixfuture.com
 pjatr.com
 pjtra.com
@@ -1879,7 +1880,6 @@ porngraph.com
 portfold.com
 posst.co
 postaffiliatepro.com
-postclickmarketing.com
 posthog.com
 prchecker.info
 precisioncounter.com
@@ -6007,6 +6007,7 @@ su.addthis.com
 sunlightmetrics.b-cdn.net
 survey.interquest.com
 surveywall-api.survata.com
+svibeacon.onezapp.com
 sync.adap.tv
 sync.outbrain.com
 systemmonitoring.badgeville.com
