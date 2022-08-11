@@ -110,6 +110,7 @@ imzahrwl.xyz
 innerskinresearch.com
 insigit.com
 instantfox.co
+intelligenceretarget.com
 irs01.com
 jcpclick.com
 k5a.io
@@ -177,6 +178,7 @@ speedyfox.io
 speedyrhino.co
 spinnaker-js.com
 stat.ovh
+stpmgo.com
 summerhamster.com
 superpointlesshamsters.com
 tagcachedataxrt.com
@@ -6328,6 +6330,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -6907,6 +6910,7 @@ adc-js.nine.com.au
 adc.9news.com.au
 adc.api.nine.com.au
 adc.nine.com.au
+adtech-events.bookmyshow.com
 adv.drtuber.com
 affiliates.treasureisland.com
 affiliates.vpn.ht
