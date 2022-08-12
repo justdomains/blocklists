@@ -5468,7 +5468,6 @@ cgicounter.oneandone.co.uk
 cgicounter.puretec.de
 chanalytics.merchantadvantage.com
 check.deadlinefunnel.com
-chicoryapp.com
 cimage.adobe.com
 ck.connatix.com
 click.appinthestore.com
@@ -6755,11 +6754,13 @@ webbc.fivecdm.com
 webtracker.jp
 x9.shinobi.jp
 zucks.net.zimg.jp
+acelogger.heraldcorp.com
 cm-exchange.toast.com
 log.adplex.co.kr
 log.cizion.com
 log.mofa.go.kr
 log.targetpush.co.kr
+logger.bzu.kr
 logs-partners.coupang.com
 megadata.co.kr
 mtag.mman.kr
@@ -6979,6 +6980,7 @@ click.sinx.com
 click.udimg.com
 clicks.hurriyet.com.tr
 client-log.box.com
+client-metrics.chess.com
 clp-mms.cloudpro.co.uk
 cm-mms.coachmag.co.uk
 cnt.hd21.com
