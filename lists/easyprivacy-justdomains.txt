@@ -4910,6 +4910,7 @@ f-counter.jp
 f-counter.net
 fspark-ap.com
 fw-ad.jp
+geniee.jp
 genieedmp.com
 genieessp.jp
 gmodmp.jp
@@ -7380,6 +7381,7 @@ tongji.meizu.com
 top.wn.com
 touch.myntra.com
 tr.clickstay.com
+tr.www.cloudflare.com
 track-visit.monday.com
 track.dictionary.com
 track.kueez.com
