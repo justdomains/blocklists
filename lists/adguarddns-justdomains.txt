@@ -21248,6 +21248,7 @@ ads-sg.tiktok.com
 ads.audio.thisisdax.com
 ads.sportradar.com
 adserving.unibet.com
+adv.r7.com
 advast.sibnet.ru
 adzmoney.linkyqueen.ga
 aff.bstatic.com
@@ -30737,6 +30738,7 @@ f-log-test.grammarly.io
 fcmatch.google.com
 fcmatch.youtube.com
 filament-stats.herokuapp.com
+fingerprinter-production.herokuapp.com
 firebaselogging-pa.googleapis.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 flashstats.libsyn.com
@@ -31622,6 +31624,7 @@ analytics.gameforge.de
 analytics.loop-cloud.de
 analytics.media-proweb.de
 analytics.praetor.im
+artemis-cdn.ocdn.eu
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cdntrf.de
@@ -31853,6 +31856,8 @@ hitserver.ibope.com.br
 nctrk.abmail.com.br
 neurotrack.neurolake.io
 track.e7r.com.br
+tracker.tolvnow.com
+visit-prod-us.occa.ocs.oraclecloud.com
 webstats.sapo.pt
 pixel.biano.ro
 profiling.avandor.com
@@ -32030,6 +32035,7 @@ tracking.fsjmp.com
 ver-pelis.net
 xclk-integracion.com
 yestorrents.org
+zxwnlg.com
 fcjfijejhjfefgfaaadc.ru
 futureocto.com
 newnns.com
@@ -38413,6 +38419,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 54askjdklm.xyz
 551vip.xyz
 5gustis.xyz
+5htftu.com
 5xokfmru.cn
 6399tp.com
 666624.xyz
@@ -38462,6 +38469,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 666753.xyz
 666754.xyz
 666755.xyz
+666757.xyz
 69688qp.com
 7080ys.top
 777753.net
@@ -38678,6 +38686,7 @@ ggkkl.top
 ghhtt.top
 gitwnd.cn
 gkenql.cn
+globalso.biz
 gnaunbiu.rest
 gnbunbiv.rest
 gncunbiw.rest
@@ -38901,7 +38910,9 @@ mkqdj.cn
 mmrrk.top
 mnbvbrow.xyz
 mnuy56.site
+mnvrwq.xyz
 mongsonv.uno
+morlsbli.cyou
 mqjeut5.com
 msjj.tech
 mstgc.com
@@ -38912,6 +38923,7 @@ mttty.top
 mudcxq.cn
 muliglsn.space
 musan.love
+mxlwmp.cn
 mxowrwb.cn
 mxwgt.cn
 mywei.love
@@ -39024,6 +39036,7 @@ qndytvy.cn
 qnmvqdl.cn
 qofvpbo.cn
 qongsonw.uno
+qqpwhge.cn
 qqwxi.xyz
 qrnmyn.cn
 qsdqyf.cn
@@ -39060,6 +39073,7 @@ scardetect.cn
 scktmdv.cn
 sdfafds6.com
 sdljvrf.cn
+sdnc.top
 sdqinghong.cn
 sdutmedia.com
 sejlfe.cn
@@ -39251,6 +39265,7 @@ xmgdgo.cn
 xmsrd.com
 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 xnxonbf.cn
+xorlsblw.cyou
 xox8829.com
 xox8863.com
 xox8956.com
@@ -39279,6 +39294,7 @@ ydhwhz.cn
 yelmlrq.cn
 yengbalf.fun
 yeyuly.love
+yhilnc.cn
 yhz18.com
 yihoo.biz
 yijiachen.cn
@@ -39323,6 +39339,7 @@ zkgvsoo.cn
 zlreqxe.xyz
 zorlsbln.cyou
 zoujitea.hk
+zovgdpj.cn
 zp1999.online
 zsgwed.cn
 zujilife.online
@@ -39335,17 +39352,18 @@ zygaoshou888.cn
 zygxy.online
 zyl520zh.online
 zzycj.com
-xorlsblw.cyou
-qqpwhge.cn
-yhilnc.cn
-mxlwmp.cn
-morlsbli.cyou
-666757.xyz
-5htftu.com
-globalso.biz
-zovgdpj.cn
-sdnc.top
-mnvrwq.xyz
+nkevca.cn
+sghmvum.cn
+rorlsblm.cyou
+666758.xyz
+yfunkgk.cn
+corlsblt.cyou
+zlgame.top
+vumnxwvf.ink
+tumnxwvd.ink
+itbwq.xyz
+mrshw.mobi
+vgrovkb.cn
 000123456789.online
 000123456789.site
 000123456789.space

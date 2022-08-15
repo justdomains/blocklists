@@ -121,6 +121,7 @@ liadm.com
 lite-cdn.com
 liveyield.com
 lltrck.com
+lmepbq.com
 loloclicks.biz
 lsdm.co
 maggieeatstheangel.com
@@ -5265,6 +5266,7 @@ affiliates.minglematch.com
 air.audioeye.com
 akatracking.esearchvision.com
 alexandria.marfeelcdn.com
+am.i.mullvad.net
 amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
@@ -5628,6 +5630,7 @@ fcmatch.google.com
 fcmatch.youtube.com
 felix.data.tm-awx.com
 filament-stats.herokuapp.com
+fingerprinter-production.herokuapp.com
 firebaselogging-pa.googleapis.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 flashstats.libsyn.com
@@ -6458,6 +6461,7 @@ analytics.gameforge.de
 analytics.loop-cloud.de
 analytics.media-proweb.de
 analytics.praetor.im
+artemis-cdn.ocdn.eu
 beagle.prod.tda.link
 blacktri-a.akamaihd.net
 cdntrf.de
@@ -6800,6 +6804,8 @@ nctrk.abmail.com.br
 neurotrack.neurolake.io
 track.e7r.com.br
 track.noddus.com
+tracker.tolvnow.com
+visit-prod-us.occa.ocs.oraclecloud.com
 webstats.sapo.pt
 pixel.biano.ro
 profiling.avandor.com
