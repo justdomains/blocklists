@@ -1852,7 +1852,6 @@ pixeleze.com
 pixelinteractivemedia.com
 pixelpop.co
 pixelrevenue.com
-pixels.ai
 pixfuture.com
 pjatr.com
 pjtra.com
@@ -4616,7 +4615,6 @@ countus.fr
 cshield.io
 d-bi.fr
 datado.me
-datadome.co
 deliv.lexpress.fr
 do09.net
 early-birds.io
@@ -5346,6 +5344,7 @@ analytics.paddle.com
 analytics.pagefly.io
 analytics.piksel.com
 analytics.pinterest.com
+analytics.pixels.ai
 analytics.pointdrive.linkedin.com
 analytics.pop2watch.com
 analytics.prezly.com
@@ -5755,6 +5754,8 @@ loggingapi.spingo.com
 loglady.skypicker.com
 logs-api.shoprunner.com
 logs.animaapp.com
+logs.datadoghq.com
+logs.datadoghq.eu
 logs.spilgames.com
 logs.thebloggernetwork.com
 logs.viadata.store
@@ -6639,7 +6640,6 @@ bisko.mall.tv
 bnr.alza.cz
 counter.cnw.cz
 h.imedia.cz
-h.seznam.cz
 hit.skrz.cz
 i.imedia.cz
 log.cpex.cz
@@ -17043,6 +17043,7 @@ dna.uol.com.br
 g.bit.pt
 g.bitmag.com.br
 geoip.ativo.com
+globo-ab.globo.com
 logger.rm.uol.com.br
 logger.uol.com.br
 metrics.uol.com.br
