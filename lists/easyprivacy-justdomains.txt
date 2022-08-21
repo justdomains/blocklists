@@ -531,6 +531,7 @@ bentonow.com
 berg-6-82.com
 best-top.de
 betarget.com
+bettermeter.com
 bettermetrics.co
 beusable.net
 bfoleyinteractive.com
@@ -17005,6 +17006,7 @@ tracker.stileo.it
 tracking.gruppo.mps.it
 trk.m.libero.it
 analytics.cocolog-nifty.com
+analytics.ikyu.com
 analytics.mbga.jp
 analyzer.fc2.com
 analyzer2.fc2.com
