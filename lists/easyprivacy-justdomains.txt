@@ -5550,6 +5550,7 @@ counter.top.ge
 counter.yadro.ru
 counters.freewebs.com
 creator.zmags.com
+crta.and.co.uk
 crta.dailymail.co.uk
 csi.gstatic.com
 csp-collector.appspot.com
@@ -5607,6 +5608,7 @@ event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.rdstation.com.br
 event-listener.air.tv
+event-logger.tagboard.com
 event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
@@ -5809,6 +5811,7 @@ metrixlablw.customers.luna.net
 mlweb.dmlab.hu
 mmi.bemobile.ua
 mon.domdog.io
+monorail-edge.shopifysvc.com
 mormont.gamer-network.net
 mqs.ioam.de
 ms-trackingapi.phenompeople.com
@@ -16787,6 +16790,7 @@ ymprove.gmx.net
 ymprove.web.de
 ia.ekstrabladet.dk
 analytics.allovoisins.com
+cdtm.cdiscount.com
 compteur.developpez.com
 fsm.lapresse.ca
 hits.porn.fr
