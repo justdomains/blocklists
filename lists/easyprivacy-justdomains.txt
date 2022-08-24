@@ -6640,7 +6640,6 @@ p.tencentmind.com
 pos.baidu.com
 pv.hd.sohu.com
 pv.kuaizhan.com
-pv.sohu.com
 px.effirst.com
 r.sax.sina.com.cn
 report.meituan.com
@@ -6867,7 +6866,6 @@ hubrus.com
 logs.viavideo.digital
 metrics.aviasales.ru
 piper.amocrm.ru
-prime.rambler.ru
 rbc.magna.ru
 s.agava.ru
 scnt.rambler.ru
@@ -16792,6 +16790,7 @@ ia.ekstrabladet.dk
 analytics.allovoisins.com
 cdtm.cdiscount.com
 compteur.developpez.com
+events-logs.doctolib.com
 fsm.lapresse.ca
 hits.porn.fr
 k.kolplay.com
