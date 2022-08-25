@@ -5816,7 +5816,6 @@ mormont.gamer-network.net
 mqs.ioam.de
 ms-trackingapi.phenompeople.com
 mts.mansion.com
-munchkin.marketo.net
 mv.treehousei.com
 myscoop-tracking.googlecode.com
 neocounter.neoworx-blog-tools.net
@@ -6252,6 +6251,7 @@ tru.webelapp.com
 try.abtasty.com
 ts.tradetracker.net
 ucounter.ucoz.net
+uid.mediacorp.sg
 units.knotch.it
 userexperience.thehut.net
 usersegment.wpdigital.net
