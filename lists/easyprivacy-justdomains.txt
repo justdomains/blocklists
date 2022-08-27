@@ -71,6 +71,7 @@ fastgull.io
 fasttiger.io
 fleraprt.com
 fn-pz.com
+fpapi.io
 fpaux.net
 fpavx.net
 fpaxu.net
@@ -2638,6 +2639,7 @@ web-counter.net
 web-stat.com
 web-stat.fr
 web-stat.net
+webanalysis.dev
 webclicktracker.com
 webcounter.co.za
 webcounter.ws
@@ -5251,6 +5253,7 @@ sayyac.net
 sitetistik.com
 visilabs.net
 webservis.gen.tr
+webtemsilcisi.com
 zirve100.com
 getaim.info
 holder.com.ua
@@ -7168,6 +7171,7 @@ ma.redhat.com
 marketing.alibaba.com
 marketing.dropbox.com
 mcs-va.tiktokv.com
+metrics.audius.co
 metrics.bangbros.com
 metrics.freemake.com
 metrics.hackerrank.com
@@ -7208,6 +7212,7 @@ pixel.nine.com.au
 pixel.tuko.co.ke
 pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
+plausible.bots.gg
 plausible.omgapi.org
 player-telemetry.vimeo.com
 pm.dailykos.com
@@ -17098,6 +17103,7 @@ dot-stat.radikal.ru
 kiks.auto.ru
 link.subscribe.ru
 log.ren.tv
+log.rutube.ru
 pixels.boxberry.ru
 pulsarback.mail.ru
 radar.imgsmail.ru
