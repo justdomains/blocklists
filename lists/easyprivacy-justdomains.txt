@@ -7492,6 +7492,7 @@ gj.mmstat.com
 oneid.mmstat.com
 drfdisvc.walmart.com
 event.evtm.53.com
+w-profiling.simplii.com
 d276.ourmidland.com
 d810.mysanantonio.com
 eventbus.intuit.com
