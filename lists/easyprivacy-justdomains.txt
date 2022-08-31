@@ -4975,7 +4975,6 @@ tgknt.com
 thench.net
 trackfeed.com
 triver.jp
-ukw.jp
 uncn.jp
 wonder-ma.com
 zerostats.com
@@ -7029,6 +7028,7 @@ cnt.nuvid.com
 cnt.viptube.com
 cnt.vivatube.com
 collect.alipay.com
+collect.asics.com
 collect.banggood.com
 collector-px0py5pczn.octopart.com
 collector.cint.com
