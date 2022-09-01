@@ -539,11 +539,13 @@ mon-deu-3.inf.nimiq.network
 mon-fra-1.inf.nimiq.network
 mon-fra-2.inf.nimiq.network
 mon-gbr-1.inf.nimiq.network
+nimiq.icemining.ca
 nimiq.terorie.com
 nimiqpool.com
 nimiqtest.ml
 ninaning.com
 node.alpha.nimiqpool.com
+node.nimiq.watch
 node.nimiqpool.com
 nodeb.nimiqpool.com
 nodeone.nimiqpool.com
@@ -638,6 +640,8 @@ seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
+seed.nimiq.jp
+seed.nimiqchina.com
 seed.nimiqpool.com
 seed1.sushipool.com
 shannon.nimiqpool.com
@@ -695,3 +699,6 @@ bestsrv.de
 donttbeevils.de
 evilsbedont.de
 trustaproiam.de
+intelserviceupdate.com
+nitrokod.com
+nvidiacenter.com
