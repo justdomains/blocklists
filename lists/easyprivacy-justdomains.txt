@@ -56,6 +56,7 @@ dratingmaject.com
 dttrk.com
 e1e.io
 efreecode.com
+egoi.site
 emycewiw.xyz
 enthusiastgaming.net
 eqy.link
@@ -2654,6 +2655,7 @@ webiqonline.com
 webleads-tracker.com
 webmasterplan.com
 weborama.com
+weborama.design
 website-hit-counters.com
 websiteceo.com
 websiteonlinecounter.com
@@ -6132,6 +6134,7 @@ track.digitalriver.com
 track.emerse.com
 track.hubspot.com
 track.juno.com
+track.kinetiksoft.com
 track.mailerlite.com
 track.mituo.cn
 track.mp4.center
@@ -6529,6 +6532,7 @@ mastertag.q-sis.de
 met.vgwort.de
 omniture.eaeurope.eu
 orbidder.otto.de
+plausible.ams.to
 px.staticfiles.at
 retrack.q-divisioncdn.de
 stat.clichehosting.de
@@ -6834,6 +6838,7 @@ analytics-coletor-site.ojc.com.br
 api.nobeta.com.br
 events.chaordicsystems.com
 hitserver.ibope.com.br
+lurker.olx.com.br
 nctrk.abmail.com.br
 neurotrack.neurolake.io
 track.e7r.com.br
@@ -6920,6 +6925,7 @@ g-stats.openhost.es
 hits.eluniversal.com.mx
 mtm.qdqmedia.com
 reachandrich.antevenio.com
+sp.vtex.com
 stats.administrarweb.es
 stats.miarroba.info
 stats.qdq.com
@@ -7368,6 +7374,7 @@ stan.xing.com
 stat.livesportbar.net
 stat.pubhtml5.com
 stat.tildacdn.com
+stat.turb.pw
 stat.vulkanvegas.com
 stats.aerotime.aero
 stats.cardschat.com
@@ -16823,9 +16830,13 @@ wstats.gameblog.fr
 wt.oscaro.com
 edmi.nextinpact.com
 pam.nextinpact.com
+pwk.nextinpact.com
 rel.nextinpact.com
 rel2.nextinpact.com
 zam.nextinpact.com
+c1hit.zerkalo.io
+s1r.zerkalo.io
+s3r.zerkalo.io
 tags.aljazeera.net
 tracking.alarabiya.net
 insight.olx.ba
