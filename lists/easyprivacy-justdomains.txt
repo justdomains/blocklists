@@ -195,6 +195,7 @@ summerhamster.com
 superpointlesshamsters.com
 tagcachedataxrt.com
 tagcachestaticx.com
+takingbackjuly.com
 tatpek.com
 test.vast
 the-ozone-project.com
@@ -5278,7 +5279,6 @@ gostats.vn
 100widgets.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
-4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com
 51network.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 a.getflowbox.com
@@ -7163,6 +7163,7 @@ ivx.lacompagnie.com
 j927.statnews.com
 jfapiprod.optimonk.com
 jumbo.zomato.com
+l.ctrl.blog
 link.kogan.com
 log-api.newrelic.com
 log.china.cn
