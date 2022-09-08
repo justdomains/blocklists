@@ -1,7 +1,9 @@
 1cros.net
 2022welcome.com
 2l6ddsmnm.de
+2smt6mfgo.de
 31daa5lnq.de
+3gl.net
 520886.xyz
 8672.site
 a1webstrategy.com
@@ -10,6 +12,7 @@ adbp.online
 adcontroll.com
 adnext.co
 adrtx.net
+adscore.com
 adstk.io
 adultium.com
 affvantage.com
@@ -32,9 +35,12 @@ bqstreamer.com
 briskeagle.io
 briskpelican.io
 brontops.com
+btloader.com
 bydst.com
 cadsuta.net
 captcha-display.com
+casalemedia.com
+cbdatatracker.com
 cdnhst.xyz
 ciqtracking.com
 click360.io
@@ -54,6 +60,8 @@ dm-event.net
 dmpxs.com
 dratingmaject.com
 dttrk.com
+dwin1.com
+dwin2.com
 e1e.io
 efreecode.com
 egoi.site
@@ -64,12 +72,14 @@ everesttech.net
 experianmatch.info
 ezodn.com
 ezstat.ru
+f27tltnd.de
 fairdatacenter.de
 fastemu.co
 faster-trk.com
 fastfinch.co
 fastgull.io
 fasttiger.io
+fixel.ai
 fleraprt.com
 fn-pz.com
 fpapi.io
@@ -96,6 +106,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g9706132415.co
 g990421675.co
 g990421676.co
 gbqofs.com
@@ -103,8 +114,10 @@ geoedge.be
 glimr.io
 glookup.info
 go-mpulse.net
+hdmtools.com
 hs-analytics.net
 hsadspixel.net
+hsleadflows.net
 i218435.net
 id5-sync.com
 idx.lat
@@ -133,6 +146,7 @@ maggieeatstheangel.com
 matheranalytics.com
 mcangelus.com
 mdhv.io
+micpn.com
 mm-api.agency
 mors22.com
 mrpdata.net
@@ -153,6 +167,7 @@ p-analytics.life
 p2r14.com
 pdflive.org
 permutive.app
+pippio.com
 pix.pub
 pixel-tracker.com
 pixrealm.com
@@ -183,6 +198,7 @@ seadform.net
 selphiu.com
 seoab.io
 site24x7rum.eu
+sitedataprocessing.com
 sixtrk.com
 sjpf.io
 solutionshindsight.net
@@ -223,6 +239,9 @@ wmgroup.us
 woodpeckerlog.com
 yardianalytics.com
 yottlyscript.com
+youborafds01.com
+youboranqs01.com
+youboranqs02.com
 z0uolej1qnxzub1.info
 zdbb.net
 zenaps.com
@@ -251,14 +270,12 @@ zqtk.net
 24log.com
 2cnt.net
 2o7.net
-2smt6mfgo.de
 360i.com
 360tag.com
 360tag.net
 3dlivestats.com
 3dstats.com
 3enm.com
-3gl.net
 40nuggets.com
 4oney.com
 55labs.com
@@ -343,7 +360,6 @@ adregain.com
 adregain.ru
 adrizer.com
 adrta.com
-adscore.com
 adsensedetective.com
 adspsp.com
 adsrvr.org
@@ -600,7 +616,6 @@ browser-statistik.de
 browser-update.org
 bstn-14-ma.com
 btbuckets.com
-btloader.com
 btncdn.com
 btttag.com
 bubblestat.com
@@ -645,10 +660,8 @@ capturly.com
 carambo.la
 caramel.press
 cartstack.com
-casalemedia.com
 cashburners.com
 cashcount.com
-cbdatatracker.com
 cbtrk.net
 cccpmo.com
 ccgateway.net
@@ -912,8 +925,6 @@ dti-ranker.com
 dtxngr.com
 durationmedia.net
 dvnfo.com
-dwin1.com
-dwin2.com
 dynameex.com
 dynatrace-managed.com
 dynatracesaas.com
@@ -1046,7 +1057,6 @@ fireworkanalytics.com
 firstpromoter.com
 fishhoo.com
 fitanalytics.com
-fixel.ai
 flagcounter.com
 flaghit.com
 flash-counter.com
@@ -1215,7 +1225,6 @@ halldata.com
 haloscan.com
 havasedge.com
 haveamint.com
-hdmtools.com
 heatmap.services
 hellosherpa.com
 hentaicounter.com
@@ -1264,7 +1273,6 @@ hotjar.com
 hotjar.io
 hotlog.ru
 hscta.net
-hsleadflows.net
 hubvisor.io
 hudb.pl
 humanclick.com
@@ -1601,7 +1609,6 @@ mezzobit.com
 mfadsrvr.com
 miadates.com
 mialbj6.com
-micpn.com
 microanalytics.io
 mieru-ca.com
 millioncounter.com
@@ -1864,7 +1871,6 @@ pingomatic.com
 pingometer.com
 pinpoll.com
 pipfire.com
-pippio.com
 piratepx.com
 pirsch.io
 pixel.ad
@@ -2200,7 +2206,6 @@ sitebro.com
 sitebro.net
 sitebro.tw
 sitecompass.com
-sitedataprocessing.com
 siteimprove.com
 siteimproveanalytics.com
 siteimproveanalytics.io
@@ -2751,9 +2756,6 @@ yieldlift.com
 yieldsoftware.com
 yldr.io
 ymetrica1.com
-youborafds01.com
-youboranqs01.com
-youboranqs02.com
 your-analytics.org
 your-counter.be
 youramigo.com
@@ -3194,6 +3196,7 @@ arithmeticadjustment.com
 arizonapuzzle.com
 aromamirror.com
 aspiringattempt.com
+attractionbanana.com
 attractiveafternoon.com
 attractivecap.com
 audioarctic.com
