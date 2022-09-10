@@ -6202,6 +6202,7 @@ tracker.xgen.dev
 trackerapi.truste.com
 trackicollect.ibase.fr
 tracking.adalyser.com
+tracking.ads.global-fashion-group.com
 tracking.aegpresents.com
 tracking.americaneagle.com
 tracking.badgeville.com
@@ -7556,7 +7557,6 @@ cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.tech426.com
 cmp.tek.no
-cmp.telerama.fr
 commsvc.stern.de
 d.sourcepoint.capitalfm.com
 eurogamer-it.eurogamer.it
