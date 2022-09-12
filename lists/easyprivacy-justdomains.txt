@@ -31,6 +31,7 @@ bidswitch.net
 bkrtx.com
 bluekai.com
 bonne-terre-data-layer.com
+boomtrain.com
 bounceexchange.com
 bqstreamer.com
 briskeagle.io
@@ -221,6 +222,7 @@ thefontzone.com
 tncid.app
 trackclicks.info
 trkbc.com
+trkn.us
 tru.am
 truffle.bid
 trx-hub.com
@@ -598,7 +600,6 @@ bmmetrix.com
 bnqt.com
 bntech.io
 boomerang.com.au
-boomtrain.com
 botman.ninja
 botsvisit.com
 bouncepilot.com
@@ -2512,7 +2513,6 @@ trilogyed.com
 triptease.io
 triptease.net
 trkjmp.com
-trkn.us
 trmads.eu
 trovus.co.uk
 trs.cn
@@ -5556,6 +5556,7 @@ count.asnetworks.de
 count.carrierzone.com
 count.me.uk
 count.paycounter.com
+count.xxxssk.com
 counter.bloke.com
 counter.cam-content.com
 counter.hyipexplorer.com
@@ -6026,6 +6027,7 @@ stats.itweb.co.za
 stats.kaltura.com
 stats.lotlinx.com
 stats.mituyu.com
+stats.myangular.life
 stats.nebula.fi
 stats.netbopdev.co.uk
 stats.olark.com
@@ -6289,6 +6291,7 @@ visit.webhosting.yahoo.com
 vmstats.varrando.com
 vortex.data.microsoft.com
 vst.sibnet.ru
+vstat.borderlessbd.com
 w4o7aea80ss3-a.akamaihd.net
 wco.crownpeak.com
 web1.51.la
@@ -7470,6 +7473,7 @@ tracking.hsn.com
 tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.unrealengine.com
+tracking1.filemoon.sx
 treatment.grammarly.com
 tredir.go.com
 trx3.famousfix.com
