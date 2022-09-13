@@ -77,7 +77,6 @@ ezstat.ru
 f27tltnd.de
 fairdatacenter.de
 fastemu.co
-faster-trk.com
 fastfinch.co
 fastgull.io
 fasttiger.io
@@ -2787,7 +2786,6 @@ ztsrv.com
 zuyapixel.com
 zuzab.com
 zx-adnet.com
-addthis.com
 pphwrevr.com
 protectcrev.com
 protectsubrev.com
@@ -6030,6 +6028,7 @@ stats.mituyu.com
 stats.myangular.life
 stats.nebula.fi
 stats.netbopdev.co.uk
+stats.netdna-storage.com
 stats.olark.com
 stats.ozwebsites.biz
 stats.phoenix-widget.com
