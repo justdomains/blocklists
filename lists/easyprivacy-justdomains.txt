@@ -5613,6 +5613,7 @@ dig.ultimedia.com
 direct-events-collector.spot.im
 distillery.wistia.com
 djibeacon.djns.com
+doppler-beacons.cbsivideo.com
 doppler-reporting.cbsivideo.com
 dotaudiences.com
 doug1izaerwt3.cloudfront.net
@@ -7457,6 +7458,7 @@ track-visit.monday.com
 track.dictionary.com
 track.kueez.com
 track.lexico.com
+track.mrgugu.com
 track.netzero.net
 track.thesaurus.com
 track.ultimate-guitar.com
@@ -20097,6 +20099,7 @@ trk.m.libero.it
 analytics.cocolog-nifty.com
 analytics.ikyu.com
 analytics.mbga.jp
+analytics.tver.jp
 analyzer.fc2.com
 analyzer2.fc2.com
 astat.nikkei.com
