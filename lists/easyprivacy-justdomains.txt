@@ -45,6 +45,7 @@ casalemedia.com
 cbdatatracker.com
 cdnhst.xyz
 ciqtracking.com
+clearbitscripts.com
 click360.io
 cloudwp.io
 clrt.ai
@@ -141,12 +142,14 @@ lite-cdn.com
 liveyield.com
 lltrck.com
 lmepbq.com
+logicanalytics.io
 loloclicks.biz
 lsdm.co
 maggieeatstheangel.com
 matheranalytics.com
 mcangelus.com
 mdhv.io
+mediapxv.com
 micpn.com
 mm-api.agency
 mors22.com
@@ -515,7 +518,6 @@ awasete.com
 awesomelytics.com
 awin1.com
 awstrack.me
-axept.io
 axf8.net
 azalead.com
 azera-s014.com
@@ -1384,6 +1386,7 @@ ipinfo.info
 ipinyou.com.cn
 iplist.cc
 iplocationtools.com
+iplogger.org
 ipmeta.io
 ipnoid.com
 ippen.space
@@ -2498,6 +2501,7 @@ trakken.de
 trakzor.com
 transactionale.com
 traq.li
+travelrobotflower.com
 traversedlp.com
 trbas.com
 trekmedia.net
@@ -2579,6 +2583,7 @@ v3cdn.net
 va-endpoint.com
 valuedopinions.co.uk
 vbanalytics.com
+vbt.io
 vdna-assets.com
 veduy.com
 veille-referencement.com
@@ -5908,6 +5913,7 @@ pixels.afcdn.com
 platform.iteratehq.com
 plausibleio.workers.dev
 pm.boostintegrated.com
+pmetrics.performancing.com
 porpoise.azettl.net
 pr.blogflux.com
 prd-collector-anon.ex.co
@@ -6466,7 +6472,6 @@ fyrsbckgi-c.global.ssl.fastly.net
 mjca-yijws.global.ssl.fastly.net
 rc.vtex.com.br
 ref.dealerinspire.com
-risk.clearbit.com
 targeting.voxus.tv
 aksb-a.akamaihd.net
 ds-aksb-a.akamaihd.net
@@ -19780,7 +19785,6 @@ as.mytoys.de
 as.otto.de
 as.yomonda.de
 behave.sn.at
-cdn.stroeerdigitalgroup.de
 click.alternate.de
 cmp2.channelpartner.de
 cpx.golem.de
