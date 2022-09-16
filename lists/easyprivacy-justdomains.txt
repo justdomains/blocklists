@@ -1532,6 +1532,7 @@ logmatic.io
 lognormal.net
 logrocket.com
 logrocket.io
+logz.io
 lookery.com
 loopa.net.au
 loopfuse.net
