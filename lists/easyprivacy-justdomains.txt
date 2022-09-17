@@ -45,6 +45,7 @@ casalemedia.com
 cbdatatracker.com
 cdnhst.xyz
 ciqtracking.com
+clarity.ms
 clearbitscripts.com
 click360.io
 cloudwp.io
@@ -152,6 +153,7 @@ mdhv.io
 mediapxv.com
 micpn.com
 mm-api.agency
+monu.delivery
 mors22.com
 mrpdata.net
 mt48.net
@@ -196,6 +198,7 @@ rigill.com
 rkdms.com
 rlcdn.com
 rtactivate.com
+salsify-ecdn.com
 sbgsodufuosmmvsdf.info
 sc-static.net
 seadform.net
@@ -251,6 +254,7 @@ youboranqs02.com
 z0uolej1qnxzub1.info
 zdbb.net
 zenaps.com
+zeronaught.com
 zhctrack.net
 zippyfrog.co
 zononi.com
@@ -689,7 +693,6 @@ christiantop1000.com
 christmalicious.com
 cintnetworks.com
 cityadstrack.com
-clarity.ms
 claritytag.com
 clarium.io
 clarivoy.com
@@ -742,6 +745,7 @@ cmcore.com
 cmmeglobal.com
 cmptch.com
 cnt1.net
+cnwebperformance.biz
 cnxweb.com
 cnzz.com
 cobaltgroup.com
@@ -1644,7 +1648,6 @@ monitis.com
 monitus.net
 monsido.com
 monstat.com
-monu.delivery
 mooseway.com
 mopinion.com
 motrixi.com
@@ -2124,7 +2127,6 @@ salesmanago.pl
 salesviewer.com
 salesviewer.org
 saletrack.co.uk
-salsify-ecdn.com
 san-spr-01.net
 sapha.com
 sas15k01.com
@@ -2779,7 +2781,6 @@ zdtag.com
 zedwhyex.com
 zeerat.com
 zeotap.com
-zeronaught.com
 zesep.com
 zeustechnology.com
 zoomanalytics.co
@@ -5610,6 +5611,7 @@ data.woosmap.com
 data2.gosquared.com
 datadog-service.mvfglobal.com
 demandmedia.s3.amazonaws.com
+dep.hmgroup.com
 deprecated-custom-domains.b-cdn.net
 detect.ergebnis-dienst.de
 dfanalytics.dealerfire.com
