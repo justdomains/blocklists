@@ -620,6 +620,7 @@ brilig.com
 brilliantcollector.com
 britepool.com
 bronto.com
+browser-intake-datadoghq.eu
 browser-statistik.de
 browser-update.org
 bstn-14-ma.com
@@ -7536,6 +7537,7 @@ oneid.mmstat.com
 drfdisvc.walmart.com
 event.evtm.53.com
 w-profiling.simplii.com
+cdn1.skrill.com
 d276.ourmidland.com
 d810.mysanantonio.com
 eventbus.intuit.com
