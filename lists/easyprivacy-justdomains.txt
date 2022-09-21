@@ -131,6 +131,7 @@ innerskinresearch.com
 insigit.com
 instantfox.co
 intelligenceretarget.com
+intellimizeio.com
 irs01.com
 jcpclick.com
 k5a.io
@@ -2538,6 +2539,7 @@ tubemogul.com
 tuinfra.com
 tunnl.com
 turn.com
+tvsquared.com
 twcount.com
 tynt.com
 tyxo.com
@@ -7459,6 +7461,10 @@ telemetry.tradingview.com
 tgt.maep.ibm.com
 tilanalytics.timesinternet.in
 tms.eharmony.ca
+tms.hft.everyplate.com
+tms.hft.factor75.com
+tms.hft.greenchef.com
+tms.hft.hellofresh.com
 tongji.meizu.com
 top.wn.com
 touch.myntra.com
@@ -19812,6 +19818,7 @@ oxifwsabgd.nzz.ch
 pi.technik3d.com
 powercount.jswelt.de
 px.derstandard.at
+pxc.otto.de
 rem-track.bild.de
 responder.wt.heise.de
 rt.bunte.de
