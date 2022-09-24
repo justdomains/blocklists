@@ -164,6 +164,7 @@ niblewren.co
 nigelmidnightrappers.com
 nimblebird.co
 nimbleswan.io
+notifpush.com
 ns1p.net
 nxakpj4ac8gkd53.info
 omappapi.com
@@ -2838,7 +2839,6 @@ mypush.online
 najva.com
 nativesubscribe.pro
 notifadz.com
-notifpush.com
 notify.solutions
 notix.io
 olgtex.com
@@ -3876,6 +3876,7 @@ pluckytaste.com
 pocketfaucet.com
 pocketsonic.com
 podiumpresto.com
+pointlesshour.com
 pointlesspocket.com
 pointlessrifle.com
 poisedpig.com
@@ -5444,6 +5445,7 @@ api.autopilothq.com
 api.carrottrack.io
 api.wipmania.com
 apple.www.letv.com
+applicationinsights.azure.com
 argos.citruserve.com
 ariane.abtasty.com
 attributiontrackingga.googlecode.com
@@ -7439,6 +7441,7 @@ t.imgur.com
 t.indeed.com
 t.jossandmain.com
 t.kck.st
+t.nypost.com
 t.perigold.com
 t.regionsjob.com
 t.wayfair.ca
