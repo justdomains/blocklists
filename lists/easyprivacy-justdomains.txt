@@ -40,7 +40,6 @@ brontops.com
 btloader.com
 bydst.com
 cadsuta.net
-captcha-display.com
 casalemedia.com
 cbdatatracker.com
 cdnhst.xyz
@@ -4494,6 +4493,7 @@ ingenioustech.biz
 intelliad.de
 interaktiv-net.de
 interhits.de
+ioam.de
 ipcount.net
 iyi.net
 kctag.net
@@ -5760,7 +5760,6 @@ invite.leanlab.co
 invitejs.trustpilot.com
 ipapi.tmbi.com
 iq.sixaxisllc.com
-irqs.ioam.de
 jas.indeednps.com
 javascriptcounter.appspot.com
 jill.fc.yahoo.com
@@ -5845,7 +5844,6 @@ mmi.bemobile.ua
 mon.domdog.io
 monorail-edge.shopifysvc.com
 mormont.gamer-network.net
-mqs.ioam.de
 ms-trackingapi.phenompeople.com
 mts.mansion.com
 mv.treehousei.com
@@ -6450,7 +6448,6 @@ ddrvjrfwnij7n.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
-dn0qt3r0xannq.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 dnxlgencstz4.cloudfront.net
@@ -20189,6 +20186,7 @@ tm.uol.com.br
 tracker.bt.uol.com.br
 tracker.publico.pt
 analytics.okazii.ro
+views.b1tv.ro
 views.romaniatv.net
 ad7.bigmir.net
 affilate.hh.ru
