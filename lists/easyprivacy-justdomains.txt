@@ -225,6 +225,7 @@ tagcachestaticx.com
 takingbackjuly.com
 tatpek.com
 test.vast
+testingmetriksbre.ru
 the-ozone-project.com
 thefontzone.com
 tncid.app
@@ -1852,6 +1853,7 @@ pbstck.com
 pclicks.com
 pcspeedup.com
 pdbu.net
+pendo.io
 percentmobile.com
 perf-serving.com
 perfalytics.com
@@ -5078,6 +5080,7 @@ clearsale.com.br
 denakop.com
 engageya.com
 enviou.com.br
+hariken.co
 orquideassp.com
 percycle.com
 pmweb.com.br
@@ -5800,6 +5803,7 @@ log.reformal.ru
 log.seekda.com
 logger.snackly.co
 logging.carambo.la
+logging.cmp-resources.link
 logging.je-apps.com
 logging.prefixbox.com
 loggingapi.spingo.com
@@ -5833,6 +5837,7 @@ metrics.beyondwords.io
 metrics.brightcove.com
 metrics.ctvdigital.net
 metrics.kmsmep.com
+metrics.mdstrm.com
 metrics.pico.tools
 metrics.readme.io
 metrics.scribblelive.com
@@ -6865,6 +6870,8 @@ hitserver.ibope.com.br
 lurker.olx.com.br
 nctrk.abmail.com.br
 neurotrack.neurolake.io
+segmentor.snowfox-ai.com
+tags.cmp.tail.digital
 track.e7r.com.br
 track.noddus.com
 tracker.tolvnow.com
@@ -6949,6 +6956,7 @@ datanoticias.prisasd.com
 g-stats.openhost.es
 hits.eluniversal.com.mx
 mtm.qdqmedia.com
+pub.servidoresge.com
 reachandrich.antevenio.com
 sp.vtex.com
 stats.administrarweb.es
@@ -19798,6 +19806,7 @@ click.alternate.de
 cmp2.channelpartner.de
 cpx.golem.de
 cpxl.golem.de
+d.rp-online.de
 dv.chemie.de
 ens.luzernerzeitung.ch
 ens.tagblatt.ch
