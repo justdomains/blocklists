@@ -7,7 +7,9 @@
 520886.xyz
 8672.site
 a1webstrategy.com
+aaxwall.com
 acsbapp.com
+act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 adbp.online
 adcontroll.com
 adnext.co
@@ -5371,6 +5373,7 @@ analytics.foresee.com
 analytics.formstack.com
 analytics.google.com
 analytics.groupe-seb.com
+analytics.growthphysics.com
 analytics.gvim.mobi
 analytics.humanautomation.ai
 analytics.inform.com
@@ -5448,7 +5451,6 @@ api.autopilothq.com
 api.carrottrack.io
 api.wipmania.com
 apple.www.letv.com
-applicationinsights.azure.com
 argos.citruserve.com
 ariane.abtasty.com
 attributiontrackingga.googlecode.com
@@ -5769,6 +5771,7 @@ jly24aw29n5m-a.akamaihd.net
 k.keyade.com
 k.streamrail.com
 kalstats.kaltura.com
+kinesis.eu-west-1.amazonaws.com
 kiwi.mdldb.net
 klm-ea.jscrambler.com
 l.fairblocker.com
@@ -7218,6 +7221,7 @@ logx.optimizely.com
 ma.redhat.com
 marketing.alibaba.com
 marketing.dropbox.com
+mcc-tags.cisco.com
 mcs-va.tiktokv.com
 metrics.audius.co
 metrics.bangbros.com
@@ -7228,6 +7232,7 @@ metrics.spkt.io
 metrics.syf.com
 metricsishare.rediff.com
 miao.baidu.com
+mktcs.cloudapps.cisco.com
 mms.cnn.com
 mon.us.tiktokv.com
 monitor.channel4.com
